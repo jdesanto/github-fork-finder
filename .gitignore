@@ -1,0 +1,31 @@
+# Large data files (users provide their own)
+github_links.txt
+
+# Database files - UNCOMMENT to keep your database private
+# By default, database is committed for collaboration
+# fork_database.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.txt
+test_*.json
