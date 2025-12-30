@@ -16,16 +16,25 @@ This toolkit helps you:
 
 ### Get a GitHub Token (Recommended)
 
-A GitHub token significantly increases your API rate limit from **60 requests/hour** to **5,000 requests/hour**.
+A GitHub token authenticates your requests to the GitHub API and significantly increases your rate limit from **60 requests/hour** (unauthenticated) to **5,000 requests/hour** (authenticated).
 
 **Steps to create a token:**
 
-1. Go to GitHub Settings → [Developer settings → Personal access tokens → Tokens (classic)](https://github.com/settings/tokens)
-2. Click **"Generate new token"** → **"Generate new token (classic)"**
-3. Give it a descriptive name (e.g., "Fork Finder")
-4. **No special permissions needed** - you can leave all checkboxes unchecked (public data access only)
-5. Click **"Generate token"** at the bottom
-6. Copy the token (starts with `ghp_...`) - you won't see it again!
+1. Go to [GitHub.com](https://github.com) and click your profile picture (top right) → **Settings**
+2. Scroll down the left sidebar and click **Developer settings** (at the bottom)
+3. In the left sidebar, click **Personal access tokens** → **Tokens (classic)**
+4. Click **"Generate new token"** → **"Generate new token (classic)"**
+5. Give it a descriptive name (e.g., "Fork Finder Tool")
+6. **Set expiration**: Choose expiration period (or "No expiration" for convenience)
+7. **Scopes**: **Leave all checkboxes UNCHECKED** - no permissions needed for public data
+8. Click **"Generate token"** at the bottom
+9. **Copy the token immediately** (starts with `ghp_...`) - you won't be able to see it again!
+
+**What this token does:**
+- Authenticates you to GitHub's API for reading **any** public repository data
+- Does NOT grant access to private repositories (no scopes selected)
+- Does NOT grant permission to modify anything
+- Simply identifies your API requests to get a higher rate limit
 
 **Using your token:**
 
@@ -38,7 +47,7 @@ export GITHUB_TOKEN=ghp_your_token_here
 python3 find_forks.py your_links.txt -t $GITHUB_TOKEN
 ```
 
-**Note:** The token only needs read access to public repositories. Never share your token or commit it to git.
+**Security note:** Never share your token or commit it to git. Treat it like a password.
 
 ## 🚀 Quick Start
 
