@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2018-07-23T10:57:23Z",
+        "description": "NodeJS worker built for 0x Tracker which extracts 0x fill events from the Ethereum blockchain and persists them to MongoDB",
+        "forks_count": 21,
+        "full_name": "0xTracker/0x-event-extractor",
+        "html_url": "https://github.com/0xTracker/0x-event-extractor",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T07:14:53.432663Z",
+        "name": "0x-event-extractor",
+        "owner": "0xTracker",
+        "parent": null,
+        "source": null,
+        "stars": 34,
+        "updated_at": "2025-11-28T18:34:33Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.114478Z",
+  "orphaned_forks": [],
+  "repo_name": "0x-event-extractor",
+  "total_repos": 1
+}

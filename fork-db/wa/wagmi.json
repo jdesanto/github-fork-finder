@@ -1,0 +1,63 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xAsimetriq/wagmi",
+        "html_url": "https://github.com/0xAsimetriq/wagmi",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:02:58.589820Z",
+        "name": "wagmi",
+        "owner": "0xAsimetriq",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-09-08T12:55:51Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xPunkItachi/wagmi",
+        "html_url": "https://github.com/0xPunkItachi/wagmi",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T06:58:40.379455Z",
+        "name": "wagmi",
+        "owner": "0xPunkItachi",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-09-10T09:57:19Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.563071Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2023-06-15T08:19:12Z",
+      "description": "React Hooks for Ethereum",
+      "forks_count": 0,
+      "full_name": "0xartcro/wagmi",
+      "html_url": "https://github.com/art-eth/wagmi",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T07:25:40.089092Z",
+      "name": "wagmi",
+      "owner": "art-eth",
+      "parent": "wevm/wagmi",
+      "source": "wevm/wagmi",
+      "stars": 0,
+      "updated_at": "2023-06-15T08:19:12Z"
+    }
+  ],
+  "repo_name": "wagmi",
+  "total_repos": 3
+}

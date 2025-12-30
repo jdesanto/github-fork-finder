@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [
+        {
+          "created_at": "2023-10-05T19:35:24Z",
+          "description": "Sequence, smart contract wallet for EVM chains",
+          "forks_count": 1,
+          "full_name": "0xETHengineer/wallet-contracts",
+          "html_url": "https://github.com/0xETHengineer/wallet-contracts",
+          "is_fork": true,
+          "language": null,
+          "last_checked": "2025-12-30T06:16:54.525760Z",
+          "name": "wallet-contracts",
+          "owner": "0xETHengineer",
+          "parent": "0xsequence/wallet-contracts",
+          "source": "0xsequence/wallet-contracts",
+          "stars": 0,
+          "updated_at": "2023-10-05T19:35:24Z"
+        }
+      ],
+      "root": {
+        "created_at": "2020-03-25T18:18:23Z",
+        "description": "Sequence, smart contract wallet for EVM chains",
+        "forks_count": 59,
+        "full_name": "0xsequence/wallet-contracts",
+        "html_url": "https://github.com/0xsequence/wallet-contracts",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T08:25:14.321506Z",
+        "name": "wallet-contracts",
+        "owner": "0xsequence",
+        "parent": null,
+        "source": null,
+        "stars": 211,
+        "updated_at": "2025-12-11T12:07:38Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.673914Z",
+  "orphaned_forks": [],
+  "repo_name": "wallet-contracts",
+  "total_repos": 2
+}

@@ -1,0 +1,65 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xLosko/crypto",
+        "html_url": "https://github.com/0xLosko/crypto",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:33:15.934955Z",
+        "name": "crypto",
+        "owner": "0xLosko",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-10-03T21:30:22Z",
+        "description": "Cryptographic primitives used in Polygon Miden rollup",
+        "forks_count": 76,
+        "full_name": "0xMiden/crypto",
+        "html_url": "https://github.com/0xMiden/crypto",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T06:37:05.689109Z",
+        "name": "crypto",
+        "owner": "0xMiden",
+        "parent": null,
+        "source": null,
+        "stars": 129,
+        "updated_at": "2025-12-29T19:25:02Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-10-03T21:30:22Z",
+        "description": "Cryptographic primitives used in Polygon Miden rollup",
+        "forks_count": 76,
+        "full_name": "0xPolygonMiden/crypto",
+        "html_url": "https://github.com/0xMiden/crypto",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T06:52:54.023555Z",
+        "name": "crypto",
+        "owner": "0xMiden",
+        "parent": null,
+        "source": null,
+        "stars": 129,
+        "updated_at": "2025-12-29T19:25:02Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.805759Z",
+  "orphaned_forks": [],
+  "repo_name": "crypto",
+  "total_repos": 3
+}

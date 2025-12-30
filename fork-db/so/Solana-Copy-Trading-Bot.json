@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-01-09T09:45:06Z",
+        "description": "A high-performance Solana copy trading bot built on Jito Stream parsing, designed to monitor, analyze, and replicate the trades of top-performing wallets in real time with near-zero latency.  The system parses Jito’s MEV-optimized transaction streams to detect swaps, liquidity events, and strategy signals before finalization, enabling fast and accu",
+        "forks_count": 8,
+        "full_name": "0xRustElite1111/solana-copy-trading-bot",
+        "html_url": "https://github.com/0xRustElite1111/solana-copy-trading-bot",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T07:01:39.010792Z",
+        "name": "solana-copy-trading-bot",
+        "owner": "0xRustElite1111",
+        "parent": null,
+        "source": null,
+        "stars": 21,
+        "updated_at": "2025-12-15T17:34:22Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.019812Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-copy-trading-bot",
+  "total_repos": 1
+}

@@ -1,0 +1,46 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-08-05T07:14:37Z",
+        "description": "⚡ Raydium Bundler 🤖 batches multiple Raydium swap transactions 🔄 into a single atomic transaction ⚡ or a private Jito bundle 🔒 to Solana validators 🌐. It provides front-running protection ⚔️, faster execution ⏱️, guaranteed order ✅, lower slippage 📉, and multiple market actions in one 💹.",
+        "forks_count": 0,
+        "full_name": "0xFortuneRust/solana-raydium-bundler",
+        "html_url": "https://github.com/0xFortuneRust/solana-raydium-bundler",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T06:21:02.074987Z",
+        "name": "solana-raydium-bundler",
+        "owner": "0xFortuneRust",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-09-09T17:42:18Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-08-05T16:18:26Z",
+        "description": "A Raydium Bundler is a script or bot that bundles multiple Raydium swap transactions into a single atomic transaction or sends them as a Jito bundle to Solana validators.  This gives like front-running protection, faster execution, guaranteed order, lower slippage and multiple market actions in one.",
+        "forks_count": 0,
+        "full_name": "0xRustPro/solana-raydium-bundler",
+        "html_url": "https://github.com/0xRustPro/solana-raydium-bundler",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:02:56.868301Z",
+        "name": "solana-raydium-bundler",
+        "owner": "0xRustPro",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2025-10-12T16:58:33Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.706989Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-raydium-bundler",
+  "total_repos": 2
+}

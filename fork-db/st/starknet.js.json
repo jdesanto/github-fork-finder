@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2021-10-18T14:48:18Z",
+        "description": "JavaScript library for StarkNet",
+        "forks_count": 831,
+        "full_name": "0xs34n/starknet.js",
+        "html_url": "https://github.com/starknet-io/starknet.js",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T08:20:29.021863Z",
+        "name": "starknet.js",
+        "owner": "starknet-io",
+        "parent": null,
+        "source": null,
+        "stars": 1262,
+        "updated_at": "2025-12-29T04:51:24Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.744979Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2023-09-10T16:26:01Z",
+      "description": "JavaScript library for StarkNet",
+      "forks_count": 0,
+      "full_name": "0xHashstack/starknet.js",
+      "html_url": "https://github.com/0xHashstack/starknet.js",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:31.887264Z",
+      "name": "starknet.js",
+      "owner": "0xHashstack",
+      "parent": "starknet-io/starknet.js",
+      "source": "starknet-io/starknet.js",
+      "stars": 0,
+      "updated_at": "2023-09-10T16:26:01Z"
+    }
+  ],
+  "repo_name": "starknet.js",
+  "total_repos": 2
+}

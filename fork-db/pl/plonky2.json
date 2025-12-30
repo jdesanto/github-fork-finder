@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [
+        {
+          "created_at": "2023-06-20T04:56:30Z",
+          "description": null,
+          "forks_count": 2,
+          "full_name": "0xmozak/plonky2",
+          "html_url": "https://github.com/0xmozak/plonky2",
+          "is_fork": true,
+          "language": "Rust",
+          "last_checked": "2025-12-30T08:07:42.231429Z",
+          "name": "plonky2",
+          "owner": "0xmozak",
+          "parent": "0xPolygonZero/plonky2",
+          "source": "0xPolygonZero/plonky2",
+          "stars": 0,
+          "updated_at": "2024-07-18T09:45:14Z"
+        }
+      ],
+      "root": {
+        "created_at": "2021-02-17T22:36:59Z",
+        "description": null,
+        "forks_count": 342,
+        "full_name": "0xPolygonZero/plonky2",
+        "html_url": "https://github.com/0xPolygonZero/plonky2",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T06:53:54.667775Z",
+        "name": "plonky2",
+        "owner": "0xPolygonZero",
+        "parent": null,
+        "source": null,
+        "stars": 845,
+        "updated_at": "2025-12-15T15:25:58Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.952688Z",
+  "orphaned_forks": [],
+  "repo_name": "plonky2",
+  "total_repos": 2
+}

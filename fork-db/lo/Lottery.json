@@ -3,25 +3,44 @@
     {
       "forks": [],
       "root": {
-        "created_at": "2025-03-17T21:37:30Z",
-        "description": "Decentralized Multiplayer Lottery Smart Contract  A blockchain-based lottery system enabling multiple players to participate trustlessly. Built with Solidity.",
+        "created_at": "2024-05-09T17:26:48Z",
+        "description": null,
         "forks_count": 0,
-        "full_name": "0x-Mrcoder/Lottery",
-        "html_url": "https://github.com/0x-Mrcoder/Lottery",
+        "full_name": "0xodus-eth/lottery",
+        "html_url": "https://github.com/0xodus-eth/lottery",
         "is_fork": false,
         "language": "Solidity",
-        "last_checked": "2025-12-30T05:34:14.956060Z",
-        "name": "Lottery",
-        "owner": "0x-Mrcoder",
+        "last_checked": "2025-12-30T08:12:28.690651Z",
+        "name": "lottery",
+        "owner": "0xodus-eth",
         "parent": null,
         "source": null,
-        "stars": 1,
-        "updated_at": "2025-09-06T07:10:52Z"
+        "stars": 0,
+        "updated_at": "2024-05-15T14:03:27Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-10-22T06:41:42Z",
+        "description": "无需看管自动开奖的彩票智能合约",
+        "forks_count": 0,
+        "full_name": "1181406961/lottery",
+        "html_url": "https://github.com/mingzhou-chen/lottery",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T08:44:04.250699Z",
+        "name": "lottery",
+        "owner": "mingzhou-chen",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2023-01-08T04:04:40Z"
       }
     }
   ],
-  "last_updated": "2025-12-30T05:47:58.354970Z",
+  "last_updated": "2025-12-30T16:57:34.554361Z",
   "orphaned_forks": [],
-  "repo_name": "Lottery",
-  "total_repos": 1
+  "repo_name": "lottery",
+  "total_repos": 2
 }

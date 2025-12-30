@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-08-14T17:00:34Z",
+        "description": "LaserStream is Helius’s ultra-low-latency Solana data stream (gRPC) that delivers new blocks, transactions, slots, and account updates directly from leaders, with replay and auto-reconnect. In short: it’s a very fast firehose for on-chain events.",
+        "forks_count": 1,
+        "full_name": "0xRustPro/solana-pumpfun-laserstream-sniper-bot",
+        "html_url": "https://github.com/0xRustPro/solana-pumpfun-laserstream-sniper-bot",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T07:02:45.972712Z",
+        "name": "solana-pumpfun-laserstream-sniper-bot",
+        "owner": "0xRustPro",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2025-12-17T17:37:29Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.028155Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-pumpfun-laserstream-sniper-bot",
+  "total_repos": 1
+}

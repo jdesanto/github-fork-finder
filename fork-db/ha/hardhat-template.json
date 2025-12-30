@@ -1,0 +1,63 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-09-16T20:58:08Z",
+        "description": null,
+        "forks_count": 1,
+        "full_name": "0xBriz/hardhat-template",
+        "html_url": "https://github.com/0xBriz/hardhat-template",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T06:07:39.702237Z",
+        "name": "hardhat-template",
+        "owner": "0xBriz",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2022-09-16T20:58:45Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2023-08-28T09:30:34Z",
+        "description": "Quick init hardhat project template",
+        "forks_count": 0,
+        "full_name": "0xLennyy/hardhat-template",
+        "html_url": "https://github.com/lenny0x/hardhat-template",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T06:33:02.627060Z",
+        "name": "hardhat-template",
+        "owner": "lenny0x",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2023-08-28T09:32:06Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.604677Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2022-08-04T16:41:04Z",
+      "description": "Hardhat-based template for developing Solidity smart contracts",
+      "forks_count": 0,
+      "full_name": "0xJuancito/hardhat-template",
+      "html_url": "https://github.com/0xJuancito/hardhat-template",
+      "is_fork": true,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:29:17.451005Z",
+      "name": "hardhat-template",
+      "owner": "0xJuancito",
+      "parent": "PaulRBerg/hardhat-template",
+      "source": "PaulRBerg/hardhat-template",
+      "stars": 0,
+      "updated_at": "2022-08-16T20:26:47Z"
+    }
+  ],
+  "repo_name": "hardhat-template",
+  "total_repos": 3
+}

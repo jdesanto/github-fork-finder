@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [
+        {
+          "created_at": "2024-04-23T01:42:25Z",
+          "description": null,
+          "forks_count": 0,
+          "full_name": "0xmozak/zk_evm",
+          "html_url": "https://github.com/0xmozak/zk_evm",
+          "is_fork": true,
+          "language": null,
+          "last_checked": "2025-12-30T08:08:00.696818Z",
+          "name": "zk_evm",
+          "owner": "0xmozak",
+          "parent": "0xPolygonZero/zk_evm",
+          "source": "0xPolygonZero/zk_evm",
+          "stars": 1,
+          "updated_at": "2024-07-28T19:52:04Z"
+        }
+      ],
+      "root": {
+        "created_at": "2024-02-08T18:42:36Z",
+        "description": null,
+        "forks_count": 44,
+        "full_name": "0xPolygonZero/zk_evm",
+        "html_url": "https://github.com/0xPolygonZero/zk_evm",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T06:54:21.152742Z",
+        "name": "zk_evm",
+        "owner": "0xPolygonZero",
+        "parent": null,
+        "source": null,
+        "stars": 99,
+        "updated_at": "2025-12-15T08:37:11Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.956506Z",
+  "orphaned_forks": [],
+  "repo_name": "zk_evm",
+  "total_repos": 2
+}

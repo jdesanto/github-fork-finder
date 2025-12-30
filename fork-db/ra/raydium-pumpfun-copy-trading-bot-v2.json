@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-02-19T09:59:23Z",
+        "description": "Copy trading bot can track special wallets, analyze transactions, and then copy tx to the next block on raydium & pump.fun. This copy trading bot uses geyser RPC to analyze the tx. The next version of copy trading bot will be based on Rust.",
+        "forks_count": 5,
+        "full_name": "2-rust/raydium-pumpfun-copy-trading-bot-v2",
+        "html_url": "https://github.com/2-rust/raydium-pumpfun-copy-trading-bot-v2",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T09:08:14.235031Z",
+        "name": "raydium-pumpfun-copy-trading-bot-v2",
+        "owner": "2-rust",
+        "parent": null,
+        "source": null,
+        "stars": 6,
+        "updated_at": "2025-03-28T19:09:30Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.994025Z",
+  "orphaned_forks": [],
+  "repo_name": "raydium-pumpfun-copy-trading-bot-v2",
+  "total_repos": 1
+}

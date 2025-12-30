@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-05-02T12:34:41Z",
+        "description": "Test on fixing a Convex vulnerability where a non existing rewards token can lock LP tokens",
+        "forks_count": 0,
+        "full_name": "0xbiel/ConvexFix",
+        "html_url": "https://github.com/0xbiel/ConvexFix",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T07:29:24.055477Z",
+        "name": "ConvexFix",
+        "owner": "0xbiel",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-10-31T13:43:06Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.221980Z",
+  "orphaned_forks": [],
+  "repo_name": "ConvexFix",
+  "total_repos": 1
+}

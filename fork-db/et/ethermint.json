@@ -1,6 +1,6 @@
 {
   "fork_families": [],
-  "last_updated": "2025-12-30T05:47:58.323825Z",
+  "last_updated": "2025-12-30T16:57:33.475035Z",
   "orphaned_forks": [
     {
       "created_at": "2024-05-01T14:49:26Z",
@@ -33,8 +33,56 @@
       "source": "evmos/ethermint",
       "stars": 1,
       "updated_at": "2025-09-20T11:44:27Z"
+    },
+    {
+      "created_at": "2024-10-12T06:59:55Z",
+      "description": "Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains",
+      "forks_count": 2,
+      "full_name": "0xPellNetwork/ethermint",
+      "html_url": "https://github.com/0xPellNetwork/ethermint",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:39.038429Z",
+      "name": "ethermint",
+      "owner": "0xPellNetwork",
+      "parent": "b-harvest/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 1,
+      "updated_at": "2025-03-22T20:19:36Z"
+    },
+    {
+      "created_at": "2022-10-13T09:52:39Z",
+      "description": "Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains",
+      "forks_count": 0,
+      "full_name": "0xbala-k/ethermint",
+      "html_url": "https://github.com/0xbala-k/ethermint",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T07:27:26.454927Z",
+      "name": "ethermint",
+      "owner": "0xbala-k",
+      "parent": "evmos/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 0,
+      "updated_at": "2023-01-02T12:19:16Z"
+    },
+    {
+      "created_at": "2022-10-13T09:52:39Z",
+      "description": "Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains",
+      "forks_count": 0,
+      "full_name": "0xmuralik/ethermint",
+      "html_url": "https://github.com/0xbala-k/ethermint",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T08:08:27.380198Z",
+      "name": "ethermint",
+      "owner": "0xbala-k",
+      "parent": "evmos/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 0,
+      "updated_at": "2023-01-02T12:19:16Z"
     }
   ],
   "repo_name": "ethermint",
-  "total_repos": 2
+  "total_repos": 5
 }

@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-04-02T12:49:16Z",
+        "description": "BasicNft: A simple ERC721 NFT contract that allows users to mint unique NFTs with a tokenURI. Each NFT represents a \"Doggie\" and is assigned a unique token ID.  MoodNft: An ERC721 NFT that dynamically changes its appearance based on mood. Owners can flip between \"HAPPY\" and \"SAD\" states, with the metadata updating accordingly.",
+        "forks_count": 0,
+        "full_name": "0xcuriosity/NFTcontracts",
+        "html_url": "https://github.com/0xcuriosity/NFTcontracts",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T07:37:13.404226Z",
+        "name": "NFTcontracts",
+        "owner": "0xcuriosity",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-04-02T12:54:03Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.282483Z",
+  "orphaned_forks": [],
+  "repo_name": "NFTcontracts",
+  "total_repos": 1
+}

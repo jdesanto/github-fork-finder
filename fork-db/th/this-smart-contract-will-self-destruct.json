@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-11-20T02:38:08Z",
+        "description": "This contract will self destruct if it goes 24h without receiving a message",
+        "forks_count": 0,
+        "full_name": "0xkarmacoma/this-smart-contract-will-self-destruct",
+        "html_url": "https://github.com/0xkarmacoma/this-smart-contract-will-self-destruct",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T07:58:26.549582Z",
+        "name": "this-smart-contract-will-self-destruct",
+        "owner": "0xkarmacoma",
+        "parent": null,
+        "source": null,
+        "stars": 3,
+        "updated_at": "2023-03-10T07:31:42Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.443119Z",
+  "orphaned_forks": [],
+  "repo_name": "this-smart-contract-will-self-destruct",
+  "total_repos": 1
+}

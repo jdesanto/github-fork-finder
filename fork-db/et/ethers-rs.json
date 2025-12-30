@@ -1,0 +1,111 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xlucius/ethers-rs",
+        "html_url": "https://github.com/0xlucius/ethers-rs",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T08:03:23.229132Z",
+        "name": "ethers-rs",
+        "owner": "0xlucius",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "1saf/ethers-rs",
+        "html_url": "https://github.com/1saf/ethers-rs",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T09:06:46.629735Z",
+        "name": "ethers-rs",
+        "owner": "1saf",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.173322Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-07-15T02:28:53Z",
+      "description": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+      "forks_count": 1,
+      "full_name": "0xalpharush/ethers-rs",
+      "html_url": "https://github.com/0xalpharush/ethers-rs",
+      "is_fork": true,
+      "language": "Rust",
+      "last_checked": "2025-12-30T07:22:42.746648Z",
+      "name": "ethers-rs",
+      "owner": "0xalpharush",
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 1,
+      "updated_at": "2021-11-13T19:07:19Z"
+    },
+    {
+      "created_at": "2021-10-07T12:51:27Z",
+      "description": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+      "forks_count": 0,
+      "full_name": "0xdewy/ethers-rs",
+      "html_url": "https://github.com/0xdewy/ethers-rs",
+      "is_fork": true,
+      "language": "Rust",
+      "last_checked": "2025-12-30T07:41:12.129628Z",
+      "name": "ethers-rs",
+      "owner": "0xdewy",
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "updated_at": "2021-10-07T12:57:30Z"
+    },
+    {
+      "created_at": "2020-10-02T02:36:22Z",
+      "description": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+      "forks_count": 0,
+      "full_name": "0xftrestech/ethers-rs",
+      "html_url": "https://github.com/0xftrestech/ethers-rs",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T07:47:03.885758Z",
+      "name": "ethers-rs",
+      "owner": "0xftrestech",
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "updated_at": "2020-10-02T02:36:23Z"
+    },
+    {
+      "created_at": "2023-05-16T12:53:11Z",
+      "description": "Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+      "forks_count": 1,
+      "full_name": "1inch/ethers-rs",
+      "html_url": "https://github.com/1inch/ethers-rs",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T09:02:46.571935Z",
+      "name": "ethers-rs",
+      "owner": "1inch",
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "updated_at": "2025-02-14T12:18:40Z"
+    }
+  ],
+  "repo_name": "ethers-rs",
+  "total_repos": 6
+}

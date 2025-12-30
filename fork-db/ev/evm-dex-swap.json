@@ -1,0 +1,46 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-09-11T03:31:03Z",
+        "description": "token exchange on a decentralized exchange running on EVM-compatible blockchains. It relies on AMM smart contracts and liquidity pools instead of centralized order books.",
+        "forks_count": 18,
+        "full_name": "0xRustPro/evm-dex-swap",
+        "html_url": "https://github.com/0xRustPro/evm-dex-swap",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:01:50.111829Z",
+        "name": "evm-dex-swap",
+        "owner": "0xRustPro",
+        "parent": null,
+        "source": null,
+        "stars": 21,
+        "updated_at": "2025-12-15T14:00:39Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-06-15T16:49:25Z",
+        "description": "EVM Dex Swap: token swaps, staking, and liquidity pool management",
+        "forks_count": 16,
+        "full_name": "0xTan1319/evm-dex-swap",
+        "html_url": "https://github.com/0xMurk/evm-dex-swap",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:13:12.964716Z",
+        "name": "evm-dex-swap",
+        "owner": "0xMurk",
+        "parent": null,
+        "source": null,
+        "stars": 7,
+        "updated_at": "2025-10-08T16:51:15Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.021431Z",
+  "orphaned_forks": [],
+  "repo_name": "evm-dex-swap",
+  "total_repos": 2
+}

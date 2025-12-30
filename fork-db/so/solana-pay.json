@@ -1,0 +1,60 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-09-09T13:11:20Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xahzam/solana-pay",
+        "html_url": "https://github.com/0xahzam/solana-pay",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:20:57.905337Z",
+        "name": "solana-pay",
+        "owner": "0xahzam",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-09-09T13:23:16Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.888213Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2022-04-07T08:32:21Z",
+      "description": "A new standard for decentralized payments.",
+      "forks_count": 0,
+      "full_name": "0xNyk/solana-pay",
+      "html_url": "https://github.com/0xNyk/solana-pay",
+      "is_fork": true,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:43:50.870950Z",
+      "name": "solana-pay",
+      "owner": "0xNyk",
+      "parent": "solana-foundation/solana-pay",
+      "source": "solana-foundation/solana-pay",
+      "stars": 0,
+      "updated_at": "2025-07-02T18:34:38Z"
+    },
+    {
+      "created_at": "2022-06-30T17:33:57Z",
+      "description": "A new standard for decentralized payments.",
+      "forks_count": 0,
+      "full_name": "0xchill/solana-pay",
+      "html_url": "https://github.com/0xchill/solana-pay",
+      "is_fork": true,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T07:34:37.603826Z",
+      "name": "solana-pay",
+      "owner": "0xchill",
+      "parent": "solana-foundation/solana-pay",
+      "source": "solana-foundation/solana-pay",
+      "stars": 0,
+      "updated_at": "2025-07-02T18:34:42Z"
+    }
+  ],
+  "repo_name": "solana-pay",
+  "total_repos": 3
+}

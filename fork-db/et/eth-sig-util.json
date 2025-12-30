@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xProject/eth-sig-util",
+        "html_url": "https://github.com/0xProject/eth-sig-util",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:57:03.190047Z",
+        "name": "eth-sig-util",
+        "owner": "0xProject",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.978142Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2019-09-10T12:33:51Z",
+      "description": "A collection of functions for signing and verifying data with Ethereum keys.",
+      "forks_count": 1,
+      "full_name": "1inch/eth-sig-util",
+      "html_url": "https://github.com/1inch/eth-sig-util",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:44.948487Z",
+      "name": "eth-sig-util",
+      "owner": "1inch",
+      "parent": "MetaMask/eth-sig-util",
+      "source": "MetaMask/eth-sig-util",
+      "stars": 0,
+      "updated_at": "2025-02-14T12:18:46Z"
+    }
+  ],
+  "repo_name": "eth-sig-util",
+  "total_repos": 2
+}

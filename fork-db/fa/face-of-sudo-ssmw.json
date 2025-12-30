@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-08-21T17:37:53Z",
+        "description": "A method for natively minting NFTs inside a SudoSwap pool. The contract uses a \"SudoSwap Mint Wrapper\" to trigger a true \"mint\" when the wrapper token is minted from the pool.",
+        "forks_count": 1,
+        "full_name": "0xpaulio/face-of-sudo-ssmw",
+        "html_url": "https://github.com/0xpaulio/face-of-sudo-ssmw",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T08:14:40.453540Z",
+        "name": "face-of-sudo-ssmw",
+        "owner": "0xpaulio",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2022-08-21T17:56:40Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.573057Z",
+  "orphaned_forks": [],
+  "repo_name": "face-of-sudo-ssmw",
+  "total_repos": 1
+}

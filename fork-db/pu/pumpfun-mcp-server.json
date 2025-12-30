@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-06-02T11:47:41Z",
+        "description": "PumpFun MCP (Model Context Provider) Server 是一个基于大模型的上下文处理服务，用于处理和生成 PumpFun 协议相关的交易和查询请求。它作为智能中间层，能够理解用户意图并转换为相应的链上操作。",
+        "forks_count": 0,
+        "full_name": "1500256797/pumpfun-mcp-server",
+        "html_url": "https://github.com/1500256797/pumpfun-mcp-server",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T08:49:01.890096Z",
+        "name": "pumpfun-mcp-server",
+        "owner": "1500256797",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2025-09-12T16:47:54Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.848925Z",
+  "orphaned_forks": [],
+  "repo_name": "pumpfun-mcp-server",
+  "total_repos": 1
+}

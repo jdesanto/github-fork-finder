@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-02-27T11:20:58Z",
+        "description": "Contract that should allow one to proof the ownership of a particular NFT without disclosing the token or the address of the owner. Made possible by zkSNARKs",
+        "forks_count": 0,
+        "full_name": "0xruhum/zk-nft-auth",
+        "html_url": "https://github.com/0xruhum/zk-nft-auth",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T08:20:17.799367Z",
+        "name": "zk-nft-auth",
+        "owner": "0xruhum",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2022-04-09T00:19:13Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.636060Z",
+  "orphaned_forks": [],
+  "repo_name": "zk-nft-auth",
+  "total_repos": 1
+}

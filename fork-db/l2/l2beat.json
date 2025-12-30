@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xPolygonHermez/l2beat",
+        "html_url": "https://github.com/0xPolygonHermez/l2beat",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:50:27.123919Z",
+        "name": "l2beat",
+        "owner": "0xPolygonHermez",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.729893Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-07-02T05:47:56Z",
+      "description": null,
+      "forks_count": 0,
+      "full_name": "0xHabitat/l2beat",
+      "html_url": "https://github.com/0xHabitat/l2beat",
+      "is_fork": true,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:23:47.052341Z",
+      "name": "l2beat",
+      "owner": "0xHabitat",
+      "parent": "l2beat/l2beat",
+      "source": "l2beat/l2beat",
+      "stars": 0,
+      "updated_at": "2022-01-03T13:45:39Z"
+    }
+  ],
+  "repo_name": "l2beat",
+  "total_repos": 2
+}

@@ -1,0 +1,65 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-10-03T20:09:22Z",
+        "description": "Implementation of Uniswap's CFMM.",
+        "forks_count": 0,
+        "full_name": "0xcrust/swap",
+        "html_url": "https://github.com/0xcrust/torrent",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T07:36:25.896937Z",
+        "name": "torrent",
+        "owner": "0xcrust",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-12-02T03:27:59Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-08-27T01:42:27Z",
+        "description": null,
+        "forks_count": 1,
+        "full_name": "0xfred/swap",
+        "html_url": "https://github.com/shaungtoos/swap",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:46:45.768318Z",
+        "name": "swap",
+        "owner": "shaungtoos",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2023-03-07T04:24:04Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-10-31T14:46:41Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xnicholas/swap",
+        "html_url": "https://github.com/0xnicholas/swap",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T08:10:13.379617Z",
+        "name": "swap",
+        "owner": "0xnicholas",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-11-29T11:31:28Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.276730Z",
+  "orphaned_forks": [],
+  "repo_name": "swap",
+  "total_repos": 3
+}

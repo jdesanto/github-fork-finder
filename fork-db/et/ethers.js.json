@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xProject/ethers.js",
+        "html_url": "https://github.com/0xProject/ethers.js",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:57:04.695383Z",
+        "name": "ethers.js",
+        "owner": "0xProject",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.978900Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2019-05-14T18:03:11Z",
+      "description": "Complete Ethereum wallet implementation and library in JavaScript.",
+      "forks_count": 1,
+      "full_name": "1inch/ethers.js",
+      "html_url": "https://github.com/1inch/ethers.js",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:48.152838Z",
+      "name": "ethers.js",
+      "owner": "1inch",
+      "parent": "ethers-io/ethers.js",
+      "source": "ethers-io/ethers.js",
+      "stars": 0,
+      "updated_at": "2025-02-13T16:39:37Z"
+    }
+  ],
+  "repo_name": "ethers.js",
+  "total_repos": 2
+}

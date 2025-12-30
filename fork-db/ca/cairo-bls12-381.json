@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-02-18T00:18:55Z",
+        "description": "BLS12-381 written in cairo. Uses many non-whitelisted hints and is thus not StarkNet ready. Performance improvements forthcoming.",
+        "forks_count": 1,
+        "full_name": "0xNonCents/cairo-bls12-381",
+        "html_url": "https://github.com/0xNonCents/cairo-bls12-381",
+        "is_fork": false,
+        "language": "Cairo",
+        "last_checked": "2025-12-30T06:41:59.782112Z",
+        "name": "cairo-bls12-381",
+        "owner": "0xNonCents",
+        "parent": null,
+        "source": null,
+        "stars": 5,
+        "updated_at": "2022-10-17T05:16:15Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.874217Z",
+  "orphaned_forks": [],
+  "repo_name": "cairo-bls12-381",
+  "total_repos": 1
+}

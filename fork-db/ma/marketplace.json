@@ -1,0 +1,95 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-12-03T05:27:17Z",
+        "description": "Frontend for marketplace that integrates ZkPay",
+        "forks_count": 1,
+        "full_name": "0xZkPay/marketplace",
+        "html_url": "https://github.com/0xZkPay/marketplace",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T07:19:03.329800Z",
+        "name": "marketplace",
+        "owner": "0xZkPay",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2022-12-03T12:43:59Z"
+      }
+    },
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2023-01-02T20:58:03Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "15-Lippo/marketplace",
+        "html_url": "https://github.com/15-Lippo/marketplace",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T08:48:19.592128Z",
+        "name": "marketplace",
+        "owner": "15-Lippo",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2023-01-02T20:58:35Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.586390Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-07-12T23:17:37Z",
+      "description": "🏛️ Decentraland's NFT Marketplace",
+      "forks_count": 0,
+      "full_name": "0xBlockchainx0/marketplace",
+      "html_url": "https://github.com/0xBlockchainx0/marketplace",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:05:36.267707Z",
+      "name": "marketplace",
+      "owner": "0xBlockchainx0",
+      "parent": "decentraland/marketplace",
+      "source": "decentraland/marketplace",
+      "stars": 0,
+      "updated_at": "2021-07-12T23:17:38Z"
+    },
+    {
+      "created_at": "2022-03-31T21:21:14Z",
+      "description": "No-Code Solana NFT Marketplaces",
+      "forks_count": 0,
+      "full_name": "0xNyk/marketplace",
+      "html_url": "https://github.com/0xNyk/marketplace",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:43:17.395378Z",
+      "name": "marketplace",
+      "owner": "0xNyk",
+      "parent": "holaplex/marketplace",
+      "source": "holaplex/marketplace",
+      "stars": 0,
+      "updated_at": "2022-03-30T15:38:06Z"
+    },
+    {
+      "created_at": "2021-02-25T03:14:31Z",
+      "description": "Ethereum Marketplace Step-by-Step Tutorial",
+      "forks_count": 0,
+      "full_name": "1Blackdiamondsc/marketplace",
+      "html_url": "https://github.com/1Blackdiamondsc/marketplace",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T08:52:28.821904Z",
+      "name": "marketplace",
+      "owner": "1Blackdiamondsc",
+      "parent": "dappuniversity/marketplace",
+      "source": "dappuniversity/marketplace",
+      "stars": 1,
+      "updated_at": "2021-07-02T14:54:07Z"
+    }
+  ],
+  "repo_name": "marketplace",
+  "total_repos": 5
+}

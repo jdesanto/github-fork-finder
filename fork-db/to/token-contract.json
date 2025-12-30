@@ -1,0 +1,60 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-03-23T11:45:18Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xaldric/token-contract",
+        "html_url": "https://github.com/aldric9/token-contract",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:21:58.210461Z",
+        "name": "token-contract",
+        "owner": "aldric9",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-03-23T11:46:01Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.168078Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2022-02-19T18:34:33Z",
+      "description": "Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts",
+      "forks_count": 0,
+      "full_name": "0xknstntn/token-contract",
+      "html_url": "https://github.com/0xknstntn/token-contract",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T08:00:05.238795Z",
+      "name": "token-contract",
+      "owner": "0xknstntn",
+      "parent": "ton-blockchain/token-contract",
+      "source": "ton-blockchain/token-contract",
+      "stars": 1,
+      "updated_at": "2022-03-13T15:45:41Z"
+    },
+    {
+      "created_at": "2023-03-13T14:48:19Z",
+      "description": "Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts",
+      "forks_count": 1,
+      "full_name": "1ton-labs/token-contract",
+      "html_url": "https://github.com/1ton-labs/token-contract",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T09:07:24.095253Z",
+      "name": "token-contract",
+      "owner": "1ton-labs",
+      "parent": "ton-blockchain/token-contract",
+      "source": "ton-blockchain/token-contract",
+      "stars": 3,
+      "updated_at": "2023-03-17T13:19:12Z"
+    }
+  ],
+  "repo_name": "token-contract",
+  "total_repos": 3
+}

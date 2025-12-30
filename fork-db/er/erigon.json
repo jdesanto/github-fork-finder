@@ -1,0 +1,56 @@
+{
+  "fork_families": [],
+  "last_updated": "2025-12-30T16:57:33.920376Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-07-31T07:41:27Z",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "forks_count": 27,
+      "full_name": "0xPolygon/erigon",
+      "html_url": "https://github.com/0xPolygon/erigon",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:47:55.056704Z",
+      "name": "erigon",
+      "owner": "0xPolygon",
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 24,
+      "updated_at": "2025-12-26T12:04:12Z"
+    },
+    {
+      "created_at": "2023-11-29T11:22:05Z",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "forks_count": 71,
+      "full_name": "0xPolygonHermez/erigon",
+      "html_url": "https://github.com/0xPolygon/cdk-erigon",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:50:21.123171Z",
+      "name": "cdk-erigon",
+      "owner": "0xPolygon",
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 53,
+      "updated_at": "2025-12-16T16:41:34Z"
+    },
+    {
+      "created_at": "2023-12-06T21:50:06Z",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "forks_count": 4,
+      "full_name": "0xPolygonZero/erigon",
+      "html_url": "https://github.com/0xPolygonZero/erigon",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:53:32.810909Z",
+      "name": "erigon",
+      "owner": "0xPolygonZero",
+      "parent": "cffls/erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "updated_at": "2024-11-07T00:47:41Z"
+    }
+  ],
+  "repo_name": "erigon",
+  "total_repos": 3
+}

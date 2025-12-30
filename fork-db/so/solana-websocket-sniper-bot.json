@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-08-04T19:39:27Z",
+        "description": "A real-time Solana sniper bot using WebSocket subscriptions to instantly detect and buy newly launched tokens.  This is a high-speed Solana sniper bot built with TypeScript (or Rust/Go/Python), using WebSocket subscriptions to monitor real-time blockchain events like token creation, liquidity addition, or bonding curve launches.",
+        "forks_count": 0,
+        "full_name": "0xRustPro/solana-websocket-sniper-bot",
+        "html_url": "https://github.com/0xRustPro/solana-websocket-sniper-bot",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:03:11.945096Z",
+        "name": "solana-websocket-sniper-bot",
+        "owner": "0xRustPro",
+        "parent": null,
+        "source": null,
+        "stars": 6,
+        "updated_at": "2025-12-17T17:37:28Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.031553Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-websocket-sniper-bot",
+  "total_repos": 1
+}

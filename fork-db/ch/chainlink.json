@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-10-09T02:55:57Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "2045matrix/chainlink",
+        "html_url": "https://github.com/2045matrix/chainlink",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T09:09:40.708452Z",
+        "name": "chainlink",
+        "owner": "2045matrix",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2022-10-09T02:56:12Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.952630Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2019-11-11T21:17:39Z",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "forks_count": 3,
+      "full_name": "1inch/chainlink",
+      "html_url": "https://github.com/1inch/chainlink",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:02:14.622804Z",
+      "name": "chainlink",
+      "owner": "1inch",
+      "parent": "smartcontractkit/chainlink",
+      "source": "smartcontractkit/chainlink",
+      "stars": 1,
+      "updated_at": "2025-02-12T13:40:25Z"
+    }
+  ],
+  "repo_name": "chainlink",
+  "total_repos": 2
+}

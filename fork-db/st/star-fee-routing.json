@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-09-29T14:35:45Z",
+        "description": "A standalone Anchor module to create & manage a DAMM v2 honorary LP position (PDA-owned) that accrues quote token fees. Includes a permissionless 24h crank to claim fees, distributing them pro-rata to investors based on locked amounts (via Streamflow), with the remainder routed to the creator wallet.",
+        "forks_count": 0,
+        "full_name": "0xfave/star-fee-routing",
+        "html_url": "https://github.com/0xfave/star-fee-routing",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T07:44:55.239970Z",
+        "name": "star-fee-routing",
+        "owner": "0xfave",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-10-16T03:21:34Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.339775Z",
+  "orphaned_forks": [],
+  "repo_name": "star-fee-routing",
+  "total_repos": 1
+}

@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-10-15T13:40:32Z",
+        "description": "Escrow Smart Contract is a decentralized Solidity-based contract that facilitates secure transactions between a buyer and a seller, with the option for dispute resolution via a designated arbitrator. It ensures funds are locked in escrow until the transaction is finalized or resolved.",
+        "forks_count": 0,
+        "full_name": "0xNaxzerrr/escrow-contract",
+        "html_url": "https://github.com/0xNaxzerrr/escrow-contract",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T06:39:31.128642Z",
+        "name": "escrow-contract",
+        "owner": "0xNaxzerrr",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-12-28T09:57:27Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.852719Z",
+  "orphaned_forks": [],
+  "repo_name": "escrow-contract",
+  "total_repos": 1
+}

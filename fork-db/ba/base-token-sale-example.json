@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-10-10T16:14:36Z",
+        "description": "Deploys a token contract to Base chain and creates an Uniswap liquidity pool so you can trade your token on Uniswap (Base). Uses Infura gas API for the best deployment fees.",
+        "forks_count": 0,
+        "full_name": "0xatillaa/base-token-sale-example",
+        "html_url": "https://github.com/0xatillaa/base-token-sale-example",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T07:26:20.345746Z",
+        "name": "base-token-sale-example",
+        "owner": "0xatillaa",
+        "parent": null,
+        "source": null,
+        "stars": 2,
+        "updated_at": "2025-01-15T09:19:19Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.199238Z",
+  "orphaned_forks": [],
+  "repo_name": "base-token-sale-example",
+  "total_repos": 1
+}

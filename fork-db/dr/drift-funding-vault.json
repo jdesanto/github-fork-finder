@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-04-08T02:55:10Z",
+        "description": "Capture Drift Funding Rates On-Chain -- if the funding rate is negative (longs get paid) then the vault opens a new long and captures the funding rate",
+        "forks_count": 1,
+        "full_name": "0xNineteen/drift-funding-vault",
+        "html_url": "https://github.com/0xNineteen/drift-funding-vault",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T06:41:42.722681Z",
+        "name": "drift-funding-vault",
+        "owner": "0xNineteen",
+        "parent": null,
+        "source": null,
+        "stars": 10,
+        "updated_at": "2025-11-18T20:35:11Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.872152Z",
+  "orphaned_forks": [],
+  "repo_name": "drift-funding-vault",
+  "total_repos": 1
+}

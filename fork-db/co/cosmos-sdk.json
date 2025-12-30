@@ -39,8 +39,41 @@
       }
     }
   ],
-  "last_updated": "2025-12-30T05:47:58.323656Z",
-  "orphaned_forks": [],
+  "last_updated": "2025-12-30T16:57:33.351645Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2025-01-02T09:18:52Z",
+      "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:",
+      "forks_count": 4,
+      "full_name": "0xPellNetwork/cosmos-sdk",
+      "html_url": "https://github.com/0xPellNetwork/cosmos-sdk",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:34.549184Z",
+      "name": "cosmos-sdk",
+      "owner": "0xPellNetwork",
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 2,
+      "updated_at": "2025-01-03T09:53:18Z"
+    },
+    {
+      "created_at": "2023-12-04T18:46:22Z",
+      "description": ":chains: A Framework for Building High Value Public Blockchains :sparkles:",
+      "forks_count": 4,
+      "full_name": "0xPolygon/cosmos-sdk",
+      "html_url": "https://github.com/0xPolygon/cosmos-sdk",
+      "is_fork": true,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:47:41.009222Z",
+      "name": "cosmos-sdk",
+      "owner": "0xPolygon",
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 1,
+      "updated_at": "2025-12-12T11:35:30Z"
+    }
+  ],
   "repo_name": "cosmos-sdk",
-  "total_repos": 2
+  "total_repos": 4
 }

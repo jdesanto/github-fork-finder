@@ -1,24 +1,27 @@
 {
-  "fork_families": [],
-  "last_updated": "2025-12-30T05:47:58.401636Z",
-  "orphaned_forks": [
+  "fork_families": [
     {
-      "created_at": "2021-07-13T10:46:27Z",
-      "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.",
-      "forks_count": 0,
-      "full_name": "0x3bfc/hardhat",
-      "html_url": "https://github.com/0x3bfc/hardhat",
-      "is_fork": true,
-      "language": "TypeScript",
-      "last_checked": "2025-12-30T05:40:00.676158Z",
-      "name": "hardhat",
-      "owner": "0x3bfc",
-      "parent": "NomicFoundation/hardhat",
-      "source": "NomicFoundation/hardhat",
-      "stars": 0,
-      "updated_at": "2024-01-17T12:28:25Z"
+      "forks": [],
+      "root": {
+        "created_at": "2024-02-16T23:55:54Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xQuasark/HardHat",
+        "html_url": "https://github.com/0xQuasark/HardHat",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T06:58:45.108033Z",
+        "name": "HardHat",
+        "owner": "0xQuasark",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2024-06-06T03:52:22Z"
+      }
     }
   ],
-  "repo_name": "hardhat",
+  "last_updated": "2025-12-30T16:57:33.997602Z",
+  "orphaned_forks": [],
+  "repo_name": "HardHat",
   "total_repos": 1
 }

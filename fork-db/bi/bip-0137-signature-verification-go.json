@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-03-15T09:34:09Z",
+        "description": "simple example which verifies a bip 0137 signature in golang with a pubkey or address, message, and signature generator",
+        "forks_count": 1,
+        "full_name": "0xSero/bip-0137-signature-verification-go",
+        "html_url": "https://github.com/0xSero/bip-0137-signature-verification-go",
+        "is_fork": false,
+        "language": "Go",
+        "last_checked": "2025-12-30T07:06:17.021660Z",
+        "name": "bip-0137-signature-verification-go",
+        "owner": "0xSero",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-03-16T10:42:44Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.053985Z",
+  "orphaned_forks": [],
+  "repo_name": "bip-0137-signature-verification-go",
+  "total_repos": 1
+}

@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-03-10T04:06:09Z",
+        "description": "Using ERC721 libraries from OpenZeppelin, this contract mints the .anon domains as NFTs, visible on compatible NFT marketplaces (e.g. OpenSea).  The NFT is generated as an SVG, with the newly minted domain string embedded in the image.",
+        "forks_count": 0,
+        "full_name": "0xSmartCrypto/anon-domains",
+        "html_url": "https://github.com/0xSmartCrypto/anon-domains",
+        "is_fork": false,
+        "language": "Solidity",
+        "last_checked": "2025-12-30T07:07:29.910888Z",
+        "name": "anon-domains",
+        "owner": "0xSmartCrypto",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2022-03-20T17:34:54Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.063711Z",
+  "orphaned_forks": [],
+  "repo_name": "anon-domains",
+  "total_repos": 1
+}

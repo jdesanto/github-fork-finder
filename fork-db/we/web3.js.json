@@ -1,0 +1,76 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": null,
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xProject/web3.js",
+        "html_url": "https://github.com/0xProject/web3.js",
+        "is_fork": false,
+        "language": null,
+        "last_checked": "2025-12-30T06:58:03.359380Z",
+        "name": "web3.js",
+        "owner": "0xProject",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": null
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.745694Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-06-19T13:44:17Z",
+      "description": "Ethereum JavaScript API",
+      "forks_count": 0,
+      "full_name": "0xHashstack/web3.js",
+      "html_url": "https://github.com/0xHashstack/web3.js",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:35.540239Z",
+      "name": "web3.js",
+      "owner": "0xHashstack",
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 0,
+      "updated_at": "2021-06-19T13:44:19Z"
+    },
+    {
+      "created_at": "2018-06-10T20:15:12Z",
+      "description": "Ethereum JavaScript API",
+      "forks_count": 1,
+      "full_name": "0xcert/web3.js",
+      "html_url": "https://github.com/0xcert/web3.js",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T07:34:25.498526Z",
+      "name": "web3.js",
+      "owner": "0xcert",
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 1,
+      "updated_at": "2023-12-02T08:42:53Z"
+    },
+    {
+      "created_at": "2019-06-22T20:28:12Z",
+      "description": "Ethereum JavaScript API",
+      "forks_count": 2,
+      "full_name": "1inch/web3.js",
+      "html_url": "https://github.com/1inch/web3.js",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:05:01.309957Z",
+      "name": "web3.js",
+      "owner": "1inch",
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 1,
+      "updated_at": "2025-02-13T15:45:00Z"
+    }
+  ],
+  "repo_name": "web3.js",
+  "total_repos": 4
+}

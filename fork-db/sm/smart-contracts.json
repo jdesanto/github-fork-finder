@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2021-07-30T18:58:03Z",
+        "description": null,
+        "forks_count": 2,
+        "full_name": "1000Blocks-space/smart-contracts",
+        "html_url": "https://github.com/1000Blocks-space/smart-contracts",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T08:39:29.114131Z",
+        "name": "smart-contracts",
+        "owner": "1000Blocks-space",
+        "parent": null,
+        "source": null,
+        "stars": 2,
+        "updated_at": "2022-12-19T11:50:43Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.770473Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2020-04-05T11:03:29Z",
+      "description": "Main smart contracts for Kyber Network, including the main platform contract, reserve contracts etc.",
+      "forks_count": 1,
+      "full_name": "2key/smart-contracts",
+      "html_url": "https://github.com/2key/smart-contracts",
+      "is_fork": true,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:17:33.736266Z",
+      "name": "smart-contracts",
+      "owner": "2key",
+      "parent": "KyberNetwork/smart-contracts",
+      "source": "KyberNetwork/smart-contracts",
+      "stars": 0,
+      "updated_at": "2020-07-07T15:31:56Z"
+    }
+  ],
+  "repo_name": "smart-contracts",
+  "total_repos": 2
+}

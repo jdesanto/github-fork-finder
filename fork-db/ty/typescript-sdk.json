@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-12-28T13:58:03Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xPikapool/typescript-sdk",
+        "html_url": "https://github.com/0xPikapool/typescript-sdk",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T06:46:44.930723Z",
+        "name": "typescript-sdk",
+        "owner": "0xPikapool",
+        "parent": null,
+        "source": null,
+        "stars": 1,
+        "updated_at": "2023-03-30T22:30:07Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.912409Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-09-23T09:39:44Z",
+      "description": "The Orca SDK contains a set of simple to use APIs to allow developers to integrate with the Orca exchange platform.",
+      "forks_count": 0,
+      "full_name": "0xalexbai/typescript-sdk",
+      "html_url": "https://github.com/0xalexbai/typescript-sdk",
+      "is_fork": true,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T07:22:15.128981Z",
+      "name": "typescript-sdk",
+      "owner": "0xalexbai",
+      "parent": "orca-so/typescript-sdk",
+      "source": "orca-so/typescript-sdk",
+      "stars": 1,
+      "updated_at": "2023-01-21T04:16:18Z"
+    }
+  ],
+  "repo_name": "typescript-sdk",
+  "total_repos": 2
+}

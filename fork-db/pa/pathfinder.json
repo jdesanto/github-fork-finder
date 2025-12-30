@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-09-14T02:36:22Z",
+        "description": null,
+        "forks_count": 0,
+        "full_name": "0xcolley/pathfinder",
+        "html_url": "https://github.com/0xcolley/pathfinder",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T07:35:21.423204Z",
+        "name": "pathfinder",
+        "owner": "0xcolley",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-10-12T15:42:15Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.070927Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2023-04-21T09:15:04Z",
+      "description": "A Starknet full node written in Rust",
+      "forks_count": 0,
+      "full_name": "0xSpaceShard/pathfinder",
+      "html_url": "https://github.com/0xSpaceShard/pathfinder",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T07:08:29.853509Z",
+      "name": "pathfinder",
+      "owner": "0xSpaceShard",
+      "parent": "eqlabs/pathfinder",
+      "source": "eqlabs/pathfinder",
+      "stars": 1,
+      "updated_at": "2023-06-07T03:43:42Z"
+    }
+  ],
+  "repo_name": "pathfinder",
+  "total_repos": 2
+}

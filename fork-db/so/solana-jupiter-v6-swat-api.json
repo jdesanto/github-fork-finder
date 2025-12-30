@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-08-06T16:17:33Z",
+        "description": "The Jupiter v6 Swap API on Solana finds the best multi-hop route across DEXs to swap tokens efficiently. Using Jito Bundle, multiple swap instructions can be combined into a single high-priority transaction, reducing fees and speeding up execution.",
+        "forks_count": 0,
+        "full_name": "0xRustPro/solana-jupiter-v6-swat-api",
+        "html_url": "https://github.com/0xRustPro/solana-jupiter-v6-swat-api",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:02:34.896911Z",
+        "name": "solana-jupiter-v6-swat-api",
+        "owner": "0xRustPro",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-10-08T19:37:44Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.026695Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-jupiter-v6-swat-api",
+  "total_repos": 1
+}

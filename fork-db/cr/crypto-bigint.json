@@ -1,0 +1,40 @@
+{
+  "fork_families": [],
+  "last_updated": "2025-12-30T16:57:33.919306Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2024-11-14T20:50:23Z",
+      "description": "Cryptography-oriented big integer library with constant-time, stack-allocated (no_std-friendly) implementations of modern formulas",
+      "forks_count": 0,
+      "full_name": "0xPolygon/crypto-bigint",
+      "html_url": "https://github.com/0xPolygon/crypto-bigint",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:47:45.894759Z",
+      "name": "crypto-bigint",
+      "owner": "0xPolygon",
+      "parent": "RustCrypto/crypto-bigint",
+      "source": "RustCrypto/crypto-bigint",
+      "stars": 1,
+      "updated_at": "2025-06-27T11:18:51Z"
+    },
+    {
+      "created_at": "2024-11-14T20:50:23Z",
+      "description": "Cryptography-oriented big integer library with constant-time, stack-allocated (no_std-friendly) implementations of modern formulas",
+      "forks_count": 0,
+      "full_name": "0xPolygonHermez/crypto-bigint",
+      "html_url": "https://github.com/0xPolygon/crypto-bigint",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:19.142176Z",
+      "name": "crypto-bigint",
+      "owner": "0xPolygon",
+      "parent": "RustCrypto/crypto-bigint",
+      "source": "RustCrypto/crypto-bigint",
+      "stars": 1,
+      "updated_at": "2025-06-27T11:18:51Z"
+    }
+  ],
+  "repo_name": "crypto-bigint",
+  "total_repos": 2
+}

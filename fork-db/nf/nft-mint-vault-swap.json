@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2024-07-14T23:09:15Z",
+        "description": "Develop a program using Anchor that mints a collection of NFTs. Create a vault to lock these NFTs, where the rent for locking is returned to the protocol rather than the user. Create a swap program using Native Rust or Anchor that allows users to exchange $SOL for NFTs. ",
+        "forks_count": 0,
+        "full_name": "0xGRAV3R/nft-mint-vault-swap",
+        "html_url": "https://github.com/0xGRAV3R/nft-mint-vault-swap",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T06:21:33.648298Z",
+        "name": "nft-mint-vault-swap",
+        "owner": "0xGRAV3R",
+        "parent": null,
+        "source": null,
+        "stars": 2,
+        "updated_at": "2024-08-07T22:57:38Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:33.712577Z",
+  "orphaned_forks": [],
+  "repo_name": "nft-mint-vault-swap",
+  "total_repos": 1
+}

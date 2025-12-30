@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-10-17T03:32:10Z",
+        "description": "High-performance Rust proxy that abstracts Solana DEX complexities into simple APIs, enabling developers to build trading bots in any language without blockchain expertise. Provides sub-millisecond event streaming and transaction execution for PumpFun, PumpSwap, and Meteora DAMM V2",
+        "forks_count": 5,
+        "full_name": "0xfnzero/trading-bot-proxy",
+        "html_url": "https://github.com/0xfnzero/trading-bot-proxy",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T07:46:04.624854Z",
+        "name": "trading-bot-proxy",
+        "owner": "0xfnzero",
+        "parent": null,
+        "source": null,
+        "stars": 16,
+        "updated_at": "2025-11-17T05:42:16Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T16:57:34.348667Z",
+  "orphaned_forks": [],
+  "repo_name": "trading-bot-proxy",
+  "total_repos": 1
+}
