@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-06-12T00:28:22Z",
+        "description": "Solana TSS Wallet API A RESTful API for managing a Solana Threshold Signature Scheme (TSS) wallet, built with Rust and the Poem framework. Converted from a CLI to simplify interaction, with fixed crate versions for stability. Supports key generation, balance checks, airdrops, single-key transactions, and multi-party aggregated signing on Solana.",
+        "forks_count": 1,
+        "full_name": "0x-pankaj/solana-tss-cli-to-api",
+        "html_url": "https://github.com/0x-pankaj/Solana-TSS",
+        "is_fork": false,
+        "language": "Rust",
+        "last_checked": "2025-12-30T05:35:38.600041Z",
+        "name": "Solana-TSS",
+        "owner": "0x-pankaj",
+        "parent": null,
+        "source": null,
+        "stars": 4,
+        "updated_at": "2025-11-09T23:24:23Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T05:47:58.367304Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-tss-cli-to-api",
+  "total_repos": 1
+}

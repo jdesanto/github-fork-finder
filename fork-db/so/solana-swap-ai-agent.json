@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-09-25T02:52:47Z",
+        "description": "The bot monitors the Telegram Calls group of your choice. Once inside, every time a buy alert is sent in the group for a specific coin, the bot retrieves its Market Cap and contract address. If both meet the established conditions, the purchase is executed automatically.",
+        "forks_count": 0,
+        "full_name": "0x01athena/solana-swap-ai-agent",
+        "html_url": "https://github.com/0x01athena/solana-swap-ai-agent",
+        "is_fork": false,
+        "language": "Python",
+        "last_checked": "2025-12-30T05:37:07.069914Z",
+        "name": "solana-swap-ai-agent",
+        "owner": "0x01athena",
+        "parent": null,
+        "source": null,
+        "stars": 2,
+        "updated_at": "2025-11-17T06:58:40Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T05:47:58.379218Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-swap-ai-agent",
+  "total_repos": 1
+}

@@ -1,0 +1,24 @@
+{
+  "fork_families": [],
+  "last_updated": "2025-12-30T05:47:58.249658Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2025-03-20T15:57:24Z",
+      "description": "Run one node as part of Distributed Validator Cluster using docker-compose, with Lido-specific exit mechanisms",
+      "forks_count": 0,
+      "full_name": "01node/lido-charon-distributed-validator-node",
+      "html_url": "https://github.com/01node/lido-charon-distributed-validator-node",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T05:20:46.585206Z",
+      "name": "lido-charon-distributed-validator-node",
+      "owner": "01node",
+      "parent": "ObolNetwork/lido-charon-distributed-validator-node",
+      "source": "ObolNetwork/charon-distributed-validator-node",
+      "stars": 0,
+      "updated_at": "2025-03-20T15:57:25Z"
+    }
+  ],
+  "repo_name": "lido-charon-distributed-validator-node",
+  "total_repos": 1
+}

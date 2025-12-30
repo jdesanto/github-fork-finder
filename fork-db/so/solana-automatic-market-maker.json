@@ -1,0 +1,27 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2025-09-26T06:18:26Z",
+        "description": "This project implements a basic Automated Market Maker (AMM) on Solana, similar to Uniswap v2. The AMM allows users to create liquidity pools between token pairs, provide liquidity, and swap tokens through the available liquidity. The project consists of an Anchor program deployed on Solana Devnet and a Next.js frontend for user interaction.",
+        "forks_count": 0,
+        "full_name": "0x01athena/solana-automatic-market-maker",
+        "html_url": "https://github.com/0x01athena/solana-automatic-market-maker",
+        "is_fork": false,
+        "language": "TypeScript",
+        "last_checked": "2025-12-30T05:36:59.892151Z",
+        "name": "solana-automatic-market-maker",
+        "owner": "0x01athena",
+        "parent": null,
+        "source": null,
+        "stars": 0,
+        "updated_at": "2025-09-26T06:25:10Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T05:47:58.378404Z",
+  "orphaned_forks": [],
+  "repo_name": "solana-automatic-market-maker",
+  "total_repos": 1
+}

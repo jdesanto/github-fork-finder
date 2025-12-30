@@ -1,0 +1,44 @@
+{
+  "fork_families": [
+    {
+      "forks": [],
+      "root": {
+        "created_at": "2022-08-12T14:52:30Z",
+        "description": "Arbitrage bot for Uniswap V2 forks and Uniswap V3 [Work in progress]",
+        "forks_count": 3,
+        "full_name": "0x1ea/amm-arbitrageur",
+        "html_url": "https://github.com/0x1ea/amm-arbitrageur",
+        "is_fork": false,
+        "language": "JavaScript",
+        "last_checked": "2025-12-30T05:38:56.119191Z",
+        "name": "amm-arbitrageur",
+        "owner": "0x1ea",
+        "parent": null,
+        "source": null,
+        "stars": 4,
+        "updated_at": "2024-12-05T17:35:49Z"
+      }
+    }
+  ],
+  "last_updated": "2025-12-30T05:47:58.388467Z",
+  "orphaned_forks": [
+    {
+      "created_at": "2021-12-20T12:36:17Z",
+      "description": "An arbitrage bot between Uniswap AMMs",
+      "forks_count": 0,
+      "full_name": "0x1355/amm-arbitrageur",
+      "html_url": "https://github.com/0x1355/amm-arbitrageur",
+      "is_fork": true,
+      "language": null,
+      "last_checked": "2025-12-30T05:38:20.062824Z",
+      "name": "amm-arbitrageur",
+      "owner": "0x1355",
+      "parent": "criptolove/amm-arbitrageur",
+      "source": "paco0x/amm-arbitrageur",
+      "stars": 1,
+      "updated_at": "2022-08-10T22:28:58Z"
+    }
+  ],
+  "repo_name": "amm-arbitrageur",
+  "total_repos": 2
+}
