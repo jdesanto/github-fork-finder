@@ -87,7 +87,7 @@ def parse_github_urls(file_path: str) -> List[str]:
     repos = set()
 
     print(f"Parsing {file_path}...")
-    with open(file_path, 'r') as f:
+    with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
             match = url_pattern.search(line)
             if match:
@@ -103,16 +103,20 @@ def parse_github_urls(file_path: str) -> List[str]:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Build a collaborative database of GitHub forks'
+        description='Fetch GitHub fork data and output to JSON'
     )
     parser.add_argument(
         'input_file',
         help='File containing GitHub URLs (one per line)'
     )
     parser.add_argument(
-        '--db',
-        default='fork_database.json',
-        help='Database file (default: fork_database.json)'
+        '-o', '--output',
+        help='Output JSON file (default: <input_file>_results.json)'
+    )
+    parser.add_argument(
+        '--cache',
+        default='fork-db/',
+        help='Master database to use as cache (default: fork-db/)'
     )
     parser.add_argument(
         '-t', '--token',
@@ -135,24 +139,45 @@ def main():
 
     args = parser.parse_args()
 
-    # Load database
-    print(f"Loading database: {args.db}")
-    db = ForkDatabase(args.db)
+    # Determine output filename
+    if args.output:
+        output_file = args.output
+    else:
+        input_base = Path(args.input_file).stem
+        output_file = f"{input_base}_results.json"
+
+    # Load cache database (read-only)
+    cache_db = None
+    if Path(args.cache).exists():
+        print(f"Loading cache from: {args.cache}")
+        cache_db = ForkDatabase(args.cache)
+        print(f"Cache contains {len(cache_db.repos)} repos")
+    else:
+        print(f"No cache found at {args.cache}, will fetch all repos")
+
+    # Create output database
+    output_db = ForkDatabase(output_file)
 
     # Parse input file
     all_repos = parse_github_urls(args.input_file)
     print(f"Found {len(all_repos)} unique repositories in input file")
 
-    # Check which repos are already in database
-    missing_repos = db.get_missing_repos(all_repos)
-    already_in_db = len(all_repos) - len(missing_repos)
+    # Check cache to see what we already have
+    missing_repos = []
+    cached_repos = []
 
-    print(f"Already in database: {already_in_db}")
+    for repo in all_repos:
+        if cache_db and cache_db.has_repo(repo):
+            # Copy from cache to output
+            output_db.repos[repo] = cache_db.repos[repo]
+            cached_repos.append(repo)
+        else:
+            missing_repos.append(repo)
+
+    print(f"Found in cache: {len(cached_repos)}")
     print(f"Need to fetch: {len(missing_repos)}")
 
-    if not missing_repos:
-        print("\nAll repositories already in database!")
-    else:
+    if missing_repos:
         # Fetch missing repos
         print(f"\nFetching {len(missing_repos)} repositories from GitHub API...")
 
@@ -166,10 +191,10 @@ def main():
             repo_data = client.get_repo_info(owner, repo)
 
             if repo_data:
-                db.add_repo(full_name, repo_data)
+                output_db.add_repo(full_name, repo_data)
             else:
                 # Add a placeholder for not found repos
-                db.add_repo(full_name, {
+                output_db.add_repo(full_name, {
                     'full_name': full_name,
                     'name': repo,
                     'owner': {'login': owner},
@@ -182,14 +207,19 @@ def main():
                 })
 
         print(f"\nCompleted! Made {client.api_calls_made} API calls")
+    else:
+        print("\nAll repositories found in cache!")
 
-    # Save database
-    print("\nSaving database...")
-    db.save()
+    # Rebuild indexes for output database
+    output_db._rebuild_indexes()
+
+    # Save to output file
+    print(f"\nSaving results to {output_file}...")
+    output_db.save()
 
     # Print statistics
-    stats = db.get_stats()
-    print("\n=== Database Statistics ===")
+    stats = output_db.get_stats()
+    print("\n=== Results ===")
     print(f"Total repositories: {stats['total_repos']}")
     print(f"Forks: {stats['total_forks']}")
     print(f"Original repos: {stats['original_repos']}")
@@ -200,18 +230,21 @@ def main():
         for repo, count in stats['top_forked']:
             print(f"  {repo}: {count} forks")
 
+    print(f"\nOutput saved to: {output_file}")
+    print(f"To merge into master database: python3 merge_db.py {args.cache} {output_file}")
+
     # Export if requested
     if args.export or args.export_csv:
-        relationships = db.export_fork_relationships()
+        relationships = output_db.export_fork_relationships()
 
         if args.export:
-            with open(args.export, 'w') as f:
-                json.dump(relationships, f, indent=2)
+            with open(args.export, 'w', encoding='utf-8') as f:
+                json.dump(relationships, f, indent=2, ensure_ascii=False)
             print(f"\nExported {len(relationships)} fork relationships to {args.export}")
 
         if args.export_csv:
             import csv
-            with open(args.export_csv, 'w', newline='') as f:
+            with open(args.export_csv, 'w', encoding='utf-8', newline='') as f:
                 if relationships:
                     writer = csv.DictWriter(f, fieldnames=relationships[0].keys())
                     writer.writeheader()

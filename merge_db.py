@@ -18,13 +18,13 @@ def main():
         epilog="""
 Examples:
   # Merge contributor databases into main database
-  python merge_db.py fork_database.json contributor1.json contributor2.json
+  python merge_db.py fork-db/ contributor1.json contributor2.json
 
-  # Merge and create a new output file
-  python merge_db.py -o merged.json db1.json db2.json db3.json
+  # Merge and create a new output file (directory format)
+  python merge_db.py -o merged.db db1.json db2.json db3.json
 
   # Merge from a directory of databases
-  python merge_db.py -o merged.json databases/*.json
+  python merge_db.py -o merged.db databases/*.json
         """
     )
 

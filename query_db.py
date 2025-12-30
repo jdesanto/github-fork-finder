@@ -157,8 +157,8 @@ Examples:
 
     parser.add_argument(
         '--db',
-        default='fork_database.json',
-        help='Database file (default: fork_database.json)'
+        default='fork-db/',
+        help='Database file or directory (default: fork-db/)'
     )
 
     parser.add_argument(
