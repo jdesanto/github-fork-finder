@@ -4,6 +4,7 @@ Query the fork database to find parents, forks, and relationships.
 """
 
 import argparse
+import random
 import sys
 from fork_database import ForkDatabase
 
@@ -132,6 +133,72 @@ def show_stats(db: ForkDatabase):
     print()
 
 
+def show_random_fork_example(db: ForkDatabase):
+    """Show a random repository that has forks."""
+    # Get all repos that have forks (either in DB or reported by GitHub)
+    repos_with_forks_in_db = []
+    repos_with_fork_count = []
+
+    for full_name, repo in db.repos.items():
+        if not repo['is_fork']:  # Only original repos
+            forks = db.get_forks(full_name)
+            if forks:
+                repos_with_forks_in_db.append((full_name, forks))
+            elif repo.get('forks_count', 0) > 0:
+                repos_with_fork_count.append(full_name)
+
+    # Prefer repos where we have the actual forks in the database
+    if repos_with_forks_in_db:
+        parent_name, forks = random.choice(repos_with_forks_in_db)
+        parent = db.get_repo(parent_name)
+
+        print(f"\n{'='*60}")
+        print(f"🎲 RANDOM FORK EXAMPLE")
+        print(f"{'='*60}")
+        print(f"\n⭐ Original: {parent_name}")
+        print(f"   URL: {parent['html_url']}")
+        print(f"   Stars: ⭐ {parent['stars']}")
+        if parent['description']:
+            desc = parent['description'][:80] + '...' if len(parent['description']) > 80 else parent['description']
+            print(f"   Description: {desc}")
+
+        print(f"\n🌳 Forks ({len(forks)}):")
+        # Show up to 10 forks, sorted by stars
+        fork_data = [(fork, db.get_repo(fork)['stars']) for fork in forks if db.get_repo(fork)]
+        fork_data.sort(key=lambda x: x[1], reverse=True)
+
+        for fork_name, stars in fork_data[:10]:
+            print(f"   └─ {fork_name} (⭐ {stars})")
+
+        if len(forks) > 10:
+            print(f"   ... and {len(forks) - 10} more forks")
+        print()
+
+    elif repos_with_fork_count:
+        # Fall back to showing repos with fork count (but forks not in DB)
+        parent_name = random.choice(repos_with_fork_count)
+        parent = db.get_repo(parent_name)
+
+        print(f"\n{'='*60}")
+        print(f"🎲 RANDOM FORK EXAMPLE")
+        print(f"{'='*60}")
+        print(f"\n⭐ Original: {parent_name}")
+        print(f"   URL: {parent['html_url']}")
+        print(f"   Stars: ⭐ {parent['stars']}")
+        print(f"   Forks: {parent['forks_count']} (not in database)")
+        if parent['description']:
+            desc = parent['description'][:80] + '...' if len(parent['description']) > 80 else parent['description']
+            print(f"   Description: {desc}")
+
+        print(f"\n💡 Note: The {parent['forks_count']} fork(s) of this repo are not in the database.")
+        print(f"   To see fork details, add them to your input list and run find_forks.py")
+        print()
+
+    else:
+        print("❌ No repositories with forks found in database")
+        print()
+
+
 def main():
     parser = argparse.ArgumentParser(
         description='Query the GitHub fork database',
@@ -152,6 +219,9 @@ Examples:
 
   # Show database statistics
   python query_db.py --stats
+
+  # Show a random repo with its forks
+  python query_db.py --random
         """
     )
 
@@ -192,6 +262,12 @@ Examples:
         help='Show database statistics'
     )
 
+    parser.add_argument(
+        '--random',
+        action='store_true',
+        help='Show a random repository with its forks'
+    )
+
     args = parser.parse_args()
 
     # Load database
@@ -208,6 +284,8 @@ Examples:
         list_top_forked(db, args.top)
     elif args.stats:
         show_stats(db)
+    elif args.random:
+        show_random_fork_example(db)
     else:
         parser.print_help()
         print("\n💡 Tip: Use --help to see examples")

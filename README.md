@@ -75,6 +75,9 @@ python3 query_db.py --top 20
 
 # Show database statistics
 python3 query_db.py --stats
+
+# Show a random repo with its forks
+python3 query_db.py --random
 ```
 
 ### 3. Merge Results into Master Database
@@ -246,6 +249,7 @@ Options:
   --search NAME      Search repos by name
   --top N            List top N most forked repos
   --stats            Show database statistics
+  --random           Show a random repo with its forks
 ```
 
 ### merge_db.py
