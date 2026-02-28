@@ -1,9 +1,6 @@
 # Large input files (users provide their own)
 github_links.txt
 
-# Archived intermediate data files
-_archived/
-
 # API token
 .env
 
@@ -13,8 +10,6 @@ _archived/
 
 # Intermediate result files from find_forks.py runs
 *_results.json
-ec.json
-ec2.json
 
 # Python
 __pycache__/
