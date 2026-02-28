@@ -1,0 +1,60 @@
+{
+  "owner": "0xfableorg",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0xFableOrg/0xFable",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 106,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:20:02.234635Z"
+    },
+    {
+      "full_name": "0xFableOrg/account-abstraction",
+      "is_fork": true,
+      "parent": "eth-infinitism/account-abstraction",
+      "source": "eth-infinitism/account-abstraction",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:20:03.841474Z"
+    },
+    {
+      "full_name": "0xFableOrg/roll-op",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "Python",
+      "last_checked": "2025-12-30T06:20:05.313656Z"
+    },
+    {
+      "full_name": "0xFableOrg/seqsy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2025-12-30T06:20:06.711445Z"
+    },
+    {
+      "full_name": "0xFableOrg/vapor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:20:08.149851Z"
+    },
+    {
+      "full_name": "0xFableOrg/xchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": null,
+      "last_checked": "2025-12-30T06:20:09.599763Z"
+    }
+  ]
+}

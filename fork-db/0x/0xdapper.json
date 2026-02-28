@@ -1,0 +1,96 @@
+{
+  "owner": "0xdapper",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0xdapper/aave-unwind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:06.540606Z"
+    },
+    {
+      "full_name": "0xdapper/amm-arbitrageur",
+      "is_fork": true,
+      "parent": "paco0x/amm-arbitrageur",
+      "source": "paco0x/amm-arbitrageur",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T07:38:08.047546Z"
+    },
+    {
+      "full_name": "0xdapper/gear-sniper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:09.417502Z"
+    },
+    {
+      "full_name": "0xdapper/gearbox-CA-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:10.785301Z"
+    },
+    {
+      "full_name": "0xdapper/managed-sentiment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:12.176635Z"
+    },
+    {
+      "full_name": "0xdapper/safe-approvals-guard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:13.564725Z"
+    },
+    {
+      "full_name": "0xdapper/safe-mev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:14.940246Z"
+    },
+    {
+      "full_name": "0xdapper/slither-foundry-repro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:38:16.300816Z"
+    },
+    {
+      "full_name": "0xdapper/yy-smart-contracts",
+      "is_fork": true,
+      "parent": "yieldyak/smart-contracts",
+      "source": "yieldyak/smart-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T07:38:17.777905Z"
+    },
+    {
+      "full_name": "0xdapper/zkevm-bridge-cow-hook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T07:38:19.146476Z"
+    }
+  ]
+}

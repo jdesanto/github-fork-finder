@@ -1,0 +1,195 @@
+{
+  "owner": "0xpellnetwork",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xPellNetwork/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:31.156587Z"
+    },
+    {
+      "full_name": "0xPellNetwork/aegis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:32.610113Z"
+    },
+    {
+      "full_name": "0xPellNetwork/callisto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:32.971831Z"
+    },
+    {
+      "full_name": "0xPellNetwork/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:34.549184Z"
+    },
+    {
+      "full_name": "0xPellNetwork/dvs-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:35.957345Z"
+    },
+    {
+      "full_name": "0xPellNetwork/dvs-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2025-12-30T06:45:37.403100Z"
+    },
+    {
+      "full_name": "0xPellNetwork/ethermint",
+      "is_fork": true,
+      "parent": "b-harvest/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:39.038429Z"
+    },
+    {
+      "full_name": "0xPellNetwork/go-libp2p",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:40.452540Z"
+    },
+    {
+      "full_name": "0xPellNetwork/go-tss",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:41.844388Z"
+    },
+    {
+      "full_name": "0xPellNetwork/golibs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:43.631131Z"
+    },
+    {
+      "full_name": "0xPellNetwork/juno",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:43.983768Z"
+    },
+    {
+      "full_name": "0xPellNetwork/keplr-chain-registry",
+      "is_fork": true,
+      "parent": "chainapsis/keplr-chain-registry",
+      "source": "chainapsis/keplr-chain-registry",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:45.611270Z"
+    },
+    {
+      "full_name": "0xPellNetwork/keystone",
+      "is_fork": true,
+      "parent": "regen-network/keystone",
+      "source": "regen-network/keystone",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:47.135383Z"
+    },
+    {
+      "full_name": "0xPellNetwork/network-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2025-12-30T06:45:48.691201Z"
+    },
+    {
+      "full_name": "0xPellNetwork/pell-emulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:50.079358Z"
+    },
+    {
+      "full_name": "0xPellNetwork/pell_media_kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:45:51.489513Z"
+    },
+    {
+      "full_name": "0xPellNetwork/pellapp-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:52.919507Z"
+    },
+    {
+      "full_name": "0xPellNetwork/pelldvs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:54.346973Z"
+    },
+    {
+      "full_name": "0xPellNetwork/pelldvs-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:55.774441Z"
+    },
+    {
+      "full_name": "0xPellNetwork/restaking-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:45:57.163203Z"
+    },
+    {
+      "full_name": "0xPellNetwork/tss-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:45:58.590567Z"
+    }
+  ]
+}

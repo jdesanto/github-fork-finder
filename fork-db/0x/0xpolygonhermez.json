@@ -1,0 +1,573 @@
+{
+  "owner": "0xpolygonhermez",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xPolygonHermez/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:10.118366Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 1,
+      "language": "Elixir",
+      "last_checked": "2025-12-30T06:50:12.087943Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/cdk-erigon",
+      "is_fork": true,
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 53,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:50:14.039414Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/clabot-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:15.448737Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/code-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:50:17.229092Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/crypto-bigint",
+      "is_fork": true,
+      "parent": "RustCrypto/crypto-bigint",
+      "source": "RustCrypto/crypto-bigint",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:19.142176Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/erigon",
+      "is_fork": true,
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 53,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:50:21.123171Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/ethereum-tests",
+      "is_fork": true,
+      "parent": "ethereum/tests",
+      "source": "ethereum/tests",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:23.101679Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/ethereumjs-monorepo",
+      "is_fork": true,
+      "parent": "ethereumjs/ethereumjs-monorepo",
+      "source": "ethereumjs/ethereumjs-monorepo",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:50:25.044219Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/goldilocks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:26.815543Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/l2beat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:27.123919Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil-fflonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:28.564342Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil-stark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "Circom",
+      "last_checked": "2025-12-30T06:50:30.328158Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil2-compiler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:50:31.778110Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil2-proofman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:33.208223Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil2-proofman-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:34.663086Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil2-stark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:36.111892Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pil2-stark-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:50:37.561898Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pilcom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:50:39.350542Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/pilcom-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:41.087920Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/piltools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:50:42.900473Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:50:44.351583Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/shplonkjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:50:45.888633Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/spearbit-ethereum-state-tests",
+      "is_fork": true,
+      "parent": "spearbit-audits/ethereum-state-tests",
+      "source": "ethereum/tests",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:47.786306Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/stark-recurser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Circom",
+      "last_checked": "2025-12-30T06:50:49.194704Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/tiny-keccak",
+      "is_fork": true,
+      "parent": "debris/tiny-keccak",
+      "source": "debris/tiny-keccak",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:51.137625Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 167,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:50:52.585296Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-eth-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:50:54.094908Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-ethproofs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:50:55.537922Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-patch-reth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:50:57.002632Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-patch-tiny-keccak",
+      "is_fork": true,
+      "parent": "debris/tiny-keccak",
+      "source": "debris/tiny-keccak",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:58.517745Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-rsp-patch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:50:58.800651Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk-testvectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:51:00.217693Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk_eth_block",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:51:02.021852Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zisk_template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:51:03.491162Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkasmcom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Yacc",
+      "last_checked": "2025-12-30T06:51:05.270172Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkasmcom-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:07.029307Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:08.939550Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2025-12-30T06:51:10.742596Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-blob-rom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:12.543806Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-bridge-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 99,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:14.313476Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-bridge-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:51:16.069513Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-commonjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:18.306151Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-comms-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:20.118170Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 310,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:51:21.924764Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-data-streamer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:23.684920Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:24.014709Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-doc-soft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:25.771508Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-ethtx-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:27.524838Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 554,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:29.280022Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-pool-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:31.121622Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 241,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:51:32.966283Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-proverjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 82,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:34.750230Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-rom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 138,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:36.550153Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-rpc-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:36.829766Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-sequence-sender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:38.665802Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-sequencer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:40.481343Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-statedb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:42.231309Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-statedb-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:42.537799Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-storage-rom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Yacc",
+      "last_checked": "2025-12-30T06:51:44.330591Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-synchronizer-l1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:46.150470Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-techdocs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:47.957488Z"
+    },
+    {
+      "full_name": "0xPolygonHermez/zkevm-testvectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:49.709857Z"
+    }
+  ]
+}

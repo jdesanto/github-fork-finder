@@ -1,0 +1,348 @@
+{
+  "owner": "0xpolygonid",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xPolygonID/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:51.093427Z"
+    },
+    {
+      "full_name": "0xPolygonID/anon-aadhaar",
+      "is_fork": true,
+      "parent": "anon-aadhaar/anon-aadhaar",
+      "source": "anon-aadhaar/anon-aadhaar",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:51:52.684746Z"
+    },
+    {
+      "full_name": "0xPolygonID/anon-aadhaar-non-merklized-client",
+      "is_fork": true,
+      "parent": "anon-aadhaar/privado-frontend",
+      "source": "anon-aadhaar/privado-frontend",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:54.253637Z"
+    },
+    {
+      "full_name": "0xPolygonID/aws-nitro-enclaves-nsm-node",
+      "is_fork": true,
+      "parent": "wei-rong-1/aws-nitro-enclaves-nsm-node",
+      "source": "wei-rong-1/aws-nitro-enclaves-nsm-node",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:51:55.808971Z"
+    },
+    {
+      "full_name": "0xPolygonID/c-polygonid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:51:57.187410Z"
+    },
+    {
+      "full_name": "0xPolygonID/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:51:58.617849Z"
+    },
+    {
+      "full_name": "0xPolygonID/credential-proposal-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:00.023334Z"
+    },
+    {
+      "full_name": "0xPolygonID/demo-issuer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:01.436189Z"
+    },
+    {
+      "full_name": "0xPolygonID/did-polygonid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": null,
+      "last_checked": "2025-12-30T06:52:02.864108Z"
+    },
+    {
+      "full_name": "0xPolygonID/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:52:04.260326Z"
+    },
+    {
+      "full_name": "0xPolygonID/driver-did-polygonid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:05.640655Z"
+    },
+    {
+      "full_name": "0xPolygonID/extension-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:52:07.019535Z"
+    },
+    {
+      "full_name": "0xPolygonID/ffiasm",
+      "is_fork": true,
+      "parent": "iden3/ffiasm-old",
+      "source": "iden3/ffiasm-old",
+      "stars": 0,
+      "language": "EJS",
+      "last_checked": "2025-12-30T06:52:08.522271Z"
+    },
+    {
+      "full_name": "0xPolygonID/go-circuit-external",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:09.994885Z"
+    },
+    {
+      "full_name": "0xPolygonID/id-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:52:11.722844Z"
+    },
+    {
+      "full_name": "0xPolygonID/issuer-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 102,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:13.166128Z"
+    },
+    {
+      "full_name": "0xPolygonID/js-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:14.549216Z"
+    },
+    {
+      "full_name": "0xPolygonID/js-sdk-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:15.999681Z"
+    },
+    {
+      "full_name": "0xPolygonID/js-sdk-react-native-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:17.351054Z"
+    },
+    {
+      "full_name": "0xPolygonID/js-sdk-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:52:18.766544Z"
+    },
+    {
+      "full_name": "0xPolygonID/nodejs-storage-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:20.202711Z"
+    },
+    {
+      "full_name": "0xPolygonID/onchain-issuer-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:21.596611Z"
+    },
+    {
+      "full_name": "0xPolygonID/onchain-issuer-integration-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:22.996060Z"
+    },
+    {
+      "full_name": "0xPolygonID/onchain-merklized-issuer-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:24.372538Z"
+    },
+    {
+      "full_name": "0xPolygonID/onchain-nonmerklized-issuer-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:25.754823Z"
+    },
+    {
+      "full_name": "0xPolygonID/phase2ceremony",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:52:27.121487Z"
+    },
+    {
+      "full_name": "0xPolygonID/polygonid-android-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Kotlin",
+      "last_checked": "2025-12-30T06:52:28.524947Z"
+    },
+    {
+      "full_name": "0xPolygonID/polygonid-flutter-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "Dart",
+      "last_checked": "2025-12-30T06:52:29.916326Z"
+    },
+    {
+      "full_name": "0xPolygonID/polygonid-issuer-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Smarty",
+      "last_checked": "2025-12-30T06:52:31.327941Z"
+    },
+    {
+      "full_name": "0xPolygonID/rapidsnark",
+      "is_fork": true,
+      "parent": "idyllicvision/rapidsnark-old",
+      "source": "iden3/rapidsnark-old",
+      "stars": 10,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:52:32.874828Z"
+    },
+    {
+      "full_name": "0xPolygonID/refresh-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:34.293033Z"
+    },
+    {
+      "full_name": "0xPolygonID/schemas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2025-12-30T06:52:35.712140Z"
+    },
+    {
+      "full_name": "0xPolygonID/snap-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:52:37.171604Z"
+    },
+    {
+      "full_name": "0xPolygonID/swift-iden3lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T06:52:38.547662Z"
+    },
+    {
+      "full_name": "0xPolygonID/tutorial-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:52:39.949503Z"
+    },
+    {
+      "full_name": "0xPolygonID/tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "HTML",
+      "last_checked": "2025-12-30T06:52:41.380396Z"
+    },
+    {
+      "full_name": "0xPolygonID/verifier-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:52:42.750809Z"
+    },
+    {
+      "full_name": "0xPolygonID/witnesscalc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "C++",
+      "last_checked": "2025-12-30T06:52:44.139724Z"
+    }
+  ]
+}

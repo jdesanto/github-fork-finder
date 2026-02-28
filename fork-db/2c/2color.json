@@ -1,0 +1,24 @@
+{
+  "owner": "2color",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "2color/ethereum-scanner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:16:17.798504Z"
+    },
+    {
+      "full_name": "2color/lotus",
+      "is_fork": true,
+      "parent": "filecoin-project/lotus",
+      "source": "filecoin-project/lotus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:16:19.338887Z"
+    }
+  ]
+}

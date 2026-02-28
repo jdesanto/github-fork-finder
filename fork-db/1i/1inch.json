@@ -1,0 +1,1698 @@
+{
+  "owner": "1inch",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "1inch/1IPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:19.448138Z"
+    },
+    {
+      "full_name": "1inch/1gas.io",
+      "is_fork": true,
+      "parent": "projectchicago/gastoken",
+      "source": "projectchicago/gastoken",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:00:21.025594Z"
+    },
+    {
+      "full_name": "1inch/1hop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:00:22.433464Z"
+    },
+    {
+      "full_name": "1inch/1inch-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:00:23.894821Z"
+    },
+    {
+      "full_name": "1inch/1inch-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:25.351994Z"
+    },
+    {
+      "full_name": "1inch/1inch-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "CSS",
+      "last_checked": "2025-12-30T09:00:26.839042Z"
+    },
+    {
+      "full_name": "1inch/1inch-liquidity-protocol-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:28.281722Z"
+    },
+    {
+      "full_name": "1inch/1inch-merch-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:00:29.711442Z"
+    },
+    {
+      "full_name": "1inch/1inch-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:00:31.487159Z"
+    },
+    {
+      "full_name": "1inch/1inch-sdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:00:32.886095Z"
+    },
+    {
+      "full_name": "1inch/1inch-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 163,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:00:34.314807Z"
+    },
+    {
+      "full_name": "1inch/1inch-uni-addresses",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:35.806531Z"
+    },
+    {
+      "full_name": "1inch/1inch-v2-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:37.713030Z"
+    },
+    {
+      "full_name": "1inch/1inch-v2-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 94,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:00:39.182883Z"
+    },
+    {
+      "full_name": "1inch/1inchProtocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 613,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:00:40.646264Z"
+    },
+    {
+      "full_name": "1inch/1inchwallet.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:40.954356Z"
+    },
+    {
+      "full_name": "1inch/1lend.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:00:42.414114Z"
+    },
+    {
+      "full_name": "1inch/1x.ag",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:00:43.866462Z"
+    },
+    {
+      "full_name": "1inch/AirSwap.js",
+      "is_fork": true,
+      "parent": "airswap/airswap.js",
+      "source": "airswap/airswap.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:00:45.466510Z"
+    },
+    {
+      "full_name": "1inch/Arweavify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:00:46.923064Z"
+    },
+    {
+      "full_name": "1inch/BCSwiftDCBOR",
+      "is_fork": true,
+      "parent": "BlockchainCommons/BCSwiftDCBOR",
+      "source": "BlockchainCommons/BCSwiftDCBOR",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:48.568402Z"
+    },
+    {
+      "full_name": "1inch/BEARROWING",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:00:50.005302Z"
+    },
+    {
+      "full_name": "1inch/BalancerRegistry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:00:51.473858Z"
+    },
+    {
+      "full_name": "1inch/BigInt",
+      "is_fork": true,
+      "parent": "attaswift/BigInt",
+      "source": "attaswift/BigInt",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:53.066275Z"
+    },
+    {
+      "full_name": "1inch/BlockiesSwift",
+      "is_fork": true,
+      "parent": "Boilertalk/BlockiesSwift",
+      "source": "Boilertalk/BlockiesSwift",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:00:54.689565Z"
+    },
+    {
+      "full_name": "1inch/CloudInAppMessaging",
+      "is_fork": true,
+      "parent": "podkovyrin/CloudInAppMessaging",
+      "source": "podkovyrin/CloudInAppMessaging",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:00:56.306945Z"
+    },
+    {
+      "full_name": "1inch/DECS-whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T09:00:57.745626Z"
+    },
+    {
+      "full_name": "1inch/DepoSet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:00:59.178349Z"
+    },
+    {
+      "full_name": "1inch/Donatocracy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:01:00.639254Z"
+    },
+    {
+      "full_name": "1inch/EIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:00.961205Z"
+    },
+    {
+      "full_name": "1inch/ERADICATE2",
+      "is_fork": true,
+      "parent": "johguse/ERADICATE2",
+      "source": "johguse/ERADICATE2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:02.607914Z"
+    },
+    {
+      "full_name": "1inch/ERADICATE3",
+      "is_fork": true,
+      "parent": "johguse/ERADICATE2",
+      "source": "johguse/ERADICATE2",
+      "stars": 13,
+      "language": "C++",
+      "last_checked": "2025-12-30T09:01:04.220105Z"
+    },
+    {
+      "full_name": "1inch/ERC-XXXX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:05.681807Z"
+    },
+    {
+      "full_name": "1inch/ERC3652",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:01:07.130003Z"
+    },
+    {
+      "full_name": "1inch/EllipticCurveKeyPair",
+      "is_fork": true,
+      "parent": "agens-no/EllipticCurveKeyPair",
+      "source": "agens-no/EllipticCurveKeyPair",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:08.741316Z"
+    },
+    {
+      "full_name": "1inch/FLEX",
+      "is_fork": true,
+      "parent": "FLEXTool/FLEX",
+      "source": "FLEXTool/FLEX",
+      "stars": 1,
+      "language": "Objective-C",
+      "last_checked": "2025-12-30T09:01:10.353312Z"
+    },
+    {
+      "full_name": "1inch/LimitSwapSubgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:01:11.822824Z"
+    },
+    {
+      "full_name": "1inch/MultiKyber",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:01:13.274147Z"
+    },
+    {
+      "full_name": "1inch/MultiToken-old",
+      "is_fork": true,
+      "parent": "multitoken/MultiToken",
+      "source": "k06a/MultiToken",
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:01:14.982329Z"
+    },
+    {
+      "full_name": "1inch/NewWeb3.swift",
+      "is_fork": true,
+      "parent": "chainnodesorg/Web3.swift",
+      "source": "chainnodesorg/Web3.swift",
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:16.556725Z"
+    },
+    {
+      "full_name": "1inch/PromiseKit",
+      "is_fork": true,
+      "parent": "mxcl/PromiseKit",
+      "source": "mxcl/PromiseKit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:18.164633Z"
+    },
+    {
+      "full_name": "1inch/QRToken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:01:19.595949Z"
+    },
+    {
+      "full_name": "1inch/ScrollCounter",
+      "is_fork": true,
+      "parent": "stokatyan/ScrollCounter",
+      "source": "stokatyan/ScrollCounter",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:21.161000Z"
+    },
+    {
+      "full_name": "1inch/SecLists",
+      "is_fork": true,
+      "parent": "danielmiessler/SecLists",
+      "source": "danielmiessler/SecLists",
+      "stars": 0,
+      "language": "PHP",
+      "last_checked": "2025-12-30T09:01:22.718732Z"
+    },
+    {
+      "full_name": "1inch/Starscream",
+      "is_fork": true,
+      "parent": "daltoniam/Starscream",
+      "source": "daltoniam/Starscream",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:24.299573Z"
+    },
+    {
+      "full_name": "1inch/SwiftGenPlugin",
+      "is_fork": true,
+      "parent": "SwiftGen/SwiftGenPlugin",
+      "source": "SwiftGen/SwiftGenPlugin",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2025-12-30T09:01:25.928249Z"
+    },
+    {
+      "full_name": "1inch/URKit",
+      "is_fork": true,
+      "parent": "BlockchainCommons/URKit",
+      "source": "BlockchainCommons/URKit",
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:27.550519Z"
+    },
+    {
+      "full_name": "1inch/VIC.cards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:01:28.961800Z"
+    },
+    {
+      "full_name": "1inch/WalletConnectSwift",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectSwift",
+      "source": "WalletConnect/WalletConnectSwift",
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:30.581316Z"
+    },
+    {
+      "full_name": "1inch/WalletConnectSwiftV2",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectSwiftV2",
+      "source": "WalletConnect/WalletConnectSwiftV2",
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:32.196154Z"
+    },
+    {
+      "full_name": "1inch/Web3.swift",
+      "is_fork": true,
+      "parent": "chainnodesorg/Web3.swift",
+      "source": "chainnodesorg/Web3.swift",
+      "stars": 6,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:33.811881Z"
+    },
+    {
+      "full_name": "1inch/address-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:01:35.246232Z"
+    },
+    {
+      "full_name": "1inch/address-token-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2025-12-30T09:01:36.725992Z"
+    },
+    {
+      "full_name": "1inch/aip",
+      "is_fork": true,
+      "parent": "aave/aip",
+      "source": "aave/aip",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:38.280220Z"
+    },
+    {
+      "full_name": "1inch/airswap-protocols",
+      "is_fork": true,
+      "parent": "airswap/airswap-protocols",
+      "source": "airswap/airswap-protocols",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:39.872662Z"
+    },
+    {
+      "full_name": "1inch/alpha-wallet-android",
+      "is_fork": true,
+      "parent": "AlphaWallet/alpha-wallet-android",
+      "source": "AlphaWallet/alpha-wallet-android",
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2025-12-30T09:01:41.415684Z"
+    },
+    {
+      "full_name": "1inch/alpha-wallet-ios",
+      "is_fork": true,
+      "parent": "AlphaWallet/alpha-wallet-ios",
+      "source": "AlphaWallet/alpha-wallet-ios",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:01:43.000523Z"
+    },
+    {
+      "full_name": "1inch/anchor",
+      "is_fork": true,
+      "parent": "solana-foundation/anchor",
+      "source": "solana-foundation/anchor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:44.676416Z"
+    },
+    {
+      "full_name": "1inch/ape-safe",
+      "is_fork": true,
+      "parent": "banteg/brownie-safe",
+      "source": "banteg/brownie-safe",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:46.248696Z"
+    },
+    {
+      "full_name": "1inch/app-ethereum",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-ethereum",
+      "source": "LedgerHQ/app-ethereum",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T09:01:47.907050Z"
+    },
+    {
+      "full_name": "1inch/app-plugin-1inch",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-plugin-velora",
+      "source": "LedgerHQ/app-plugin-velora",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T09:01:49.490694Z"
+    },
+    {
+      "full_name": "1inch/app-plugin-1inch-1",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-plugin-1inch",
+      "source": "LedgerHQ/app-plugin-1inch",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T09:01:51.034478Z"
+    },
+    {
+      "full_name": "1inch/approved.zone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:01:52.455953Z"
+    },
+    {
+      "full_name": "1inch/aqua-app-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:01:53.941680Z"
+    },
+    {
+      "full_name": "1inch/arc",
+      "is_fork": true,
+      "parent": "jellegerbrandy/daostack",
+      "source": "jellegerbrandy/daostack",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:01:55.506805Z"
+    },
+    {
+      "full_name": "1inch/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:57.133510Z"
+    },
+    {
+      "full_name": "1inch/awesome-nmap-grep",
+      "is_fork": true,
+      "parent": "leonjza/awesome-nmap-grep",
+      "source": "leonjza/awesome-nmap-grep",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:01:58.716480Z"
+    },
+    {
+      "full_name": "1inch/aws-cli",
+      "is_fork": true,
+      "parent": "hannut91/aws-cli",
+      "source": "hannut91/aws-cli",
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2025-12-30T09:02:00.307660Z"
+    },
+    {
+      "full_name": "1inch/bZx-monorepo",
+      "is_fork": true,
+      "parent": "amis-erc20/bZx-monorepo",
+      "source": "amis-erc20/bZx-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:02:01.870632Z"
+    },
+    {
+      "full_name": "1inch/backend-replacement",
+      "is_fork": true,
+      "parent": "forkdelta/backend-replacement",
+      "source": "forkdelta/backend-replacement",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:02:03.477779Z"
+    },
+    {
+      "full_name": "1inch/bancor-contracts",
+      "is_fork": true,
+      "parent": "bancorprotocol/contracts-solidity",
+      "source": "bancorprotocol/contracts-solidity",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:05.036903Z"
+    },
+    {
+      "full_name": "1inch/bancor-sdk",
+      "is_fork": true,
+      "parent": "bancorprotocol/sdk",
+      "source": "bancorprotocol/sdk",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:06.581969Z"
+    },
+    {
+      "full_name": "1inch/blockbook",
+      "is_fork": true,
+      "parent": "maxUo/blockbook",
+      "source": "trezor/blockbook",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:02:08.231763Z"
+    },
+    {
+      "full_name": "1inch/brownie",
+      "is_fork": true,
+      "parent": "eth-brownie/brownie",
+      "source": "eth-brownie/brownie",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:02:09.783606Z"
+    },
+    {
+      "full_name": "1inch/calldata-compressor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:11.282431Z"
+    },
+    {
+      "full_name": "1inch/candles-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:13.017424Z"
+    },
+    {
+      "full_name": "1inch/chainlink",
+      "is_fork": true,
+      "parent": "smartcontractkit/chainlink",
+      "source": "smartcontractkit/chainlink",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:02:14.622804Z"
+    },
+    {
+      "full_name": "1inch/chi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 111,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:02:16.084702Z"
+    },
+    {
+      "full_name": "1inch/clones-with-immutable-args",
+      "is_fork": true,
+      "parent": "wighawag/clones-with-immutable-args",
+      "source": "wighawag/clones-with-immutable-args",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:02:17.631507Z"
+    },
+    {
+      "full_name": "1inch/community",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2025-12-30T09:02:19.048655Z"
+    },
+    {
+      "full_name": "1inch/contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:20.598886Z"
+    },
+    {
+      "full_name": "1inch/cors-anywhere",
+      "is_fork": true,
+      "parent": "Rob--W/cors-anywhere",
+      "source": "Rob--W/cors-anywhere",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:22.201496Z"
+    },
+    {
+      "full_name": "1inch/create3",
+      "is_fork": true,
+      "parent": "0xsequence/create3",
+      "source": "0xsequence/create3",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:02:23.768200Z"
+    },
+    {
+      "full_name": "1inch/cross-chain-resolver-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:25.188367Z"
+    },
+    {
+      "full_name": "1inch/cross-chain-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:26.645585Z"
+    },
+    {
+      "full_name": "1inch/cross-chain-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:02:28.117335Z"
+    },
+    {
+      "full_name": "1inch/delegating",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:29.542447Z"
+    },
+    {
+      "full_name": "1inch/desktop-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:31.000640Z"
+    },
+    {
+      "full_name": "1inch/dev-portal-101",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:32.442791Z"
+    },
+    {
+      "full_name": "1inch/dev-portal-apis-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:02:33.965496Z"
+    },
+    {
+      "full_name": "1inch/dexcandles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:35.407926Z"
+    },
+    {
+      "full_name": "1inch/discover-dapps",
+      "is_fork": true,
+      "parent": "status-im/discover-dapps",
+      "source": "status-im/discover-dapps",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:37.020269Z"
+    },
+    {
+      "full_name": "1inch/embedded-widget",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:38.463123Z"
+    },
+    {
+      "full_name": "1inch/erc20-pods",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 87,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:40.274339Z"
+    },
+    {
+      "full_name": "1inch/eslint-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:41.775942Z"
+    },
+    {
+      "full_name": "1inch/eth-node-healthcheck",
+      "is_fork": true,
+      "parent": "leapdao/eth-node-healthcheck",
+      "source": "leapdao/eth-node-healthcheck",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:43.335355Z"
+    },
+    {
+      "full_name": "1inch/eth-sig-util",
+      "is_fork": true,
+      "parent": "MetaMask/eth-sig-util",
+      "source": "MetaMask/eth-sig-util",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:44.948487Z"
+    },
+    {
+      "full_name": "1inch/ethers-rs",
+      "is_fork": true,
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:02:46.571935Z"
+    },
+    {
+      "full_name": "1inch/ethers.js",
+      "is_fork": true,
+      "parent": "ethers-io/ethers.js",
+      "source": "ethers-io/ethers.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:48.152838Z"
+    },
+    {
+      "full_name": "1inch/evm-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:02:49.636709Z"
+    },
+    {
+      "full_name": "1inch/evm-trace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:51.078949Z"
+    },
+    {
+      "full_name": "1inch/excluded-uni-airdrop-users",
+      "is_fork": true,
+      "parent": "dharmaprotocol/excluded-uni-airdrop-users",
+      "source": "dharmaprotocol/excluded-uni-airdrop-users",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:52.667670Z"
+    },
+    {
+      "full_name": "1inch/farming",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 108,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:54.207688Z"
+    },
+    {
+      "full_name": "1inch/fee-collector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:55.682394Z"
+    },
+    {
+      "full_name": "1inch/fixed-rate-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:02:57.160035Z"
+    },
+    {
+      "full_name": "1inch/foundry-zksync-coverage-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:02:58.571088Z"
+    },
+    {
+      "full_name": "1inch/fusion-101",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:02:59.986667Z"
+    },
+    {
+      "full_name": "1inch/fusion-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 65,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:01.433316Z"
+    },
+    {
+      "full_name": "1inch/fusion-resolver-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:02.892394Z"
+    },
+    {
+      "full_name": "1inch/fusion-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:04.333642Z"
+    },
+    {
+      "full_name": "1inch/gDAI.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:05.763667Z"
+    },
+    {
+      "full_name": "1inch/gas-comparison",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:07.281789Z"
+    },
+    {
+      "full_name": "1inch/gasprice",
+      "is_fork": true,
+      "parent": "banteg/gasprice",
+      "source": "banteg/gasprice",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:03:08.918038Z"
+    },
+    {
+      "full_name": "1inch/gnosis.1inch.exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:10.353191Z"
+    },
+    {
+      "full_name": "1inch/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:11.966999Z"
+    },
+    {
+      "full_name": "1inch/governance-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:13.465645Z"
+    },
+    {
+      "full_name": "1inch/hardhat-tracer",
+      "is_fork": true,
+      "parent": "zemse/hardhat-tracer",
+      "source": "zemse/hardhat-tracer",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:15.035211Z"
+    },
+    {
+      "full_name": "1inch/infra",
+      "is_fork": true,
+      "parent": "daostack/infra",
+      "source": "daostack/infra",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:16.635050Z"
+    },
+    {
+      "full_name": "1inch/job-management-framework-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:16.959037Z"
+    },
+    {
+      "full_name": "1inch/jobocar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:18.446574Z"
+    },
+    {
+      "full_name": "1inch/ledger-asset-dapps",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledger-asset-dapps",
+      "source": "LedgerHQ/ledger-asset-dapps",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:03:20.147715Z"
+    },
+    {
+      "full_name": "1inch/limit-order-parser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:21.628705Z"
+    },
+    {
+      "full_name": "1inch/limit-order-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 293,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:23.582764Z"
+    },
+    {
+      "full_name": "1inch/limit-order-protocol-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:25.040893Z"
+    },
+    {
+      "full_name": "1inch/limit-order-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:26.568217Z"
+    },
+    {
+      "full_name": "1inch/limit-order-sdk-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:03:28.034837Z"
+    },
+    {
+      "full_name": "1inch/limit-order-settlement",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 65,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:29.879233Z"
+    },
+    {
+      "full_name": "1inch/liquidity-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:31.363908Z"
+    },
+    {
+      "full_name": "1inch/merkle-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:32.843288Z"
+    },
+    {
+      "full_name": "1inch/mixpanel-android",
+      "is_fork": true,
+      "parent": "mixpanel/mixpanel-android",
+      "source": "mixpanel/mixpanel-android",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2025-12-30T09:03:34.430915Z"
+    },
+    {
+      "full_name": "1inch/mixpanel-swift-archive",
+      "is_fork": true,
+      "parent": "mixpanel/mixpanel-swift",
+      "source": "mixpanel/mixpanel-swift",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:35.988173Z"
+    },
+    {
+      "full_name": "1inch/mooniswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 105,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:37.448666Z"
+    },
+    {
+      "full_name": "1inch/mooniswap-info",
+      "is_fork": true,
+      "parent": "Uniswap/info",
+      "source": "Uniswap/info",
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:39.090206Z"
+    },
+    {
+      "full_name": "1inch/mooniswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:40.757024Z"
+    },
+    {
+      "full_name": "1inch/mooniswap-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:42.309101Z"
+    },
+    {
+      "full_name": "1inch/mooniswap-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v2-subgraph",
+      "source": "Uniswap/v2-subgraph",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:43.889524Z"
+    },
+    {
+      "full_name": "1inch/multicall",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 96,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:45.337971Z"
+    },
+    {
+      "full_name": "1inch/nuTube.network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:46.775695Z"
+    },
+    {
+      "full_name": "1inch/openzeppelin-contracts",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:48.386751Z"
+    },
+    {
+      "full_name": "1inch/openzeppelin-contracts-upgradeable",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts-upgradeable",
+      "source": "OpenZeppelin/openzeppelin-contracts-upgradeable",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:50.084136Z"
+    },
+    {
+      "full_name": "1inch/openzeppelin-gsn-provider",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-gsn-provider",
+      "source": "OpenZeppelin/openzeppelin-gsn-provider",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:51.696933Z"
+    },
+    {
+      "full_name": "1inch/paymaster-zksync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:03:53.126339Z"
+    },
+    {
+      "full_name": "1inch/penetration-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:54.581595Z"
+    },
+    {
+      "full_name": "1inch/permit-signed-approvals-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:03:56.042605Z"
+    },
+    {
+      "full_name": "1inch/permit2",
+      "is_fork": true,
+      "parent": "Uniswap/permit2",
+      "source": "Uniswap/permit2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:03:57.590359Z"
+    },
+    {
+      "full_name": "1inch/portfolio-price-comparison",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T09:03:59.017231Z"
+    },
+    {
+      "full_name": "1inch/profanity2",
+      "is_fork": true,
+      "parent": "johguse/profanity",
+      "source": "johguse/profanity",
+      "stars": 464,
+      "language": "C++",
+      "last_checked": "2025-12-30T09:04:00.556468Z"
+    },
+    {
+      "full_name": "1inch/protocol-v2",
+      "is_fork": true,
+      "parent": "aave/protocol-v2",
+      "source": "aave/protocol-v2",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:02.135588Z"
+    },
+    {
+      "full_name": "1inch/rainbowkit",
+      "is_fork": true,
+      "parent": "rainbow-me/rainbowkit",
+      "source": "rainbow-me/rainbowkit",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:03.746417Z"
+    },
+    {
+      "full_name": "1inch/redoc",
+      "is_fork": true,
+      "parent": "Redocly/redoc",
+      "source": "Redocly/redoc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:05.360366Z"
+    },
+    {
+      "full_name": "1inch/secp256k1",
+      "is_fork": true,
+      "parent": "bitcoin-core/secp256k1",
+      "source": "bitcoin-core/secp256k1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:06.993506Z"
+    },
+    {
+      "full_name": "1inch/secp256k1.swift",
+      "is_fork": true,
+      "parent": "LanfordCai/secp256k1.swift",
+      "source": "Boilertalk/secp256k1.swift",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T09:04:08.641799Z"
+    },
+    {
+      "full_name": "1inch/shieldy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 942,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:10.088469Z"
+    },
+    {
+      "full_name": "1inch/simple-1inch-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:11.483929Z"
+    },
+    {
+      "full_name": "1inch/solana-crosschain-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T09:04:12.901628Z"
+    },
+    {
+      "full_name": "1inch/solana-frontend-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:14.337077Z"
+    },
+    {
+      "full_name": "1inch/solana-fusion-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:15.754354Z"
+    },
+    {
+      "full_name": "1inch/solana-fusion-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:17.210067Z"
+    },
+    {
+      "full_name": "1inch/solidity-audit-checklist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:20.253993Z"
+    },
+    {
+      "full_name": "1inch/solidity-dispatcher-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2025-12-30T09:04:21.768070Z"
+    },
+    {
+      "full_name": "1inch/solidity-selector-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2025-12-30T09:04:23.178746Z"
+    },
+    {
+      "full_name": "1inch/solidity-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 213,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:24.636372Z"
+    },
+    {
+      "full_name": "1inch/solmate",
+      "is_fork": true,
+      "parent": "transmissions11/solmate",
+      "source": "transmissions11/solmate",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:26.300932Z"
+    },
+    {
+      "full_name": "1inch/spot-price-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 302,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:28.103391Z"
+    },
+    {
+      "full_name": "1inch/st1inch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:04:29.508625Z"
+    },
+    {
+      "full_name": "1inch/swap-vm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:04:30.901915Z"
+    },
+    {
+      "full_name": "1inch/swap-vm-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:32.304076Z"
+    },
+    {
+      "full_name": "1inch/tabookey-gasless",
+      "is_fork": true,
+      "parent": "opengsn/gsn",
+      "source": "opengsn/gsn",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:33.969636Z"
+    },
+    {
+      "full_name": "1inch/telegraf",
+      "is_fork": true,
+      "parent": "backmeupplz/telegraf",
+      "source": "telegraf/telegraf",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:35.582594Z"
+    },
+    {
+      "full_name": "1inch/textmessage.eth",
+      "is_fork": true,
+      "parent": "hunterlong/textmessage.eth",
+      "source": "hunterlong/textmessage.eth",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:37.194934Z"
+    },
+    {
+      "full_name": "1inch/token-hooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 87,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:38.688444Z"
+    },
+    {
+      "full_name": "1inch/token-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 87,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:40.486090Z"
+    },
+    {
+      "full_name": "1inch/trimport",
+      "is_fork": true,
+      "parent": "ChainSecurity/trimport",
+      "source": "ChainSecurity/trimport",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2025-12-30T09:04:42.093566Z"
+    },
+    {
+      "full_name": "1inch/ts-byte-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:43.891905Z"
+    },
+    {
+      "full_name": "1inch/ts-byte-utils-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:45.293018Z"
+    },
+    {
+      "full_name": "1inch/tsconfig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:46.739261Z"
+    },
+    {
+      "full_name": "1inch/tx-decoder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:47.082531Z"
+    },
+    {
+      "full_name": "1inch/unbundle.multitoken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:48.542017Z"
+    },
+    {
+      "full_name": "1inch/uniswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:50.140899Z"
+    },
+    {
+      "full_name": "1inch/universal-router",
+      "is_fork": true,
+      "parent": "Uniswap/universal-router",
+      "source": "Uniswap/universal-router",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:04:51.744056Z"
+    },
+    {
+      "full_name": "1inch/vested-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T09:04:53.251342Z"
+    },
+    {
+      "full_name": "1inch/wallet-core",
+      "is_fork": true,
+      "parent": "trustwallet/wallet-core",
+      "source": "trustwallet/wallet-core",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2025-12-30T09:04:54.854647Z"
+    },
+    {
+      "full_name": "1inch/walletconnect-monorepo",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-monorepo",
+      "source": "WalletConnect/walletconnect-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T09:04:56.528995Z"
+    },
+    {
+      "full_name": "1inch/walletconnect-registry",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-registry",
+      "source": "WalletConnect/walletconnect-registry",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:04:58.127410Z"
+    },
+    {
+      "full_name": "1inch/watchmarket",
+      "is_fork": true,
+      "parent": "trustwallet/watchmarket",
+      "source": "trustwallet/watchmarket",
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2025-12-30T09:04:59.739831Z"
+    },
+    {
+      "full_name": "1inch/web3.js",
+      "is_fork": true,
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T09:05:01.309957Z"
+    },
+    {
+      "full_name": "1inch/web3swift",
+      "is_fork": true,
+      "parent": "web3swift-team/web3swift",
+      "source": "web3swift-team/web3swift",
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2025-12-30T09:05:02.865012Z"
+    },
+    {
+      "full_name": "1inch/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T09:05:04.444258Z"
+    }
+  ]
+}

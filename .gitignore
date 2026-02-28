@@ -1,0 +1,42 @@
+# Large input files (users provide their own)
+github_links.txt
+
+# Archived intermediate data files
+_archived/
+
+# API token
+.env
+
+# SQLite query index — generated from fork-db/ JSON files, not committed
+# Rebuild with: python3 build_index.py
+*.sqlite
+
+# Intermediate result files from find_forks.py runs
+*_results.json
+ec.json
+ec2.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.txt
+test_*.json

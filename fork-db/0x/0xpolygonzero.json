@@ -1,0 +1,366 @@
+{
+  "owner": "0xpolygonzero",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xPolygonZero/0xPolygonZero.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:53:23.669822Z"
+    },
+    {
+      "full_name": "0xPolygonZero/agglayer",
+      "is_fork": true,
+      "parent": "agglayer/agglayer",
+      "source": "agglayer/agglayer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:53:25.249193Z"
+    },
+    {
+      "full_name": "0xPolygonZero/alloy-compat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:26.711227Z"
+    },
+    {
+      "full_name": "0xPolygonZero/bft-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Java",
+      "last_checked": "2025-12-30T06:53:28.151422Z"
+    },
+    {
+      "full_name": "0xPolygonZero/binius",
+      "is_fork": true,
+      "parent": "IrreducibleOSS/binius",
+      "source": "IrreducibleOSS/binius",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:29.730431Z"
+    },
+    {
+      "full_name": "0xPolygonZero/commitment-set-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2025-12-30T06:53:31.210948Z"
+    },
+    {
+      "full_name": "0xPolygonZero/erigon",
+      "is_fork": true,
+      "parent": "cffls/erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T06:53:32.810909Z"
+    },
+    {
+      "full_name": "0xPolygonZero/eth-pos-devnet-provable",
+      "is_fork": true,
+      "parent": "praetoriansentry/eth-pos-devnet",
+      "source": "OffchainLabs/eth-pos-devnet",
+      "stars": 1,
+      "language": "Makefile",
+      "last_checked": "2025-12-30T06:53:34.388047Z"
+    },
+    {
+      "full_name": "0xPolygonZero/eth-trie-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:35.829622Z"
+    },
+    {
+      "full_name": "0xPolygonZero/eth-tx-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:37.336390Z"
+    },
+    {
+      "full_name": "0xPolygonZero/eth_trie_utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:38.805454Z"
+    },
+    {
+      "full_name": "0xPolygonZero/evm-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:40.257249Z"
+    },
+    {
+      "full_name": "0xPolygonZero/hash-constants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Sage",
+      "last_checked": "2025-12-30T06:53:41.700188Z"
+    },
+    {
+      "full_name": "0xPolygonZero/hyperstark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:43.104184Z"
+    },
+    {
+      "full_name": "0xPolygonZero/jerigon-test-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:53:44.555101Z"
+    },
+    {
+      "full_name": "0xPolygonZero/mir-core-old.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2025-12-30T06:53:45.957298Z"
+    },
+    {
+      "full_name": "0xPolygonZero/nums",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:47.376029Z"
+    },
+    {
+      "full_name": "0xPolygonZero/paladin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:48.832474Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 116,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:50.258462Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky-block-proof-gen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:51.744188Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky-edge-block-trace-parser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:53.223983Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 845,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:54.667775Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2-ecdsa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:56.150796Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2-insertion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:57.594558Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2-semaphore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:53:59.023721Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2-u32",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:00.427081Z"
+    },
+    {
+      "full_name": "0xPolygonZero/plonky2-waksman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:01.883438Z"
+    },
+    {
+      "full_name": "0xPolygonZero/proof-protocol-decoder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:03.350757Z"
+    },
+    {
+      "full_name": "0xPolygonZero/r1cs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:04.804607Z"
+    },
+    {
+      "full_name": "0xPolygonZero/r1cs-bellman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:06.215040Z"
+    },
+    {
+      "full_name": "0xPolygonZero/r1cs-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "TeX",
+      "last_checked": "2025-12-30T06:54:07.641285Z"
+    },
+    {
+      "full_name": "0xPolygonZero/r1cs-zkinterface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:09.083448Z"
+    },
+    {
+      "full_name": "0xPolygonZero/rsp",
+      "is_fork": true,
+      "parent": "succinctlabs/rsp",
+      "source": "succinctlabs/rsp",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:54:10.717404Z"
+    },
+    {
+      "full_name": "0xPolygonZero/smt_utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:12.160705Z"
+    },
+    {
+      "full_name": "0xPolygonZero/sp1",
+      "is_fork": true,
+      "parent": "succinctlabs/sp1",
+      "source": "succinctlabs/sp1",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:13.803111Z"
+    },
+    {
+      "full_name": "0xPolygonZero/system-zero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:15.296083Z"
+    },
+    {
+      "full_name": "0xPolygonZero/yultsur",
+      "is_fork": true,
+      "parent": "axic/yultsur",
+      "source": "axic/yultsur",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:54:16.834284Z"
+    },
+    {
+      "full_name": "0xPolygonZero/zero-bin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:18.271681Z"
+    },
+    {
+      "full_name": "0xPolygonZero/zeth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:19.737618Z"
+    },
+    {
+      "full_name": "0xPolygonZero/zk_evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 99,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:54:21.152742Z"
+    }
+  ]
+}

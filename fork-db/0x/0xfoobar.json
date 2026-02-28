@@ -1,0 +1,42 @@
+{
+  "owner": "0xfoobar",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0xfoobar/bitsignal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 63,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:46:07.300898Z"
+    },
+    {
+      "full_name": "0xfoobar/boredanddangerous",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:46:08.664255Z"
+    },
+    {
+      "full_name": "0xfoobar/failedverify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T07:46:10.003280Z"
+    },
+    {
+      "full_name": "0xfoobar/protocol-v2",
+      "is_fork": true,
+      "parent": "aave/protocol-v2",
+      "source": "aave/protocol-v2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T07:46:11.475879Z"
+    }
+  ]
+}

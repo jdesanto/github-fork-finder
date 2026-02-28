@@ -1,0 +1,555 @@
+{
+  "owner": "0xmacro",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xMacro/Autograph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:01.072163Z"
+    },
+    {
+      "full_name": "0xMacro/CryptoTigers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:02.530837Z"
+    },
+    {
+      "full_name": "0xMacro/Merdetoken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:03.953177Z"
+    },
+    {
+      "full_name": "0xMacro/agora-stable-swap-dev",
+      "is_fork": true,
+      "parent": "DrakeEvans/stable-swap-dev",
+      "source": "DrakeEvans/stable-swap-dev",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:05.539900Z"
+    },
+    {
+      "full_name": "0xMacro/array_sorting_example_hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:06.986793Z"
+    },
+    {
+      "full_name": "0xMacro/awesome-solana-security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 500,
+      "language": null,
+      "last_checked": "2025-12-30T06:34:08.408837Z"
+    },
+    {
+      "full_name": "0xMacro/calling-variations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:09.834275Z"
+    },
+    {
+      "full_name": "0xMacro/cannon-router",
+      "is_fork": true,
+      "parent": "usecannon/router",
+      "source": "Synthetixio/synthetix-router",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:11.495783Z"
+    },
+    {
+      "full_name": "0xMacro/compound_short_example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:12.863374Z"
+    },
+    {
+      "full_name": "0xMacro/contract_inheritance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:14.353577Z"
+    },
+    {
+      "full_name": "0xMacro/contract_optimisation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:15.928428Z"
+    },
+    {
+      "full_name": "0xMacro/cortex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:17.344596Z"
+    },
+    {
+      "full_name": "0xMacro/dao-accounting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:18.946470Z"
+    },
+    {
+      "full_name": "0xMacro/dapp_frontend_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:20.439214Z"
+    },
+    {
+      "full_name": "0xMacro/dev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:21.934718Z"
+    },
+    {
+      "full_name": "0xMacro/dive-into-solidity-udemy-course",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:23.377333Z"
+    },
+    {
+      "full_name": "0xMacro/early_christmas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:24.916034Z"
+    },
+    {
+      "full_name": "0xMacro/environment_setup_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:26.331387Z"
+    },
+    {
+      "full_name": "0xMacro/erc20_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:27.728549Z"
+    },
+    {
+      "full_name": "0xMacro/exam_processor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:29.358674Z"
+    },
+    {
+      "full_name": "0xMacro/forge-and-npm-with-remappings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:30.857295Z"
+    },
+    {
+      "full_name": "0xMacro/forge-no-remappings-and-npm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:32.237081Z"
+    },
+    {
+      "full_name": "0xMacro/forge-with-lib-imports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:33.691439Z"
+    },
+    {
+      "full_name": "0xMacro/forge-with-oz-no-npm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:35.143597Z"
+    },
+    {
+      "full_name": "0xMacro/forge-with-oz-no-npm-no-toml-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:36.573972Z"
+    },
+    {
+      "full_name": "0xMacro/forge-with-remappings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:37.970545Z"
+    },
+    {
+      "full_name": "0xMacro/forge-with-remappings-and-npm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:39.691480Z"
+    },
+    {
+      "full_name": "0xMacro/gas-numbers-every-solidity-dev-should-know",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "HTML",
+      "last_checked": "2025-12-30T06:34:41.359836Z"
+    },
+    {
+      "full_name": "0xMacro/governance_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:42.884129Z"
+    },
+    {
+      "full_name": "0xMacro/hardhat_testing_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:44.363886Z"
+    },
+    {
+      "full_name": "0xMacro/january_sale",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:34:45.826987Z"
+    },
+    {
+      "full_name": "0xMacro/json-bigint",
+      "is_fork": true,
+      "parent": "apimatic/json-bigint",
+      "source": "sidorares/json-bigint",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:34:47.374886Z"
+    },
+    {
+      "full_name": "0xMacro/l2_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:48.798090Z"
+    },
+    {
+      "full_name": "0xMacro/lecture.upgradeability",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:50.193422Z"
+    },
+    {
+      "full_name": "0xMacro/library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "HTML",
+      "last_checked": "2025-12-30T06:34:51.559798Z"
+    },
+    {
+      "full_name": "0xMacro/local-ethernauts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:52.983345Z"
+    },
+    {
+      "full_name": "0xMacro/lp_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:54.483030Z"
+    },
+    {
+      "full_name": "0xMacro/macro_week_finder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:34:55.964880Z"
+    },
+    {
+      "full_name": "0xMacro/mainnet-forking-lecture",
+      "is_fork": true,
+      "parent": "Melvillian/mainnet-forking-lecture",
+      "source": "Melvillian/mainnet-forking-lecture",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:57.522713Z"
+    },
+    {
+      "full_name": "0xMacro/memory_storage_params",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:34:58.913334Z"
+    },
+    {
+      "full_name": "0xMacro/micro_audits_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:35:00.351112Z"
+    },
+    {
+      "full_name": "0xMacro/onchain_signatures_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:01.755189Z"
+    },
+    {
+      "full_name": "0xMacro/oz_library_18",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:03.308653Z"
+    },
+    {
+      "full_name": "0xMacro/oz_library_19",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:04.789336Z"
+    },
+    {
+      "full_name": "0xMacro/oz_library_20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:06.211089Z"
+    },
+    {
+      "full_name": "0xMacro/parity-hack",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:35:07.631042Z"
+    },
+    {
+      "full_name": "0xMacro/pointers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:09.008394Z"
+    },
+    {
+      "full_name": "0xMacro/poly_network_lecture_code",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:10.482711Z"
+    },
+    {
+      "full_name": "0xMacro/prevent_withdraw",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:35:11.964171Z"
+    },
+    {
+      "full_name": "0xMacro/ricmoo_underhand_solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:13.503634Z"
+    },
+    {
+      "full_name": "0xMacro/solana-security-note",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 500,
+      "language": null,
+      "last_checked": "2025-12-30T06:35:15.463695Z"
+    },
+    {
+      "full_name": "0xMacro/solidity-parser",
+      "is_fork": true,
+      "parent": "solidity-parser/parser",
+      "source": "solidity-parser/parser",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:35:17.037717Z"
+    },
+    {
+      "full_name": "0xMacro/somm-4-cellar-contracts-1",
+      "is_fork": true,
+      "parent": "PeggyJV/cellar-contracts",
+      "source": "PeggyJV/cellar-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:35:18.649907Z"
+    },
+    {
+      "full_name": "0xMacro/souffle",
+      "is_fork": true,
+      "parent": "souffle-lang/souffle",
+      "source": "souffle-lang/souffle",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:35:20.258810Z"
+    },
+    {
+      "full_name": "0xMacro/staking-rewards-issue",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:21.710148Z"
+    },
+    {
+      "full_name": "0xMacro/subgraph_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:23.177181Z"
+    },
+    {
+      "full_name": "0xMacro/tokenScope",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:24.627188Z"
+    },
+    {
+      "full_name": "0xMacro/transaction_signatures_lecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:26.038097Z"
+    },
+    {
+      "full_name": "0xMacro/trim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 74,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:35:27.505445Z"
+    },
+    {
+      "full_name": "0xMacro/tuition",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:35:28.964061Z"
+    },
+    {
+      "full_name": "0xMacro/two-dimensional-array",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:35:30.458955Z"
+    }
+  ]
+}

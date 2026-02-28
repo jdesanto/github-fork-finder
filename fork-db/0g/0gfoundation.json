@@ -1,0 +1,627 @@
+{
+  "owner": "0gfoundation",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0gfoundation/0g-agent-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T05:27:33.100701Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-avs-server",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenda",
+      "source": "Layr-Labs/eigenda",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:27:34.647334Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 3,
+      "language": "Elixir",
+      "last_checked": "2025-12-30T05:27:36.167298Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:27:37.785527Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-chain-testing",
+      "is_fork": true,
+      "parent": "evmos/testing",
+      "source": "evmos/testing",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:27:39.428151Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-compute-ts-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:27:40.823288Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-contract-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T05:27:42.284773Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:27:43.678976Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-encoder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:45.101695Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-example-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:46.516829Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-light",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:47.939171Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:49.328576Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:51.283332Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-op-plasma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:27:52.704741Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-retriever",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:54.147112Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-da-rust-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:27:55.593593Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-demo-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:27:56.994236Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-deployment-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T05:27:58.447088Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:27:59.886277Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-ec-gpu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:28:01.279347Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-eigen-avs",
+      "is_fork": true,
+      "parent": "Layr-Labs/incredible-squaring-avs",
+      "source": "Layr-Labs/incredible-squaring-avs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:02.802402Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-eliza",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:04.464840Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-geth",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:06.037707Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-github-alert-webhook-tg",
+      "is_fork": true,
+      "parent": "uzinfocom-org/webhook",
+      "source": "uzinfocom-org/webhook",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:07.612217Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-groth16-gpu",
+      "is_fork": true,
+      "parent": "arkworks-rs/groth16",
+      "source": "arkworks-rs/groth16",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:09.210085Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-groth16-gpu-zk-settlment-dep",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:28:11.588091Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-python-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T05:28:13.075492Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-serving-broker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "HTML",
+      "last_checked": "2025-12-30T05:28:14.503914Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-serving-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:15.925119Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-serving-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:17.464963Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-serving-token-counter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T05:28:18.850683Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-serving-user-broker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T05:28:20.219643Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:21.827277Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:23.365698Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-go-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:24.748079Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-kv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:28:26.155582Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-map",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T05:28:27.608860Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 180,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:28:29.027538Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-scan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:30.458385Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-ts-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:31.855791Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-storage-web-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:33.275982Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-tdx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2025-12-30T05:28:34.798135Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-ts-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:36.214806Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-vc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Circom",
+      "last_checked": "2025-12-30T05:28:37.614953Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-zk-settlement-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T05:28:39.036601Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-zk-settlement-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Circom",
+      "last_checked": "2025-12-30T05:28:40.491553Z"
+    },
+    {
+      "full_name": "0gfoundation/0g-zk-settlement-turbo-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:28:41.886143Z"
+    },
+    {
+      "full_name": "0gfoundation/0gchain-NG",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T05:56:53.580803Z"
+    },
+    {
+      "full_name": "0gfoundation/A0GI-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T05:28:44.752866Z"
+    },
+    {
+      "full_name": "0gfoundation/CocktailSGD",
+      "is_fork": true,
+      "parent": "DS3Lab/CocktailSGD",
+      "source": "DS3Lab/CocktailSGD",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2025-12-30T05:28:46.274502Z"
+    },
+    {
+      "full_name": "0gfoundation/ERCs",
+      "is_fork": true,
+      "parent": "ethereum/ERCs",
+      "source": "ethereum/ERCs",
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T05:28:47.892843Z"
+    },
+    {
+      "full_name": "0gfoundation/awesome-0g",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:49.329443Z"
+    },
+    {
+      "full_name": "0gfoundation/cdk-validium-node",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:50.914518Z"
+    },
+    {
+      "full_name": "0gfoundation/circom-compat",
+      "is_fork": true,
+      "parent": "arkworks-rs/circom-compat",
+      "source": "arkworks-rs/circom-compat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:52.424801Z"
+    },
+    {
+      "full_name": "0gfoundation/cometbft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:53.834857Z"
+    },
+    {
+      "full_name": "0gfoundation/cosmos-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:55.247048Z"
+    },
+    {
+      "full_name": "0gfoundation/ethermint",
+      "is_fork": true,
+      "parent": "evmos/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T05:28:56.848260Z"
+    },
+    {
+      "full_name": "0gfoundation/evmchainbench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:28:58.358342Z"
+    },
+    {
+      "full_name": "0gfoundation/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:00.015084Z"
+    },
+    {
+      "full_name": "0gfoundation/groth16-gpu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T05:29:01.440878Z"
+    },
+    {
+      "full_name": "0gfoundation/huggingface_hub",
+      "is_fork": true,
+      "parent": "huggingface/huggingface_hub",
+      "source": "huggingface/huggingface_hub",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:02.940185Z"
+    },
+    {
+      "full_name": "0gfoundation/madara-orchestrator",
+      "is_fork": true,
+      "parent": "madara-alliance/madara-orchestrator",
+      "source": "madara-alliance/madara-orchestrator",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:04.519017Z"
+    },
+    {
+      "full_name": "0gfoundation/nitro",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:29:06.059996Z"
+    },
+    {
+      "full_name": "0gfoundation/orbit-setup-script",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-setup-script",
+      "source": "OffchainLabs/orbit-setup-script",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:07.581714Z"
+    },
+    {
+      "full_name": "0gfoundation/pancake-contracts-move",
+      "is_fork": true,
+      "parent": "0xbc1p/pancake-contracts-move",
+      "source": "0xbc1p/pancake-contracts-move",
+      "stars": 15,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:09.195004Z"
+    },
+    {
+      "full_name": "0gfoundation/ssz",
+      "is_fork": true,
+      "parent": "karalabe/ssz",
+      "source": "karalabe/ssz",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2025-12-30T05:29:10.741314Z"
+    },
+    {
+      "full_name": "0gfoundation/vllm",
+      "is_fork": true,
+      "parent": "vllm-project/vllm",
+      "source": "vllm-project/vllm",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2025-12-30T05:29:12.310510Z"
+    },
+    {
+      "full_name": "0gfoundation/wasmer",
+      "is_fork": true,
+      "parent": "wasmerio/wasmer",
+      "source": "wasmerio/wasmer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T05:29:13.813342Z"
+    },
+    {
+      "full_name": "0gfoundation/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2025-12-30T05:29:15.203462Z"
+    }
+  ]
+}

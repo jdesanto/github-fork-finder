@@ -1,0 +1,402 @@
+{
+  "owner": "0xhashstack",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0xHashstack/Asynth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:38.615885Z"
+    },
+    {
+      "full_name": "0xHashstack/Base-client_V1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:24:40.106998Z"
+    },
+    {
+      "full_name": "0xHashstack/Chart.js",
+      "is_fork": true,
+      "parent": "chartjs/Chart.js",
+      "source": "chartjs/Chart.js",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:41.723087Z"
+    },
+    {
+      "full_name": "0xHashstack/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:24:43.318016Z"
+    },
+    {
+      "full_name": "0xHashstack/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:24:44.846210Z"
+    },
+    {
+      "full_name": "0xHashstack/Economy-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:24:46.340717Z"
+    },
+    {
+      "full_name": "0xHashstack/HASH-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:24:48.234670Z"
+    },
+    {
+      "full_name": "0xHashstack/HSTK",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:24:49.622945Z"
+    },
+    {
+      "full_name": "0xHashstack/Layer3-scaling-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:24:51.015708Z"
+    },
+    {
+      "full_name": "0xHashstack/Open-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:51.330710Z"
+    },
+    {
+      "full_name": "0xHashstack/Roadmap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:52.757836Z"
+    },
+    {
+      "full_name": "0xHashstack/Subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:53.316441Z"
+    },
+    {
+      "full_name": "0xHashstack/Subscription-Finance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:53.621568Z"
+    },
+    {
+      "full_name": "0xHashstack/TokenLists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:55.042703Z"
+    },
+    {
+      "full_name": "0xHashstack/airdrop-snapshots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Shell",
+      "last_checked": "2025-12-30T06:24:56.837166Z"
+    },
+    {
+      "full_name": "0xHashstack/argent-x",
+      "is_fork": true,
+      "parent": "argentlabs/argent-x",
+      "source": "argentlabs/argent-x",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:24:58.342387Z"
+    },
+    {
+      "full_name": "0xHashstack/compound-config",
+      "is_fork": true,
+      "parent": "compound-finance/compound-config",
+      "source": "compound-finance/compound-config",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:00.073009Z"
+    },
+    {
+      "full_name": "0xHashstack/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:01.449763Z"
+    },
+    {
+      "full_name": "0xHashstack/ethereumjs-util",
+      "is_fork": true,
+      "parent": "Max-Takahashi9/ethereumjs-util",
+      "source": "ethereumjs/ethereumjs-util",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:03.080225Z"
+    },
+    {
+      "full_name": "0xHashstack/ethereumjs-vm",
+      "is_fork": true,
+      "parent": "Max-Takahashi9/ethereumjs-vm",
+      "source": "ethereumjs/ethereumjs-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:04.690923Z"
+    },
+    {
+      "full_name": "0xHashstack/ghost-on-github-pages",
+      "is_fork": true,
+      "parent": "paladini/ghost-on-github-pages",
+      "source": "paladini/ghost-on-github-pages",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2025-12-30T06:25:06.309498Z"
+    },
+    {
+      "full_name": "0xHashstack/hashstack-finance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:06.715367Z"
+    },
+    {
+      "full_name": "0xHashstack/hashstack_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cairo",
+      "last_checked": "2025-12-30T06:25:08.217793Z"
+    },
+    {
+      "full_name": "0xHashstack/hashstatic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:25:09.683010Z"
+    },
+    {
+      "full_name": "0xHashstack/hsd",
+      "is_fork": true,
+      "parent": "handshake-org/hsd",
+      "source": "handshake-org/hsd",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:11.242806Z"
+    },
+    {
+      "full_name": "0xHashstack/kafka-liquidation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:11.609105Z"
+    },
+    {
+      "full_name": "0xHashstack/liquidation_bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:25:13.039878Z"
+    },
+    {
+      "full_name": "0xHashstack/money-legos",
+      "is_fork": true,
+      "parent": "Max-Takahashi9/money-legos",
+      "source": "studydefi/money-legos",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:14.777772Z"
+    },
+    {
+      "full_name": "0xHashstack/multi-http-provider",
+      "is_fork": true,
+      "parent": "guenoledc/multi-http-provider",
+      "source": "guenoledc/multi-http-provider",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:16.402796Z"
+    },
+    {
+      "full_name": "0xHashstack/offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:25:17.863557Z"
+    },
+    {
+      "full_name": "0xHashstack/offchain_graphql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:25:19.292573Z"
+    },
+    {
+      "full_name": "0xHashstack/open-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:25:20.729847Z"
+    },
+    {
+      "full_name": "0xHashstack/open-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "SCSS",
+      "last_checked": "2025-12-30T06:25:22.269397Z"
+    },
+    {
+      "full_name": "0xHashstack/open_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:25:23.672862Z"
+    },
+    {
+      "full_name": "0xHashstack/palisade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:24.021166Z"
+    },
+    {
+      "full_name": "0xHashstack/permission-handle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:25:25.471996Z"
+    },
+    {
+      "full_name": "0xHashstack/solidity-coverage",
+      "is_fork": true,
+      "parent": "compound-finance/solidity-coverage",
+      "source": "sc-forks/solidity-coverage",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:28.680445Z"
+    },
+    {
+      "full_name": "0xHashstack/starknet-meta",
+      "is_fork": true,
+      "parent": "myBraavos/starknet-meta",
+      "source": "myBraavos/starknet-meta",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:25:30.294190Z"
+    },
+    {
+      "full_name": "0xHashstack/starknet.js",
+      "is_fork": true,
+      "parent": "starknet-io/starknet.js",
+      "source": "starknet-io/starknet.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:31.887264Z"
+    },
+    {
+      "full_name": "0xHashstack/v1-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:25:33.604148Z"
+    },
+    {
+      "full_name": "0xHashstack/v1-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:33.908285Z"
+    },
+    {
+      "full_name": "0xHashstack/web3.js",
+      "is_fork": true,
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:35.540239Z"
+    },
+    {
+      "full_name": "0xHashstack/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": null,
+      "last_checked": "2025-12-30T06:25:36.983027Z"
+    },
+    {
+      "full_name": "0xHashstack/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:25:38.651362Z"
+    }
+  ]
+}

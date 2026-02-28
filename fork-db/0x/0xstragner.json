@@ -1,0 +1,51 @@
+{
+  "owner": "0xstragner",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xstragner/mytonwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:28:54.674818Z"
+    },
+    {
+      "full_name": "0xstragner/tdlib-spm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "CMake",
+      "last_checked": "2025-12-30T08:28:56.345382Z"
+    },
+    {
+      "full_name": "0xstragner/ton-proxy-application",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2025-12-30T08:28:58.029274Z"
+    },
+    {
+      "full_name": "0xstragner/ton-proxy-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Swift",
+      "last_checked": "2025-12-30T08:28:59.711119Z"
+    },
+    {
+      "full_name": "0xstragner/ton-wallet-ios",
+      "is_fork": true,
+      "parent": "ton-blockchain/wallet-ios",
+      "source": "ton-blockchain/wallet-ios",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T08:29:01.567486Z"
+    }
+  ]
+}

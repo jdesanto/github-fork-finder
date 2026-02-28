@@ -1,0 +1,420 @@
+{
+  "owner": "0xeigenlabs",
+  "updated_at": "2026-02-28T20:22:30Z",
+  "repos": [
+    {
+      "full_name": "0xEigenLabs/0xEigenLabs.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:17:12.513802Z"
+    },
+    {
+      "full_name": "0xEigenLabs/SCW",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:17:13.961548Z"
+    },
+    {
+      "full_name": "0xEigenLabs/ZKDEX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:17:15.866300Z"
+    },
+    {
+      "full_name": "0xEigenLabs/anonmisc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:17:17.259965Z"
+    },
+    {
+      "full_name": "0xEigenLabs/awesome-layered-proof-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:17.695661Z"
+    },
+    {
+      "full_name": "0xEigenLabs/babyjubjub-rs",
+      "is_fork": true,
+      "parent": "arnaucube/babyjubjub-rs",
+      "source": "arnaucube/babyjubjub-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:19.407243Z"
+    },
+    {
+      "full_name": "0xEigenLabs/bellperson",
+      "is_fork": true,
+      "parent": "filecoin-project/bellperson",
+      "source": "zkcrypto/bellman",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:21.095770Z"
+    },
+    {
+      "full_name": "0xEigenLabs/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2025-12-30T06:17:22.629220Z"
+    },
+    {
+      "full_name": "0xEigenLabs/ecies-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2025-12-30T06:17:24.036076Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-browser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:24.411568Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2025-12-30T06:17:25.853593Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-dkey",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:26.129299Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-estark-gevulot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Assembly",
+      "last_checked": "2025-12-30T06:17:27.591297Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:28.086100Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:29.525351Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:17:30.964648Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-secret",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:17:32.454550Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-secret-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:32.782291Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:33.078632Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-wallet-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:33.441321Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-zeth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:34.840785Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-zknode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:36.658708Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigen-zkvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 142,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:38.080935Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigencc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:39.528353Z"
+    },
+    {
+      "full_name": "0xEigenLabs/eigencc_sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:17:40.996014Z"
+    },
+    {
+      "full_name": "0xEigenLabs/estark-gevulot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Assembly",
+      "last_checked": "2025-12-30T06:17:42.742048Z"
+    },
+    {
+      "full_name": "0xEigenLabs/interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:44.346039Z"
+    },
+    {
+      "full_name": "0xEigenLabs/narwhal",
+      "is_fork": true,
+      "parent": "asonnino/narwhal",
+      "source": "facebookresearch/narwhal",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:45.939058Z"
+    },
+    {
+      "full_name": "0xEigenLabs/plonkjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:47.558822Z"
+    },
+    {
+      "full_name": "0xEigenLabs/powdr",
+      "is_fork": true,
+      "parent": "powdr-labs/powdr",
+      "source": "powdr-labs/powdr",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:49.134789Z"
+    },
+    {
+      "full_name": "0xEigenLabs/powdr-pilcom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:50.546260Z"
+    },
+    {
+      "full_name": "0xEigenLabs/powdr-revme",
+      "is_fork": true,
+      "parent": "powdr-labs/powdr-revme",
+      "source": "powdr-labs/powdr-revme",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:52.239522Z"
+    },
+    {
+      "full_name": "0xEigenLabs/recursive_aggregation_circuit",
+      "is_fork": true,
+      "parent": "matter-labs/recursive_aggregation_circuit",
+      "source": "matter-labs/recursive_aggregation_circuit",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:17:53.812938Z"
+    },
+    {
+      "full_name": "0xEigenLabs/reth",
+      "is_fork": true,
+      "parent": "paradigmxyz/reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:55.540231Z"
+    },
+    {
+      "full_name": "0xEigenLabs/revm",
+      "is_fork": true,
+      "parent": "bluealloy/revm",
+      "source": "bluealloy/revm",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:17:57.275011Z"
+    },
+    {
+      "full_name": "0xEigenLabs/secret",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:17:57.730071Z"
+    },
+    {
+      "full_name": "0xEigenLabs/solidity_plonk_verifier",
+      "is_fork": true,
+      "parent": "fluidex/solidity_plonk_verifier",
+      "source": "matter-labs/solidity_plonk_verifier",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:17:59.382457Z"
+    },
+    {
+      "full_name": "0xEigenLabs/tss-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "Rust",
+      "last_checked": "2025-12-30T06:18:00.878856Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zk-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2025-12-30T06:18:02.354233Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zk-mixer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:18:03.835721Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zk-zkrollup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T06:18:05.771813Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zkevm-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:18:06.123005Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zkevm-executor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:18:06.525852Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zkevm-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:18:06.839100Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zkevm-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:18:07.320018Z"
+    },
+    {
+      "full_name": "0xEigenLabs/zkvm-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T06:18:08.056067Z"
+    }
+  ]
+}

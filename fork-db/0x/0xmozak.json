@@ -1,0 +1,168 @@
+{
+  "owner": "0xmozak",
+  "updated_at": "2026-02-28T20:22:31Z",
+  "repos": [
+    {
+      "full_name": "0xmozak/byteorder",
+      "is_fork": true,
+      "parent": "BurntSushi/byteorder",
+      "source": "BurntSushi/byteorder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:07:31.481336Z"
+    },
+    {
+      "full_name": "0xmozak/clio",
+      "is_fork": true,
+      "parent": "aj-bagwell/clio",
+      "source": "aj-bagwell/clio",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:33.017576Z"
+    },
+    {
+      "full_name": "0xmozak/crunchy",
+      "is_fork": true,
+      "parent": "eira-fransham/crunchy",
+      "source": "eira-fransham/crunchy",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:07:34.593187Z"
+    },
+    {
+      "full_name": "0xmozak/hashes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:35.973221Z"
+    },
+    {
+      "full_name": "0xmozak/local-cache",
+      "is_fork": true,
+      "parent": "maxnowack/local-cache",
+      "source": "maxnowack/local-cache",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T08:07:37.515404Z"
+    },
+    {
+      "full_name": "0xmozak/mozak-vm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:39.127205Z"
+    },
+    {
+      "full_name": "0xmozak/parity-common",
+      "is_fork": true,
+      "parent": "paritytech/parity-common",
+      "source": "paritytech/parity-common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:07:40.707338Z"
+    },
+    {
+      "full_name": "0xmozak/plonky2",
+      "is_fork": true,
+      "parent": "0xPolygonZero/plonky2",
+      "source": "0xPolygonZero/plonky2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:42.231429Z"
+    },
+    {
+      "full_name": "0xmozak/plonky2-crypto",
+      "is_fork": true,
+      "parent": "Lagrange-Labs/plonky2-crypto",
+      "source": "JumpCrypto/plonky2-crypto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:43.802212Z"
+    },
+    {
+      "full_name": "0xmozak/plonky3",
+      "is_fork": true,
+      "parent": "Plonky3/Plonky3",
+      "source": "Plonky3/Plonky3",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:45.396941Z"
+    },
+    {
+      "full_name": "0xmozak/poseidon2",
+      "is_fork": true,
+      "parent": "HorizenLabs/poseidon2",
+      "source": "HorizenLabs/poseidon2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:46.967403Z"
+    },
+    {
+      "full_name": "0xmozak/rkyv",
+      "is_fork": true,
+      "parent": "rkyv/rkyv",
+      "source": "rkyv/rkyv",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:07:48.486180Z"
+    },
+    {
+      "full_name": "0xmozak/rrs",
+      "is_fork": true,
+      "parent": "GregAC/rrs",
+      "source": "GregAC/rrs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:50.030874Z"
+    },
+    {
+      "full_name": "0xmozak/rust-cache",
+      "is_fork": true,
+      "parent": "Swatinem/rust-cache",
+      "source": "Swatinem/rust-cache",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2025-12-30T08:07:51.591576Z"
+    },
+    {
+      "full_name": "0xmozak/rust-hex",
+      "is_fork": true,
+      "parent": "KokaKiwi/rust-hex",
+      "source": "KokaKiwi/rust-hex",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2025-12-30T08:07:56.228198Z"
+    },
+    {
+      "full_name": "0xmozak/sp1",
+      "is_fork": true,
+      "parent": "succinctlabs/sp1",
+      "source": "succinctlabs/sp1",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:57.764113Z"
+    },
+    {
+      "full_name": "0xmozak/unroll",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2025-12-30T08:07:59.176434Z"
+    },
+    {
+      "full_name": "0xmozak/zk_evm",
+      "is_fork": true,
+      "parent": "0xPolygonZero/zk_evm",
+      "source": "0xPolygonZero/zk_evm",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2025-12-30T08:08:00.696818Z"
+    }
+  ]
+}
