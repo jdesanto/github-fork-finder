@@ -3,6 +3,7 @@
 Unified entry point for fork database operations.
 
   python3 db.py merge results.json           # merge fetched results into fork-db/
+  python3 db.py enrich                       # fetch missing parent repos
   python3 db.py query --owner celestiaorg    # query fork relationships
   python3 db.py validate --sample 200        # spot-check against live GitHub data
   python3 db.py index [--rebuild]            # build SQLite query index
@@ -160,6 +161,47 @@ def cmd_validate(args):
 
 
 # ------------------------------------------------------------------
+# enrich
+# ------------------------------------------------------------------
+
+def cmd_enrich(args):
+    from lib.github_api import load_token, prompt_for_token
+    from lib.enrich_db import enrich, find_missing_parents
+    from lib.fork_database import ForkDatabase
+
+    if args.dry_run:
+        db = ForkDatabase(args.db)
+        missing = find_missing_parents(db)
+        print(f"Missing parent repos: {len(missing)}")
+        if missing:
+            print("\nSample (first 20):")
+            for fn in missing[:20]:
+                print(f"  {fn}")
+            if len(missing) > 20:
+                print(f"  ... and {len(missing) - 20} more")
+        return
+
+    token = args.token or load_token()
+    if not token and sys.stdin.isatty():
+        token = prompt_for_token()
+    if not token:
+        print("Warning: No GitHub token. Rate limit is 60 req/hour.")
+
+    db, missing_count, added = enrich(
+        db_path=args.db,
+        token=token,
+        limit=args.limit,
+        delay=args.delay,
+    )
+
+    stats = db.get_stats()
+    print(f"\nDatabase now: {stats['total_repos']:,} repos, {stats['total_forks']:,} forks")
+    if missing_count > added + (args.limit or 0):
+        remaining = missing_count - (args.limit or missing_count)
+        print(f"Still missing: ~{remaining} parents — re-run to continue")
+
+
+# ------------------------------------------------------------------
 # index
 # ------------------------------------------------------------------
 
@@ -181,6 +223,10 @@ def main():
 Examples:
   python3 db.py merge github_links_results.json
   python3 db.py merge results1.json results2.json
+
+  python3 db.py enrich                       # fetch all missing parent repos
+  python3 db.py enrich --dry-run             # preview what would be fetched
+  python3 db.py enrich --limit 500           # fetch up to 500 missing parents
 
   python3 db.py query --stats
   python3 db.py query --owner celestiaorg
@@ -255,6 +301,25 @@ Examples:
     p_val.add_argument('--delay', type=float, default=0.5,
                        help='Seconds between API calls (default: 0.5)')
 
+    # enrich
+    p_enrich = sub.add_parser(
+        'enrich',
+        help='Fetch parent repos that are referenced but not yet in the database',
+        description=(
+            'Scans fork-db/ for parent references that have no entry of their own,\n'
+            'then fetches those repos from the GitHub API and writes them directly\n'
+            'into fork-db/. Closes the graph gap for analytics.'
+        ),
+    )
+    p_enrich.add_argument('--dry-run', action='store_true',
+                          help='Show missing parents without fetching anything')
+    p_enrich.add_argument('--limit', type=int, metavar='N',
+                          help='Max parents to fetch in this run (re-run to continue)')
+    p_enrich.add_argument('-t', '--token',
+                          help='GitHub API token (overrides GITHUB_TOKEN / .env)')
+    p_enrich.add_argument('--delay', type=float, default=0.5,
+                          help='Seconds between API calls (default: 0.5)')
+
     # index
     p_idx = sub.add_parser(
         'index',
@@ -273,6 +338,7 @@ Examples:
 
     dispatch = {
         'merge':    cmd_merge,
+        'enrich':   cmd_enrich,
         'query':    cmd_query,
         'validate': cmd_validate,
         'index':    cmd_index,

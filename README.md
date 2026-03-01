@@ -158,11 +158,30 @@ Options:
 
 Merge one or more result files into `fork-db/`.
 
+
+
 ```bash
 python3 db.py merge github_links_results.json
 python3 db.py merge results1.json results2.json
 python3 db.py merge --db /other/fork-db/ results.json
 ```
+
+#### enrich
+
+After a fetch run, many forks will reference parent repos that weren't in the input file and are therefore absent from `fork-db/`. `enrich` finds all such parents and fetches them directly, turning the fork graph from disconnected pairs into a properly linked graph ready for analytics.
+
+```bash
+# Preview what would be fetched (no API calls)
+python3 db.py enrich --dry-run
+
+# Fetch all missing parent repos
+python3 db.py enrich
+
+# Process in chunks if needed
+python3 db.py enrich --limit 1000
+```
+
+Results are written directly into `fork-db/` — no intermediate file or separate merge step needed.
 
 #### query
 
@@ -288,6 +307,7 @@ db.save()
 | `lib/github_api.py` | GitHub API client, token loading, rate-limit handling |
 | `lib/query_db.py` | Query functions used by `db.py query` |
 | `lib/validate_db.py` | Validation logic used by `db.py validate` |
+| `lib/enrich_db.py` | Parent enrichment logic used by `db.py enrich` |
 | `lib/build_index.py` | SQLite index builder used by `db.py index` |
 | `lib/merge_db.py` | Merge logic used by `db.py merge` |
 | `lib/migrate_db.py` | One-time tool: convert old repo-layout to owner-layout |
