@@ -146,7 +146,7 @@ Options:
   --cache DIR             Master database to use as cache (default: fork-db/)
   --limit N               Max new API fetches per run (default: 20000)
   -t, --token TOKEN       GitHub API token
-  --delay SECONDS         Seconds between API calls (default: 0.5)
+  --delay SECONDS         Seconds between API calls (default: 1.5)
   --export FILE           Export fork relationships to JSON
   --export-csv FILE       Export fork relationships to CSV
   --export-simple FILE    Export simple {url, parent_url} format to JSON

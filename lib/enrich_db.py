@@ -6,10 +6,11 @@ Closing this gap turns the fork graph from a collection of disconnected
 spoke-hub pairs into a properly connected graph suitable for analytics.
 """
 
+import time
 from typing import Optional
 
 from .fork_database import ForkDatabase
-from .github_api import GitHubAPIClient
+from .github_api import GitHubAPIClient, format_duration
 
 
 def find_missing_parents(db: ForkDatabase) -> list:
@@ -49,13 +50,19 @@ def enrich(
 
     client = GitHubAPIClient(token=token, delay=delay)
     added = 0
+    start_time = time.time()
 
     for i, full_name in enumerate(missing, 1):
         if i % 100 == 0 or i == 1:
+            elapsed = time.time() - start_time
+            rate = i / elapsed if elapsed > 0 else 0
+            eta = (len(missing) - i) / rate if rate > 0 else 0
             pct = 100 * i / len(missing)
             print(f"  {i}/{len(missing)} ({pct:.0f}%) — "
                   f"{client.api_calls_made} API calls — "
-                  f"{client.rate_limit_remaining or '?'} rate-limit remaining")
+                  f"{client.rate_limit_remaining or '?'} rate-limit — "
+                  f"elapsed {format_duration(elapsed)} — "
+                  f"~{format_duration(eta)} remaining")
 
         owner, repo = full_name.split('/', 1)
         repo_data = client.get_repo_info(owner, repo)
@@ -77,8 +84,10 @@ def enrich(
             db.save()
             print(f"  Checkpoint saved at {i} repos")
 
+    total_elapsed = time.time() - start_time
     db.save()
-    print(f"\nCompleted: {added} parent repos added ({len(missing) - added} were 404/deleted)")
+    print(f"\nCompleted in {format_duration(total_elapsed)}: "
+          f"{added} parent repos added ({len(missing) - added} were 404/deleted)")
     print(f"API calls made: {client.api_calls_made:,}")
 
     return db, missing_count, added

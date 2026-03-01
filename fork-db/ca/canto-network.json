@@ -1,0 +1,240 @@
+{
+  "owner": "canto-network",
+  "updated_at": "2026-03-01T21:50:15Z",
+  "repos": [
+    {
+      "full_name": "Canto-Network/CIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:24Z"
+    },
+    {
+      "full_name": "Canto-Network/Canto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 83,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T20:37:25Z"
+    },
+    {
+      "full_name": "Canto-Network/Canto-Testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-01T20:37:26Z"
+    },
+    {
+      "full_name": "Canto-Network/Canto-Upgrade-Docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:27Z"
+    },
+    {
+      "full_name": "Canto-Network/CrocSwap-protocol",
+      "is_fork": true,
+      "parent": "CrocSwap/CrocSwap-protocol",
+      "source": "CrocSwap/CrocSwap-protocol",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T20:37:28Z"
+    },
+    {
+      "full_name": "Canto-Network/bdjuno",
+      "is_fork": true,
+      "parent": "forbole/callisto",
+      "source": "forbole/callisto",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:29Z"
+    },
+    {
+      "full_name": "Canto-Network/big-dipper-2.0-cosmos",
+      "is_fork": true,
+      "parent": "forbole/big-dipper-2.0-cosmos",
+      "source": "forbole/big-dipper-2.0-cosmos",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:30Z"
+    },
+    {
+      "full_name": "Canto-Network/canto-api",
+      "is_fork": true,
+      "parent": "Plex-Engineer/canto-api",
+      "source": "Plex-Engineer/canto-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:31Z"
+    },
+    {
+      "full_name": "Canto-Network/canto-branding-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:32Z"
+    },
+    {
+      "full_name": "Canto-Network/canto-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T20:37:33Z"
+    },
+    {
+      "full_name": "Canto-Network/canto-v3",
+      "is_fork": true,
+      "parent": "Plex-Engineer/canto-v3",
+      "source": "Plex-Engineer/canto-v3",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T20:37:34Z"
+    },
+    {
+      "full_name": "Canto-Network/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-01T20:37:35Z"
+    },
+    {
+      "full_name": "Canto-Network/clm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T20:37:36Z"
+    },
+    {
+      "full_name": "Canto-Network/cluster-registry-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T20:37:37Z"
+    },
+    {
+      "full_name": "Canto-Network/cluster-registry-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T20:37:38Z"
+    },
+    {
+      "full_name": "Canto-Network/deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:39Z"
+    },
+    {
+      "full_name": "Canto-Network/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:40Z"
+    },
+    {
+      "full_name": "Canto-Network/ethermint",
+      "is_fork": true,
+      "parent": "evmos/ethermint",
+      "source": "evmos/ethermint",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:41Z"
+    },
+    {
+      "full_name": "Canto-Network/ethermint-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T20:37:42Z"
+    },
+    {
+      "full_name": "Canto-Network/ethermint-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T20:37:43Z"
+    },
+    {
+      "full_name": "Canto-Network/graph-node-canto",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:44Z"
+    },
+    {
+      "full_name": "Canto-Network/list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:45Z"
+    },
+    {
+      "full_name": "Canto-Network/pm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:45Z"
+    },
+    {
+      "full_name": "Canto-Network/settlersissues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:46Z"
+    },
+    {
+      "full_name": "Canto-Network/sourcify",
+      "is_fork": true,
+      "parent": "argotorg/sourcify",
+      "source": "argotorg/sourcify",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T20:37:47Z"
+    },
+    {
+      "full_name": "Canto-Network/testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:48Z"
+    }
+  ]
+}

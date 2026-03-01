@@ -298,8 +298,8 @@ Examples:
                        help='Update the database with fresh data for any issues found')
     p_val.add_argument('-t', '--token',
                        help='GitHub API token (overrides GITHUB_TOKEN / .env)')
-    p_val.add_argument('--delay', type=float, default=0.5,
-                       help='Seconds between API calls (default: 0.5)')
+    p_val.add_argument('--delay', type=float, default=1.5,
+                       help='Seconds between API calls (default: 1.5)')
 
     # enrich
     p_enrich = sub.add_parser(
@@ -317,8 +317,8 @@ Examples:
                           help='Max parents to fetch in this run (re-run to continue)')
     p_enrich.add_argument('-t', '--token',
                           help='GitHub API token (overrides GITHUB_TOKEN / .env)')
-    p_enrich.add_argument('--delay', type=float, default=0.5,
-                          help='Seconds between API calls (default: 0.5)')
+    p_enrich.add_argument('--delay', type=float, default=1.5,
+                          help='Seconds between API calls (default: 1.5)')
 
     # index
     p_idx = sub.add_parser(

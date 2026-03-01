@@ -14,12 +14,13 @@ import csv
 import json
 import re
 import sys
+import time
 import argparse
 from pathlib import Path
 from typing import List
 
 from lib.fork_database import ForkDatabase
-from lib.github_api import load_token, prompt_for_token, GitHubAPIClient
+from lib.github_api import load_token, prompt_for_token, GitHubAPIClient, format_duration
 
 
 # ------------------------------------------------------------------
@@ -68,8 +69,8 @@ Examples:
                         help='Master database used as a read cache (default: fork-db/)')
     parser.add_argument('-t', '--token',
                         help='GitHub API token (overrides GITHUB_TOKEN env / .env)')
-    parser.add_argument('--delay', type=float, default=0.5,
-                        help='Seconds between API requests (default: 0.5)')
+    parser.add_argument('--delay', type=float, default=1.5,
+                        help='Seconds between API requests (default: 1.5)')
     parser.add_argument('--limit', type=int, default=20000, metavar='N',
                         help='Max new API calls per run (default: 20000). '
                              'Already-cached repos are always included regardless of limit.')
@@ -130,13 +131,19 @@ Examples:
     if missing_repos:
         print(f"\nFetching {len(missing_repos)} repositories from GitHub API...")
         client = GitHubAPIClient(token=token, delay=args.delay)
+        start_time = time.time()
 
         for i, full_name in enumerate(missing_repos, 1):
             if i % 100 == 0 or i == 1:
+                elapsed = time.time() - start_time
+                rate = i / elapsed if elapsed > 0 else 0
+                eta = (len(missing_repos) - i) / rate if rate > 0 else 0
                 pct = 100 * i / len(missing_repos)
                 print(f"  {i}/{len(missing_repos)} ({pct:.0f}%) — "
                       f"{client.api_calls_made} API calls — "
-                      f"{client.rate_limit_remaining or '?'} rate-limit remaining")
+                      f"{client.rate_limit_remaining or '?'} rate-limit — "
+                      f"elapsed {format_duration(elapsed)} — "
+                      f"~{format_duration(eta)} remaining")
 
             owner, repo = full_name.split('/', 1)
             repo_data = client.get_repo_info(owner, repo)
@@ -162,7 +169,8 @@ Examples:
                 output_db.save()
                 print(f"  Checkpoint saved at {i} repos")
 
-        print(f"\nCompleted! Made {client.api_calls_made} API calls")
+        total_elapsed = time.time() - start_time
+        print(f"\nCompleted! Made {client.api_calls_made} API calls in {format_duration(total_elapsed)}")
     else:
         print("\nAll repositories found in cache!")
 
@@ -188,7 +196,7 @@ Examples:
         remaining = len(all_repos) - len(cached_repos) - len(missing_repos)
         if remaining > 0:
             print(f"Still uncached: ~{remaining} repos (re-run to continue)")
-        print(f"Merge into master: python3 merge_db.py {args.cache} {output_file}")
+        print(f"Merge into master: python3 db.py merge {output_file}")
 
     # Optional exports
     if args.export or args.export_csv:

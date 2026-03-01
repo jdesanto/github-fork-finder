@@ -1,0 +1,60 @@
+{
+  "owner": "canopus-network-opus",
+  "updated_at": "2026-03-01T21:50:15Z",
+  "repos": [
+    {
+      "full_name": "Canopus-Network-OPUS/Bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T20:37:12Z"
+    },
+    {
+      "full_name": "Canopus-Network-OPUS/OPUS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T20:37:13Z"
+    },
+    {
+      "full_name": "Canopus-Network-OPUS/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:14Z"
+    },
+    {
+      "full_name": "Canopus-Network-OPUS/bridge-tokens",
+      "is_fork": true,
+      "parent": "ava-labs/bridge-tokens",
+      "source": "ava-labs/bridge-tokens",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T20:37:15Z"
+    },
+    {
+      "full_name": "Canopus-Network-OPUS/pangolin.exchange",
+      "is_fork": true,
+      "parent": "pangolindex/pangolin.exchange",
+      "source": "pangolindex/pangolin.exchange",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:16Z"
+    },
+    {
+      "full_name": "Canopus-Network-OPUS/token-lists",
+      "is_fork": true,
+      "parent": "Uniswap/token-lists",
+      "source": "Uniswap/token-lists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T20:37:17Z"
+    }
+  ]
+}
