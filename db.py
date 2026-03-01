@@ -1,0 +1,284 @@
+#!/usr/bin/env python3
+"""
+Unified entry point for fork database operations.
+
+  python3 db.py merge results.json           # merge fetched results into fork-db/
+  python3 db.py query --owner celestiaorg    # query fork relationships
+  python3 db.py validate --sample 200        # spot-check against live GitHub data
+  python3 db.py index [--rebuild]            # build SQLite query index
+"""
+
+import argparse
+import sys
+from pathlib import Path
+
+
+# ------------------------------------------------------------------
+# merge
+# ------------------------------------------------------------------
+
+def cmd_merge(args):
+    from lib.fork_database import ForkDatabase
+
+    base_db = ForkDatabase(args.db)
+    initial = len(base_db.repos)
+    total_added = 0
+
+    for source in args.sources:
+        if not Path(source).exists():
+            print(f"  Skipping {source} (not found)")
+            continue
+        print(f"Merging {source}...")
+        added = base_db.merge_from_file(source)
+        total_added += added
+        print(f"  +{added} repos")
+
+    base_db.save()
+
+    stats = base_db.get_stats()
+    print(f"\nDone: {initial:,} → {len(base_db.repos):,} repos (+{total_added:,})")
+    print(f"Forks: {stats['total_forks']:,}   Originals: {stats['original_repos']:,}")
+    print(f"Saved to: {args.db}")
+
+
+# ------------------------------------------------------------------
+# query
+# ------------------------------------------------------------------
+
+def cmd_query(args):
+    from lib.fork_database import ForkDatabase
+    from lib.query_db import (
+        print_repo_info, print_owner_repos, find_parent,
+        search_repos, list_top_forked, show_stats, show_random_fork_example,
+    )
+
+    db = ForkDatabase(args.db)
+
+    if args.info:
+        print_repo_info(db, args.info)
+    elif args.owner:
+        print_owner_repos(db, args.owner)
+    elif args.parent:
+        find_parent(db, args.parent)
+    elif args.search:
+        search_repos(db, args.search)
+    elif args.top:
+        list_top_forked(db, args.top)
+    elif args.stats:
+        show_stats(db)
+    elif args.random:
+        show_random_fork_example(db)
+    else:
+        print("Specify a query option. Use `python3 db.py query --help` to see all options.")
+
+
+# ------------------------------------------------------------------
+# validate
+# ------------------------------------------------------------------
+
+def cmd_validate(args):
+    import random
+    from lib.fork_database import ForkDatabase, _utcnow
+    from lib.github_api import load_token, prompt_for_token, GitHubAPIClient
+    from lib.validate_db import check_repo, print_report
+
+    token = args.token or load_token()
+    if not token and sys.stdin.isatty():
+        token = prompt_for_token()
+    if not token:
+        print("Warning: No GitHub token. Rate limit is 60 req/hour.")
+
+    print(f"Loading database: {args.db}")
+    db = ForkDatabase(args.db)
+    total_db = len(db.repos)
+    print(f"Loaded {total_db:,} repos")
+
+    if total_db == 0:
+        print("Database is empty.")
+        return
+
+    if args.owner:
+        candidates = [fn for fn in db.repos if fn.split('/')[0].lower() == args.owner.lower()]
+        if not candidates:
+            print(f"No repos found for owner '{args.owner}'")
+            return
+        sample = candidates
+        print(f"Checking {len(sample)} repos for owner '{args.owner}'...")
+    elif getattr(args, 'full', False):
+        sample = list(db.repos.keys())
+        print(f"Checking all {len(sample):,} repos...")
+    else:
+        n = min(args.sample, total_db)
+        sample = random.sample(list(db.repos.keys()), n)
+        print(f"Checking {n:,} random repos from {total_db:,} total...")
+
+    client = GitHubAPIClient(token=token, delay=args.delay)
+    results = {'ok': [], 'changed': [], 'deleted': []}
+
+    for i, full_name in enumerate(sample, 1):
+        if i % 50 == 0 or i == len(sample):
+            print(f"  {i}/{len(sample)} ({100*i/len(sample):.0f}%) — "
+                  f"{client.api_calls_made} API calls")
+
+        stored = db.get_repo(full_name)
+        result = check_repo(client, stored)
+        bucket = result['status'] if result['status'] in ('deleted', 'ok') else 'changed'
+        results[bucket].append(result)
+
+        if result['status'] != 'ok':
+            icon = 'x' if result['status'] == 'deleted' else '!'
+            print(f"  [{icon}] {full_name}: {result['status']}")
+            for change in result['changes']:
+                print(f"      {change}")
+
+    print_report(results, len(sample))
+    print(f"API calls made: {client.api_calls_made:,}")
+
+    total_issues = len(results['changed']) + len(results['deleted'])
+
+    if total_issues > 0 and not args.fix:
+        print(f"\nRun with --fix to update {total_issues} "
+              f"stale entr{'y' if total_issues == 1 else 'ies'}.")
+        return
+
+    if args.fix and total_issues > 0:
+        print(f"\nFixing {total_issues} entr{'y' if total_issues == 1 else 'ies'}...")
+        fixed = 0
+        for result in results['changed']:
+            if result['live_data']:
+                db.add_repo(result['full_name'], result['live_data'])
+                fixed += 1
+        for result in results['deleted']:
+            stored = db.get_repo(result['full_name'])
+            if stored:
+                stored['last_checked'] = _utcnow()
+                stored['deleted'] = True
+                db.add_repo_entry(stored)
+                fixed += 1
+        db.save()
+        print(f"Fixed {fixed} entr{'y' if fixed == 1 else 'ies'} — database saved.")
+
+
+# ------------------------------------------------------------------
+# index
+# ------------------------------------------------------------------
+
+def cmd_index(args):
+    from lib.build_index import build
+    sys.exit(build(args.db, args.out, rebuild=args.rebuild))
+
+
+# ------------------------------------------------------------------
+# CLI wiring
+# ------------------------------------------------------------------
+
+def main():
+    parser = argparse.ArgumentParser(
+        prog='db.py',
+        description='Fork database operations',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python3 db.py merge github_links_results.json
+  python3 db.py merge results1.json results2.json
+
+  python3 db.py query --stats
+  python3 db.py query --owner celestiaorg
+  python3 db.py query --parent 01node/awesome-celestia
+  python3 db.py query --top 20
+
+  python3 db.py validate --sample 200
+  python3 db.py validate --sample 500 --fix
+  python3 db.py validate --owner celestiaorg --fix
+
+  python3 db.py index
+  python3 db.py index --rebuild
+        """,
+    )
+    parser.add_argument('--db', default='fork-db/',
+                        help='Database directory (default: fork-db/)')
+
+    sub = parser.add_subparsers(dest='command', metavar='COMMAND')
+    sub.required = True
+
+    # merge
+    p_merge = sub.add_parser(
+        'merge',
+        help='Merge result JSON file(s) into fork-db/',
+        description=(
+            'Merge one or more find_forks.py result files into the master database.\n'
+            'Existing entries are only replaced if the incoming data is newer\n'
+            '(compared by last_checked timestamp).'
+        ),
+    )
+    p_merge.add_argument('sources', nargs='+', metavar='FILE',
+                         help='Result JSON file(s) produced by find_forks.py')
+
+    # query
+    p_query = sub.add_parser(
+        'query',
+        help='Query fork relationships and owner repos',
+        description='Read and display data from fork-db/. No API calls made.',
+    )
+    p_query.add_argument('--owner', metavar='USER',
+                         help='All repos crawled for a GitHub user/org')
+    p_query.add_argument('--info', metavar='REPO',
+                         help='Full details for a repo (owner/repo)')
+    p_query.add_argument('--parent', metavar='FORK',
+                         help='Find the parent of a fork (owner/repo)')
+    p_query.add_argument('--search', metavar='NAME',
+                         help='Search repos by name')
+    p_query.add_argument('--top', type=int, metavar='N',
+                         help='Top N most-forked repos')
+    p_query.add_argument('--stats', action='store_true',
+                         help='Database statistics')
+    p_query.add_argument('--random', action='store_true',
+                         help='Random repo with its known forks')
+
+    # validate
+    p_val = sub.add_parser(
+        'validate',
+        help='Spot-check stored data against live GitHub API',
+        description='Re-fetch a sample of repos and compare against stored data.',
+    )
+    scope = p_val.add_mutually_exclusive_group(required=True)
+    scope.add_argument('--sample', type=int, metavar='N',
+                       help='Check N randomly selected repos')
+    scope.add_argument('--full', action='store_true',
+                       help='Check every repo in the database (slow)')
+    scope.add_argument('--owner', metavar='USER',
+                       help="Check all repos for one owner")
+    p_val.add_argument('--fix', action='store_true',
+                       help='Update the database with fresh data for any issues found')
+    p_val.add_argument('-t', '--token',
+                       help='GitHub API token (overrides GITHUB_TOKEN / .env)')
+    p_val.add_argument('--delay', type=float, default=0.5,
+                       help='Seconds between API calls (default: 0.5)')
+
+    # index
+    p_idx = sub.add_parser(
+        'index',
+        help='Build or rebuild the SQLite query index',
+        description=(
+            'Generate fork-db.sqlite from the JSON source files.\n'
+            'The index is not committed — regenerate it any time.'
+        ),
+    )
+    p_idx.add_argument('--out', default='fork-db.sqlite',
+                       help='Output SQLite file (default: fork-db.sqlite)')
+    p_idx.add_argument('--rebuild', action='store_true',
+                       help='Delete the existing index and recreate it')
+
+    args = parser.parse_args()
+
+    dispatch = {
+        'merge':    cmd_merge,
+        'query':    cmd_query,
+        'validate': cmd_validate,
+        'index':    cmd_index,
+    }
+    dispatch[args.command](args)
+
+
+if __name__ == '__main__':
+    main()
