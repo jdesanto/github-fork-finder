@@ -1,0 +1,573 @@
+{
+  "owner": "byte-masons",
+  "updated_at": "2026-03-01T19:01:44Z",
+  "repos": [
+    {
+      "full_name": "Byte-Masons/-DEPRECATED--granary-multi-strategy",
+      "is_fork": true,
+      "parent": "Byte-Masons/geist-multi-strategy",
+      "source": "Byte-Masons/geist-multi-strategy",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:10Z"
+    },
+    {
+      "full_name": "Byte-Masons/0xdao-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:11Z"
+    },
+    {
+      "full_name": "Byte-Masons/Corval1.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:11Z"
+    },
+    {
+      "full_name": "Byte-Masons/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T16:57:12Z"
+    },
+    {
+      "full_name": "Byte-Masons/DefiLlama-Adapters-Ethos",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T16:57:13Z"
+    },
+    {
+      "full_name": "Byte-Masons/Ethos-V2-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T16:57:14Z"
+    },
+    {
+      "full_name": "Byte-Masons/Keystone-Smart-Token-Library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:15Z"
+    },
+    {
+      "full_name": "Byte-Masons/NFT-Bound-LGE",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:15Z"
+    },
+    {
+      "full_name": "Byte-Masons/Reliquary",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:16Z"
+    },
+    {
+      "full_name": "Byte-Masons/Remitter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:17Z"
+    },
+    {
+      "full_name": "Byte-Masons/balancer-v2-monorepo",
+      "is_fork": true,
+      "parent": "beethovenxfi/balancer-v2-monorepo",
+      "source": "balancer/balancer-v2-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:18Z"
+    },
+    {
+      "full_name": "Byte-Masons/based-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:19Z"
+    },
+    {
+      "full_name": "Byte-Masons/bastion-lp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:20Z"
+    },
+    {
+      "full_name": "Byte-Masons/beet-strat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:21Z"
+    },
+    {
+      "full_name": "Byte-Masons/chirp-moon-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:22Z"
+    },
+    {
+      "full_name": "Byte-Masons/cod3x-event-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T16:57:23Z"
+    },
+    {
+      "full_name": "Byte-Masons/compound-leverage",
+      "is_fork": true,
+      "parent": "0xulver/scream-leverage",
+      "source": "0xulver/scream-leverage",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:24Z"
+    },
+    {
+      "full_name": "Byte-Masons/creditum-farm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:25Z"
+    },
+    {
+      "full_name": "Byte-Masons/curve-compounder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:26Z"
+    },
+    {
+      "full_name": "Byte-Masons/deepbookv3",
+      "is_fork": true,
+      "parent": "MystenLabs/deepbookv3",
+      "source": "MystenLabs/deepbookv3",
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-01T16:57:27Z"
+    },
+    {
+      "full_name": "Byte-Masons/defi-template-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:27Z"
+    },
+    {
+      "full_name": "Byte-Masons/defi-ui-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:28Z"
+    },
+    {
+      "full_name": "Byte-Masons/defillama-icons",
+      "is_fork": true,
+      "parent": "DefiLlama/icons",
+      "source": "DefiLlama/icons",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:29Z"
+    },
+    {
+      "full_name": "Byte-Masons/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:30Z"
+    },
+    {
+      "full_name": "Byte-Masons/excalibur-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:31Z"
+    },
+    {
+      "full_name": "Byte-Masons/fLotto-Core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:31Z"
+    },
+    {
+      "full_name": "Byte-Masons/fLotto-FE",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:32Z"
+    },
+    {
+      "full_name": "Byte-Masons/geist-multi-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:33Z"
+    },
+    {
+      "full_name": "Byte-Masons/geist-multi-strategy-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:34Z"
+    },
+    {
+      "full_name": "Byte-Masons/glyph-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:35Z"
+    },
+    {
+      "full_name": "Byte-Masons/granary-multi-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:35Z"
+    },
+    {
+      "full_name": "Byte-Masons/granary-multi-strategy-old",
+      "is_fork": true,
+      "parent": "Byte-Masons/geist-multi-strategy",
+      "source": "Byte-Masons/geist-multi-strategy",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:36Z"
+    },
+    {
+      "full_name": "Byte-Masons/lending-optimizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:37Z"
+    },
+    {
+      "full_name": "Byte-Masons/liquid-beet-farmer",
+      "is_fork": true,
+      "parent": "BastienGuyonnet/lqdr-beethovenx",
+      "source": "BastienGuyonnet/lqdr-beethovenx",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:38Z"
+    },
+    {
+      "full_name": "Byte-Masons/liquid-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:39Z"
+    },
+    {
+      "full_name": "Byte-Masons/moe-tokenlists",
+      "is_fork": true,
+      "parent": "merchant-moe/moe-tokenlists",
+      "source": "merchant-moe/moe-tokenlists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:40Z"
+    },
+    {
+      "full_name": "Byte-Masons/options-compounder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:41Z"
+    },
+    {
+      "full_name": "Byte-Masons/options-token",
+      "is_fork": true,
+      "parent": "timeless-fi/options-token",
+      "source": "timeless-fi/options-token",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:42Z"
+    },
+    {
+      "full_name": "Byte-Masons/peggedassets-server",
+      "is_fork": true,
+      "parent": "DefiLlama/peggedassets-server",
+      "source": "DefiLlama/peggedassets-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:43Z"
+    },
+    {
+      "full_name": "Byte-Masons/polaris-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:44Z"
+    },
+    {
+      "full_name": "Byte-Masons/qidao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:45Z"
+    },
+    {
+      "full_name": "Byte-Masons/reaper-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:45Z"
+    },
+    {
+      "full_name": "Byte-Masons/reaper-multi-strategy-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:46Z"
+    },
+    {
+      "full_name": "Byte-Masons/reaper-multi-strategy-subgraph-optimism",
+      "is_fork": true,
+      "parent": "Byte-Masons/reaper-multi-strategy-subgraph",
+      "source": "Byte-Masons/reaper-multi-strategy-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T16:57:47Z"
+    },
+    {
+      "full_name": "Byte-Masons/reaper-multi-strategy-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:48Z"
+    },
+    {
+      "full_name": "Byte-Masons/scarab-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:49Z"
+    },
+    {
+      "full_name": "Byte-Masons/scream-leverage-multi-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:50Z"
+    },
+    {
+      "full_name": "Byte-Masons/solidity-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:57:50Z"
+    },
+    {
+      "full_name": "Byte-Masons/sonne-loop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:51Z"
+    },
+    {
+      "full_name": "Byte-Masons/spooky-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:52Z"
+    },
+    {
+      "full_name": "Byte-Masons/stability-pool-compounder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:53Z"
+    },
+    {
+      "full_name": "Byte-Masons/stargate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:54Z"
+    },
+    {
+      "full_name": "Byte-Masons/strategy-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:55Z"
+    },
+    {
+      "full_name": "Byte-Masons/tarot-multi-strategy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:56Z"
+    },
+    {
+      "full_name": "Byte-Masons/tarot-multi-strategy-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:57Z"
+    },
+    {
+      "full_name": "Byte-Masons/thena-farmer",
+      "is_fork": true,
+      "parent": "Byte-Masons/velodrome-farmer",
+      "source": "Byte-Masons/velodrome-farmer",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:58Z"
+    },
+    {
+      "full_name": "Byte-Masons/tomb-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:57:59Z"
+    },
+    {
+      "full_name": "Byte-Masons/velodrome-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:58:00Z"
+    },
+    {
+      "full_name": "Byte-Masons/vfat-tools",
+      "is_fork": true,
+      "parent": "vfat-io/vfat-tools",
+      "source": "vfat-io/vfat-tools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T16:58:01Z"
+    },
+    {
+      "full_name": "Byte-Masons/wigo-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:58:01Z"
+    },
+    {
+      "full_name": "Byte-Masons/xshare",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:58:02Z"
+    },
+    {
+      "full_name": "Byte-Masons/yearn-farmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T16:58:03Z"
+    },
+    {
+      "full_name": "Byte-Masons/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T16:58:04Z"
+    }
+  ]
+}

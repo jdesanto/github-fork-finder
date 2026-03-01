@@ -1,0 +1,141 @@
+{
+  "owner": "bitcoin-confidential",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Bitcoin-Confidential/BC-Script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-01T12:55:19Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/BitcoinC-Core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:20Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/Snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:21Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-bitcoind-rpc",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-bitcoind-rpc",
+      "source": "leoreinaux/bc-bitcoind-rpc",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:22Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-bitcore-lib",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-bitcore-lib",
+      "source": "leoreinaux/bc-bitcore-lib",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:23Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-bitcore-message",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-bitcore-message",
+      "source": "leoreinaux/bc-bitcore-message",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:24Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-bitcore-node",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-bitcore-node",
+      "source": "leoreinaux/bc-bitcore-node",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:25Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-core-custom",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-core-custom",
+      "source": "leoreinaux/bc-core-custom",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:26Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-insight-api",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-insight-api",
+      "source": "leoreinaux/bc-insight-api",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:27Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bc-insight-ui",
+      "is_fork": true,
+      "parent": "leoreinaux/bc-insight-ui",
+      "source": "leoreinaux/bc-insight-ui",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:28Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/bitcoinc-seeder",
+      "is_fork": true,
+      "parent": "xdustinface/bitcoinc-seeder",
+      "source": "sipa/bitcoin-seeder",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:29Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/quickbc-app-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:30Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/quickbc-core-cpp",
+      "is_fork": true,
+      "parent": "leoreinaux/quickbc-core-cpp",
+      "source": "leoreinaux/quickbc-core-cpp",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:31Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/quickbc-core-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:32Z"
+    },
+    {
+      "full_name": "Bitcoin-Confidential/quickbc-libapp-cpp",
+      "is_fork": true,
+      "parent": "leoreinaux/quickbc-libapp-cpp",
+      "source": "leoreinaux/quickbc-libapp-cpp",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:33Z"
+    }
+  ]
+}

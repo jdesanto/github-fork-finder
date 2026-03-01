@@ -1,0 +1,51 @@
+{
+  "owner": "avalido",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AvaLido/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:07:28Z"
+    },
+    {
+      "full_name": "AvaLido/lido-js-sdk",
+      "is_fork": true,
+      "parent": "lidofinance/lido-js-sdk",
+      "source": "lidofinance/lido-js-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:29Z"
+    },
+    {
+      "full_name": "AvaLido/local-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:29Z"
+    },
+    {
+      "full_name": "AvaLido/mpc-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:29Z"
+    },
+    {
+      "full_name": "AvaLido/mpc-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:30Z"
+    }
+  ]
+}

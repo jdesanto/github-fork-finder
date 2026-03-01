@@ -1,0 +1,42 @@
+{
+  "owner": "buildwithbitcoin",
+  "updated_at": "2026-03-01T19:01:44Z",
+  "repos": [
+    {
+      "full_name": "BuildWithBitcoin/Bitcoin-L1-Main",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:11:45Z"
+    },
+    {
+      "full_name": "BuildWithBitcoin/BitcoinL1-Explorer",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:11:46Z"
+    },
+    {
+      "full_name": "BuildWithBitcoin/Satly-L1-Main",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:11:47Z"
+    },
+    {
+      "full_name": "BuildWithBitcoin/bitcoinl1-mcp-server",
+      "is_fork": true,
+      "parent": "mcpdotdirect/evm-mcp-server",
+      "source": "mcpdotdirect/evm-mcp-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:11:48Z"
+    }
+  ]
+}

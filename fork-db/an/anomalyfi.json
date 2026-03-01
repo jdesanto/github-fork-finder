@@ -1,0 +1,537 @@
+{
+  "owner": "anomalyfi",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AnomalyFi/Arcadia",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:25Z"
+    },
+    {
+      "full_name": "AnomalyFi/Tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:26Z"
+    },
+    {
+      "full_name": "AnomalyFi/alto",
+      "is_fork": true,
+      "parent": "commonwarexyz/alto",
+      "source": "commonwarexyz/alto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:53:27Z"
+    },
+    {
+      "full_name": "AnomalyFi/anchor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:27Z"
+    },
+    {
+      "full_name": "AnomalyFi/ansible-avalanche-collection",
+      "is_fork": true,
+      "parent": "AshAvalanche/ansible-avalanche-collection",
+      "source": "AshAvalanche/ansible-avalanche-collection",
+      "stars": 0,
+      "language": "YAML",
+      "last_checked": "2026-03-01T06:53:28Z"
+    },
+    {
+      "full_name": "AnomalyFi/ansible-avalanche-getting-started",
+      "is_fork": true,
+      "parent": "AshAvalanche/ansible-avalanche-getting-started",
+      "source": "AshAvalanche/ansible-avalanche-getting-started",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:29Z"
+    },
+    {
+      "full_name": "AnomalyFi/avalanchego",
+      "is_fork": true,
+      "parent": "ava-labs/avalanchego",
+      "source": "ava-labs/avalanchego",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:30Z"
+    },
+    {
+      "full_name": "AnomalyFi/blobstreamx",
+      "is_fork": true,
+      "parent": "succinctlabs/blobstreamx",
+      "source": "succinctlabs/blobstreamx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:53:31Z"
+    },
+    {
+      "full_name": "AnomalyFi/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:32Z"
+    },
+    {
+      "full_name": "AnomalyFi/builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:32Z"
+    },
+    {
+      "full_name": "AnomalyFi/cdk-erigon",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:34Z"
+    },
+    {
+      "full_name": "AnomalyFi/celestia-app",
+      "is_fork": true,
+      "parent": "celestiaorg/celestia-app",
+      "source": "celestiaorg/celestia-app",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:35Z"
+    },
+    {
+      "full_name": "AnomalyFi/celestia-da",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:35Z"
+    },
+    {
+      "full_name": "AnomalyFi/celestia-node",
+      "is_fork": true,
+      "parent": "celestiaorg/celestia-node",
+      "source": "celestiaorg/celestia-node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:36Z"
+    },
+    {
+      "full_name": "AnomalyFi/centralized-sequencer",
+      "is_fork": true,
+      "parent": "evstack/centralized-sequencer",
+      "source": "evstack/centralized-sequencer",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:37Z"
+    },
+    {
+      "full_name": "AnomalyFi/commonware-monorepo",
+      "is_fork": true,
+      "parent": "commonwarexyz/monorepo",
+      "source": "commonwarexyz/monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:38Z"
+    },
+    {
+      "full_name": "AnomalyFi/coreth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:39Z"
+    },
+    {
+      "full_name": "AnomalyFi/erigon",
+      "is_fork": true,
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:40Z"
+    },
+    {
+      "full_name": "AnomalyFi/eth-faucet",
+      "is_fork": true,
+      "parent": "chainflag/eth-faucet",
+      "source": "chainflag/eth-faucet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:41Z"
+    },
+    {
+      "full_name": "AnomalyFi/eth-pos-devnet",
+      "is_fork": true,
+      "parent": "OffchainLabs/eth-pos-devnet",
+      "source": "OffchainLabs/eth-pos-devnet",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T06:53:42Z"
+    },
+    {
+      "full_name": "AnomalyFi/ethereum-etl",
+      "is_fork": true,
+      "parent": "blockchain-etl/ethereum-etl",
+      "source": "blockchain-etl/ethereum-etl",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:53:43Z"
+    },
+    {
+      "full_name": "AnomalyFi/ethereum-export-pipeline",
+      "is_fork": true,
+      "parent": "blockchain-etl/ethereum-export-pipeline",
+      "source": "blockchain-etl/ethereum-export-pipeline",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:53:44Z"
+    },
+    {
+      "full_name": "AnomalyFi/ethereum-package",
+      "is_fork": true,
+      "parent": "ethpandaops/ethereum-package",
+      "source": "ethpandaops/ethereum-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-01T06:53:46Z"
+    },
+    {
+      "full_name": "AnomalyFi/ethers-provider-flashbots-bundle",
+      "is_fork": true,
+      "parent": "flashbots/ethers-provider-flashbots-bundle",
+      "source": "flashbots/ethers-provider-flashbots-bundle",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:47Z"
+    },
+    {
+      "full_name": "AnomalyFi/flashbotsrpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:48Z"
+    },
+    {
+      "full_name": "AnomalyFi/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:49Z"
+    },
+    {
+      "full_name": "AnomalyFi/go-sequencing",
+      "is_fork": true,
+      "parent": "evstack/go-sequencing",
+      "source": "evstack/go-sequencing",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:50Z"
+    },
+    {
+      "full_name": "AnomalyFi/hyperlane-javelin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:53:50Z"
+    },
+    {
+      "full_name": "AnomalyFi/hyperlane-warp-ui-template",
+      "is_fork": true,
+      "parent": "hyperlane-xyz/hyperlane-warp-ui-template",
+      "source": "hyperlane-xyz/hyperlane-warp-ui-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:53:51Z"
+    },
+    {
+      "full_name": "AnomalyFi/hypersdk",
+      "is_fork": true,
+      "parent": "ava-labs/hypersdk",
+      "source": "ava-labs/hypersdk",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:52Z"
+    },
+    {
+      "full_name": "AnomalyFi/kurtosis-cdk",
+      "is_fork": true,
+      "parent": "0xPolygon/kurtosis-cdk",
+      "source": "0xPolygon/kurtosis-cdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:53:54Z"
+    },
+    {
+      "full_name": "AnomalyFi/metro",
+      "is_fork": true,
+      "parent": "cuck-holdings/metro",
+      "source": "cuck-holdings/metro",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:55Z"
+    },
+    {
+      "full_name": "AnomalyFi/milagro_bls",
+      "is_fork": true,
+      "parent": "sigp/milagro_bls",
+      "source": "sigp/milagro_bls",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:53:56Z"
+    },
+    {
+      "full_name": "AnomalyFi/nk-rollkit",
+      "is_fork": true,
+      "parent": "evstack/ev-node",
+      "source": "evstack/ev-node",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:57Z"
+    },
+    {
+      "full_name": "AnomalyFi/nodekit-l1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:58Z"
+    },
+    {
+      "full_name": "AnomalyFi/nodekit-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:59Z"
+    },
+    {
+      "full_name": "AnomalyFi/nodekit-seq",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:53:59Z"
+    },
+    {
+      "full_name": "AnomalyFi/nodekit-zk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:54:00Z"
+    },
+    {
+      "full_name": "AnomalyFi/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:02Z"
+    },
+    {
+      "full_name": "AnomalyFi/op-integration",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:03Z"
+    },
+    {
+      "full_name": "AnomalyFi/opstack-deployment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:54:03Z"
+    },
+    {
+      "full_name": "AnomalyFi/optimism",
+      "is_fork": true,
+      "parent": "celestiaorg/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:05Z"
+    },
+    {
+      "full_name": "AnomalyFi/polygon-etl",
+      "is_fork": true,
+      "parent": "blockchain-etl/polygon-etl",
+      "source": "blockchain-etl/polygon-etl",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:54:06Z"
+    },
+    {
+      "full_name": "AnomalyFi/roll-op",
+      "is_fork": true,
+      "parent": "0xFableOrg/roll-op",
+      "source": "0xFableOrg/roll-op",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:54:07Z"
+    },
+    {
+      "full_name": "AnomalyFi/rust-seq-rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:08Z"
+    },
+    {
+      "full_name": "AnomalyFi/seq-rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:54:08Z"
+    },
+    {
+      "full_name": "AnomalyFi/seq-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:09Z"
+    },
+    {
+      "full_name": "AnomalyFi/seq-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:10Z"
+    },
+    {
+      "full_name": "AnomalyFi/sp1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:54:10Z"
+    },
+    {
+      "full_name": "AnomalyFi/sp1-blobstream",
+      "is_fork": true,
+      "parent": "succinctlabs/sp1-blobstream",
+      "source": "succinctlabs/sp1-blobstream",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:11Z"
+    },
+    {
+      "full_name": "AnomalyFi/sp1-recursion-gnark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:54:12Z"
+    },
+    {
+      "full_name": "AnomalyFi/sp1-vector",
+      "is_fork": true,
+      "parent": "availproject/sp1-vector",
+      "source": "availproject/sp1-vector",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:13Z"
+    },
+    {
+      "full_name": "AnomalyFi/spark-clickhouse-connector",
+      "is_fork": true,
+      "parent": "ClickHouse/spark-clickhouse-connector",
+      "source": "ClickHouse/spark-clickhouse-connector",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:54:14Z"
+    },
+    {
+      "full_name": "AnomalyFi/succinctx",
+      "is_fork": true,
+      "parent": "succinctlabs/succinctx",
+      "source": "succinctlabs/succinctx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:15Z"
+    },
+    {
+      "full_name": "AnomalyFi/tendermintx",
+      "is_fork": true,
+      "parent": "succinctlabs/tendermintx",
+      "source": "succinctlabs/tendermintx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:16Z"
+    },
+    {
+      "full_name": "AnomalyFi/tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:17Z"
+    },
+    {
+      "full_name": "AnomalyFi/vectorx",
+      "is_fork": true,
+      "parent": "succinctlabs/vectorx",
+      "source": "succinctlabs/vectorx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:54:18Z"
+    },
+    {
+      "full_name": "AnomalyFi/zkevm-contracts",
+      "is_fork": true,
+      "parent": "agglayer/agglayer-contracts",
+      "source": "agglayer/agglayer-contracts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:54:19Z"
+    },
+    {
+      "full_name": "AnomalyFi/zkevm-node",
+      "is_fork": true,
+      "parent": "0xPolygon/zkevm-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:54:20Z"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "owner": "avaprotocol",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AvaProtocol/EigenLayer-AVS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:07:32Z"
+    },
+    {
+      "full_name": "AvaProtocol/General-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:33Z"
+    },
+    {
+      "full_name": "AvaProtocol/Grant-Milestone-Delivery",
+      "is_fork": true,
+      "parent": "w3f/Grant-Milestone-Delivery",
+      "source": "w3f/Grant-Milestone-Delivery",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:07:34Z"
+    },
+    {
+      "full_name": "AvaProtocol/Grants-Program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:35Z"
+    },
+    {
+      "full_name": "AvaProtocol/OAK-JS-SDK",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:35Z"
+    },
+    {
+      "full_name": "AvaProtocol/OAK-blockchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 121,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:07:36Z"
+    },
+    {
+      "full_name": "AvaProtocol/OAK-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "SCSS",
+      "last_checked": "2026-03-01T10:07:37Z"
+    },
+    {
+      "full_name": "AvaProtocol/W3F-Grants-Fork",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:07:38Z"
+    },
+    {
+      "full_name": "AvaProtocol/ap-operator-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:39Z"
+    },
+    {
+      "full_name": "AvaProtocol/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:40Z"
+    },
+    {
+      "full_name": "AvaProtocol/assets-info",
+      "is_fork": true,
+      "parent": "subscan-explorer/assets-info",
+      "source": "subscan-explorer/assets-info",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:41Z"
+    },
+    {
+      "full_name": "AvaProtocol/auction-toolkit",
+      "is_fork": true,
+      "parent": "parallel-finance/auction-toolkit",
+      "source": "parallel-finance/auction-toolkit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:42Z"
+    },
+    {
+      "full_name": "AvaProtocol/automation-price-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:07:43Z"
+    },
+    {
+      "full_name": "AvaProtocol/ava-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:44Z"
+    },
+    {
+      "full_name": "AvaProtocol/avs-mvp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:07:45Z"
+    },
+    {
+      "full_name": "AvaProtocol/bridge",
+      "is_fork": true,
+      "parent": "polkawallet-io/bridge",
+      "source": "polkawallet-io/bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:47Z"
+    },
+    {
+      "full_name": "AvaProtocol/common",
+      "is_fork": true,
+      "parent": "polkadot-js/common",
+      "source": "polkadot-js/common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:48Z"
+    },
+    {
+      "full_name": "AvaProtocol/cumulus",
+      "is_fork": true,
+      "parent": "paritytech/cumulus",
+      "source": "paritytech/cumulus",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:49Z"
+    },
+    {
+      "full_name": "AvaProtocol/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:50Z"
+    },
+    {
+      "full_name": "AvaProtocol/eigendata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:50Z"
+    },
+    {
+      "full_name": "AvaProtocol/eigenlayer-ethereum-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:51Z"
+    },
+    {
+      "full_name": "AvaProtocol/extension",
+      "is_fork": true,
+      "parent": "polkadot-js/extension",
+      "source": "polkadot-js/extension",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:52Z"
+    },
+    {
+      "full_name": "AvaProtocol/faucet-bot",
+      "is_fork": true,
+      "parent": "w3f/faucet-bot",
+      "source": "w3f/faucet-bot",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:07:53Z"
+    },
+    {
+      "full_name": "AvaProtocol/hackathon-2021-spring",
+      "is_fork": true,
+      "parent": "substrate-asia/hackathon-2021-spring",
+      "source": "substrate-asia/hackathon-2021-spring",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:07:55Z"
+    },
+    {
+      "full_name": "AvaProtocol/hackathon-2021-summer",
+      "is_fork": true,
+      "parent": "substrate-asia/hackathon-2021-summer",
+      "source": "substrate-asia/hackathon-2021-summer",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:07:56Z"
+    },
+    {
+      "full_name": "AvaProtocol/mangata-node",
+      "is_fork": true,
+      "parent": "gasp-xyz/mangata-node",
+      "source": "gasp-xyz/mangata-node",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:57Z"
+    },
+    {
+      "full_name": "AvaProtocol/moonbeam",
+      "is_fork": true,
+      "parent": "moonbeam-foundation/moonbeam",
+      "source": "moonbeam-foundation/moonbeam",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:07:58Z"
+    },
+    {
+      "full_name": "AvaProtocol/moonkit",
+      "is_fork": true,
+      "parent": "Moonsong-Labs/moonkit",
+      "source": "Moonsong-Labs/moonkit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:07:59Z"
+    },
+    {
+      "full_name": "AvaProtocol/oak-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:00Z"
+    },
+    {
+      "full_name": "AvaProtocol/oak-xcm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:00Z"
+    },
+    {
+      "full_name": "AvaProtocol/oak.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:01Z"
+    },
+    {
+      "full_name": "AvaProtocol/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:02Z"
+    },
+    {
+      "full_name": "AvaProtocol/parachain-projects-info",
+      "is_fork": true,
+      "parent": "subscan-explorer/projects-info",
+      "source": "subscan-explorer/projects-info",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:03Z"
+    },
+    {
+      "full_name": "AvaProtocol/ping-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:04Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:05Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkadot-balance-indexer",
+      "is_fork": true,
+      "parent": "web3go-xyz/polkadot-balance-indexer",
+      "source": "web3go-xyz/polkadot-balance-indexer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:06Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkascan-explorer-gui",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-explorer-gui",
+      "source": "polkascan/polkascan-explorer-gui",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:07Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkascan-os",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-os",
+      "source": "polkascan/polkascan-os",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:08Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkascan-pre-explorer-api",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-explorer-api",
+      "source": "polkascan/polkascan-pre-explorer-api",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:08:09Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkascan-pre-explorer-gui",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-explorer-gui",
+      "source": "polkascan/polkascan-pre-explorer-gui",
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:11Z"
+    },
+    {
+      "full_name": "AvaProtocol/polkascan-pre-harvester",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-harvester",
+      "source": "polkascan/polkascan-pre-harvester",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:08:12Z"
+    },
+    {
+      "full_name": "AvaProtocol/py-scale-codec",
+      "is_fork": true,
+      "parent": "JAMdotTech/py-scale-codec",
+      "source": "JAMdotTech/py-scale-codec",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:08:13Z"
+    },
+    {
+      "full_name": "AvaProtocol/quadratic-funding-pallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:13Z"
+    },
+    {
+      "full_name": "AvaProtocol/quadratic-funding-pallet-original",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:14Z"
+    },
+    {
+      "full_name": "AvaProtocol/quadratic-funding-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:15Z"
+    },
+    {
+      "full_name": "AvaProtocol/quadratic-funding-webapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:16Z"
+    },
+    {
+      "full_name": "AvaProtocol/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:17Z"
+    },
+    {
+      "full_name": "AvaProtocol/subql",
+      "is_fork": true,
+      "parent": "subquery/subql",
+      "source": "subquery/subql",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:18Z"
+    },
+    {
+      "full_name": "AvaProtocol/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:19Z"
+    },
+    {
+      "full_name": "AvaProtocol/substrate-node-template",
+      "is_fork": true,
+      "parent": "JoshOrndorff/substrate-node-template",
+      "source": "JoshOrndorff/substrate-node-template",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:20Z"
+    },
+    {
+      "full_name": "AvaProtocol/substrate-parachain-template",
+      "is_fork": true,
+      "parent": "tolak/phala-parachain",
+      "source": "tolak/phala-parachain",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:21Z"
+    },
+    {
+      "full_name": "AvaProtocol/substrate-simple-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:08:22Z"
+    },
+    {
+      "full_name": "AvaProtocol/tanssi-integration",
+      "is_fork": true,
+      "parent": "moondance-labs/tanssi",
+      "source": "moondance-labs/tanssi",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:23Z"
+    },
+    {
+      "full_name": "AvaProtocol/token-resources",
+      "is_fork": true,
+      "parent": "AcalaNetwork/token-resources",
+      "source": "AcalaNetwork/token-resources",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:24Z"
+    },
+    {
+      "full_name": "AvaProtocol/ui",
+      "is_fork": true,
+      "parent": "polkadot-js/ui",
+      "source": "polkadot-js/ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:25Z"
+    },
+    {
+      "full_name": "AvaProtocol/xcm-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:26Z"
+    },
+    {
+      "full_name": "AvaProtocol/xcm-demo-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:27Z"
+    },
+    {
+      "full_name": "AvaProtocol/zombienet",
+      "is_fork": true,
+      "parent": "paritytech/zombienet",
+      "source": "paritytech/zombienet",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:28Z"
+    }
+  ]
+}

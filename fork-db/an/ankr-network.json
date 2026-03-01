@@ -1,0 +1,1374 @@
+{
+  "owner": "ankr-network",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Ankr-network/AZTEC",
+      "is_fork": true,
+      "parent": "AztecProtocol/aztec-v1",
+      "source": "AztecProtocol/aztec-v1",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:07Z"
+    },
+    {
+      "full_name": "Ankr-network/Ankr-boid-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:08Z"
+    },
+    {
+      "full_name": "Ankr-network/BEPs",
+      "is_fork": true,
+      "parent": "bnb-chain/BEPs",
+      "source": "bnb-chain/BEPs",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:09Z"
+    },
+    {
+      "full_name": "Ankr-network/Open-Grants-Program-remotesigning",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T06:49:10Z"
+    },
+    {
+      "full_name": "Ankr-network/WalletConnectSharp-Fork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C#",
+      "last_checked": "2026-03-01T06:49:11Z"
+    },
+    {
+      "full_name": "Ankr-network/aapi-scheme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-01T06:49:12Z"
+    },
+    {
+      "full_name": "Ankr-network/absc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:13Z"
+    },
+    {
+      "full_name": "Ankr-network/academy-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:14Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-boinc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "PHP",
+      "last_checked": "2026-03-01T06:49:15Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:15Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:16Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-compound-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:17Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-demo-build",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:17Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "MDX",
+      "last_checked": "2026-03-01T06:49:18Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-docs-nextra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:19Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-explorer",
+      "is_fork": true,
+      "parent": "janoside/btc-rpc-explorer",
+      "source": "janoside/btc-rpc-explorer",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:20Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-python-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:49:21Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:49:22Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:22Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-sdk-nodejs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:23Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:24Z"
+    },
+    {
+      "full_name": "Ankr-network/ankr.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:49:25Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-blockchains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:26Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:26Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-constants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:27Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-proto-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:27Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:28Z"
+    },
+    {
+      "full_name": "Ankr-network/ankrscan-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:29Z"
+    },
+    {
+      "full_name": "Ankr-network/apidocs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:30Z"
+    },
+    {
+      "full_name": "Ankr-network/appchain-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:31Z"
+    },
+    {
+      "full_name": "Ankr-network/april_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:31Z"
+    },
+    {
+      "full_name": "Ankr-network/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:49:32Z"
+    },
+    {
+      "full_name": "Ankr-network/avalanchego",
+      "is_fork": true,
+      "parent": "ava-labs/avalanchego",
+      "source": "ava-labs/avalanchego",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:33Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-devnet-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Shell",
+      "last_checked": "2026-03-01T06:49:34Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-genesis-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:49:36Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-javascript-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:49:37Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-mainnet-genesis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:38Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-node-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:38Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-relay-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:49:40Z"
+    },
+    {
+      "full_name": "Ankr-network/bas-template-bsc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:41Z"
+    },
+    {
+      "full_name": "Ankr-network/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:42Z"
+    },
+    {
+      "full_name": "Ankr-network/blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:43Z"
+    },
+    {
+      "full_name": "Ankr-network/boinc-public",
+      "is_fork": true,
+      "parent": "BOINC/boinc",
+      "source": "BOINC/boinc",
+      "stars": 1,
+      "language": "PHP",
+      "last_checked": "2026-03-01T06:49:44Z"
+    },
+    {
+      "full_name": "Ankr-network/bolt",
+      "is_fork": true,
+      "parent": "boltdb/bolt",
+      "source": "boltdb/bolt",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:45Z"
+    },
+    {
+      "full_name": "Ankr-network/bsc",
+      "is_fork": true,
+      "parent": "bnb-chain/bsc",
+      "source": "bnb-chain/bsc",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:46Z"
+    },
+    {
+      "full_name": "Ankr-network/bsc-erigon",
+      "is_fork": true,
+      "parent": "node-real/bsc-erigon",
+      "source": "erigontech/erigon",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:48Z"
+    },
+    {
+      "full_name": "Ankr-network/bsc-validator-directory",
+      "is_fork": true,
+      "parent": "bnb-chain/validator-directory",
+      "source": "bnb-chain/validator-directory",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:48Z"
+    },
+    {
+      "full_name": "Ankr-network/btrfs",
+      "is_fork": true,
+      "parent": "dennwc/btrfs",
+      "source": "dennwc/btrfs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:49Z"
+    },
+    {
+      "full_name": "Ankr-network/ci-cd-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:50Z"
+    },
+    {
+      "full_name": "Ankr-network/ci-cd-sample-project",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:51Z"
+    },
+    {
+      "full_name": "Ankr-network/clover-landing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:52Z"
+    },
+    {
+      "full_name": "Ankr-network/coqchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:53Z"
+    },
+    {
+      "full_name": "Ankr-network/coqchain-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:53Z"
+    },
+    {
+      "full_name": "Ankr-network/curium",
+      "is_fork": true,
+      "parent": "bluzelle/curium",
+      "source": "bluzelle/curium",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:54Z"
+    },
+    {
+      "full_name": "Ankr-network/curve-assets",
+      "is_fork": true,
+      "parent": "curvefi/curve-assets",
+      "source": "curvefi/curve-assets",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:55Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-admin-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:55Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-appmgr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:55Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:56Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-daemon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:56Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-dcmgr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:56Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-es-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:57Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-facade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:57Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-fees",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:49:58Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:49:59Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:49:59Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-kms-proto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Makefile",
+      "last_checked": "2026-03-01T06:50:00Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-logmgr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:00Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-midway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:01Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:02Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:03Z"
+    },
+    {
+      "full_name": "Ankr-network/dccn-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:04Z"
+    },
+    {
+      "full_name": "Ankr-network/dogesyncer",
+      "is_fork": true,
+      "parent": "sunvim/dogesyncer",
+      "source": "sunvim/dogesyncer",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:05Z"
+    },
+    {
+      "full_name": "Ankr-network/edwards25519",
+      "is_fork": true,
+      "parent": "FiloSottile/edwards25519",
+      "source": "FiloSottile/edwards25519",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:06Z"
+    },
+    {
+      "full_name": "Ankr-network/epoch-fighters-back",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:06Z"
+    },
+    {
+      "full_name": "Ankr-network/erigon",
+      "is_fork": true,
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 12,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:07Z"
+    },
+    {
+      "full_name": "Ankr-network/erigon-lib",
+      "is_fork": true,
+      "parent": "ledgerwatch/erigon-lib",
+      "source": "ledgerwatch/erigon-lib",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:08Z"
+    },
+    {
+      "full_name": "Ankr-network/erigon-snapshot",
+      "is_fork": true,
+      "parent": "erigontech/erigon-snapshot",
+      "source": "erigontech/erigon-snapshot",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:09Z"
+    },
+    {
+      "full_name": "Ankr-network/eth2-beaconchain-explorer",
+      "is_fork": true,
+      "parent": "gobitfly/eth2-beaconchain-explorer",
+      "source": "gobitfly/eth2-beaconchain-explorer",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:10Z"
+    },
+    {
+      "full_name": "Ankr-network/flow",
+      "is_fork": true,
+      "parent": "onflow/flow",
+      "source": "onflow/flow",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:11Z"
+    },
+    {
+      "full_name": "Ankr-network/fuzzy-fighters-sprites",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:12Z"
+    },
+    {
+      "full_name": "Ankr-network/game-bridge",
+      "is_fork": true,
+      "parent": "mirage-xyz/mirage-bridge",
+      "source": "mirage-xyz/mirage-bridge",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:13Z"
+    },
+    {
+      "full_name": "Ankr-network/game-network-change",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:50:14Z"
+    },
+    {
+      "full_name": "Ankr-network/game-serverside-demo",
+      "is_fork": true,
+      "parent": "mirage-xyz/mirage-serverside-demo",
+      "source": "mirage-xyz/mirage-serverside-demo",
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:50:15Z"
+    },
+    {
+      "full_name": "Ankr-network/game-smart-contract-example",
+      "is_fork": true,
+      "parent": "mirage-xyz/mirage-smart-contract-example",
+      "source": "mirage-xyz/mirage-smart-contract-example",
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:50:16Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unity-demo",
+      "is_fork": true,
+      "parent": "mirage-xyz/mirage-unity-demo",
+      "source": "mirage-xyz/mirage-unity-demo",
+      "stars": 4,
+      "language": "C#",
+      "last_checked": "2026-03-01T06:50:17Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unity-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 59,
+      "language": "C#",
+      "last_checked": "2026-03-01T06:50:18Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unreal-ads-bridge-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-01T06:50:19Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unreal-aptos-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:50:20Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unreal-builder",
+      "is_fork": true,
+      "parent": "mirage-xyz/mirage-unreal-builder",
+      "source": "mirage-xyz/mirage-unreal-builder",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:21Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unreal-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:50:22Z"
+    },
+    {
+      "full_name": "Ankr-network/game-unreal-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:50:23Z"
+    },
+    {
+      "full_name": "Ankr-network/game-webgl-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:50:24Z"
+    },
+    {
+      "full_name": "Ankr-network/geoip2-for-dbip",
+      "is_fork": true,
+      "parent": "IncSW/geoip2",
+      "source": "IncSW/geoip2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:26Z"
+    },
+    {
+      "full_name": "Ankr-network/go-ethereum-jsonrpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:27Z"
+    },
+    {
+      "full_name": "Ankr-network/go-ethereum-rpc",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:29Z"
+    },
+    {
+      "full_name": "Ankr-network/go-grpc",
+      "is_fork": true,
+      "parent": "gophersgang/go-grpc",
+      "source": "gophersgang/go-grpc",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:30Z"
+    },
+    {
+      "full_name": "Ankr-network/go-jsonrpc-proxy",
+      "is_fork": true,
+      "parent": "AxLabs/go-jsonrpc-proxy",
+      "source": "AxLabs/go-jsonrpc-proxy",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:31Z"
+    },
+    {
+      "full_name": "Ankr-network/go-kms",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:32Z"
+    },
+    {
+      "full_name": "Ankr-network/go-opera",
+      "is_fork": true,
+      "parent": "Fantom-foundation/go-opera",
+      "source": "Fantom-foundation/go-opera",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:33Z"
+    },
+    {
+      "full_name": "Ankr-network/go-rbac",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:34Z"
+    },
+    {
+      "full_name": "Ankr-network/go.d.plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:34Z"
+    },
+    {
+      "full_name": "Ankr-network/helio-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:34Z"
+    },
+    {
+      "full_name": "Ankr-network/intel--sgx-ra-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:50:35Z"
+    },
+    {
+      "full_name": "Ankr-network/kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:36Z"
+    },
+    {
+      "full_name": "Ankr-network/kyber-bls12381",
+      "is_fork": true,
+      "parent": "drand/kyber-bls12381",
+      "source": "drand/kyber-bls12381",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:37Z"
+    },
+    {
+      "full_name": "Ankr-network/linux-sgx",
+      "is_fork": true,
+      "parent": "intel/confidential-computing.sgx",
+      "source": "intel/confidential-computing.sgx",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T06:50:38Z"
+    },
+    {
+      "full_name": "Ankr-network/lnd",
+      "is_fork": true,
+      "parent": "lightningnetwork/lnd",
+      "source": "lightningnetwork/lnd",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:39Z"
+    },
+    {
+      "full_name": "Ankr-network/mirage-mobile-widget-unity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-01T06:50:41Z"
+    },
+    {
+      "full_name": "Ankr-network/mirage-widget-unity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-01T06:50:42Z"
+    },
+    {
+      "full_name": "Ankr-network/movevm-explorer",
+      "is_fork": true,
+      "parent": "aptos-labs/explorer",
+      "source": "aptos-labs/explorer",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:50:43Z"
+    },
+    {
+      "full_name": "Ankr-network/multi-party-schnorr",
+      "is_fork": true,
+      "parent": "ZenGo-X/multi-party-schnorr",
+      "source": "ZenGo-X/multi-party-schnorr",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:50:44Z"
+    },
+    {
+      "full_name": "Ankr-network/networklist-org",
+      "is_fork": true,
+      "parent": "antonnell/networklist-org",
+      "source": "antonnell/networklist-org",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:45Z"
+    },
+    {
+      "full_name": "Ankr-network/neura-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:45Z"
+    },
+    {
+      "full_name": "Ankr-network/neura-chain-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:45Z"
+    },
+    {
+      "full_name": "Ankr-network/oauth2-redis",
+      "is_fork": true,
+      "parent": "go-oauth2/redis",
+      "source": "go-oauth2/redis",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:46Z"
+    },
+    {
+      "full_name": "Ankr-network/opennet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:47Z"
+    },
+    {
+      "full_name": "Ankr-network/polygon-azure",
+      "is_fork": true,
+      "parent": "caleteeter/polygon-azure",
+      "source": "caleteeter/polygon-azure",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:48Z"
+    },
+    {
+      "full_name": "Ankr-network/protobuf",
+      "is_fork": true,
+      "parent": "golang/protobuf",
+      "source": "golang/protobuf",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:49Z"
+    },
+    {
+      "full_name": "Ankr-network/protocol-playbooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:50Z"
+    },
+    {
+      "full_name": "Ankr-network/ristretto255",
+      "is_fork": true,
+      "parent": "gtank/ristretto255",
+      "source": "gtank/ristretto255",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:51Z"
+    },
+    {
+      "full_name": "Ankr-network/rosetta-bitcoin-2.0",
+      "is_fork": true,
+      "parent": "coinbase/mesh-bitcoin",
+      "source": "coinbase/mesh-bitcoin",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:52Z"
+    },
+    {
+      "full_name": "Ankr-network/rosetta-ethereum-2.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:53Z"
+    },
+    {
+      "full_name": "Ankr-network/rosetta-ethereum-2.1",
+      "is_fork": true,
+      "parent": "coinbase/mesh-ethereum",
+      "source": "coinbase/mesh-ethereum",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:54Z"
+    },
+    {
+      "full_name": "Ankr-network/rtapi",
+      "is_fork": true,
+      "parent": "PeaStew/rtapi",
+      "source": "nginxinc/rtapi",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:50:55Z"
+    },
+    {
+      "full_name": "Ankr-network/safe-services-status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:55Z"
+    },
+    {
+      "full_name": "Ankr-network/solana-accountsdb-plugin-postgres",
+      "is_fork": true,
+      "parent": "solana-labs/solana-accountsdb-plugin-postgres",
+      "source": "solana-labs/solana-accountsdb-plugin-postgres",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:50:56Z"
+    },
+    {
+      "full_name": "Ankr-network/solana-pyth-publisher-utils",
+      "is_fork": true,
+      "parent": "pyth-network/publisher-utils",
+      "source": "pyth-network/publisher-utils",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:50:57Z"
+    },
+    {
+      "full_name": "Ankr-network/sourcify",
+      "is_fork": true,
+      "parent": "argotorg/sourcify",
+      "source": "argotorg/sourcify",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:50:59Z"
+    },
+    {
+      "full_name": "Ankr-network/ssv-network-contractor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:51:00Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-bor",
+      "is_fork": true,
+      "parent": "0xPolygon/bor",
+      "source": "0xPolygon/bor",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:01Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-geth-ext",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:02Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-huobi-eco-chain",
+      "is_fork": true,
+      "parent": "stars-labs/heco-chain",
+      "source": "stars-labs/heco-chain",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:03Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-jssdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:03Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-sidecar-webui",
+      "is_fork": true,
+      "parent": "OffchainLabs/prysm-web-ui",
+      "source": "OffchainLabs/prysm-web-ui",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:05Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:05Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-smartcontract-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:05Z"
+    },
+    {
+      "full_name": "Ankr-network/stkr-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:05Z"
+    },
+    {
+      "full_name": "Ankr-network/storagechain-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:06Z"
+    },
+    {
+      "full_name": "Ankr-network/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:51:08Z"
+    },
+    {
+      "full_name": "Ankr-network/substrate-api-client",
+      "is_fork": true,
+      "parent": "scs/substrate-api-client",
+      "source": "scs/substrate-api-client",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:51:09Z"
+    },
+    {
+      "full_name": "Ankr-network/sui-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Move",
+      "last_checked": "2026-03-01T06:51:10Z"
+    },
+    {
+      "full_name": "Ankr-network/tendermint",
+      "is_fork": true,
+      "parent": "tendermint/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:11Z"
+    },
+    {
+      "full_name": "Ankr-network/tendermint-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:12Z"
+    },
+    {
+      "full_name": "Ankr-network/tomichain-genesis-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:12Z"
+    },
+    {
+      "full_name": "Ankr-network/traefik",
+      "is_fork": true,
+      "parent": "traefik/traefik",
+      "source": "traefik/traefik",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:13Z"
+    },
+    {
+      "full_name": "Ankr-network/tss-lib",
+      "is_fork": true,
+      "parent": "bnb-chain/tss-lib",
+      "source": "bnb-chain/tss-lib",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:14Z"
+    },
+    {
+      "full_name": "Ankr-network/uscan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:15Z"
+    },
+    {
+      "full_name": "Ankr-network/uwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:16Z"
+    },
+    {
+      "full_name": "Ankr-network/validator-profiles",
+      "is_fork": true,
+      "parent": "iammelea/validator-profiles",
+      "source": "iammelea/validator-profiles",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:17Z"
+    },
+    {
+      "full_name": "Ankr-network/wagon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:51:18Z"
+    },
+    {
+      "full_name": "Ankr-network/wiki",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:18Z"
+    },
+    {
+      "full_name": "Ankr-network/zap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:51:18Z"
+    }
+  ]
+}

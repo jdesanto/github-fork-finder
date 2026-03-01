@@ -1,0 +1,663 @@
+{
+  "owner": "avadodserver",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AvadoDServer/AIP-AVADO-Improvement-Proposal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:39Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-AquaPatina",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:39Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-AvalancheGo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:40Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-BSC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:41Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Bee",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:42Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:08:43Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Divi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:44Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Ethdo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:45Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Grafana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:46Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-HOPR-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:47Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Lighthouse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:47Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-MEV-Boost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:08:48Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Mysterium-Server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:08:49Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-NearBP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:08:50Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Nethermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:08:51Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Nethermind-gnosis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:08:52Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Nimbus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:53Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Node-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:54Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Obol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:08:55Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Openethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:56Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Openethereum-xdai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:56Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Polkadot-custom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:08:57Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Polkadot-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:58Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Polkadot-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:08:59Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prometheus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:00Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prysm-beacon-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:09:01Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prysm-gnosis-beacon-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:09:02Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prysm-gnosis-keygen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:03Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prysm-gnosis-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:09:04Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Prysm-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:05Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Qtum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:05Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-RYO-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:06Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-RemoteConnect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:07Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Rocketpool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:09:08Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Rotki",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:09Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-SSV",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:09:10Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:11Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Stader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:09:12Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Teku",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:09:13Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-TornadocashRelayerv2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:13Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-Turbogeth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:14Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-erigon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:15Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-eth2-keygen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:16Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-goerli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:17Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-helium-validator-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:18Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-ipfs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:19Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-monero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:20Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-mycrypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:09:21Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:21Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADO-DNP-vpn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:22Z"
+    },
+    {
+      "full_name": "AvadoDServer/AVADOSDK",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:23Z"
+    },
+    {
+      "full_name": "AvadoDServer/DAppNode_Installer_AVADO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:24Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_ADMIN",
+      "is_fork": true,
+      "parent": "dappnode/DNP_ADMIN",
+      "source": "dappnode/DNP_ADMIN",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:25Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_BIND",
+      "is_fork": true,
+      "parent": "dappnode/DNP_BIND",
+      "source": "dappnode/DNP_BIND",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:26Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_DAPPMANAGER",
+      "is_fork": true,
+      "parent": "dappnode/DNP_DAPPMANAGER",
+      "source": "dappnode/DNP_DAPPMANAGER",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:27Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_ETHCHAIN",
+      "is_fork": true,
+      "parent": "dappnode/DNP_ETHCHAIN",
+      "source": "dappnode/DNP_ETHCHAIN",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:28Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_ETHFORWARD",
+      "is_fork": true,
+      "parent": "dappnode/DNP_ETHFORWARD",
+      "source": "dappnode/DNP_ETHFORWARD",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:29Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_WAMP",
+      "is_fork": true,
+      "parent": "dappnode/DNP_WAMP",
+      "source": "dappnode/DNP_WAMP",
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:30Z"
+    },
+    {
+      "full_name": "AvadoDServer/DNP_WIFI",
+      "is_fork": true,
+      "parent": "dappnode/DNP_WIFI",
+      "source": "dappnode/DNP_WIFI",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:31Z"
+    },
+    {
+      "full_name": "AvadoDServer/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:09:32Z"
+    },
+    {
+      "full_name": "AvadoDServer/ap-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:09:33Z"
+    },
+    {
+      "full_name": "AvadoDServer/avado-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Sass",
+      "last_checked": "2026-03-01T10:09:34Z"
+    },
+    {
+      "full_name": "AvadoDServer/avado-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:09:35Z"
+    },
+    {
+      "full_name": "AvadoDServer/besu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:36Z"
+    },
+    {
+      "full_name": "AvadoDServer/ci-build-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:37Z"
+    },
+    {
+      "full_name": "AvadoDServer/ci-release-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:38Z"
+    },
+    {
+      "full_name": "AvadoDServer/dappnode-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:09:39Z"
+    },
+    {
+      "full_name": "AvadoDServer/ip.ava.do",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:40Z"
+    },
+    {
+      "full_name": "AvadoDServer/rotki.dnp.dappnode.eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:09:40Z"
+    },
+    {
+      "full_name": "AvadoDServer/tornado-relayer",
+      "is_fork": true,
+      "parent": "tornadocash/tornado-relayer",
+      "source": "tornadocash/tornado-relayer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:41Z"
+    },
+    {
+      "full_name": "AvadoDServer/webapp-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:09:42Z"
+    },
+    {
+      "full_name": "AvadoDServer/workflow-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:09:43Z"
+    },
+    {
+      "full_name": "AvadoDServer/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:09:44Z"
+    }
+  ]
+}

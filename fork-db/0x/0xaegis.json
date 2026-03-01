@@ -1,6 +1,6 @@
 {
   "owner": "0xaegis",
-  "updated_at": "2026-02-28T20:22:30Z",
+  "updated_at": "2026-03-01T19:01:41Z",
   "repos": [
     {
       "full_name": "0xAegis/contracts",
@@ -12,6 +12,15 @@
       "last_checked": "2025-12-30T06:00:06.565266Z"
     },
     {
+      "full_name": "0xAegis/frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-02-28T23:51:05Z"
+    },
+    {
       "full_name": "0xAegis/landing",
       "is_fork": false,
       "parent": null,
@@ -19,6 +28,15 @@
       "stars": 0,
       "language": "CSS",
       "last_checked": "2025-12-30T06:00:09.383248Z"
+    },
+    {
+      "full_name": "0xAegis/subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-02-28T23:51:06Z"
     }
   ]
 }

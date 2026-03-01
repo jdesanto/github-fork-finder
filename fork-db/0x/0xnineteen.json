@@ -1,6 +1,6 @@
 {
   "owner": "0xnineteen",
-  "updated_at": "2026-02-28T20:22:31Z",
+  "updated_at": "2026-03-01T19:01:41Z",
   "repos": [
     {
       "full_name": "0xNineteen/anchor-stake",
@@ -55,6 +55,24 @@
       "stars": 3,
       "language": "Rust",
       "last_checked": "2025-12-30T06:41:45.536560Z"
+    },
+    {
+      "full_name": "0xNineteen/solana",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-02-28T23:52:07Z"
+    },
+    {
+      "full_name": "0xNineteen/solana-arbitrage-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 798,
+      "language": "Rust",
+      "last_checked": "2026-02-28T23:52:08Z"
     }
   ]
 }

@@ -1,0 +1,1329 @@
+{
+  "owner": "acalanetwork",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AcalaNetwork/Acala",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 765,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:49:34Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Acala-Grants-Program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:35Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Acala-height",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:36Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Acala-white-paper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 96,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:37Z"
+    },
+    {
+      "full_name": "AcalaNetwork/AcalaBounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:38Z"
+    },
+    {
+      "full_name": "AcalaNetwork/ChainBridge",
+      "is_fork": true,
+      "parent": "ChainSafe/ChainBridge",
+      "source": "ChainSafe/ChainBridge",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:49:39Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Euphrates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:49:40Z"
+    },
+    {
+      "full_name": "AcalaNetwork/EuphratesDoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:41Z"
+    },
+    {
+      "full_name": "AcalaNetwork/FaucetBot",
+      "is_fork": true,
+      "parent": "AlmostEfficient/FaucetBot",
+      "source": "AlmostEfficient/FaucetBot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:42Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Grant-Milestone-Delivery",
+      "is_fork": true,
+      "parent": "w3f/Grant-Milestone-Delivery",
+      "source": "w3f/Grant-Milestone-Delivery",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:43Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Open-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T04:49:44Z"
+    },
+    {
+      "full_name": "AcalaNetwork/ScaleCodec.swift",
+      "is_fork": true,
+      "parent": "tesseract-one/ScaleCodec.swift",
+      "source": "tesseract-one/ScaleCodec.swift",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-01T04:49:45Z"
+    },
+    {
+      "full_name": "AcalaNetwork/Web3-collaboration",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:46Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-auction-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:46Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-block-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:47Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:48Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-dex-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:49Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-dictionary",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:49Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-early-adopters-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:50Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-events-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:51Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-evm-dev-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 480,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:52Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-evm-indexer-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:53Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-evm-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:53Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-homa-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:54Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-incentives-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:55Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-js-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:49:56Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-loan-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:57Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:49:58Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-official-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:58Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-oracle-dispatcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:49:59Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-release-note-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:49:59Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-stake",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:00Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:01Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-subql-services",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:02Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-test-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T04:50:03Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-tokens-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:04Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-trace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:05Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-transfer-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:06Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-types.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:07Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:07Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-vesting-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:08Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala-wiki",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:09Z"
+    },
+    {
+      "full_name": "AcalaNetwork/acala.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:10Z"
+    },
+    {
+      "full_name": "AcalaNetwork/api",
+      "is_fork": true,
+      "parent": "polkadot-js/api",
+      "source": "polkadot-js/api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:11Z"
+    },
+    {
+      "full_name": "AcalaNetwork/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:12Z"
+    },
+    {
+      "full_name": "AcalaNetwork/aquadao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:12Z"
+    },
+    {
+      "full_name": "AcalaNetwork/asset-router",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:50:13Z"
+    },
+    {
+      "full_name": "AcalaNetwork/auction-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:14Z"
+    },
+    {
+      "full_name": "AcalaNetwork/bench-bot",
+      "is_fork": true,
+      "parent": "paritytech/bench-bot",
+      "source": "paritytech/bench-bot",
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-01T04:50:15Z"
+    },
+    {
+      "full_name": "AcalaNetwork/block-event-extrinsic-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:16Z"
+    },
+    {
+      "full_name": "AcalaNetwork/blockscout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:17Z"
+    },
+    {
+      "full_name": "AcalaNetwork/blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:18Z"
+    },
+    {
+      "full_name": "AcalaNetwork/bodhi-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:18Z"
+    },
+    {
+      "full_name": "AcalaNetwork/bodhi.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:19Z"
+    },
+    {
+      "full_name": "AcalaNetwork/boka-external-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T04:50:20Z"
+    },
+    {
+      "full_name": "AcalaNetwork/cdp-bot-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:21Z"
+    },
+    {
+      "full_name": "AcalaNetwork/chainbridge-substrate",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-substrate",
+      "source": "ChainSafe/chainbridge-substrate",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:22Z"
+    },
+    {
+      "full_name": "AcalaNetwork/chainbridge-utils",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-utils",
+      "source": "ChainSafe/chainbridge-utils",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:50:23Z"
+    },
+    {
+      "full_name": "AcalaNetwork/chopsticks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 167,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:24Z"
+    },
+    {
+      "full_name": "AcalaNetwork/claim-vesting-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:25Z"
+    },
+    {
+      "full_name": "AcalaNetwork/collateral-auction-bot-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:26Z"
+    },
+    {
+      "full_name": "AcalaNetwork/comet",
+      "is_fork": true,
+      "parent": "compound-finance/comet",
+      "source": "compound-finance/comet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:27Z"
+    },
+    {
+      "full_name": "AcalaNetwork/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:27Z"
+    },
+    {
+      "full_name": "AcalaNetwork/data-warn-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:28Z"
+    },
+    {
+      "full_name": "AcalaNetwork/defillama-acala-tvl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:29Z"
+    },
+    {
+      "full_name": "AcalaNetwork/devops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:29Z"
+    },
+    {
+      "full_name": "AcalaNetwork/docs",
+      "is_fork": true,
+      "parent": "polkadot-js/docs",
+      "source": "polkadot-js/docs",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:30Z"
+    },
+    {
+      "full_name": "AcalaNetwork/dune-stats-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:50:31Z"
+    },
+    {
+      "full_name": "AcalaNetwork/e2e",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:32Z"
+    },
+    {
+      "full_name": "AcalaNetwork/e2e-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:33Z"
+    },
+    {
+      "full_name": "AcalaNetwork/ecosystem-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:34Z"
+    },
+    {
+      "full_name": "AcalaNetwork/elara-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:34Z"
+    },
+    {
+      "full_name": "AcalaNetwork/eth-rpc-adaptor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:35Z"
+    },
+    {
+      "full_name": "AcalaNetwork/ethereum",
+      "is_fork": true,
+      "parent": "rust-ethereum/ethereum",
+      "source": "rust-ethereum/ethereum",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:36Z"
+    },
+    {
+      "full_name": "AcalaNetwork/euphrates-stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:50:37Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm",
+      "is_fork": true,
+      "parent": "rust-ethereum/evm",
+      "source": "rust-ethereum/evm",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:38Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:50:39Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-dapp-collection",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:40Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:41Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-forwarder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:42Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:42Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:43Z"
+    },
+    {
+      "full_name": "AcalaNetwork/evm-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:44Z"
+    },
+    {
+      "full_name": "AcalaNetwork/faucet-bot",
+      "is_fork": true,
+      "parent": "w3f/faucet-bot",
+      "source": "w3f/faucet-bot",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:45Z"
+    },
+    {
+      "full_name": "AcalaNetwork/fork-off-substrate",
+      "is_fork": true,
+      "parent": "maxsam4/fork-off-substrate",
+      "source": "maxsam4/fork-off-substrate",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:46Z"
+    },
+    {
+      "full_name": "AcalaNetwork/governor",
+      "is_fork": true,
+      "parent": "boinkor-net/governor",
+      "source": "boinkor-net/governor",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:47Z"
+    },
+    {
+      "full_name": "AcalaNetwork/guardian-bot-heroku-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:48Z"
+    },
+    {
+      "full_name": "AcalaNetwork/hardhat-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:49Z"
+    },
+    {
+      "full_name": "AcalaNetwork/hyperlane-registry",
+      "is_fork": true,
+      "parent": "hyperlane-xyz/hyperlane-registry",
+      "source": "hyperlane-xyz/hyperlane-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:50Z"
+    },
+    {
+      "full_name": "AcalaNetwork/issue-collection",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:51Z"
+    },
+    {
+      "full_name": "AcalaNetwork/jamtestvectors",
+      "is_fork": true,
+      "parent": "w3f/jamtestvectors",
+      "source": "w3f/jamtestvectors",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:50:53Z"
+    },
+    {
+      "full_name": "AcalaNetwork/jsonrpsee",
+      "is_fork": true,
+      "parent": "paritytech/jsonrpsee",
+      "source": "paritytech/jsonrpsee",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:50:54Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:54Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:50:55Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T04:50:56Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T04:50:57Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:50:58Z"
+    },
+    {
+      "full_name": "AcalaNetwork/karura-whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T04:50:59Z"
+    },
+    {
+      "full_name": "AcalaNetwork/linkdrop-monorepo",
+      "is_fork": true,
+      "parent": "mikhaildobs/linkdrop-monorepo",
+      "source": "mikhaildobs/linkdrop-monorepo",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:51:00Z"
+    },
+    {
+      "full_name": "AcalaNetwork/lottery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:01Z"
+    },
+    {
+      "full_name": "AcalaNetwork/lucky-running-nodes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:51:02Z"
+    },
+    {
+      "full_name": "AcalaNetwork/nuts-swap-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:03Z"
+    },
+    {
+      "full_name": "AcalaNetwork/parachain-utilities",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:04Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polakdot-hello-world-acala",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:05Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polka-defi-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:06Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:07Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polkadot-js-common",
+      "is_fork": true,
+      "parent": "polkadot-js/common",
+      "source": "polkadot-js/common",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:08Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polkavm",
+      "is_fork": true,
+      "parent": "paritytech/polkavm",
+      "source": "paritytech/polkavm",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:09Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polkawallet_plugin_acala",
+      "is_fork": true,
+      "parent": "polkawallet-io/polkawallet_plugin_acala",
+      "source": "polkawallet-io/polkawallet_plugin_acala",
+      "stars": 6,
+      "language": "Dart",
+      "last_checked": "2026-03-01T04:51:10Z"
+    },
+    {
+      "full_name": "AcalaNetwork/polkawallet_plugin_karura",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Dart",
+      "last_checked": "2026-03-01T04:51:11Z"
+    },
+    {
+      "full_name": "AcalaNetwork/predeploy-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:51:11Z"
+    },
+    {
+      "full_name": "AcalaNetwork/price-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:12Z"
+    },
+    {
+      "full_name": "AcalaNetwork/product-feedback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:13Z"
+    },
+    {
+      "full_name": "AcalaNetwork/react-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:13Z"
+    },
+    {
+      "full_name": "AcalaNetwork/ren-substrate-example",
+      "is_fork": true,
+      "parent": "renproject/ren-substrate-example",
+      "source": "renproject/ren-substrate-example",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:15Z"
+    },
+    {
+      "full_name": "AcalaNetwork/rocksdb.swift",
+      "is_fork": true,
+      "parent": "TapeIt/rocksdb.swift",
+      "source": "koraykoska/rocksdb.swift",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:16Z"
+    },
+    {
+      "full_name": "AcalaNetwork/runtime-overrides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:16Z"
+    },
+    {
+      "full_name": "AcalaNetwork/runtime-viewer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:17Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-client-gateway",
+      "is_fork": true,
+      "parent": "5afe/safe-client-gateway",
+      "source": "5afe/safe-client-gateway",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:18Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-config-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-config-service",
+      "source": "safe-global/safe-config-service",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:51:19Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-deployments",
+      "is_fork": true,
+      "parent": "safe-global/safe-deployments",
+      "source": "safe-global/safe-deployments",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:20Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:51:21Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-react",
+      "is_fork": true,
+      "parent": "5afe/safe-react",
+      "source": "5afe/safe-react",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:22Z"
+    },
+    {
+      "full_name": "AcalaNetwork/safe-transaction-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-transaction-service",
+      "source": "safe-global/safe-transaction-service",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:51:23Z"
+    },
+    {
+      "full_name": "AcalaNetwork/scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:24Z"
+    },
+    {
+      "full_name": "AcalaNetwork/sdk-stable-asset",
+      "is_fork": true,
+      "parent": "nutsfinance/sdk-stable-asset",
+      "source": "nutsfinance/sdk-stable-asset",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:25Z"
+    },
+    {
+      "full_name": "AcalaNetwork/sdk-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:26Z"
+    },
+    {
+      "full_name": "AcalaNetwork/smoldot",
+      "is_fork": true,
+      "parent": "smol-dot/smoldot",
+      "source": "smol-dot/smoldot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:27Z"
+    },
+    {
+      "full_name": "AcalaNetwork/srtool-actions",
+      "is_fork": true,
+      "parent": "chevdor/srtool-actions",
+      "source": "chevdor/srtool-actions",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:28Z"
+    },
+    {
+      "full_name": "AcalaNetwork/stake",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:29Z"
+    },
+    {
+      "full_name": "AcalaNetwork/starlay-protocol",
+      "is_fork": true,
+      "parent": "starlay-finance/starlay-protocol",
+      "source": "starlay-finance/starlay-protocol",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:30Z"
+    },
+    {
+      "full_name": "AcalaNetwork/subgraph-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:31Z"
+    },
+    {
+      "full_name": "AcalaNetwork/subql-dictionary",
+      "is_fork": true,
+      "parent": "subquery/subql-dictionary",
+      "source": "subquery/subql-dictionary",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:32Z"
+    },
+    {
+      "full_name": "AcalaNetwork/subql-health-check",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:33Z"
+    },
+    {
+      "full_name": "AcalaNetwork/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:34Z"
+    },
+    {
+      "full_name": "AcalaNetwork/subway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 82,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:35Z"
+    },
+    {
+      "full_name": "AcalaNetwork/telescope",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:51:36Z"
+    },
+    {
+      "full_name": "AcalaNetwork/test-rust",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:51:37Z"
+    },
+    {
+      "full_name": "AcalaNetwork/tools",
+      "is_fork": true,
+      "parent": "polkadot-js/tools",
+      "source": "polkadot-js/tools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:38Z"
+    },
+    {
+      "full_name": "AcalaNetwork/translation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:39Z"
+    },
+    {
+      "full_name": "AcalaNetwork/truffle-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:51:40Z"
+    },
+    {
+      "full_name": "AcalaNetwork/txwrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:40Z"
+    },
+    {
+      "full_name": "AcalaNetwork/upgrade-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:41Z"
+    },
+    {
+      "full_name": "AcalaNetwork/waffle-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:42Z"
+    },
+    {
+      "full_name": "AcalaNetwork/wormhole",
+      "is_fork": true,
+      "parent": "wormhole-foundation/wormhole",
+      "source": "wormhole-foundation/wormhole",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:43Z"
+    },
+    {
+      "full_name": "AcalaNetwork/wormhole-relayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:51:44Z"
+    },
+    {
+      "full_name": "AcalaNetwork/xcm-format",
+      "is_fork": true,
+      "parent": "polkadot-fellows/xcm-format",
+      "source": "polkadot-fellows/xcm-format",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:51:45Z"
+    }
+  ]
+}

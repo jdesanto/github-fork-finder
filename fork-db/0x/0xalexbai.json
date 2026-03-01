@@ -1,6 +1,6 @@
 {
   "owner": "0xalexbai",
-  "updated_at": "2026-02-28T20:22:30Z",
+  "updated_at": "2026-03-01T19:01:41Z",
   "repos": [
     {
       "full_name": "0xalexbai/mango-v3",
@@ -46,6 +46,15 @@
       "stars": 0,
       "language": "TypeScript",
       "last_checked": "2025-12-30T07:22:10.416899Z"
+    },
+    {
+      "full_name": "0xalexbai/solana",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-02-28T23:52:50Z"
     },
     {
       "full_name": "0xalexbai/solana-web3.js",

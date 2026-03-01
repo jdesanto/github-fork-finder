@@ -1,0 +1,114 @@
+{
+  "owner": "alignnetwork",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AlignNetwork/account-abstraction",
+      "is_fork": true,
+      "parent": "eth-infinitism/account-abstraction",
+      "source": "eth-infinitism/account-abstraction",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:00:40Z"
+    },
+    {
+      "full_name": "AlignNetwork/align-alto",
+      "is_fork": true,
+      "parent": "pimlicolabs/alto",
+      "source": "pimlicolabs/alto",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:00:41Z"
+    },
+    {
+      "full_name": "AlignNetwork/align-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:00:42Z"
+    },
+    {
+      "full_name": "AlignNetwork/align-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:00:43Z"
+    },
+    {
+      "full_name": "AlignNetwork/blobster",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:00:44Z"
+    },
+    {
+      "full_name": "AlignNetwork/core-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:00:45Z"
+    },
+    {
+      "full_name": "AlignNetwork/node-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": null,
+      "last_checked": "2026-03-01T06:00:46Z"
+    },
+    {
+      "full_name": "AlignNetwork/protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:00:46Z"
+    },
+    {
+      "full_name": "AlignNetwork/reputation-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:00:47Z"
+    },
+    {
+      "full_name": "AlignNetwork/reth-node-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-01T06:00:48Z"
+    },
+    {
+      "full_name": "AlignNetwork/safe-singleton-factory",
+      "is_fork": true,
+      "parent": "safe-fndn/safe-singleton-factory",
+      "source": "safe-fndn/safe-singleton-factory",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:00:49Z"
+    },
+    {
+      "full_name": "AlignNetwork/safe-smart-account",
+      "is_fork": true,
+      "parent": "safe-fndn/safe-smart-account",
+      "source": "safe-fndn/safe-smart-account",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:00:50Z"
+    }
+  ]
+}

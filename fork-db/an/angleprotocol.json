@@ -1,0 +1,573 @@
+{
+  "owner": "angleprotocol",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AngleProtocol/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:41:49Z"
+    },
+    {
+      "full_name": "AngleProtocol/Uniswap-Incentives-Computer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:41:50Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-amo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:41:50Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T06:41:51Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-borrow",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:41:52Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 90,
+      "language": "HTML",
+      "last_checked": "2026-03-01T06:41:53Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vyper",
+      "last_checked": "2026-03-01T06:41:54Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T06:41:55Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:41:56Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-governance-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:41:57Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-integration-strategies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:41:58Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:41:59Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-keeper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:00Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:01Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-router",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:02Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-strategies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:03Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-strategies-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:04Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:04Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:05Z"
+    },
+    {
+      "full_name": "AngleProtocol/angle-transmuter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:07Z"
+    },
+    {
+      "full_name": "AngleProtocol/assets",
+      "is_fork": true,
+      "parent": "Uniswap/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:08Z"
+    },
+    {
+      "full_name": "AngleProtocol/blocked-ip",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:08Z"
+    },
+    {
+      "full_name": "AngleProtocol/boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:09Z"
+    },
+    {
+      "full_name": "AngleProtocol/borrow-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:10Z"
+    },
+    {
+      "full_name": "AngleProtocol/borrow-lpTokens-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:11Z"
+    },
+    {
+      "full_name": "AngleProtocol/bridge-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:12Z"
+    },
+    {
+      "full_name": "AngleProtocol/carbon-footprint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:13Z"
+    },
+    {
+      "full_name": "AngleProtocol/curve-external-reward",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:14Z"
+    },
+    {
+      "full_name": "AngleProtocol/dappkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:15Z"
+    },
+    {
+      "full_name": "AngleProtocol/fei-protocol-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:15Z"
+    },
+    {
+      "full_name": "AngleProtocol/github-workflows",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:16Z"
+    },
+    {
+      "full_name": "AngleProtocol/holder-dick-contest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:17Z"
+    },
+    {
+      "full_name": "AngleProtocol/joe-tokenlists",
+      "is_fork": true,
+      "parent": "lfj-gg/joe-tokenlists",
+      "source": "lfj-gg/joe-tokenlists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:18Z"
+    },
+    {
+      "full_name": "AngleProtocol/l0-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:19Z"
+    },
+    {
+      "full_name": "AngleProtocol/ledger-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T06:42:20Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-app-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:21Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 77,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:22Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-dispute",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:23Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:24Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:25Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-frontend-technical-case",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:26Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-lite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:27Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-puffer",
+      "is_fork": true,
+      "parent": "AngleProtocol/merkl-lite",
+      "source": "AngleProtocol/merkl-lite",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:28Z"
+    },
+    {
+      "full_name": "AngleProtocol/merkl-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:29Z"
+    },
+    {
+      "full_name": "AngleProtocol/mmi-defi-adapters",
+      "is_fork": true,
+      "parent": "consensys-vertical-apps/mmi-defi-adapters",
+      "source": "consensys-vertical-apps/mmi-defi-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:30Z"
+    },
+    {
+      "full_name": "AngleProtocol/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:31Z"
+    },
+    {
+      "full_name": "AngleProtocol/perpetuals-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:32Z"
+    },
+    {
+      "full_name": "AngleProtocol/public-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:33Z"
+    },
+    {
+      "full_name": "AngleProtocol/safe-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:34Z"
+    },
+    {
+      "full_name": "AngleProtocol/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:34Z"
+    },
+    {
+      "full_name": "AngleProtocol/subgraphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:35Z"
+    },
+    {
+      "full_name": "AngleProtocol/swagger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:36Z"
+    },
+    {
+      "full_name": "AngleProtocol/template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:37Z"
+    },
+    {
+      "full_name": "AngleProtocol/terraform-google-serviceaccount",
+      "is_fork": true,
+      "parent": "padok-team/terraform-google-serviceaccount",
+      "source": "padok-team/terraform-google-serviceaccount",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:38Z"
+    },
+    {
+      "full_name": "AngleProtocol/testers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:39Z"
+    },
+    {
+      "full_name": "AngleProtocol/tokenAssets",
+      "is_fork": true,
+      "parent": "SmolDapp/tokenAssets",
+      "source": "SmolDapp/tokenAssets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:40Z"
+    },
+    {
+      "full_name": "AngleProtocol/trustwallet-assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:41Z"
+    },
+    {
+      "full_name": "AngleProtocol/uniswap-migrator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:42Z"
+    },
+    {
+      "full_name": "AngleProtocol/uniswapv3-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:42Z"
+    },
+    {
+      "full_name": "AngleProtocol/utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:42:43Z"
+    },
+    {
+      "full_name": "AngleProtocol/w3f",
+      "is_fork": true,
+      "parent": "gelatodigital/web3-functions-hardhat-template",
+      "source": "gelatodigital/web3-functions-hardhat-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:44Z"
+    },
+    {
+      "full_name": "AngleProtocol/weekly_holder_subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:42:45Z"
+    },
+    {
+      "full_name": "AngleProtocol/welcome-phrases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:42:46Z"
+    }
+  ]
+}

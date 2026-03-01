@@ -1,0 +1,303 @@
+{
+  "owner": "build-squad",
+  "updated_at": "2026-03-01T19:01:44Z",
+  "repos": [
+    {
+      "full_name": "Build-Squad/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:23Z"
+    },
+    {
+      "full_name": "Build-Squad/CAST",
+      "is_fork": true,
+      "parent": "onflow/CAST",
+      "source": "DapperCollectives/CAST",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T15:09:24Z"
+    },
+    {
+      "full_name": "Build-Squad/Offers",
+      "is_fork": true,
+      "parent": "onflow/Offers",
+      "source": "onflow/Offers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:25Z"
+    },
+    {
+      "full_name": "Build-Squad/PRNG",
+      "is_fork": true,
+      "parent": "justjoolz/PRNG",
+      "source": "justjoolz/PRNG",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:26Z"
+    },
+    {
+      "full_name": "Build-Squad/arbitrum-csharp-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C#",
+      "last_checked": "2026-03-01T15:09:27Z"
+    },
+    {
+      "full_name": "Build-Squad/arbitrum-csharp-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-01T15:09:28Z"
+    },
+    {
+      "full_name": "Build-Squad/asset-handover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:29Z"
+    },
+    {
+      "full_name": "Build-Squad/build-squad.github.io",
+      "is_fork": true,
+      "parent": "Shopify/shopify.github.com",
+      "source": "Shopify/shopify.github.com",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:30Z"
+    },
+    {
+      "full_name": "Build-Squad/cadence",
+      "is_fork": true,
+      "parent": "onflow/cadence",
+      "source": "onflow/cadence",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:31Z"
+    },
+    {
+      "full_name": "Build-Squad/cadence-testing",
+      "is_fork": true,
+      "parent": "SupunS/cadence-testing",
+      "source": "SupunS/cadence-testing",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:32Z"
+    },
+    {
+      "full_name": "Build-Squad/cadence-tools",
+      "is_fork": true,
+      "parent": "onflow/cadence-tools",
+      "source": "onflow/cadence-tools",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:33Z"
+    },
+    {
+      "full_name": "Build-Squad/cast_vote",
+      "is_fork": true,
+      "parent": "onflow/CAST",
+      "source": "DapperCollectives/CAST",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T15:09:35Z"
+    },
+    {
+      "full_name": "Build-Squad/docs",
+      "is_fork": true,
+      "parent": "onflow/docs",
+      "source": "onflow/docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:36Z"
+    },
+    {
+      "full_name": "Build-Squad/fcl-js",
+      "is_fork": true,
+      "parent": "onflow/fcl-js",
+      "source": "onflow/fcl-js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T15:09:37Z"
+    },
+    {
+      "full_name": "Build-Squad/flow",
+      "is_fork": true,
+      "parent": "onflow/flow",
+      "source": "onflow/flow",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:38Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-cli",
+      "is_fork": true,
+      "parent": "onflow/flow-cli",
+      "source": "onflow/flow-cli",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:39Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-code-coverage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:40Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-emulator",
+      "is_fork": true,
+      "parent": "onflow/flow-emulator",
+      "source": "onflow/flow-emulator",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:41Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-ft",
+      "is_fork": true,
+      "parent": "onflow/flow-ft",
+      "source": "onflow/flow-ft",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:42Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-go",
+      "is_fork": true,
+      "parent": "onflow/flow-go",
+      "source": "onflow/flow-go",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T15:09:43Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-js-testing",
+      "is_fork": true,
+      "parent": "onflow/flow-js-testing",
+      "source": "onflow/flow-js-testing",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:44Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-merkle-proof",
+      "is_fork": true,
+      "parent": "LanfordCai/flow-merkle-proof",
+      "source": "LanfordCai/flow-merkle-proof",
+      "stars": 0,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:45Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-nft",
+      "is_fork": true,
+      "parent": "onflow/flow-nft",
+      "source": "onflow/flow-nft",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:46Z"
+    },
+    {
+      "full_name": "Build-Squad/flow-utils",
+      "is_fork": true,
+      "parent": "green-goo-dao/flow-utils",
+      "source": "green-goo-dao/flow-utils",
+      "stars": 0,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:47Z"
+    },
+    {
+      "full_name": "Build-Squad/hybrid-custody",
+      "is_fork": true,
+      "parent": "onflow/hybrid-custody",
+      "source": "onflow/hybrid-custody",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:48Z"
+    },
+    {
+      "full_name": "Build-Squad/influencer-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T15:09:49Z"
+    },
+    {
+      "full_name": "Build-Squad/nft-pawnshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:50Z"
+    },
+    {
+      "full_name": "Build-Squad/restricted-child-account",
+      "is_fork": true,
+      "parent": "onflow/hybrid-custody",
+      "source": "onflow/hybrid-custody",
+      "stars": 0,
+      "language": "Cadence",
+      "last_checked": "2026-03-01T15:09:51Z"
+    },
+    {
+      "full_name": "Build-Squad/solana-ruby",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Ruby",
+      "last_checked": "2026-03-01T15:09:52Z"
+    },
+    {
+      "full_name": "Build-Squad/solana-web3.js",
+      "is_fork": true,
+      "parent": "solana-foundation/solana-web3.js",
+      "source": "solana-foundation/solana-web3.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:53Z"
+    },
+    {
+      "full_name": "Build-Squad/solgames-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:53Z"
+    },
+    {
+      "full_name": "Build-Squad/solgames-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T15:09:54Z"
+    },
+    {
+      "full_name": "Build-Squad/wuphf-moments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T15:09:54Z"
+    }
+  ]
+}

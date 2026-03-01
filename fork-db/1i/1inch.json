@@ -1,6 +1,6 @@
 {
   "owner": "1inch",
-  "updated_at": "2026-02-28T20:22:31Z",
+  "updated_at": "2026-03-01T19:01:41Z",
   "repos": [
     {
       "full_name": "1inch/1IPs",
@@ -1423,6 +1423,15 @@
       "stars": 4,
       "language": "TypeScript",
       "last_checked": "2025-12-30T09:04:17.210067Z"
+    },
+    {
+      "full_name": "1inch/solidity",
+      "is_fork": true,
+      "parent": "argotorg/solidity",
+      "source": "argotorg/solidity",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-02-28T23:54:17Z"
     },
     {
       "full_name": "1inch/solidity-audit-checklist",

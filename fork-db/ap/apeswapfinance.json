@@ -1,0 +1,474 @@
+{
+  "owner": "apeswapfinance",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "ApeSwapFinance/-apeswap-yields",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:44Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:45Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/Bogged-Token-List",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:45Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:06:46Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:47Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apestrong-covid-relief",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:48Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:49Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-banana-farm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:50Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:51Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-dao-discussions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:51Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:06:52Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:53Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-golden-banana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:54Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:06:55Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-hardhat-banana-allocator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:06:55Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-hardhat-test-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:06:56Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-hardhat-zap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:06:57Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-iao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:06:58Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-iazo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:59Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-jungle-fund",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:06:59Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:00Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-pool-factory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:07:01Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-price-getter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:07:02Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:03Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:04Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-swap-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:05Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-swap-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:07:05Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-swap-v2-monorepo",
+      "is_fork": true,
+      "parent": "balancer/balancer-v2-monorepo",
+      "source": "balancer/balancer-v2-monorepo",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:06Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-swap-v2-sdk",
+      "is_fork": true,
+      "parent": "balancer/balancer-sdk",
+      "source": "balancer/balancer-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:08Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-swap-v2-subgraph",
+      "is_fork": true,
+      "parent": "balancer/balancer-subgraph-v2",
+      "source": "balancer/balancer-subgraph-v2",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:09Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-test-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:07:10Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-token-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:10Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-uikit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:11Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-vaults",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:07:12Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/apeswap-yields",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:13Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:14Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/balancer-frontend-v2",
+      "is_fork": true,
+      "parent": "balancer/frontend-v2",
+      "source": "balancer/frontend-v2",
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-01T07:07:15Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/bond-dashboard-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:16Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/dex-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T07:07:17Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/eip-5725-vesting-nft-implementation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:17Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/eslint-config-apeswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:07:18Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:19Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/lhd-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:20Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/non-fungible-apes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:21Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/redux-multicall",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:22Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 1,
+      "language": "SCSS",
+      "last_checked": "2026-03-01T07:07:23Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/swap-router-contracts",
+      "is_fork": true,
+      "parent": "Uniswap/swap-router-contracts",
+      "source": "Uniswap/swap-router-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:24Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/token-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:25Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/v3-core",
+      "is_fork": true,
+      "parent": "Uniswap/v3-core",
+      "source": "Uniswap/v3-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:26Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/v3-info",
+      "is_fork": true,
+      "parent": "Uniswap/v3-info",
+      "source": "Uniswap/v3-info",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:27Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/v3-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v3-periphery",
+      "source": "Uniswap/v3-periphery",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:07:28Z"
+    },
+    {
+      "full_name": "ApeSwapFinance/v3-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v3-subgraph",
+      "source": "Uniswap/v3-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:07:29Z"
+    }
+  ]
+}

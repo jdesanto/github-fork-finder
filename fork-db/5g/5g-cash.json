@@ -1,0 +1,24 @@
+{
+  "owner": "5g-cash",
+  "updated_at": "2026-03-01T19:01:41Z",
+  "repos": [
+    {
+      "full_name": "5G-Cash/5G",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "C",
+      "last_checked": "2026-03-01T00:11:09Z"
+    },
+    {
+      "full_name": "5G-Cash/5Gexplorer",
+      "is_fork": true,
+      "parent": "iquidus/explorer",
+      "source": "iquidus/explorer",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T00:11:10Z"
+    }
+  ]
+}

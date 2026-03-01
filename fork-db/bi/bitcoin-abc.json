@@ -1,0 +1,96 @@
+{
+  "owner": "bitcoin-abc",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Bitcoin-ABC/ElectrumABC",
+      "is_fork": true,
+      "parent": "PiRK/ElectrumABC",
+      "source": "spesmilo/electrum",
+      "stars": 34,
+      "language": "Python",
+      "last_checked": "2026-03-01T12:55:08Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/bitcoin-abc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1283,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:55:09Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/bitcoin-abc-cashaddr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:09Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/bitcoinabc.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "HTML",
+      "last_checked": "2026-03-01T12:55:10Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/cashtab",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:11Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/ecash-ckpool-solo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "C",
+      "last_checked": "2026-03-01T12:55:12Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/ecash-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:12Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/ecash-trezor-firmware",
+      "is_fork": true,
+      "parent": "trezor/trezor-firmware",
+      "source": "trezor/trezor-firmware",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:13Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/qa-assets",
+      "is_fork": true,
+      "parent": "bitcoin-core/qa-assets",
+      "source": "bitcoin-core/qa-assets",
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:14Z"
+    },
+    {
+      "full_name": "Bitcoin-ABC/secp256k1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C",
+      "last_checked": "2026-03-01T12:55:15Z"
+    }
+  ]
+}

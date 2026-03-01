@@ -1,0 +1,96 @@
+{
+  "owner": "beamswap",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BeamSwap/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:42Z"
+    },
+    {
+      "full_name": "BeamSwap/beamswap-permit2-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:43Z"
+    },
+    {
+      "full_name": "BeamSwap/beamswap-sdk-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:44Z"
+    },
+    {
+      "full_name": "BeamSwap/beamswap-smart-order-router",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:45Z"
+    },
+    {
+      "full_name": "BeamSwap/beamswap-tokenlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:46Z"
+    },
+    {
+      "full_name": "BeamSwap/dexcandles",
+      "is_fork": true,
+      "parent": "1inch/dexcandles",
+      "source": "1inch/dexcandles",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:47Z"
+    },
+    {
+      "full_name": "BeamSwap/dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:48Z"
+    },
+    {
+      "full_name": "BeamSwap/exosama-tokenlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:49Z"
+    },
+    {
+      "full_name": "BeamSwap/integral-sdk",
+      "is_fork": true,
+      "parent": "cryptoalgebra/integral-sdk",
+      "source": "cryptoalgebra/integral-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:50Z"
+    },
+    {
+      "full_name": "BeamSwap/wormhole-token-list",
+      "is_fork": true,
+      "parent": "wormhole-foundation/wormhole-token-list",
+      "source": "wormhole-foundation/wormhole-token-list",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:04:51Z"
+    }
+  ]
+}

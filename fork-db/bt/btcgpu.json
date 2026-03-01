@@ -1,0 +1,303 @@
+{
+  "owner": "btcgpu",
+  "updated_at": "2026-03-01T19:01:44Z",
+  "repos": [
+    {
+      "full_name": "BTCGPU/BTCGPU",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 682,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:40:38Z"
+    },
+    {
+      "full_name": "BTCGPU/BTG-OmniCore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:40:39Z"
+    },
+    {
+      "full_name": "BTCGPU/Developer-Portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T10:40:40Z"
+    },
+    {
+      "full_name": "BTCGPU/bgoldjs-lib-createTransactions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:40:41Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcoin-etl",
+      "is_fork": true,
+      "parent": "blockchain-etl/bitcoin-etl",
+      "source": "blockchain-etl/bitcoin-etl",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:40:42Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcoin-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:40:43Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcoingold-detached-sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T10:40:44Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcoinj",
+      "is_fork": true,
+      "parent": "bitcoinj/bitcoinj",
+      "source": "bitcoinj/bitcoinj",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:40:45Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcoinjs-lib",
+      "is_fork": true,
+      "parent": "bitcoinjs/bitcoinjs-lib",
+      "source": "bitcoinjs/bitcoinjs-lib",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:40:46Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore",
+      "is_fork": true,
+      "parent": "bitpay/bitcore",
+      "source": "bitpay/bitcore",
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:40:47Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore-deb",
+      "is_fork": true,
+      "parent": "trezor-graveyard/bitcore-deb",
+      "source": "trezor-graveyard/bitcore-deb",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:40:48Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:40:49Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore-lib",
+      "is_fork": true,
+      "parent": "trezor-graveyard/bitcore-lib",
+      "source": "bitpay/bitcore-lib",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:40:50Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore-node",
+      "is_fork": true,
+      "parent": "trezor-graveyard/bitcore-node",
+      "source": "bitpay/bitcore-node",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:40:51Z"
+    },
+    {
+      "full_name": "BTCGPU/bitcore-patched-fullnode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:40:52Z"
+    },
+    {
+      "full_name": "BTCGPU/blockbook",
+      "is_fork": true,
+      "parent": "trezor/blockbook",
+      "source": "trezor/blockbook",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:40:53Z"
+    },
+    {
+      "full_name": "BTCGPU/electrum",
+      "is_fork": true,
+      "parent": "spesmilo/electrum",
+      "source": "spesmilo/electrum",
+      "stars": 21,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:40:54Z"
+    },
+    {
+      "full_name": "BTCGPU/electrum-icons",
+      "is_fork": true,
+      "parent": "pooler/electrum-ltc-icons",
+      "source": "pooler/electrum-ltc-icons",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:40:55Z"
+    },
+    {
+      "full_name": "BTCGPU/electrum-locale",
+      "is_fork": true,
+      "parent": "spesmilo/electrum-locale",
+      "source": "spesmilo/electrum-locale",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:40:56Z"
+    },
+    {
+      "full_name": "BTCGPU/electrumx",
+      "is_fork": true,
+      "parent": "kyuupichan/electrumx",
+      "source": "kyuupichan/electrumx",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:40:57Z"
+    },
+    {
+      "full_name": "BTCGPU/equihash",
+      "is_fork": true,
+      "parent": "tromp/equihash",
+      "source": "tromp/equihash",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:40:58Z"
+    },
+    {
+      "full_name": "BTCGPU/equihashjs-verify",
+      "is_fork": true,
+      "parent": "Vutov/equihashjs-verify",
+      "source": "Vutov/equihashjs-verify",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:40:59Z"
+    },
+    {
+      "full_name": "BTCGPU/gitian.sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T10:41:00Z"
+    },
+    {
+      "full_name": "BTCGPU/insight",
+      "is_fork": true,
+      "parent": "trezor-graveyard/insight",
+      "source": "bitpay/insight",
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:41:01Z"
+    },
+    {
+      "full_name": "BTCGPU/insight-api",
+      "is_fork": true,
+      "parent": "trezor-graveyard/insight-api",
+      "source": "bitpay/insight-api",
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:41:02Z"
+    },
+    {
+      "full_name": "BTCGPU/lightning-onion",
+      "is_fork": true,
+      "parent": "lightningnetwork/lightning-onion",
+      "source": "lightningnetwork/lightning-onion",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:41:03Z"
+    },
+    {
+      "full_name": "BTCGPU/lnd",
+      "is_fork": true,
+      "parent": "lightningnetwork/lnd",
+      "source": "lightningnetwork/lnd",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:41:04Z"
+    },
+    {
+      "full_name": "BTCGPU/lseed",
+      "is_fork": true,
+      "parent": "cdecker/lseed",
+      "source": "cdecker/lseed",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:41:05Z"
+    },
+    {
+      "full_name": "BTCGPU/neutrino",
+      "is_fork": true,
+      "parent": "lightninglabs/neutrino",
+      "source": "lightninglabs/neutrino",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:41:06Z"
+    },
+    {
+      "full_name": "BTCGPU/recksplorer",
+      "is_fork": true,
+      "parent": "chemicstry/recksplorer",
+      "source": "chemicstry/recksplorer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:41:07Z"
+    },
+    {
+      "full_name": "BTCGPU/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:41:08Z"
+    },
+    {
+      "full_name": "BTCGPU/trustwallet-assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:41:09Z"
+    },
+    {
+      "full_name": "BTCGPU/wallet-core",
+      "is_fork": true,
+      "parent": "trustwallet/wallet-core",
+      "source": "trustwallet/wallet-core",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:41:10Z"
+    }
+  ]
+}

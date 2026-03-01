@@ -1,0 +1,465 @@
+{
+  "owner": "aleohq",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AleoHQ/ARCs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 231,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:43:51Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 623,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:43:53Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-education",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 256,
+      "language": null,
+      "last_checked": "2026-03-01T05:43:54Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-instructions-syntax-sublime",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T05:43:55Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-instructions-syntax-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T05:43:56Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:43:58Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:43:59Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-setup",
+      "is_fork": true,
+      "parent": "celo-org/snark-setup",
+      "source": "kobigurk/phase2-bn254",
+      "stars": 82,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:00Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-setup-integration-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:02Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-snap-chainsafe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:44:03Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo-std",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:04Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo_lambda_blockchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:05Z"
+    },
+    {
+      "full_name": "AleoHQ/aleo_vm_lambda",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:05Z"
+    },
+    {
+      "full_name": "AleoHQ/bounty-2022-ethdenver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:44:06Z"
+    },
+    {
+      "full_name": "AleoHQ/community",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:07Z"
+    },
+    {
+      "full_name": "AleoHQ/dizk",
+      "is_fork": true,
+      "parent": "scipr-lab/dizk",
+      "source": "scipr-lab/dizk",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:09Z"
+    },
+    {
+      "full_name": "AleoHQ/edn-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:09Z"
+    },
+    {
+      "full_name": "AleoHQ/fpga_snark_prover_test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:10Z"
+    },
+    {
+      "full_name": "AleoHQ/grammars",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:11Z"
+    },
+    {
+      "full_name": "AleoHQ/highlight.js",
+      "is_fork": true,
+      "parent": "highlightjs/highlight.js",
+      "source": "highlightjs/highlight.js",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:12Z"
+    },
+    {
+      "full_name": "AleoHQ/leo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4804,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:13Z"
+    },
+    {
+      "full_name": "AleoHQ/leo-acl2-bin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:15Z"
+    },
+    {
+      "full_name": "AleoHQ/leo-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:16Z"
+    },
+    {
+      "full_name": "AleoHQ/leo-syntax-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:44:17Z"
+    },
+    {
+      "full_name": "AleoHQ/linguist",
+      "is_fork": true,
+      "parent": "github-linguist/linguist",
+      "source": "github-linguist/linguist",
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-01T05:44:19Z"
+    },
+    {
+      "full_name": "AleoHQ/linguist-grammars",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:20Z"
+    },
+    {
+      "full_name": "AleoHQ/lsp4intellij",
+      "is_fork": true,
+      "parent": "ballerina-platform/lsp4intellij",
+      "source": "ballerina-platform/lsp4intellij",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-01T05:44:21Z"
+    },
+    {
+      "full_name": "AleoHQ/marlin",
+      "is_fork": true,
+      "parent": "arkworks-rs/marlin",
+      "source": "arkworks-rs/marlin",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:23Z"
+    },
+    {
+      "full_name": "AleoHQ/mpmc-bus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:23Z"
+    },
+    {
+      "full_name": "AleoHQ/nemean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-01T05:44:24Z"
+    },
+    {
+      "full_name": "AleoHQ/neptune",
+      "is_fork": true,
+      "parent": "lurk-lab/neptune",
+      "source": "lurk-lab/neptune",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:26Z"
+    },
+    {
+      "full_name": "AleoHQ/package_control_channel",
+      "is_fork": true,
+      "parent": "sublimehq/package_control_channel",
+      "source": "sublimehq/package_control_channel",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T05:44:27Z"
+    },
+    {
+      "full_name": "AleoHQ/poly-commit",
+      "is_fork": true,
+      "parent": "arkworks-rs/poly-commit",
+      "source": "arkworks-rs/poly-commit",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:28Z"
+    },
+    {
+      "full_name": "AleoHQ/pontoon",
+      "is_fork": true,
+      "parent": "mozilla/pontoon",
+      "source": "mozilla/pontoon",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:30Z"
+    },
+    {
+      "full_name": "AleoHQ/python-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "Python",
+      "last_checked": "2026-03-01T05:44:31Z"
+    },
+    {
+      "full_name": "AleoHQ/rust-rocksdb",
+      "is_fork": true,
+      "parent": "rust-rocksdb/rust-rocksdb",
+      "source": "rust-rocksdb/rust-rocksdb",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:32Z"
+    },
+    {
+      "full_name": "AleoHQ/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 623,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:44:34Z"
+    },
+    {
+      "full_name": "AleoHQ/service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:35Z"
+    },
+    {
+      "full_name": "AleoHQ/snarkOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4508,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:36Z"
+    },
+    {
+      "full_name": "AleoHQ/snarkVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1152,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:37Z"
+    },
+    {
+      "full_name": "AleoHQ/sublimelsp-repository",
+      "is_fork": true,
+      "parent": "sublimelsp/repository",
+      "source": "sublimelsp/repository",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T05:44:39Z"
+    },
+    {
+      "full_name": "AleoHQ/tracing-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:39Z"
+    },
+    {
+      "full_name": "AleoHQ/wagyu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 645,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:40Z"
+    },
+    {
+      "full_name": "AleoHQ/wagyu-zcash-parameters",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:44:41Z"
+    },
+    {
+      "full_name": "AleoHQ/web-view",
+      "is_fork": true,
+      "parent": "Boscop/web-view",
+      "source": "Boscop/web-view",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:43Z"
+    },
+    {
+      "full_name": "AleoHQ/welcome",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 331,
+      "language": "Mermaid",
+      "last_checked": "2026-03-01T05:44:44Z"
+    },
+    {
+      "full_name": "AleoHQ/workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 341,
+      "language": "Shell",
+      "last_checked": "2026-03-01T05:44:46Z"
+    },
+    {
+      "full_name": "AleoHQ/yew_webview_bridge",
+      "is_fork": true,
+      "parent": "hobofan/yew_webview_bridge",
+      "source": "hobofan/yew_webview_bridge",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:47Z"
+    },
+    {
+      "full_name": "AleoHQ/zexe",
+      "is_fork": true,
+      "parent": "arkworks-rs/snark",
+      "source": "arkworks-rs/snark",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:48Z"
+    },
+    {
+      "full_name": "AleoHQ/zprize-harness",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:49Z"
+    },
+    {
+      "full_name": "AleoHQ/zxcvbn-rs",
+      "is_fork": true,
+      "parent": "shssoichiro/zxcvbn-rs",
+      "source": "shssoichiro/zxcvbn-rs",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:44:50Z"
+    }
+  ]
+}

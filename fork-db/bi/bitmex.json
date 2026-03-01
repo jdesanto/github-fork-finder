@@ -1,0 +1,87 @@
+{
+  "owner": "bitmex",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BitMEX/api-connectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 912,
+      "language": "C++",
+      "last_checked": "2026-03-01T12:53:28Z"
+    },
+    {
+      "full_name": "BitMEX/bitmex-local-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:53:29Z"
+    },
+    {
+      "full_name": "BitMEX/bs_api",
+      "is_fork": true,
+      "parent": "vbmithr/bs_api",
+      "source": "vbmithr/bs_api",
+      "stars": 2,
+      "language": "OCaml",
+      "last_checked": "2026-03-01T12:53:30Z"
+    },
+    {
+      "full_name": "BitMEX/easy-data-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 104,
+      "language": "Python",
+      "last_checked": "2026-03-01T12:53:31Z"
+    },
+    {
+      "full_name": "BitMEX/ninjatrader-bitmex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 89,
+      "language": null,
+      "last_checked": "2026-03-01T12:53:32Z"
+    },
+    {
+      "full_name": "BitMEX/node-redis-token-bucket-ratelimiter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:53:33Z"
+    },
+    {
+      "full_name": "BitMEX/ocaml-bmex",
+      "is_fork": true,
+      "parent": "vbmithr/ocaml-bmex",
+      "source": "vbmithr/ocaml-bmex",
+      "stars": 4,
+      "language": "OCaml",
+      "last_checked": "2026-03-01T12:53:34Z"
+    },
+    {
+      "full_name": "BitMEX/proof-of-reserves-liabilities",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Python",
+      "last_checked": "2026-03-01T12:53:35Z"
+    },
+    {
+      "full_name": "BitMEX/sample-market-maker",
+      "is_fork": true,
+      "parent": "tzarskyz/liquidbot",
+      "source": "tzarskyz/liquidbot",
+      "stars": 1720,
+      "language": "Python",
+      "last_checked": "2026-03-01T12:53:36Z"
+    }
+  ]
+}

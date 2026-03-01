@@ -1,0 +1,87 @@
+{
+  "owner": "aegisfinance",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AegisFinance/InheritX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:26Z"
+    },
+    {
+      "full_name": "AegisFinance/aegis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-01T05:12:27Z"
+    },
+    {
+      "full_name": "AegisFinance/aegis-accounts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-01T05:12:29Z"
+    },
+    {
+      "full_name": "AegisFinance/aegis-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:29Z"
+    },
+    {
+      "full_name": "AegisFinance/exchange-rate-canister",
+      "is_fork": true,
+      "parent": "dfinity/exchange-rate-canister",
+      "source": "dfinity/exchange-rate-canister",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T05:12:30Z"
+    },
+    {
+      "full_name": "AegisFinance/ic-eth-starter",
+      "is_fork": true,
+      "parent": "dfinity/icp-eth-starter",
+      "source": "dfinity/icp-eth-starter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:31Z"
+    },
+    {
+      "full_name": "AegisFinance/pkdr-finance-project",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:32Z"
+    },
+    {
+      "full_name": "AegisFinance/wasm-tools",
+      "is_fork": true,
+      "parent": "dfinity/wasm-tools",
+      "source": "bytecodealliance/wasm-tools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:33Z"
+    },
+    {
+      "full_name": "AegisFinance/xdeployer",
+      "is_fork": true,
+      "parent": "pcaversaccio/xdeployer",
+      "source": "pcaversaccio/xdeployer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:12:34Z"
+    }
+  ]
+}

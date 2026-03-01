@@ -1,0 +1,483 @@
+{
+  "owner": "augurproject",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AugurProject/0x-mesh",
+      "is_fork": true,
+      "parent": "0xProject/0x-mesh",
+      "source": "0xProject/0x-mesh",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:00Z"
+    },
+    {
+      "full_name": "AugurProject/3rdpartycookiecheck",
+      "is_fork": true,
+      "parent": "mindmup/3rdpartycookiecheck",
+      "source": "mindmup/3rdpartycookiecheck",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:02:01Z"
+    },
+    {
+      "full_name": "AugurProject/Augur-Constant-Product-Market",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:02Z"
+    },
+    {
+      "full_name": "AugurProject/Augur-Node-Experiment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:03Z"
+    },
+    {
+      "full_name": "AugurProject/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:04Z"
+    },
+    {
+      "full_name": "AugurProject/IndexedDBShim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:05Z"
+    },
+    {
+      "full_name": "AugurProject/MyCrypto",
+      "is_fork": true,
+      "parent": "MyCryptoHQ/MyCrypto",
+      "source": "MyCryptoHQ/MyCrypto",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:06Z"
+    },
+    {
+      "full_name": "AugurProject/Solium",
+      "is_fork": true,
+      "parent": "duaraghav8/Ethlint",
+      "source": "duaraghav8/Ethlint",
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:07Z"
+    },
+    {
+      "full_name": "AugurProject/V2Migration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:08Z"
+    },
+    {
+      "full_name": "AugurProject/augur",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 497,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:09Z"
+    },
+    {
+      "full_name": "AugurProject/augur-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 223,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:09Z"
+    },
+    {
+      "full_name": "AugurProject/augur-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:10Z"
+    },
+    {
+      "full_name": "AugurProject/augur-bounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:11Z"
+    },
+    {
+      "full_name": "AugurProject/augur-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 588,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:12Z"
+    },
+    {
+      "full_name": "AugurProject/augur-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 100,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:13Z"
+    },
+    {
+      "full_name": "AugurProject/augur-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 401,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:14Z"
+    },
+    {
+      "full_name": "AugurProject/augur-ui-extractor",
+      "is_fork": true,
+      "parent": "MicahZoltu/augur-ui-extractor",
+      "source": "MicahZoltu/augur-ui-extractor",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:02:15Z"
+    },
+    {
+      "full_name": "AugurProject/augur-ui-sandbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:16Z"
+    },
+    {
+      "full_name": "AugurProject/augur-v2-subgraph",
+      "is_fork": true,
+      "parent": "protofire/augur-v2-subgraph",
+      "source": "protofire/augur-v2-subgraph",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:17Z"
+    },
+    {
+      "full_name": "AugurProject/augur-walkthrough",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:18Z"
+    },
+    {
+      "full_name": "AugurProject/augur.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 123,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:19Z"
+    },
+    {
+      "full_name": "AugurProject/bignumber.js",
+      "is_fork": true,
+      "parent": "MikeMcl/bignumber.js",
+      "source": "MikeMcl/bignumber.js",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:20Z"
+    },
+    {
+      "full_name": "AugurProject/blackhole",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:21Z"
+    },
+    {
+      "full_name": "AugurProject/branding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:22Z"
+    },
+    {
+      "full_name": "AugurProject/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:23Z"
+    },
+    {
+      "full_name": "AugurProject/electron-metamask-boilerplate",
+      "is_fork": true,
+      "parent": "SwapyNetwork/electron-metamask-boilerplate",
+      "source": "SwapyNetwork/electron-metamask-boilerplate",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:24Z"
+    },
+    {
+      "full_name": "AugurProject/eth-contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:25Z"
+    },
+    {
+      "full_name": "AugurProject/ethereum-nodes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:02:26Z"
+    },
+    {
+      "full_name": "AugurProject/ethereumjs-blockstream",
+      "is_fork": true,
+      "parent": "ethereumjs/ethereumjs-blockstream",
+      "source": "ethereumjs/ethereumjs-blockstream",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:27Z"
+    },
+    {
+      "full_name": "AugurProject/etherwallet",
+      "is_fork": true,
+      "parent": "MyEtherWallet/etherwallet",
+      "source": "MyEtherWallet/etherwallet",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:28Z"
+    },
+    {
+      "full_name": "AugurProject/external-adapters-js",
+      "is_fork": true,
+      "parent": "smartcontractkit/external-adapters-js",
+      "source": "smartcontractkit/external-adapters-js",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:29Z"
+    },
+    {
+      "full_name": "AugurProject/gnosis-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:30Z"
+    },
+    {
+      "full_name": "AugurProject/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:02:31Z"
+    },
+    {
+      "full_name": "AugurProject/gsn-relayer",
+      "is_fork": true,
+      "parent": "OpenZeppelin/gsn-relayer",
+      "source": "OpenZeppelin/gsn-relayer",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:32Z"
+    },
+    {
+      "full_name": "AugurProject/knex",
+      "is_fork": true,
+      "parent": "knex/knex",
+      "source": "knex/knex",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:33Z"
+    },
+    {
+      "full_name": "AugurProject/landing-page",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:33Z"
+    },
+    {
+      "full_name": "AugurProject/masterchef-gnosis-safe-rewards-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:34Z"
+    },
+    {
+      "full_name": "AugurProject/orbit-web",
+      "is_fork": true,
+      "parent": "orbitdb-archive/orbit-web",
+      "source": "orbitdb-archive/orbit-web",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:02:35Z"
+    },
+    {
+      "full_name": "AugurProject/pouchdb-perf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:36Z"
+    },
+    {
+      "full_name": "AugurProject/py_ecc",
+      "is_fork": true,
+      "parent": "ethereum/py_ecc",
+      "source": "ethereum/py_ecc",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:37Z"
+    },
+    {
+      "full_name": "AugurProject/pyethereum",
+      "is_fork": true,
+      "parent": "ethereum/pyethereum",
+      "source": "ethereum/pyethereum",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:38Z"
+    },
+    {
+      "full_name": "AugurProject/react-blockies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:39Z"
+    },
+    {
+      "full_name": "AugurProject/redux-thunk-subscribe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:40Z"
+    },
+    {
+      "full_name": "AugurProject/rep-migration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:41Z"
+    },
+    {
+      "full_name": "AugurProject/safe-relay-service",
+      "is_fork": true,
+      "parent": "5afe/safe-relay-service",
+      "source": "5afe/safe-relay-service",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:42Z"
+    },
+    {
+      "full_name": "AugurProject/solidity-docgen",
+      "is_fork": true,
+      "parent": "OpenZeppelin/solidity-docgen",
+      "source": "OpenZeppelin/solidity-docgen",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:43Z"
+    },
+    {
+      "full_name": "AugurProject/solidity-flattener",
+      "is_fork": true,
+      "parent": "BlockCatIO/solidity-flattener",
+      "source": "BlockCatIO/solidity-flattener",
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:02:44Z"
+    },
+    {
+      "full_name": "AugurProject/solidity-typescript-generator",
+      "is_fork": true,
+      "parent": "Zoltu/solidity-typescript-generator",
+      "source": "Zoltu/solidity-typescript-generator",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:45Z"
+    },
+    {
+      "full_name": "AugurProject/speedomatic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:46Z"
+    },
+    {
+      "full_name": "AugurProject/turbo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:47Z"
+    },
+    {
+      "full_name": "AugurProject/uniswap-info",
+      "is_fork": true,
+      "parent": "Uniswap/info",
+      "source": "Uniswap/info",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:02:48Z"
+    },
+    {
+      "full_name": "AugurProject/v1-docs",
+      "is_fork": true,
+      "parent": "ringcentral/slate",
+      "source": "ringcentral/slate",
+      "stars": 31,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:02:49Z"
+    },
+    {
+      "full_name": "AugurProject/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "TeX",
+      "last_checked": "2026-03-01T10:02:50Z"
+    }
+  ]
+}

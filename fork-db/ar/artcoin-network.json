@@ -1,0 +1,42 @@
+{
+  "owner": "artcoin-network",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Artcoin-Network/artificial-coin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T07:58:03Z"
+    },
+    {
+      "full_name": "Artcoin-Network/artificial-coin-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:58:03Z"
+    },
+    {
+      "full_name": "Artcoin-Network/artificial-frontend",
+      "is_fork": true,
+      "parent": "icerove/artcoin",
+      "source": "icerove/artcoin",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T07:58:04Z"
+    },
+    {
+      "full_name": "Artcoin-Network/artificix-algorand-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T07:58:05Z"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "owner": "anchor-protocol",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Anchor-Protocol/airdropcli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:31:54Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-bAsset-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:31:55Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-bEth-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:31:56Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-01T06:31:57Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-earn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:31:58Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-notebooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:31:58Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-token-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 81,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:31:59Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-web-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:00Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:01Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchor.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:02Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/anchorcli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:03Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/beth-price-feed",
+      "is_fork": true,
+      "parent": "lidofinance/beth-price-feed",
+      "source": "lidofinance/beth-price-feed",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:32:04Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/commit-comment-action",
+      "is_fork": true,
+      "parent": "peter-evans/commit-comment",
+      "source": "peter-evans/commit-comment",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:05Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/eth-anchor-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:32:06Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:07Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/money-market-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 89,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:32:08Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/paths-filter-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:09Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:10Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/route53-record-set-action",
+      "is_fork": true,
+      "parent": "roosterfish/aws-route53-record-set-action",
+      "source": "roosterfish/aws-route53-record-set-action",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:11Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/rust-optimizer",
+      "is_fork": true,
+      "parent": "CosmWasm/optimizer",
+      "source": "CosmWasm/optimizer",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T06:32:12Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/speculo-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:13Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/terraform-aws-ecs-fargate",
+      "is_fork": true,
+      "parent": "umotif-public/terraform-aws-ecs-fargate",
+      "source": "umotif-public/terraform-aws-ecs-fargate",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:14Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/terraform-aws-elasticache-redis",
+      "is_fork": true,
+      "parent": "umotif-public/terraform-aws-elasticache-redis",
+      "source": "umotif-public/terraform-aws-elasticache-redis",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:15Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/terrariums",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:32:16Z"
+    },
+    {
+      "full_name": "Anchor-Protocol/whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T06:32:17Z"
+    }
+  ]
+}

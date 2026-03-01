@@ -1,0 +1,24 @@
+{
+  "owner": "antond3",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AntonD3/almost-free-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T07:00:39Z"
+    },
+    {
+      "full_name": "AntonD3/v3-staker",
+      "is_fork": true,
+      "parent": "Uniswap/v3-staker",
+      "source": "Uniswap/v3-staker",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T07:00:40Z"
+    }
+  ]
+}

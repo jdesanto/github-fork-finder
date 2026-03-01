@@ -1,0 +1,141 @@
+{
+  "owner": "bitsumfoundation",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BitsumFoundation/Bitsum.RPC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-01T13:01:55Z"
+    },
+    {
+      "full_name": "BitsumFoundation/Bitsum.Resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:01:56Z"
+    },
+    {
+      "full_name": "BitsumFoundation/NEos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C#",
+      "last_checked": "2026-03-01T13:01:57Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_core",
+      "is_fork": true,
+      "parent": "bcndev/bytecoin",
+      "source": "bcndev/bytecoin",
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:01:58Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T13:01:59Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-01T13:02:00Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_gui",
+      "is_fork": true,
+      "parent": "foiltally/bitsum-gui",
+      "source": "bcndev/bytecoin-gui",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:02:01Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_legacy",
+      "is_fork": true,
+      "parent": "i4egod/BitsumCore",
+      "source": "amjuarez/bytecoin",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:02:02Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_pool",
+      "is_fork": true,
+      "parent": "forknote/forknote-pool",
+      "source": "zone117x/node-cryptonote-pool",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T13:02:03Z"
+    },
+    {
+      "full_name": "BitsumFoundation/bitsum_wallet_generator",
+      "is_fork": true,
+      "parent": "SADM/bitsum-wallet-generator",
+      "source": "moneromooo-monero/monero-wallet-generator",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T13:02:04Z"
+    },
+    {
+      "full_name": "BitsumFoundation/eosio-web-ide",
+      "is_fork": true,
+      "parent": "EOSIO/eosio-web-ide",
+      "source": "EOSIO/eosio-web-ide",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:02:05Z"
+    },
+    {
+      "full_name": "BitsumFoundation/forknote_config",
+      "is_fork": true,
+      "parent": "forknote/configs",
+      "source": "forknote/configs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T13:02:06Z"
+    },
+    {
+      "full_name": "BitsumFoundation/lmdb",
+      "is_fork": true,
+      "parent": "bcndev/lmdb",
+      "source": "LMDB/lmdb",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T13:02:07Z"
+    },
+    {
+      "full_name": "BitsumFoundation/node_cryptonote_util",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:02:08Z"
+    },
+    {
+      "full_name": "BitsumFoundation/node_multi_hashing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T13:02:09Z"
+    }
+  ]
+}

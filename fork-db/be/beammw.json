@@ -1,0 +1,960 @@
+{
+  "owner": "beammw",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BeamMW/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:05Z"
+    },
+    {
+      "full_name": "BeamMW/Beam-Mirror-Wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:06Z"
+    },
+    {
+      "full_name": "BeamMW/android-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Kotlin",
+      "last_checked": "2026-03-01T11:03:06Z"
+    },
+    {
+      "full_name": "BeamMW/app-beam",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-boilerplate",
+      "source": "LedgerHQ/app-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:03:07Z"
+    },
+    {
+      "full_name": "BeamMW/asset-minter-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:08Z"
+    },
+    {
+      "full_name": "BeamMW/bans",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:09Z"
+    },
+    {
+      "full_name": "BeamMW/beam",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 723,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:10Z"
+    },
+    {
+      "full_name": "BeamMW/beam-anywhere-relay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:03:11Z"
+    },
+    {
+      "full_name": "BeamMW/beam-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:12Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:13Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-ethapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:14Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-ethpipe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:15Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-ethrelay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:16Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-pipe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:17Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-reverse-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:18Z"
+    },
+    {
+      "full_name": "BeamMW/beam-bridge-reverse-ethapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:19Z"
+    },
+    {
+      "full_name": "BeamMW/beam-cuda-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:19Z"
+    },
+    {
+      "full_name": "BeamMW/beam-dapp-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:20Z"
+    },
+    {
+      "full_name": "BeamMW/beam-dapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:21Z"
+    },
+    {
+      "full_name": "BeamMW/beam-dapps-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:22Z"
+    },
+    {
+      "full_name": "BeamMW/beam-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:03:23Z"
+    },
+    {
+      "full_name": "BeamMW/beam-local-test-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T11:03:24Z"
+    },
+    {
+      "full_name": "BeamMW/beam-parachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:25Z"
+    },
+    {
+      "full_name": "BeamMW/beam-polkadot-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:26Z"
+    },
+    {
+      "full_name": "BeamMW/beam-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "QML",
+      "last_checked": "2026-03-01T11:03:27Z"
+    },
+    {
+      "full_name": "BeamMW/beam-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Vue",
+      "last_checked": "2026-03-01T11:03:28Z"
+    },
+    {
+      "full_name": "BeamMW/beam-web-downloads",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:29Z"
+    },
+    {
+      "full_name": "BeamMW/beam-web-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:30Z"
+    },
+    {
+      "full_name": "BeamMW/beam-zone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:31Z"
+    },
+    {
+      "full_name": "BeamMW/blake2-solidity",
+      "is_fork": true,
+      "parent": "axic/blake2-solidity",
+      "source": "axic/blake2-solidity",
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T11:03:32Z"
+    },
+    {
+      "full_name": "BeamMW/blockex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:33Z"
+    },
+    {
+      "full_name": "BeamMW/boost-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:34Z"
+    },
+    {
+      "full_name": "BeamMW/boost-android-arm64-v8a",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:35Z"
+    },
+    {
+      "full_name": "BeamMW/boost-android-armeabi-v7a",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:36Z"
+    },
+    {
+      "full_name": "BeamMW/boost-android-x86",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:37Z"
+    },
+    {
+      "full_name": "BeamMW/boost-android-x86_64",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:38Z"
+    },
+    {
+      "full_name": "BeamMW/boost-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:38Z"
+    },
+    {
+      "full_name": "BeamMW/boost-ios-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:39Z"
+    },
+    {
+      "full_name": "BeamMW/boost-linux",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:40Z"
+    },
+    {
+      "full_name": "BeamMW/boost-osx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:41Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_1_75_0-ubuntu-16.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:41Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_1_75_0-ubuntu-18.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:42Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_1_75_0-ubuntu-20.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:42Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_linux_arm64",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:43Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_macos-10.15",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:44Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_macos-11",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:45Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_macos-12",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:46Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_macos-15",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:47Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_ubuntu-16.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:48Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_ubuntu-18.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:49Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_ubuntu-20.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:50Z"
+    },
+    {
+      "full_name": "BeamMW/boost_prebuild_windows-2019",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:51Z"
+    },
+    {
+      "full_name": "BeamMW/cuda-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:52Z"
+    },
+    {
+      "full_name": "BeamMW/dao-accumulator-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:53Z"
+    },
+    {
+      "full_name": "BeamMW/dao-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:03:54Z"
+    },
+    {
+      "full_name": "BeamMW/dao-core-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:55Z"
+    },
+    {
+      "full_name": "BeamMW/dao-voting-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:55Z"
+    },
+    {
+      "full_name": "BeamMW/dapp-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:03:56Z"
+    },
+    {
+      "full_name": "BeamMW/dex-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:03:57Z"
+    },
+    {
+      "full_name": "BeamMW/docs-desktop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:58Z"
+    },
+    {
+      "full_name": "BeamMW/docs-gitbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T11:03:59Z"
+    },
+    {
+      "full_name": "BeamMW/eth-object",
+      "is_fork": true,
+      "parent": "zmitton/eth-object",
+      "source": "zmitton/eth-object",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:00Z"
+    },
+    {
+      "full_name": "BeamMW/eth_swap_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:01Z"
+    },
+    {
+      "full_name": "BeamMW/fundraising-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:02Z"
+    },
+    {
+      "full_name": "BeamMW/ios-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:03Z"
+    },
+    {
+      "full_name": "BeamMW/libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:04Z"
+    },
+    {
+      "full_name": "BeamMW/llvm-project",
+      "is_fork": true,
+      "parent": "llvm/llvm-project",
+      "source": "llvm/llvm-project",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:05Z"
+    },
+    {
+      "full_name": "BeamMW/metamask_gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:06Z"
+    },
+    {
+      "full_name": "BeamMW/nft-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:07Z"
+    },
+    {
+      "full_name": "BeamMW/node-ipfs-cache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:08Z"
+    },
+    {
+      "full_name": "BeamMW/opencl-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:09Z"
+    },
+    {
+      "full_name": "BeamMW/openssl-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:09Z"
+    },
+    {
+      "full_name": "BeamMW/openssl-arm64-linux",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:10Z"
+    },
+    {
+      "full_name": "BeamMW/openssl-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:11Z"
+    },
+    {
+      "full_name": "BeamMW/openssl-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:12Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:13Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-gallery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:14Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-red-envelope",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:15Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:16Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:17Z"
+    },
+    {
+      "full_name": "BeamMW/plugin-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:04:18Z"
+    },
+    {
+      "full_name": "BeamMW/python-trezor",
+      "is_fork": true,
+      "parent": "trezor/python-trezor",
+      "source": "trezor/python-trezor",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:04:19Z"
+    },
+    {
+      "full_name": "BeamMW/qhttpengine",
+      "is_fork": true,
+      "parent": "nitroshare/qhttpengine",
+      "source": "nitroshare/qhttpengine",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:20Z"
+    },
+    {
+      "full_name": "BeamMW/qt5.15.2-static-Windows",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:21Z"
+    },
+    {
+      "full_name": "BeamMW/qt5.15.2-static-linux",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:21Z"
+    },
+    {
+      "full_name": "BeamMW/qt5.15.2-static-ubuntu-16.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:22Z"
+    },
+    {
+      "full_name": "BeamMW/qt5.15.2-static-ubuntu-18.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:23Z"
+    },
+    {
+      "full_name": "BeamMW/qt5.15.2-static-ubuntu-20.04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:24Z"
+    },
+    {
+      "full_name": "BeamMW/re2",
+      "is_fork": true,
+      "parent": "google/re2",
+      "source": "google/re2",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:25Z"
+    },
+    {
+      "full_name": "BeamMW/roadmap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:26Z"
+    },
+    {
+      "full_name": "BeamMW/rust-shaders",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T11:04:26Z"
+    },
+    {
+      "full_name": "BeamMW/scam-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:28Z"
+    },
+    {
+      "full_name": "BeamMW/secp256k1",
+      "is_fork": true,
+      "parent": "bitcoin-core/secp256k1",
+      "source": "bitcoin-core/secp256k1",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:29Z"
+    },
+    {
+      "full_name": "BeamMW/shader-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:30Z"
+    },
+    {
+      "full_name": "BeamMW/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:04:31Z"
+    },
+    {
+      "full_name": "BeamMW/trezor-common",
+      "is_fork": true,
+      "parent": "trezor/trezor-common",
+      "source": "trezor/trezor-common",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:04:32Z"
+    },
+    {
+      "full_name": "BeamMW/trezor-core",
+      "is_fork": true,
+      "parent": "trezor/trezor-core",
+      "source": "trezor/trezor-core",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:04:33Z"
+    },
+    {
+      "full_name": "BeamMW/trezor-cpp-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:34Z"
+    },
+    {
+      "full_name": "BeamMW/trezor-crypto",
+      "is_fork": true,
+      "parent": "trezor/trezor-crypto",
+      "source": "trezor/trezor-crypto",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:35Z"
+    },
+    {
+      "full_name": "BeamMW/trezor-firmware",
+      "is_fork": true,
+      "parent": "trezor/trezor-firmware",
+      "source": "trezor/trezor-firmware",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:36Z"
+    },
+    {
+      "full_name": "BeamMW/wallet-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:37Z"
+    },
+    {
+      "full_name": "BeamMW/wallet-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:04:37Z"
+    },
+    {
+      "full_name": "BeamMW/wasi-libc",
+      "is_fork": true,
+      "parent": "WebAssembly/wasi-libc",
+      "source": "WebAssembly/wasi-libc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:04:38Z"
+    },
+    {
+      "full_name": "BeamMW/wasi-sdk",
+      "is_fork": true,
+      "parent": "WebAssembly/wasi-sdk",
+      "source": "WebAssembly/wasi-sdk",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:04:39Z"
+    },
+    {
+      "full_name": "BeamMW/web-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:40Z"
+    },
+    {
+      "full_name": "BeamMW/web-wallet-angular",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T11:04:41Z"
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "owner": "blockstream",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Blockstream/Jade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 448,
+      "language": "C",
+      "last_checked": "2026-03-01T13:24:47Z"
+    },
+    {
+      "full_name": "Blockstream/LDPC",
+      "is_fork": true,
+      "parent": "pabr/xdsopl-LDPC-pabr",
+      "source": "xdsopl/LDPC",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:24:49Z"
+    },
+    {
+      "full_name": "Blockstream/aqua_ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Swift",
+      "last_checked": "2026-03-01T13:24:49Z"
+    },
+    {
+      "full_name": "Blockstream/asset_registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-01T13:24:50Z"
+    },
+    {
+      "full_name": "Blockstream/asset_registry_db",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "DIGITAL Command Language",
+      "last_checked": "2026-03-01T13:24:51Z"
+    },
+    {
+      "full_name": "Blockstream/asset_registry_testnet_db",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Io",
+      "last_checked": "2026-03-01T13:24:52Z"
+    },
+    {
+      "full_name": "Blockstream/autobahn-cpp",
+      "is_fork": true,
+      "parent": "glslang/autobahn-cpp",
+      "source": "crossbario/autobahn-cpp",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T13:24:53Z"
+    },
+    {
+      "full_name": "Blockstream/bitcoin-images",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T13:24:54Z"
+    },
+    {
+      "full_name": "Blockstream/bitcoinsatellite",
+      "is_fork": true,
+      "parent": "bitcoinfibre/bitcoinfibre",
+      "source": "bitcoin/bitcoin",
+      "stars": 32,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:24:55Z"
+    },
+    {
+      "full_name": "Blockstream/blind_pin_server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:24:56Z"
+    },
+    {
+      "full_name": "Blockstream/borromean_paper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": null,
+      "last_checked": "2026-03-01T13:24:57Z"
+    },
+    {
+      "full_name": "Blockstream/cln-lsps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:24:58Z"
+    },
+    {
+      "full_name": "Blockstream/contracthashtool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 90,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:24:59Z"
+    },
+    {
+      "full_name": "Blockstream/countly-sdk-cpp",
+      "is_fork": true,
+      "parent": "Countly/countly-sdk-cpp",
+      "source": "Countly/countly-sdk-cpp",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:00Z"
+    },
+    {
+      "full_name": "Blockstream/crashpad",
+      "is_fork": true,
+      "parent": "getsentry/crashpad",
+      "source": "chromium/crashpad",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:01Z"
+    },
+    {
+      "full_name": "Blockstream/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:01Z"
+    },
+    {
+      "full_name": "Blockstream/docs-theme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-01T13:25:02Z"
+    },
+    {
+      "full_name": "Blockstream/dvb-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-01T13:25:03Z"
+    },
+    {
+      "full_name": "Blockstream/electrs",
+      "is_fork": true,
+      "parent": "romanz/electrs",
+      "source": "romanz/electrs",
+      "stars": 372,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:25:04Z"
+    },
+    {
+      "full_name": "Blockstream/esp-idf",
+      "is_fork": true,
+      "parent": "espressif/esp-idf",
+      "source": "espressif/esp-idf",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:05Z"
+    },
+    {
+      "full_name": "Blockstream/esp32_bc-ur",
+      "is_fork": true,
+      "parent": "BlockchainCommons/bc-ur",
+      "source": "BlockchainCommons/bc-ur",
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:06Z"
+    },
+    {
+      "full_name": "Blockstream/esp32_bsdiff",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "C",
+      "last_checked": "2026-03-01T13:25:07Z"
+    },
+    {
+      "full_name": "Blockstream/esp32_deflate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-01T13:25:08Z"
+    },
+    {
+      "full_name": "Blockstream/esplora",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1208,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T13:25:09Z"
+    },
+    {
+      "full_name": "Blockstream/flathub",
+      "is_fork": true,
+      "parent": "flathub/flathub",
+      "source": "flathub/flathub",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:10Z"
+    },
+    {
+      "full_name": "Blockstream/gdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 190,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:11Z"
+    },
+    {
+      "full_name": "Blockstream/gdk_rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:25:12Z"
+    },
+    {
+      "full_name": "Blockstream/gitian-builder",
+      "is_fork": true,
+      "parent": "devrandom/gitian-builder",
+      "source": "devrandom/gitian-builder",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:13Z"
+    },
+    {
+      "full_name": "Blockstream/gr-blocksat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:14Z"
+    },
+    {
+      "full_name": "Blockstream/green_android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 255,
+      "language": "Kotlin",
+      "last_checked": "2026-03-01T13:25:15Z"
+    },
+    {
+      "full_name": "Blockstream/green_cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:16Z"
+    },
+    {
+      "full_name": "Blockstream/green_ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 153,
+      "language": "Swift",
+      "last_checked": "2026-03-01T13:25:16Z"
+    },
+    {
+      "full_name": "Blockstream/green_qt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 248,
+      "language": "QML",
+      "last_checked": "2026-03-01T13:25:17Z"
+    },
+    {
+      "full_name": "Blockstream/greenlight",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 136,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:25:18Z"
+    },
+    {
+      "full_name": "Blockstream/hagl",
+      "is_fork": true,
+      "parent": "tuupola/hagl",
+      "source": "tuupola/hagl",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:19Z"
+    },
+    {
+      "full_name": "Blockstream/hagl_esp_mipi",
+      "is_fork": true,
+      "parent": "tuupola/hagl_esp_mipi",
+      "source": "tuupola/hagl_esp_mipi",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:20Z"
+    },
+    {
+      "full_name": "Blockstream/jadediyflasher",
+      "is_fork": true,
+      "parent": "espressif/esptool-js",
+      "source": "espressif/esptool-js",
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T13:25:21Z"
+    },
+    {
+      "full_name": "Blockstream/leansdr",
+      "is_fork": true,
+      "parent": "pabr/leansdr",
+      "source": "pabr/leansdr",
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:22Z"
+    },
+    {
+      "full_name": "Blockstream/liquid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:23Z"
+    },
+    {
+      "full_name": "Blockstream/liquid-functionary",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:25:24Z"
+    },
+    {
+      "full_name": "Blockstream/liquid-melt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:25Z"
+    },
+    {
+      "full_name": "Blockstream/liquid-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:26Z"
+    },
+    {
+      "full_name": "Blockstream/liquid-walkthrough",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:27Z"
+    },
+    {
+      "full_name": "Blockstream/liquid_multisig_issuance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:28Z"
+    },
+    {
+      "full_name": "Blockstream/ln-wordpress-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "PHP",
+      "last_checked": "2026-03-01T13:25:28Z"
+    },
+    {
+      "full_name": "Blockstream/lwk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 97,
+      "language": "Rust",
+      "last_checked": "2026-03-01T13:25:29Z"
+    },
+    {
+      "full_name": "Blockstream/lwk-rn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:30Z"
+    },
+    {
+      "full_name": "Blockstream/lwk-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-01T13:25:31Z"
+    },
+    {
+      "full_name": "Blockstream/miniscript-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:32Z"
+    },
+    {
+      "full_name": "Blockstream/price-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:33Z"
+    },
+    {
+      "full_name": "Blockstream/qemu",
+      "is_fork": true,
+      "parent": "espressif/qemu",
+      "source": "qemu/qemu",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:34Z"
+    },
+    {
+      "full_name": "Blockstream/qtkeychain",
+      "is_fork": true,
+      "parent": "frankosterfeld/qtkeychain",
+      "source": "frankosterfeld/qtkeychain",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:35Z"
+    },
+    {
+      "full_name": "Blockstream/qzxing",
+      "is_fork": true,
+      "parent": "ftylitak/qzxing",
+      "source": "ftylitak/qzxing",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T13:25:36Z"
+    },
+    {
+      "full_name": "Blockstream/rust-bitcoin",
+      "is_fork": true,
+      "parent": "rust-bitcoin/rust-bitcoin",
+      "source": "rust-bitcoin/rust-bitcoin",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:37Z"
+    },
+    {
+      "full_name": "Blockstream/rust-electrum-client",
+      "is_fork": true,
+      "parent": "RCasatta/rust-electrum-client",
+      "source": "bitcoindevkit/rust-electrum-client",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:38Z"
+    },
+    {
+      "full_name": "Blockstream/satellite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1030,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:39Z"
+    },
+    {
+      "full_name": "Blockstream/satellite-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:40Z"
+    },
+    {
+      "full_name": "Blockstream/tinycbor",
+      "is_fork": true,
+      "parent": "intel/tinycbor",
+      "source": "intel/tinycbor",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T13:25:41Z"
+    },
+    {
+      "full_name": "Blockstream/ur-c",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-01T13:25:42Z"
+    },
+    {
+      "full_name": "Blockstream/verify-elements-commitments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T13:25:43Z"
+    },
+    {
+      "full_name": "Blockstream/webjadeupgrader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T13:25:44Z"
+    },
+    {
+      "full_name": "Blockstream/websocketpp",
+      "is_fork": true,
+      "parent": "glslang/websocketpp",
+      "source": "zaphoyd/websocketpp",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:45Z"
+    },
+    {
+      "full_name": "Blockstream/zxing-cpp",
+      "is_fork": true,
+      "parent": "zxing-cpp/zxing-cpp",
+      "source": "zxing-cpp/zxing-cpp",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T13:25:46Z"
+    }
+  ]
+}

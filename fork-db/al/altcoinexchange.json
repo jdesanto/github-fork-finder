@@ -1,0 +1,186 @@
+{
+  "owner": "altcoinexchange",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AltCoinExchange/0x-coordinator-server",
+      "is_fork": true,
+      "parent": "0xProject/0x-coordinator-server",
+      "source": "0xProject/0x-coordinator-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:09:32Z"
+    },
+    {
+      "full_name": "AltCoinExchange/0x-filter-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:33Z"
+    },
+    {
+      "full_name": "AltCoinExchange/altcoin-atomic-trading-platform",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:09:34Z"
+    },
+    {
+      "full_name": "AltCoinExchange/altcoin-ethereum-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:09:35Z"
+    },
+    {
+      "full_name": "AltCoinExchange/altcoin-plasma-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:09:36Z"
+    },
+    {
+      "full_name": "AltCoinExchange/altcoinio-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:37Z"
+    },
+    {
+      "full_name": "AltCoinExchange/bigchaindb",
+      "is_fork": true,
+      "parent": "bigchaindb/bigchaindb",
+      "source": "bigchaindb/bigchaindb",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:09:38Z"
+    },
+    {
+      "full_name": "AltCoinExchange/bip39",
+      "is_fork": true,
+      "parent": "bitcoinjs/bip39",
+      "source": "bitcoinjs/bip39",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:39Z"
+    },
+    {
+      "full_name": "AltCoinExchange/bitcore-mnemonic",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-mnemonic",
+      "source": "bitpay/bitcore-mnemonic",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:40Z"
+    },
+    {
+      "full_name": "AltCoinExchange/browser-solidity",
+      "is_fork": true,
+      "parent": "remix-project-org/remix-ide",
+      "source": "remix-project-org/remix-ide",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:41Z"
+    },
+    {
+      "full_name": "AltCoinExchange/ethatomicswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 306,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:42Z"
+    },
+    {
+      "full_name": "AltCoinExchange/express-longpoll",
+      "is_fork": true,
+      "parent": "yehya/express-longpoll",
+      "source": "yehya/express-longpoll",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:43Z"
+    },
+    {
+      "full_name": "AltCoinExchange/js-bigchaindb-driver",
+      "is_fork": true,
+      "parent": "bigchaindb/js-bigchaindb-driver",
+      "source": "bigchaindb/js-bigchaindb-driver",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:44Z"
+    },
+    {
+      "full_name": "AltCoinExchange/js-tendermint",
+      "is_fork": true,
+      "parent": "mappum/js-tendermint",
+      "source": "mappum/js-tendermint",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:45Z"
+    },
+    {
+      "full_name": "AltCoinExchange/lnd",
+      "is_fork": true,
+      "parent": "lightningnetwork/lnd",
+      "source": "lightningnetwork/lnd",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T06:09:46Z"
+    },
+    {
+      "full_name": "AltCoinExchange/lotion",
+      "is_fork": true,
+      "parent": "keppel/lotion",
+      "source": "keppel/lotion",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:47Z"
+    },
+    {
+      "full_name": "AltCoinExchange/order-matching-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:09:48Z"
+    },
+    {
+      "full_name": "AltCoinExchange/remix",
+      "is_fork": true,
+      "parent": "remix-project-org/remix",
+      "source": "remix-project-org/remix",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:49Z"
+    },
+    {
+      "full_name": "AltCoinExchange/varint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:50Z"
+    },
+    {
+      "full_name": "AltCoinExchange/web3.js",
+      "is_fork": true,
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:09:51Z"
+    }
+  ]
+}

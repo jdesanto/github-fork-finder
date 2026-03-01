@@ -1,0 +1,519 @@
+{
+  "owner": "anastasia-labs",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Anastasia-Labs/aiken-design-patterns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "Aiken",
+      "last_checked": "2026-03-01T06:30:18Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/aiken-linked-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Makefile",
+      "last_checked": "2026-03-01T06:30:19Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/aiken-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:20Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/aiken-multisig-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:21Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/aiken-trie",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:22Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/aiken-upgradable-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:23Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/awesome-starter-kits",
+      "is_fork": true,
+      "parent": "txpipe/awesome-starter-kits",
+      "source": "txpipe/awesome-starter-kits",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:24Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/bridge-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:24Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/cardano-multiplatform-lib",
+      "is_fork": true,
+      "parent": "dcSpark/cardano-multiplatform-lib",
+      "source": "dcSpark/cardano-multiplatform-lib",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:30:25Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/coq-plutus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:26Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/coq-uplc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Coq",
+      "last_checked": "2026-03-01T06:30:27Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/create-evolution-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:28Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/data-structures",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "MDX",
+      "last_checked": "2026-03-01T06:30:29Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/design-patterns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Aiken",
+      "last_checked": "2026-03-01T06:30:30Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/direct-offer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:31Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/direct-offer-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:32Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/discovery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:33Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/discovery-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:34Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/discovery-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:35Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/ecosystem-marketplace",
+      "is_fork": true,
+      "parent": "empowa-io/ecosystem-marketplace",
+      "source": "empowa-io/ecosystem-marketplace",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:36Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/formal-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:37Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/gamechanger.wallet",
+      "is_fork": true,
+      "parent": "GameChangerFinance/gamechanger.wallet",
+      "source": "GameChangerFinance/gamechanger.wallet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:38Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/high-quality-japanese-translation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:39Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/hydra-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:40Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/lace",
+      "is_fork": true,
+      "parent": "input-output-hk/lace",
+      "source": "input-output-hk/lace",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:41Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/linear-vesting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:42Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/linear-vesting-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:43Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/lucid",
+      "is_fork": true,
+      "parent": "spacebudz/lucid",
+      "source": "spacebudz/lucid",
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:30:44Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/lucid-evolution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:45Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/lucid-evolution-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:45Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/merkle-patricia-forestry",
+      "is_fork": true,
+      "parent": "aiken-lang/merkle-patricia-forestry",
+      "source": "aiken-lang/merkle-patricia-forestry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:46Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/midgard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TeX",
+      "last_checked": "2026-03-01T06:30:47Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/mithril",
+      "is_fork": true,
+      "parent": "input-output-hk/mithril",
+      "source": "input-output-hk/mithril",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:30:48Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/money-kit-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:49Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/moneykit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:50Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/opshin-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Typst",
+      "last_checked": "2026-03-01T06:30:51Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/p2p-fiat-to-crypto-on-ramp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2026-03-01T06:30:52Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/payment-subscription",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:53Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/payment-subscription-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:54Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plu-ts",
+      "is_fork": true,
+      "parent": "HarmonicLabs/pebble",
+      "source": "HarmonicLabs/pebble",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:30:55Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plug-n-play-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:30:56Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-aiken-combinator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:56Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-design-patterns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:57Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-linked-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:58Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:30:59Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-template",
+      "is_fork": true,
+      "parent": "solidsnakedev/plutarch-template",
+      "source": "solidsnakedev/plutarch-template",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:31:00Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/plutarch-trie",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:31:01Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/production-grade-dapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "MDX",
+      "last_checked": "2026-03-01T06:31:02Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/project-close-out-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Typst",
+      "last_checked": "2026-03-01T06:31:03Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/scalus-design-patterns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Scala",
+      "last_checked": "2026-03-01T06:31:04Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/single-asset-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:31:05Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/single-asset-staking-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:31:06Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/smart-handles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:31:07Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/smart-handles-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:31:08Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/smart-handles-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:31:09Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/yieldfarming",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:31:10Z"
+    },
+    {
+      "full_name": "Anastasia-Labs/zk-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-01T06:31:10Z"
+    }
+  ]
+}

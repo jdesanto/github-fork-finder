@@ -1,0 +1,1518 @@
+{
+  "owner": "astarnetwork",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AstarNetwork/Astar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 776,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:14:55Z"
+    },
+    {
+      "full_name": "AstarNetwork/AstarBounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T08:14:56Z"
+    },
+    {
+      "full_name": "AstarNetwork/AstarUniversity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:14:57Z"
+    },
+    {
+      "full_name": "AstarNetwork/AstarWebPage_V2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:14:57Z"
+    },
+    {
+      "full_name": "AstarNetwork/Audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-01T08:14:58Z"
+    },
+    {
+      "full_name": "AstarNetwork/Benchmark-evm-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:14:59Z"
+    },
+    {
+      "full_name": "AstarNetwork/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:00Z"
+    },
+    {
+      "full_name": "AstarNetwork/EVM-XCM-Examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:15:01Z"
+    },
+    {
+      "full_name": "AstarNetwork/Grant-Milestone-Delivery",
+      "is_fork": true,
+      "parent": "w3f/Grant-Milestone-Delivery",
+      "source": "w3f/Grant-Milestone-Delivery",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:02Z"
+    },
+    {
+      "full_name": "AstarNetwork/Open-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:03Z"
+    },
+    {
+      "full_name": "AstarNetwork/PSP-Nesting",
+      "is_fork": true,
+      "parent": "w3f/PSPs",
+      "source": "w3f/PSPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:04Z"
+    },
+    {
+      "full_name": "AstarNetwork/PSPs",
+      "is_fork": true,
+      "parent": "w3f/PSPs",
+      "source": "w3f/PSPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:05Z"
+    },
+    {
+      "full_name": "AstarNetwork/WASM-Governor-Workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:05Z"
+    },
+    {
+      "full_name": "AstarNetwork/ZKRollups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 42,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:06Z"
+    },
+    {
+      "full_name": "AstarNetwork/ZKRollups-CLI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:07Z"
+    },
+    {
+      "full_name": "AstarNetwork/aWASoMe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:08Z"
+    },
+    {
+      "full_name": "AstarNetwork/api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:09Z"
+    },
+    {
+      "full_name": "AstarNetwork/app-substrate-common",
+      "is_fork": true,
+      "parent": "eq-lab/app-substrate-common",
+      "source": "eq-lab/app-substrate-common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:10Z"
+    },
+    {
+      "full_name": "AstarNetwork/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:11Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-alerts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:12Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 69,
+      "language": "CSS",
+      "last_checked": "2026-03-01T08:15:13Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-chainlink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:14Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-community-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:15Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 424,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:16Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-docs-staging",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:16Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-docs-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:17Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-evm-example",
+      "is_fork": true,
+      "parent": "stwiname/astar-evm-example",
+      "source": "stwiname/astar-evm-example",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:18Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-faucet-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:19Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-frame",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:20Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-homepage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "EJS",
+      "last_checked": "2026-03-01T08:15:21Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-ink-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:22Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-newdocs",
+      "is_fork": true,
+      "parent": "AstarNetwork/astar-docs",
+      "source": "AstarNetwork/astar-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:23Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-runtime-overrides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:24Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-token-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:25Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Vue",
+      "last_checked": "2026-03-01T08:15:26Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:27Z"
+    },
+    {
+      "full_name": "AstarNetwork/astar.js-dapp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:28Z"
+    },
+    {
+      "full_name": "AstarNetwork/astarbase",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:15:29Z"
+    },
+    {
+      "full_name": "AstarNetwork/astarwebsite_v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:29Z"
+    },
+    {
+      "full_name": "AstarNetwork/astarwebsite_v2_korean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:29Z"
+    },
+    {
+      "full_name": "AstarNetwork/astarwebsite_v2_unstoppable",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:30Z"
+    },
+    {
+      "full_name": "AstarNetwork/astress",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:31Z"
+    },
+    {
+      "full_name": "AstarNetwork/blockstats",
+      "is_fork": true,
+      "parent": "paritytech/blockstats",
+      "source": "paritytech/blockstats",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:32Z"
+    },
+    {
+      "full_name": "AstarNetwork/bls12_381",
+      "is_fork": true,
+      "parent": "dusk-network/bls12_381",
+      "source": "zkcrypto/bls12_381",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:33Z"
+    },
+    {
+      "full_name": "AstarNetwork/brand-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:33Z"
+    },
+    {
+      "full_name": "AstarNetwork/brand-assets-1",
+      "is_fork": true,
+      "parent": "PinkDiamond1/brand-assets-1",
+      "source": "PinkDiamond1/brand-assets-1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:34Z"
+    },
+    {
+      "full_name": "AstarNetwork/builders-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:15:35Z"
+    },
+    {
+      "full_name": "AstarNetwork/chain-extension-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:36Z"
+    },
+    {
+      "full_name": "AstarNetwork/chainbridge-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:37Z"
+    },
+    {
+      "full_name": "AstarNetwork/chainbridge-ui",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-ui",
+      "source": "ChainSafe/chainbridge-ui",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:38Z"
+    },
+    {
+      "full_name": "AstarNetwork/chainlink-ccip-erc7802",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:39Z"
+    },
+    {
+      "full_name": "AstarNetwork/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-01T08:15:40Z"
+    },
+    {
+      "full_name": "AstarNetwork/contracts-ui",
+      "is_fork": true,
+      "parent": "use-ink/contracts-ui",
+      "source": "use-ink/contracts-ui",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:41Z"
+    },
+    {
+      "full_name": "AstarNetwork/crowdloan-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Vue",
+      "last_checked": "2026-03-01T08:15:42Z"
+    },
+    {
+      "full_name": "AstarNetwork/crowdstaking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:43Z"
+    },
+    {
+      "full_name": "AstarNetwork/cumulus",
+      "is_fork": true,
+      "parent": "paritytech/cumulus",
+      "source": "paritytech/cumulus",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:44Z"
+    },
+    {
+      "full_name": "AstarNetwork/dApp-Staking-Workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:45Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapp-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:46Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapp-staking-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:47Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapp-staking-reimbursement-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:47Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapps-staking-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:49Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapps-staking-indexer-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:49Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapps-staking-v3-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:50Z"
+    },
+    {
+      "full_name": "AstarNetwork/dapps-staking-v3-indexer-and-api-demo-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:51Z"
+    },
+    {
+      "full_name": "AstarNetwork/default-token-list",
+      "is_fork": true,
+      "parent": "sushiswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:52Z"
+    },
+    {
+      "full_name": "AstarNetwork/defillama-app",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-app",
+      "source": "DefiLlama/defillama-app",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:15:53Z"
+    },
+    {
+      "full_name": "AstarNetwork/defillama-sdk",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-sdk",
+      "source": "DefiLlama/defillama-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:54Z"
+    },
+    {
+      "full_name": "AstarNetwork/dsa-connectors",
+      "is_fork": true,
+      "parent": "Instadapp/dsa-connectors",
+      "source": "Instadapp/dsa-connectors",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:55Z"
+    },
+    {
+      "full_name": "AstarNetwork/dusk-plonk",
+      "is_fork": true,
+      "parent": "dusk-network/plonk",
+      "source": "dusk-network/plonk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:56Z"
+    },
+    {
+      "full_name": "AstarNetwork/e2e-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:15:57Z"
+    },
+    {
+      "full_name": "AstarNetwork/ethereum",
+      "is_fork": true,
+      "parent": "rust-ethereum/ethereum",
+      "source": "rust-ethereum/ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:15:58Z"
+    },
+    {
+      "full_name": "AstarNetwork/ethereum-bridge-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:15:59Z"
+    },
+    {
+      "full_name": "AstarNetwork/evm",
+      "is_fork": true,
+      "parent": "rust-ethereum/evm",
+      "source": "rust-ethereum/evm",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:00Z"
+    },
+    {
+      "full_name": "AstarNetwork/evm-nft-contract-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:16:01Z"
+    },
+    {
+      "full_name": "AstarNetwork/evm-nft-contract-poc-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-01T08:16:02Z"
+    },
+    {
+      "full_name": "AstarNetwork/frontend-interview-task",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:02Z"
+    },
+    {
+      "full_name": "AstarNetwork/frontier",
+      "is_fork": true,
+      "parent": "moonbeam-foundation/frontier",
+      "source": "polkadot-evm/frontier",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:03Z"
+    },
+    {
+      "full_name": "AstarNetwork/frontier-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:04Z"
+    },
+    {
+      "full_name": "AstarNetwork/gas-station",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:05Z"
+    },
+    {
+      "full_name": "AstarNetwork/governance-alerts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:16:06Z"
+    },
+    {
+      "full_name": "AstarNetwork/grandpa-bridge-gadget",
+      "is_fork": true,
+      "parent": "paritytech/grandpa-bridge-gadget",
+      "source": "paritytech/grandpa-bridge-gadget",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:07Z"
+    },
+    {
+      "full_name": "AstarNetwork/graph-endpoints",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:08Z"
+    },
+    {
+      "full_name": "AstarNetwork/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:09Z"
+    },
+    {
+      "full_name": "AstarNetwork/growth-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 77,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:10Z"
+    },
+    {
+      "full_name": "AstarNetwork/hardhat-astar-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:11Z"
+    },
+    {
+      "full_name": "AstarNetwork/helm-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Smarty",
+      "last_checked": "2026-03-01T08:16:12Z"
+    },
+    {
+      "full_name": "AstarNetwork/icons",
+      "is_fork": true,
+      "parent": "caribedigital/icons",
+      "source": "caribedigital/icons",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:13Z"
+    },
+    {
+      "full_name": "AstarNetwork/ink-docs",
+      "is_fork": true,
+      "parent": "use-ink/ink-docs",
+      "source": "use-ink/ink-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:14Z"
+    },
+    {
+      "full_name": "AstarNetwork/ink-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:15Z"
+    },
+    {
+      "full_name": "AstarNetwork/ink-redible-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:16Z"
+    },
+    {
+      "full_name": "AstarNetwork/ink-test-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:17Z"
+    },
+    {
+      "full_name": "AstarNetwork/ink-xvm-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:18Z"
+    },
+    {
+      "full_name": "AstarNetwork/inubot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:18Z"
+    },
+    {
+      "full_name": "AstarNetwork/jubjub",
+      "is_fork": true,
+      "parent": "dusk-network/jubjub",
+      "source": "zkcrypto/jubjub",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:19Z"
+    },
+    {
+      "full_name": "AstarNetwork/layer-zero-bridge-contracts-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:16:20Z"
+    },
+    {
+      "full_name": "AstarNetwork/layer-zero-bridge-mainnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:16:21Z"
+    },
+    {
+      "full_name": "AstarNetwork/ledger-app-ethereum",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-ethereum",
+      "source": "LedgerHQ/app-ethereum",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T08:16:22Z"
+    },
+    {
+      "full_name": "AstarNetwork/ledgerjs",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledgerjs",
+      "source": "LedgerHQ/ledgerjs",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:23Z"
+    },
+    {
+      "full_name": "AstarNetwork/lockdrop-api-server",
+      "is_fork": true,
+      "parent": "hoonsubin/substrate-cli",
+      "source": "hoonsubin/substrate-cli",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:24Z"
+    },
+    {
+      "full_name": "AstarNetwork/lockdrop-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:25Z"
+    },
+    {
+      "full_name": "AstarNetwork/meta-mazda-ticket-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:26Z"
+    },
+    {
+      "full_name": "AstarNetwork/metamask-extension",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:27Z"
+    },
+    {
+      "full_name": "AstarNetwork/metamask-mobile",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-mobile",
+      "source": "MetaMask/metamask-mobile",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:28Z"
+    },
+    {
+      "full_name": "AstarNetwork/metamask-snap-astar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:29Z"
+    },
+    {
+      "full_name": "AstarNetwork/minting-dapp",
+      "is_fork": true,
+      "parent": "astardegens/astardegens",
+      "source": "astardegens/astardegens",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:16:30Z"
+    },
+    {
+      "full_name": "AstarNetwork/nearweek-astar-collab-minter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:16:31Z"
+    },
+    {
+      "full_name": "AstarNetwork/network-status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T08:16:32Z"
+    },
+    {
+      "full_name": "AstarNetwork/obce",
+      "is_fork": true,
+      "parent": "Supercolony-net/obce",
+      "source": "Supercolony-net/obce",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:33Z"
+    },
+    {
+      "full_name": "AstarNetwork/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:34Z"
+    },
+    {
+      "full_name": "AstarNetwork/ovmi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:35Z"
+    },
+    {
+      "full_name": "AstarNetwork/pallet-assets-chain-extension",
+      "is_fork": true,
+      "parent": "Supercolony-net/pallet-assets-chain-extension",
+      "source": "Supercolony-net/pallet-assets-chain-extension",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:36Z"
+    },
+    {
+      "full_name": "AstarNetwork/pallet-contracts-xcm",
+      "is_fork": true,
+      "parent": "paritytech/pallet-contracts-xcm",
+      "source": "paritytech/pallet-contracts-xcm",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:37Z"
+    },
+    {
+      "full_name": "AstarNetwork/parachain-projects-info",
+      "is_fork": true,
+      "parent": "subscan-explorer/projects-info",
+      "source": "subscan-explorer/projects-info",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:16:38Z"
+    },
+    {
+      "full_name": "AstarNetwork/parity-scale-codec",
+      "is_fork": true,
+      "parent": "paritytech/parity-scale-codec",
+      "source": "paritytech/parity-scale-codec",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:39Z"
+    },
+    {
+      "full_name": "AstarNetwork/plasm-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:40Z"
+    },
+    {
+      "full_name": "AstarNetwork/plasm-apps-vue",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Vue",
+      "last_checked": "2026-03-01T08:16:41Z"
+    },
+    {
+      "full_name": "AstarNetwork/plasmdocs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:42Z"
+    },
+    {
+      "full_name": "AstarNetwork/plasmnet.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:43Z"
+    },
+    {
+      "full_name": "AstarNetwork/plo-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:44Z"
+    },
+    {
+      "full_name": "AstarNetwork/plonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:45Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:46Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkadot-scripts",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-scripts",
+      "source": "paritytech/polkadot-scripts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:47Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkadot-sdk",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-sdk",
+      "source": "paritytech/polkadot-sdk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:48Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkadotjs-ecdsa-hardware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:49Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkawallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:49Z"
+    },
+    {
+      "full_name": "AstarNetwork/polkawallet_plugin_plasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:16:50Z"
+    },
+    {
+      "full_name": "AstarNetwork/rmrk-substrate",
+      "is_fork": true,
+      "parent": "rmrk-team/rmrk-substrate",
+      "source": "rmrk-team/rmrk-substrate",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:51Z"
+    },
+    {
+      "full_name": "AstarNetwork/rngs",
+      "is_fork": true,
+      "parent": "rust-random/rngs",
+      "source": "rust-random/rngs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:52Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-client-gateway",
+      "is_fork": true,
+      "parent": "safe-global/safe-client-gateway",
+      "source": "safe-global/safe-client-gateway",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:16:53Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-client-gateway-rust",
+      "is_fork": true,
+      "parent": "5afe/safe-client-gateway",
+      "source": "5afe/safe-client-gateway",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:16:54Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-config-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-config-service",
+      "source": "safe-global/safe-config-service",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T08:16:56Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T08:16:57Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-events-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-events-service",
+      "source": "safe-global/safe-events-service",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:58Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-infrastructure-devops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:58Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-react",
+      "is_fork": true,
+      "parent": "5afe/safe-react",
+      "source": "5afe/safe-react",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:16:59Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-transaction-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-transaction-service",
+      "source": "safe-global/safe-transaction-service",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T08:17:00Z"
+    },
+    {
+      "full_name": "AstarNetwork/safe-web-core",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:01Z"
+    },
+    {
+      "full_name": "AstarNetwork/shiden-lp",
+      "is_fork": true,
+      "parent": "ayumitk/shiden-lp",
+      "source": "ayumitk/shiden-lp",
+      "stars": 1,
+      "language": "EJS",
+      "last_checked": "2026-03-01T08:17:02Z"
+    },
+    {
+      "full_name": "AstarNetwork/snapshot.js",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot.js",
+      "source": "snapshot-labs/snapshot.js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:03Z"
+    },
+    {
+      "full_name": "AstarNetwork/solidity-examples",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/endpoint-v1-solidity-examples",
+      "source": "LayerZero-Labs/endpoint-v1-solidity-examples",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:17:04Z"
+    },
+    {
+      "full_name": "AstarNetwork/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:05Z"
+    },
+    {
+      "full_name": "AstarNetwork/starlay-ui",
+      "is_fork": true,
+      "parent": "starlay-finance/starlay-ui",
+      "source": "starlay-finance/starlay-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:06Z"
+    },
+    {
+      "full_name": "AstarNetwork/subql-starter",
+      "is_fork": true,
+      "parent": "subquery/subql-starter",
+      "source": "subquery/subql-starter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:07Z"
+    },
+    {
+      "full_name": "AstarNetwork/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:08Z"
+    },
+    {
+      "full_name": "AstarNetwork/substrate-api-sidecar",
+      "is_fork": true,
+      "parent": "paritytech/substrate-api-sidecar",
+      "source": "paritytech/substrate-api-sidecar",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:09Z"
+    },
+    {
+      "full_name": "AstarNetwork/subtle",
+      "is_fork": true,
+      "parent": "dalek-cryptography/subtle",
+      "source": "dalek-cryptography/subtle",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:10Z"
+    },
+    {
+      "full_name": "AstarNetwork/sumi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:11Z"
+    },
+    {
+      "full_name": "AstarNetwork/sushiswap-sdk",
+      "is_fork": true,
+      "parent": "sushiswap/sushiswap-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:12Z"
+    },
+    {
+      "full_name": "AstarNetwork/swanky-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 71,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:14Z"
+    },
+    {
+      "full_name": "AstarNetwork/swanky-dev-container",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:15Z"
+    },
+    {
+      "full_name": "AstarNetwork/swanky-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:16Z"
+    },
+    {
+      "full_name": "AstarNetwork/swanky-plugin-phala",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Handlebars",
+      "last_checked": "2026-03-01T08:17:17Z"
+    },
+    {
+      "full_name": "AstarNetwork/swanky-template-ink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:18Z"
+    },
+    {
+      "full_name": "AstarNetwork/sygma-relayer-deployment",
+      "is_fork": true,
+      "parent": "sprintertech/sygma-relayer-deployment",
+      "source": "sprintertech/sygma-relayer-deployment",
+      "stars": 1,
+      "language": "HCL",
+      "last_checked": "2026-03-01T08:17:19Z"
+    },
+    {
+      "full_name": "AstarNetwork/tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:20Z"
+    },
+    {
+      "full_name": "AstarNetwork/typechain-polkadot",
+      "is_fork": true,
+      "parent": "Brushfam/typechain-polkadot",
+      "source": "Supercolony-net/typechain-polkadot",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:21Z"
+    },
+    {
+      "full_name": "AstarNetwork/wasm-flipper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:22Z"
+    },
+    {
+      "full_name": "AstarNetwork/wasm-lottery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:23Z"
+    },
+    {
+      "full_name": "AstarNetwork/wasm-showcase-dapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:24Z"
+    },
+    {
+      "full_name": "AstarNetwork/wasm-tutorial-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:17:25Z"
+    },
+    {
+      "full_name": "AstarNetwork/yoki-static",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:26Z"
+    },
+    {
+      "full_name": "AstarNetwork/yoki-template-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:17:26Z"
+    },
+    {
+      "full_name": "AstarNetwork/yoki2-ACS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:27Z"
+    },
+    {
+      "full_name": "AstarNetwork/yoki2-sentio",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:28Z"
+    },
+    {
+      "full_name": "AstarNetwork/yoki2-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:29Z"
+    },
+    {
+      "full_name": "AstarNetwork/zk-journey-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:30Z"
+    },
+    {
+      "full_name": "AstarNetwork/zkASTR-OFT-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:17:31Z"
+    },
+    {
+      "full_name": "AstarNetwork/zkbridge-code-examples",
+      "is_fork": true,
+      "parent": "agglayer/code-examples",
+      "source": "agglayer/code-examples",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T08:17:32Z"
+    }
+  ]
+}

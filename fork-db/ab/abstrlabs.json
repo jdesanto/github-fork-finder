@@ -1,0 +1,294 @@
+{
+  "owner": "abstrlabs",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AbstrLabs/algo-builder",
+      "is_fork": true,
+      "parent": "scale-it/algo-builder",
+      "source": "scale-it/algo-builder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:44:48Z"
+    },
+    {
+      "full_name": "AbstrLabs/algorand_zkp_verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:44:49Z"
+    },
+    {
+      "full_name": "AbstrLabs/gnark",
+      "is_fork": true,
+      "parent": "Consensys/gnark",
+      "source": "Consensys/gnark",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:44:50Z"
+    },
+    {
+      "full_name": "AbstrLabs/go-algorand",
+      "is_fork": true,
+      "parent": "algorand/go-algorand",
+      "source": "algorand/go-algorand",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T04:44:52Z"
+    },
+    {
+      "full_name": "AbstrLabs/halfmoon-cross-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:44:53Z"
+    },
+    {
+      "full_name": "AbstrLabs/halfmoon-cross-bridge-UI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:44:54Z"
+    },
+    {
+      "full_name": "AbstrLabs/halfmoon-cross-bridge-contract-near",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:44:56Z"
+    },
+    {
+      "full_name": "AbstrLabs/js-algorand-sdk",
+      "is_fork": true,
+      "parent": "algorand/js-algorand-sdk",
+      "source": "algorand/js-algorand-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:44:57Z"
+    },
+    {
+      "full_name": "AbstrLabs/jsnark",
+      "is_fork": true,
+      "parent": "akosba/jsnark",
+      "source": "akosba/jsnark",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:44:58Z"
+    },
+    {
+      "full_name": "AbstrLabs/laoxian",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:44:59Z"
+    },
+    {
+      "full_name": "AbstrLabs/leo",
+      "is_fork": true,
+      "parent": "ProvableHQ/leo",
+      "source": "ProvableHQ/leo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:00Z"
+    },
+    {
+      "full_name": "AbstrLabs/libff",
+      "is_fork": true,
+      "parent": "Loopring/libff",
+      "source": "scipr-lab/libff",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:01Z"
+    },
+    {
+      "full_name": "AbstrLabs/libsnark",
+      "is_fork": true,
+      "parent": "akosba/libsnark",
+      "source": "scipr-lab/libsnark",
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-01T04:45:02Z"
+    },
+    {
+      "full_name": "AbstrLabs/lightningpi",
+      "is_fork": true,
+      "parent": "201206030/novel-plus",
+      "source": "201206030/novel-plus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:03Z"
+    },
+    {
+      "full_name": "AbstrLabs/lightningpi-backend",
+      "is_fork": true,
+      "parent": "201206030/novel",
+      "source": "201206030/novel",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:04Z"
+    },
+    {
+      "full_name": "AbstrLabs/lightningpi-frontend",
+      "is_fork": true,
+      "parent": "201206030/novel-front-web",
+      "source": "201206030/novel-front-web",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:06Z"
+    },
+    {
+      "full_name": "AbstrLabs/mcl",
+      "is_fork": true,
+      "parent": "herumi/mcl",
+      "source": "herumi/mcl",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:07Z"
+    },
+    {
+      "full_name": "AbstrLabs/mina",
+      "is_fork": true,
+      "parent": "MinaProtocol/mina",
+      "source": "MinaProtocol/mina",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:08Z"
+    },
+    {
+      "full_name": "AbstrLabs/multiplier_gnark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:45:09Z"
+    },
+    {
+      "full_name": "AbstrLabs/near-api-js",
+      "is_fork": true,
+      "parent": "near/near-api-js",
+      "source": "near/near-api-js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:10Z"
+    },
+    {
+      "full_name": "AbstrLabs/pagesigner-cli",
+      "is_fork": true,
+      "parent": "andylockran/pagesigner-browserless",
+      "source": "andylockran/pagesigner-browserless",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:45:11Z"
+    },
+    {
+      "full_name": "AbstrLabs/priceprover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-01T04:45:12Z"
+    },
+    {
+      "full_name": "AbstrLabs/proof-systems",
+      "is_fork": true,
+      "parent": "o1-labs/proof-systems",
+      "source": "o1-labs/proof-systems",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:13Z"
+    },
+    {
+      "full_name": "AbstrLabs/pyteal",
+      "is_fork": true,
+      "parent": "algorand/pyteal",
+      "source": "algorand/pyteal",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:14Z"
+    },
+    {
+      "full_name": "AbstrLabs/server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:45:15Z"
+    },
+    {
+      "full_name": "AbstrLabs/snarkVM",
+      "is_fork": true,
+      "parent": "ProvableHQ/snarkVM",
+      "source": "ProvableHQ/snarkVM",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:16Z"
+    },
+    {
+      "full_name": "AbstrLabs/snarkjs",
+      "is_fork": true,
+      "parent": "iden3/snarkjs",
+      "source": "iden3/snarkjs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:17Z"
+    },
+    {
+      "full_name": "AbstrLabs/website-new",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:45:18Z"
+    },
+    {
+      "full_name": "AbstrLabs/xjsnark",
+      "is_fork": true,
+      "parent": "akosba/xjsnark",
+      "source": "akosba/xjsnark",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:45:19Z"
+    },
+    {
+      "full_name": "AbstrLabs/xjsnark-gnark-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-01T04:45:20Z"
+    },
+    {
+      "full_name": "AbstrLabs/xjsnark_backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-01T04:45:21Z"
+    },
+    {
+      "full_name": "AbstrLabs/zkphttps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:45:22Z"
+    }
+  ]
+}

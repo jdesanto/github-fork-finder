@@ -1,0 +1,24 @@
+{
+  "owner": "beltfi",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BeltFi/belt-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T11:10:33Z"
+    },
+    {
+      "full_name": "BeltFi/bsc-ecosystem",
+      "is_fork": true,
+      "parent": "bnb-chain/bsc-ecosystem",
+      "source": "bnb-chain/bsc-ecosystem",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-01T11:10:34Z"
+    }
+  ]
+}

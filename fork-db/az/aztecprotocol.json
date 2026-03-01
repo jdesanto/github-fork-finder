@@ -1,0 +1,942 @@
+{
+  "owner": "aztecprotocol",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AztecProtocol/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:19Z"
+    },
+    {
+      "full_name": "AztecProtocol/AZIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:20Z"
+    },
+    {
+      "full_name": "AztecProtocol/AZTEC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 633,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:26:21Z"
+    },
+    {
+      "full_name": "AztecProtocol/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:26:22Z"
+    },
+    {
+      "full_name": "AztecProtocol/Oliver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:26:23Z"
+    },
+    {
+      "full_name": "AztecProtocol/Setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:24Z"
+    },
+    {
+      "full_name": "AztecProtocol/WebGLM",
+      "is_fork": true,
+      "parent": "THUDM/WebGLM",
+      "source": "THUDM/WebGLM",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:25Z"
+    },
+    {
+      "full_name": "AztecProtocol/ab2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:26Z"
+    },
+    {
+      "full_name": "AztecProtocol/audit-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:27Z"
+    },
+    {
+      "full_name": "AztecProtocol/awesome-aztec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 85,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:28Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-2-bug-bounty",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:29Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-2.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 135,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:30Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 459,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:31Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect-bridges",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 227,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:26:32Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:26:33Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect-cpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:33Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect-ejector",
+      "is_fork": true,
+      "parent": "critesjosh/aztec-connect-ejector",
+      "source": "critesjosh/aztec-connect-ejector",
+      "stars": 39,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:34Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-connect-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:35Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-crypto-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:36Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-demo-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:36Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:37Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-frontend-boilerplate",
+      "is_fork": true,
+      "parent": "joss-aztec/cra4-aztec-sdk-starter",
+      "source": "joss-aztec/cra4-aztec-sdk-starter",
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:38Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-ganache-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:38Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-nr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 148,
+      "language": "Noir",
+      "last_checked": "2026-03-01T10:26:39Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-packages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 427,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:40Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-sdk-starter",
+      "is_fork": true,
+      "parent": "critesjosh/aztec-sdk-starter",
+      "source": "critesjosh/aztec-sdk-starter",
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:41Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:42Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 113,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:43Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-starter-vanilla",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:44Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 633,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:26:45Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-v1-loan-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:26:46Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-v1-specification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:47Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-v2-ejector",
+      "is_fork": true,
+      "parent": "critesjosh/aztec-v2-ejector",
+      "source": "critesjosh/aztec-v2-ejector",
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:48Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-v2-escape-hatch-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-01T10:26:49Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-verifier-contract-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:26:50Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-verifier-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:26:51Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec-web-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:52Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec3-circuits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:53Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec3-l1-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:26:54Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztec3-packages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 427,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:26:55Z"
+    },
+    {
+      "full_name": "AztecProtocol/azteccli",
+      "is_fork": true,
+      "parent": "critesjosh/azteccli",
+      "source": "critesjosh/azteccli",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:26:56Z"
+    },
+    {
+      "full_name": "AztecProtocol/aztecv2-escape-hatch-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-01T10:26:57Z"
+    },
+    {
+      "full_name": "AztecProtocol/barretenberg",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 194,
+      "language": null,
+      "last_checked": "2026-03-01T10:26:58Z"
+    },
+    {
+      "full_name": "AztecProtocol/bb.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:00Z"
+    },
+    {
+      "full_name": "AztecProtocol/block-explorer",
+      "is_fork": true,
+      "parent": "aztec-scan/chicmoz",
+      "source": "aztec-scan/chicmoz",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:01Z"
+    },
+    {
+      "full_name": "AztecProtocol/bn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:01Z"
+    },
+    {
+      "full_name": "AztecProtocol/build-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:27:02Z"
+    },
+    {
+      "full_name": "AztecProtocol/burner-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:02Z"
+    },
+    {
+      "full_name": "AztecProtocol/confidential-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:02Z"
+    },
+    {
+      "full_name": "AztecProtocol/consolerr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:27:03Z"
+    },
+    {
+      "full_name": "AztecProtocol/dev-bb.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:04Z"
+    },
+    {
+      "full_name": "AztecProtocol/dev-connect-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:05Z"
+    },
+    {
+      "full_name": "AztecProtocol/dev-rel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 63,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:06Z"
+    },
+    {
+      "full_name": "AztecProtocol/devcontainer-feature",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:27:07Z"
+    },
+    {
+      "full_name": "AztecProtocol/developer-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:07Z"
+    },
+    {
+      "full_name": "AztecProtocol/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:08Z"
+    },
+    {
+      "full_name": "AztecProtocol/dummy_prover",
+      "is_fork": true,
+      "parent": "guipublic/dummy_prover",
+      "source": "guipublic/dummy_prover",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:10Z"
+    },
+    {
+      "full_name": "AztecProtocol/dune-analytics-aztec-connect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:10Z"
+    },
+    {
+      "full_name": "AztecProtocol/ec2-action-builder",
+      "is_fork": true,
+      "parent": "unblocked/ec2-action-builder",
+      "source": "unblocked/ec2-action-builder",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:11Z"
+    },
+    {
+      "full_name": "AztecProtocol/engineering-designs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-01T10:27:12Z"
+    },
+    {
+      "full_name": "AztecProtocol/eth-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:12Z"
+    },
+    {
+      "full_name": "AztecProtocol/evmone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:12Z"
+    },
+    {
+      "full_name": "AztecProtocol/foundation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:13Z"
+    },
+    {
+      "full_name": "AztecProtocol/git-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:14Z"
+    },
+    {
+      "full_name": "AztecProtocol/google-benchmark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:27:16Z"
+    },
+    {
+      "full_name": "AztecProtocol/gregoswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:16Z"
+    },
+    {
+      "full_name": "AztecProtocol/guacamole-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:17Z"
+    },
+    {
+      "full_name": "AztecProtocol/huff",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 239,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:18Z"
+    },
+    {
+      "full_name": "AztecProtocol/ignition-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:19Z"
+    },
+    {
+      "full_name": "AztecProtocol/interview-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:19Z"
+    },
+    {
+      "full_name": "AztecProtocol/interview-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:27:20Z"
+    },
+    {
+      "full_name": "AztecProtocol/l1-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:27:21Z"
+    },
+    {
+      "full_name": "AztecProtocol/libff",
+      "is_fork": true,
+      "parent": "scipr-lab/libff",
+      "source": "scipr-lab/libff",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:27:22Z"
+    },
+    {
+      "full_name": "AztecProtocol/loan-dapp-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:23Z"
+    },
+    {
+      "full_name": "AztecProtocol/msgpack-c",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:27:24Z"
+    },
+    {
+      "full_name": "AztecProtocol/multi-semantic-release",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:24Z"
+    },
+    {
+      "full_name": "AztecProtocol/noir-public-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:25Z"
+    },
+    {
+      "full_name": "AztecProtocol/noir-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 194,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:26Z"
+    },
+    {
+      "full_name": "AztecProtocol/noirenberg",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 194,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:27Z"
+    },
+    {
+      "full_name": "AztecProtocol/nym-aztec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:28Z"
+    },
+    {
+      "full_name": "AztecProtocol/offsite-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:29Z"
+    },
+    {
+      "full_name": "AztecProtocol/parity-ethereum",
+      "is_fork": true,
+      "parent": "openethereum/parity-ethereum",
+      "source": "openethereum/parity-ethereum",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:27:30Z"
+    },
+    {
+      "full_name": "AztecProtocol/perpetualpowersoftau",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:30Z"
+    },
+    {
+      "full_name": "AztecProtocol/plonk-with-lookups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TeX",
+      "last_checked": "2026-03-01T10:27:31Z"
+    },
+    {
+      "full_name": "AztecProtocol/plonk_tex",
+      "is_fork": true,
+      "parent": "arielgabizon/plonk",
+      "source": "arielgabizon/plonk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:32Z"
+    },
+    {
+      "full_name": "AztecProtocol/polaris",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:33Z"
+    },
+    {
+      "full_name": "AztecProtocol/powdr",
+      "is_fork": true,
+      "parent": "powdr-labs/powdr",
+      "source": "powdr-labs/powdr",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:27:34Z"
+    },
+    {
+      "full_name": "AztecProtocol/protocol-specs-pdf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:35Z"
+    },
+    {
+      "full_name": "AztecProtocol/rollup-encoder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:27:36Z"
+    },
+    {
+      "full_name": "AztecProtocol/rpc-endpoint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:36Z"
+    },
+    {
+      "full_name": "AztecProtocol/sandbox-version-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:27:37Z"
+    },
+    {
+      "full_name": "AztecProtocol/sandbox-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:37Z"
+    },
+    {
+      "full_name": "AztecProtocol/sdk-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:38Z"
+    },
+    {
+      "full_name": "AztecProtocol/snark-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:38Z"
+    },
+    {
+      "full_name": "AztecProtocol/solidity-coverage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:38Z"
+    },
+    {
+      "full_name": "AztecProtocol/specification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:39Z"
+    },
+    {
+      "full_name": "AztecProtocol/stackproofs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TeX",
+      "last_checked": "2026-03-01T10:27:40Z"
+    },
+    {
+      "full_name": "AztecProtocol/tiny-noir-codespace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T10:27:41Z"
+    },
+    {
+      "full_name": "AztecProtocol/token-partition-table",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:42Z"
+    },
+    {
+      "full_name": "AztecProtocol/wallet-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:43Z"
+    },
+    {
+      "full_name": "AztecProtocol/weierstrudel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:27:44Z"
+    },
+    {
+      "full_name": "AztecProtocol/zk-money",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:27:45Z"
+    },
+    {
+      "full_name": "AztecProtocol/zkSecurity-aztec-packages",
+      "is_fork": true,
+      "parent": "AztecProtocol/aztec-packages",
+      "source": "AztecProtocol/aztec-packages",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:46Z"
+    },
+    {
+      "full_name": "AztecProtocol/zkether",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:27:46Z"
+    }
+  ]
+}

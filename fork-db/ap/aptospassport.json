@@ -1,0 +1,51 @@
+{
+  "owner": "aptospassport",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AptosPassport/aoracle-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Move",
+      "last_checked": "2026-03-01T07:15:14Z"
+    },
+    {
+      "full_name": "AptosPassport/apass-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:15:15Z"
+    },
+    {
+      "full_name": "AptosPassport/aptos-coin-list",
+      "is_fork": true,
+      "parent": "hippospace/aptos-coin-list",
+      "source": "hippospace/aptos-coin-list",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T07:15:16Z"
+    },
+    {
+      "full_name": "AptosPassport/aptos-core",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-core",
+      "source": "aptos-labs/aptos-core",
+      "stars": 22,
+      "language": null,
+      "last_checked": "2026-03-01T07:15:18Z"
+    },
+    {
+      "full_name": "AptosPassport/aptpp-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T07:15:19Z"
+    }
+  ]
+}

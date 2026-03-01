@@ -1,0 +1,420 @@
+{
+  "owner": "bitcoin-wildlife-sanctuary",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/BitVM",
+      "is_fork": true,
+      "parent": "BitVM/BitVM",
+      "source": "BitVM/BitVM",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:40Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/ark-circle-plonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:40Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/bitcoin-circle-stark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 158,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:41Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/bitcoin-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:42Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/bitvm-memory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:44Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/bitvm-stark-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:45Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/btcwild.life",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T12:55:45Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/catgolfing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T12:55:46Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/catnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Python",
+      "last_checked": "2026-03-01T12:55:47Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circle-anemoi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:48Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circle-plonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:49Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circle-plonk-plus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:55:49Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circle-plonk-recursive-verifier-circom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Circom",
+      "last_checked": "2026-03-01T12:55:50Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circle-plonk-recursive-verifier-dsl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:51Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circom",
+      "is_fork": true,
+      "parent": "iden3/circom",
+      "source": "iden3/circom",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:52Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/circom-compat",
+      "is_fork": true,
+      "parent": "arkworks-rs/circom-compat",
+      "source": "arkworks-rs/circom-compat",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:53Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/covenants-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:54Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/covenants-gadgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:55Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/dsl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:56Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/fibonacci-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:57Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/fibonacci-example-non-table",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:58Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/fraud-proof-compiler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:55:59Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/fri-study",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:00Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/opcat-slides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:00Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/plonk-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:01Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/pontis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T12:56:02Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/poseidon2-m31",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:03Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/poseidon2-qm31",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:03Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/r1cs-std",
+      "is_fork": true,
+      "parent": "arkworks-rs/r1cs-std",
+      "source": "arkworks-rs/r1cs-std",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:05Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/r1cs-to-circle-plonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:05Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/recursive-stwo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:06Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/recursive-stwo-bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:07Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/reuse-bitcoin-pow-gadgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:08Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-m31",
+      "is_fork": true,
+      "parent": "BitVM/rust-bitcoin-m31-or-babybear",
+      "source": "BitVM/rust-bitcoin-m31-or-babybear",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:09Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-m31-acc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:10Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-m31-table",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:10Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-m31-with-mul",
+      "is_fork": true,
+      "parent": "BitVM/rust-bitcoin-m31-or-babybear",
+      "source": "BitVM/rust-bitcoin-m31-or-babybear",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:11Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-m31-with-muldiv",
+      "is_fork": true,
+      "parent": "BitVM/rust-bitcoin-m31-or-babybear",
+      "source": "BitVM/rust-bitcoin-m31-or-babybear",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:12Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-script",
+      "is_fork": true,
+      "parent": "BitVM/rust-bitcoin-script_old",
+      "source": "mappum/rust-bitcoin-script",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:13Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/rust-bitcoin-scriptexec",
+      "is_fork": true,
+      "parent": "BitVM/rust-bitcoin-scriptexec",
+      "source": "BitVM/rust-bitcoin-scriptexec",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:14Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/scrypt-poc-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T12:56:15Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/stwo",
+      "is_fork": true,
+      "parent": "starkware-libs/stwo",
+      "source": "starkware-libs/stwo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:16Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/stwo-bedd93",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T12:56:16Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/stwo-circle-poseidon-plonk",
+      "is_fork": true,
+      "parent": "starkware-libs/stwo",
+      "source": "starkware-libs/stwo",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:18Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/stwo-for-cairo-export",
+      "is_fork": true,
+      "parent": "starkware-libs/stwo",
+      "source": "starkware-libs/stwo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:19Z"
+    },
+    {
+      "full_name": "Bitcoin-Wildlife-Sanctuary/stwo2",
+      "is_fork": true,
+      "parent": "starkware-libs/stwo",
+      "source": "starkware-libs/stwo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T12:56:20Z"
+    }
+  ]
+}

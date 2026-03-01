@@ -1,0 +1,87 @@
+{
+  "owner": "8pay",
+  "updated_at": "2026-03-01T19:01:41Z",
+  "repos": [
+    {
+      "full_name": "8pay/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T03:54:36Z"
+    },
+    {
+      "full_name": "8pay/bep20-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T03:54:37Z"
+    },
+    {
+      "full_name": "8pay/core-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:38Z"
+    },
+    {
+      "full_name": "8pay/deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:39Z"
+    },
+    {
+      "full_name": "8pay/erc20-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T03:54:40Z"
+    },
+    {
+      "full_name": "8pay/javascript-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:41Z"
+    },
+    {
+      "full_name": "8pay/staking-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:42Z"
+    },
+    {
+      "full_name": "8pay/tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:43Z"
+    },
+    {
+      "full_name": "8pay/vesting-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T03:54:44Z"
+    }
+  ]
+}

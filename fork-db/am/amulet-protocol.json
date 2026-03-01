@@ -1,0 +1,60 @@
+{
+  "owner": "amulet-protocol",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Amulet-Protocol/amulet-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:26:55Z"
+    },
+    {
+      "full_name": "Amulet-Protocol/amulet-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:26:56Z"
+    },
+    {
+      "full_name": "Amulet-Protocol/multisig",
+      "is_fork": true,
+      "parent": "coral-xyz/multisig",
+      "source": "coral-xyz/multisig",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:26:57Z"
+    },
+    {
+      "full_name": "Amulet-Protocol/multisig-ui",
+      "is_fork": true,
+      "parent": "project-serum/multisig-ui",
+      "source": "project-serum/multisig-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:26:58Z"
+    },
+    {
+      "full_name": "Amulet-Protocol/solana",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T06:26:59Z"
+    },
+    {
+      "full_name": "Amulet-Protocol/stake-o-matic",
+      "is_fork": true,
+      "parent": "marinade-finance/stake-o-matic",
+      "source": "solana-foundation/stake-o-matic",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T06:27:00Z"
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "owner": "bankex",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BANKEX/BKXToken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-01T10:31:28Z"
+    },
+    {
+      "full_name": "BANKEX/BiometricAuthentication",
+      "is_fork": true,
+      "parent": "rushisangani/BiometricAuthentication",
+      "source": "rushisangani/BiometricAuthentication",
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:31:29Z"
+    },
+    {
+      "full_name": "BANKEX/Blockchain-Hackathon-Kazan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:30Z"
+    },
+    {
+      "full_name": "BANKEX/BulletproofJS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:30Z"
+    },
+    {
+      "full_name": "BANKEX/CurveArithmetics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:31Z"
+    },
+    {
+      "full_name": "BANKEX/ERC20DividendsToken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:32Z"
+    },
+    {
+      "full_name": "BANKEX/ETHDenver_ConfidentialTransactions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:31:33Z"
+    },
+    {
+      "full_name": "BANKEX/ETHDenver_Demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "CSS",
+      "last_checked": "2026-03-01T10:31:34Z"
+    },
+    {
+      "full_name": "BANKEX/ETHSingapore-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:31:35Z"
+    },
+    {
+      "full_name": "BANKEX/EllipticSwift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:31:36Z"
+    },
+    {
+      "full_name": "BANKEX/FoodPay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:37Z"
+    },
+    {
+      "full_name": "BANKEX/FrozenTokenHolder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:38Z"
+    },
+    {
+      "full_name": "BANKEX/KYCApp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:31:39Z"
+    },
+    {
+      "full_name": "BANKEX/Moviecoin-security-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:31:40Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityDApp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:41Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityDAppBackend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:41Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityDonatorsCab",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:42Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityDonatorsCabFrontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:43Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityLandingPage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-01T10:31:44Z"
+    },
+    {
+      "full_name": "BANKEX/OpenCharityMetadataStorage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:45Z"
+    },
+    {
+      "full_name": "BANKEX/Pay-Android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:31:46Z"
+    },
+    {
+      "full_name": "BANKEX/Pay-iOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:31:47Z"
+    },
+    {
+      "full_name": "BANKEX/PlasmaBrowser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:31:48Z"
+    },
+    {
+      "full_name": "BANKEX/PlasmaETHexchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 232,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:49Z"
+    },
+    {
+      "full_name": "BANKEX/PlasmaParentContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:31:50Z"
+    },
+    {
+      "full_name": "BANKEX/Solidity-RLP",
+      "is_fork": true,
+      "parent": "hamdiallam/Solidity-RLP",
+      "source": "hamdiallam/Solidity-RLP",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:31:51Z"
+    },
+    {
+      "full_name": "BANKEX/TinyBigIntSwift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:31:52Z"
+    },
+    {
+      "full_name": "BANKEX/Tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:31:53Z"
+    },
+    {
+      "full_name": "BANKEX/adsnarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:31:53Z"
+    },
+    {
+      "full_name": "BANKEX/asset-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:31:54Z"
+    },
+    {
+      "full_name": "BANKEX/baby_jubjub_ecc",
+      "is_fork": true,
+      "parent": "barryWhiteHat/baby_jubjub_ecc",
+      "source": "barryWhiteHat/baby_jubjub_ecc",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:31:55Z"
+    },
+    {
+      "full_name": "BANKEX/bankex-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:31:56Z"
+    },
+    {
+      "full_name": "BANKEX/bankex-hackathon-20170619_bank-guarantee-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C#",
+      "last_checked": "2026-03-01T10:31:57Z"
+    },
+    {
+      "full_name": "BANKEX/bankex-hackathon-20170619_blockdoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:31:58Z"
+    },
+    {
+      "full_name": "BANKEX/bankex-hackathon-20170619_kyc-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T10:31:59Z"
+    },
+    {
+      "full_name": "BANKEX/bankex-nfc-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:00Z"
+    },
+    {
+      "full_name": "BANKEX/bankex_foundation_education",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:01Z"
+    },
+    {
+      "full_name": "BANKEX/custody-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:02Z"
+    },
+    {
+      "full_name": "BANKEX/digital-deal-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:02Z"
+    },
+    {
+      "full_name": "BANKEX/dollarubl-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:32:03Z"
+    },
+    {
+      "full_name": "BANKEX/education",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:04Z"
+    },
+    {
+      "full_name": "BANKEX/ethberlin-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:05Z"
+    },
+    {
+      "full_name": "BANKEX/ethereum-testnet-supply-button",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:32:06Z"
+    },
+    {
+      "full_name": "BANKEX/etherwallet",
+      "is_fork": true,
+      "parent": "MyEtherWallet/etherwallet",
+      "source": "MyEtherWallet/etherwallet",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:07Z"
+    },
+    {
+      "full_name": "BANKEX/ethsanfrancisco",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:08Z"
+    },
+    {
+      "full_name": "BANKEX/ethwaterloo-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:09Z"
+    },
+    {
+      "full_name": "BANKEX/faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:10Z"
+    },
+    {
+      "full_name": "BANKEX/foundation-org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-01T10:32:11Z"
+    },
+    {
+      "full_name": "BANKEX/gadget_lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T10:32:12Z"
+    },
+    {
+      "full_name": "BANKEX/go-docusign",
+      "is_fork": true,
+      "parent": "jfcote87/docusign",
+      "source": "jfcote87/docusign",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:13Z"
+    },
+    {
+      "full_name": "BANKEX/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 9,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:14Z"
+    },
+    {
+      "full_name": "BANKEX/go-plasma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:15Z"
+    },
+    {
+      "full_name": "BANKEX/go-primetrust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:16Z"
+    },
+    {
+      "full_name": "BANKEX/hackathon-ctf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:17Z"
+    },
+    {
+      "full_name": "BANKEX/ico-token-contract-draft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:17Z"
+    },
+    {
+      "full_name": "BANKEX/iot-mi-home-devicehive-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:18Z"
+    },
+    {
+      "full_name": "BANKEX/isao-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:19Z"
+    },
+    {
+      "full_name": "BANKEX/jubjub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:20Z"
+    },
+    {
+      "full_name": "BANKEX/moviecoin-utility-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:21Z"
+    },
+    {
+      "full_name": "BANKEX/multi-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:22Z"
+    },
+    {
+      "full_name": "BANKEX/pay-asset-management",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:23Z"
+    },
+    {
+      "full_name": "BANKEX/plasma-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:32:24Z"
+    },
+    {
+      "full_name": "BANKEX/plasma-research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:25Z"
+    },
+    {
+      "full_name": "BANKEX/plasma-test-coin-distributer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:26Z"
+    },
+    {
+      "full_name": "BANKEX/plasma_client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:27Z"
+    },
+    {
+      "full_name": "BANKEX/poa-history",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-01T10:32:28Z"
+    },
+    {
+      "full_name": "BANKEX/pooling-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:28Z"
+    },
+    {
+      "full_name": "BANKEX/pre-ico-token-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:29Z"
+    },
+    {
+      "full_name": "BANKEX/rescu",
+      "is_fork": true,
+      "parent": "mmazi/rescu",
+      "source": "mmazi/rescu",
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:32:30Z"
+    },
+    {
+      "full_name": "BANKEX/research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:31Z"
+    },
+    {
+      "full_name": "BANKEX/sapling-crypto",
+      "is_fork": true,
+      "parent": "matter-labs-archive/sapling-crypto",
+      "source": "zcash/sapling-crypto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:32:32Z"
+    },
+    {
+      "full_name": "BANKEX/secp256k1_swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:32:33Z"
+    },
+    {
+      "full_name": "BANKEX/security-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:34Z"
+    },
+    {
+      "full_name": "BANKEX/smart-asset-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:35Z"
+    },
+    {
+      "full_name": "BANKEX/smart-asset-iot-android-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:32:36Z"
+    },
+    {
+      "full_name": "BANKEX/smart-asset-iot-html-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:32:37Z"
+    },
+    {
+      "full_name": "BANKEX/snarky_plasma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:38Z"
+    },
+    {
+      "full_name": "BANKEX/solidity-float-point-calculation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 57,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:39Z"
+    },
+    {
+      "full_name": "BANKEX/standard-contracts",
+      "is_fork": true,
+      "parent": "androlo/standard-contracts",
+      "source": "androlo/standard-contracts",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:40Z"
+    },
+    {
+      "full_name": "BANKEX/testrpc-parity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:41Z"
+    },
+    {
+      "full_name": "BANKEX/token-ecrow-contract-draft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-01T10:32:42Z"
+    },
+    {
+      "full_name": "BANKEX/token-timelock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:42Z"
+    },
+    {
+      "full_name": "BANKEX/truffle-compile",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle-compile",
+      "source": "ConsenSys-archive/truffle-compile",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:43Z"
+    },
+    {
+      "full_name": "BANKEX/trust-wallet-android-source",
+      "is_fork": true,
+      "parent": "trustwallet/trust-wallet-android-source",
+      "source": "trustwallet/trust-wallet-android-source",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-01T10:32:44Z"
+    },
+    {
+      "full_name": "BANKEX/trustpoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:45Z"
+    },
+    {
+      "full_name": "BANKEX/trustpoc_frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:32:46Z"
+    },
+    {
+      "full_name": "BANKEX/vehicle-asset-services",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:47Z"
+    },
+    {
+      "full_name": "BANKEX/web3browser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:32:48Z"
+    },
+    {
+      "full_name": "BANKEX/web3swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2026-03-01T10:32:49Z"
+    },
+    {
+      "full_name": "BANKEX/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TeX",
+      "last_checked": "2026-03-01T10:32:50Z"
+    },
+    {
+      "full_name": "BANKEX/zkproof-research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:32:51Z"
+    }
+  ]
+}

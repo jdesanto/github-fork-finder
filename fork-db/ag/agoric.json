@@ -1,0 +1,906 @@
+{
+  "owner": "agoric",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Agoric/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:17:56Z"
+    },
+    {
+      "full_name": "Agoric/BytePitchPartnerEng",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:17:56Z"
+    },
+    {
+      "full_name": "Agoric/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:17:57Z"
+    },
+    {
+      "full_name": "Agoric/Documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:17:58Z"
+    },
+    {
+      "full_name": "Agoric/ERTP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-01T05:17:59Z"
+    },
+    {
+      "full_name": "Agoric/JessieProxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:00Z"
+    },
+    {
+      "full_name": "Agoric/SES",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 362,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:01Z"
+    },
+    {
+      "full_name": "Agoric/SwingSet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:02Z"
+    },
+    {
+      "full_name": "Agoric/SwingSetFactory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:02Z"
+    },
+    {
+      "full_name": "Agoric/acorn-eventual-send",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:03Z"
+    },
+    {
+      "full_name": "Agoric/ag-solo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:04Z"
+    },
+    {
+      "full_name": "Agoric/ag0",
+      "is_fork": true,
+      "parent": "cosmos/gaia",
+      "source": "cosmos/gaia",
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-01T05:18:05Z"
+    },
+    {
+      "full_name": "Agoric/agoric-3-proposals",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:06Z"
+    },
+    {
+      "full_name": "Agoric/agoric-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 353,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:07Z"
+    },
+    {
+      "full_name": "Agoric/agoric-subql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:07Z"
+    },
+    {
+      "full_name": "Agoric/autoswap-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:08Z"
+    },
+    {
+      "full_name": "Agoric/bundle-source",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:09Z"
+    },
+    {
+      "full_name": "Agoric/captp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:10Z"
+    },
+    {
+      "full_name": "Agoric/causeway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:11Z"
+    },
+    {
+      "full_name": "Agoric/cosmic-swingset",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:11Z"
+    },
+    {
+      "full_name": "Agoric/cosmic-workspace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:11Z"
+    },
+    {
+      "full_name": "Agoric/cross-chain-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:12Z"
+    },
+    {
+      "full_name": "Agoric/dapp-agoric-basics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:13Z"
+    },
+    {
+      "full_name": "Agoric/dapp-agoric-simple-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:14Z"
+    },
+    {
+      "full_name": "Agoric/dapp-amm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:15Z"
+    },
+    {
+      "full_name": "Agoric/dapp-autoswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:16Z"
+    },
+    {
+      "full_name": "Agoric/dapp-card-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:17Z"
+    },
+    {
+      "full_name": "Agoric/dapp-econ-gov",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:18Z"
+    },
+    {
+      "full_name": "Agoric/dapp-encouragement",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:18Z"
+    },
+    {
+      "full_name": "Agoric/dapp-fungible-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:19Z"
+    },
+    {
+      "full_name": "Agoric/dapp-inter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:20Z"
+    },
+    {
+      "full_name": "Agoric/dapp-inter-jumper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:21Z"
+    },
+    {
+      "full_name": "Agoric/dapp-lab",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:22Z"
+    },
+    {
+      "full_name": "Agoric/dapp-nft-drop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:23Z"
+    },
+    {
+      "full_name": "Agoric/dapp-offer-up",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:24Z"
+    },
+    {
+      "full_name": "Agoric/dapp-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:25Z"
+    },
+    {
+      "full_name": "Agoric/dapp-orchestration-basics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:26Z"
+    },
+    {
+      "full_name": "Agoric/dapp-otc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:27Z"
+    },
+    {
+      "full_name": "Agoric/dapp-pegasus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:28Z"
+    },
+    {
+      "full_name": "Agoric/dapp-psm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:29Z"
+    },
+    {
+      "full_name": "Agoric/dapp-simple-exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:30Z"
+    },
+    {
+      "full_name": "Agoric/dapp-treasury",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:30Z"
+    },
+    {
+      "full_name": "Agoric/default-evaluate-options",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:31Z"
+    },
+    {
+      "full_name": "Agoric/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:32Z"
+    },
+    {
+      "full_name": "Agoric/endojs-vespera",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:33Z"
+    },
+    {
+      "full_name": "Agoric/eng-process",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T05:18:34Z"
+    },
+    {
+      "full_name": "Agoric/error-stack-shim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:35Z"
+    },
+    {
+      "full_name": "Agoric/eslint-config-jessie",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:36Z"
+    },
+    {
+      "full_name": "Agoric/eslint-config-rule-tester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:37Z"
+    },
+    {
+      "full_name": "Agoric/estimator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-01T05:18:38Z"
+    },
+    {
+      "full_name": "Agoric/evaluate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:39Z"
+    },
+    {
+      "full_name": "Agoric/evaluator-shim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:40Z"
+    },
+    {
+      "full_name": "Agoric/eventual-send",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:41Z"
+    },
+    {
+      "full_name": "Agoric/explorer",
+      "is_fork": true,
+      "parent": "ping-pub/explorer",
+      "source": "ping-pub/explorer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:42Z"
+    },
+    {
+      "full_name": "Agoric/fast-usdc-lp-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:18:43Z"
+    },
+    {
+      "full_name": "Agoric/faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:44Z"
+    },
+    {
+      "full_name": "Agoric/gh-agoric",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T05:18:45Z"
+    },
+    {
+      "full_name": "Agoric/harden",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:46Z"
+    },
+    {
+      "full_name": "Agoric/instagoric",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:47Z"
+    },
+    {
+      "full_name": "Agoric/instagoric-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:48Z"
+    },
+    {
+      "full_name": "Agoric/layer-cake",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:49Z"
+    },
+    {
+      "full_name": "Agoric/make-flowcomm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:50Z"
+    },
+    {
+      "full_name": "Agoric/make-hardener",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:51Z"
+    },
+    {
+      "full_name": "Agoric/make-importer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:52Z"
+    },
+    {
+      "full_name": "Agoric/marshal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:53Z"
+    },
+    {
+      "full_name": "Agoric/merge-bot-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:54Z"
+    },
+    {
+      "full_name": "Agoric/mergify-experiements",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:55Z"
+    },
+    {
+      "full_name": "Agoric/nat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:56Z"
+    },
+    {
+      "full_name": "Agoric/new-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:56Z"
+    },
+    {
+      "full_name": "Agoric/nft-secondary-sales",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:57Z"
+    },
+    {
+      "full_name": "Agoric/opco-subql",
+      "is_fork": true,
+      "parent": "Agoric/agoric-subql",
+      "source": "Agoric/agoric-subql",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:58Z"
+    },
+    {
+      "full_name": "Agoric/playground-cosmos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:18:58Z"
+    },
+    {
+      "full_name": "Agoric/powerbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:18:59Z"
+    },
+    {
+      "full_name": "Agoric/project-management",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:00Z"
+    },
+    {
+      "full_name": "Agoric/proposal-deterministic-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:01Z"
+    },
+    {
+      "full_name": "Agoric/proposal-frozen-realms",
+      "is_fork": true,
+      "parent": "tc39/proposal-ses",
+      "source": "tc39/proposal-ses",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-01T05:19:02Z"
+    },
+    {
+      "full_name": "Agoric/proposal-petrify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:03Z"
+    },
+    {
+      "full_name": "Agoric/proposal-preserve-virtualizability",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:04Z"
+    },
+    {
+      "full_name": "Agoric/proposal-realms",
+      "is_fork": true,
+      "parent": "tc39/proposal-shadowrealm",
+      "source": "tc39/proposal-shadowrealm",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:06Z"
+    },
+    {
+      "full_name": "Agoric/proposal-stabilize",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:07Z"
+    },
+    {
+      "full_name": "Agoric/psmload",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:08Z"
+    },
+    {
+      "full_name": "Agoric/readonly-collections-shim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:09Z"
+    },
+    {
+      "full_name": "Agoric/realms-shim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 353,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:10Z"
+    },
+    {
+      "full_name": "Agoric/safe-modules",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:11Z"
+    },
+    {
+      "full_name": "Agoric/simple-exchange-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:12Z"
+    },
+    {
+      "full_name": "Agoric/stayinghomeclub",
+      "is_fork": true,
+      "parent": "phildini/stayinghomeclub",
+      "source": "phildini/stayinghomeclub",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:13Z"
+    },
+    {
+      "full_name": "Agoric/tc39-proposal-immutable-arraybuffer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:14Z"
+    },
+    {
+      "full_name": "Agoric/test-agoric-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:15Z"
+    },
+    {
+      "full_name": "Agoric/test-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:16Z"
+    },
+    {
+      "full_name": "Agoric/testnet-load-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:17Z"
+    },
+    {
+      "full_name": "Agoric/testnet-notes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T05:19:18Z"
+    },
+    {
+      "full_name": "Agoric/testnet-postmortem-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:19Z"
+    },
+    {
+      "full_name": "Agoric/tools-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:19:20Z"
+    },
+    {
+      "full_name": "Agoric/transform-eventual-send",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:21Z"
+    },
+    {
+      "full_name": "Agoric/transform-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:22Z"
+    },
+    {
+      "full_name": "Agoric/ui-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T05:19:23Z"
+    },
+    {
+      "full_name": "Agoric/upgrade-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-01T05:19:24Z"
+    },
+    {
+      "full_name": "Agoric/wallet-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:25Z"
+    },
+    {
+      "full_name": "Agoric/wallet-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T05:19:25Z"
+    },
+    {
+      "full_name": "Agoric/zoe-sketchbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T05:19:26Z"
+    }
+  ]
+}

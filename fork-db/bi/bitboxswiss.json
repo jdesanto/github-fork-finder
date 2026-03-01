@@ -1,0 +1,438 @@
+{
+  "owner": "bitboxswiss",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "BitBoxSwiss/2FA-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:06Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/ElectronDemo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:07Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/FatFs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:08Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/MyEtherWallet",
+      "is_fork": true,
+      "parent": "MyEtherWallet/MyEtherWallet",
+      "source": "MyEtherWallet/MyEtherWallet",
+      "stars": 1,
+      "language": "Vue",
+      "last_checked": "2026-03-01T11:36:09Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/SingleApplication",
+      "is_fork": true,
+      "parent": "itay-grudev/SingleApplication",
+      "source": "itay-grudev/SingleApplication",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:10Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/ZeroConf",
+      "is_fork": true,
+      "parent": "vstirbu/ZeroConf",
+      "source": "vstirbu/ZeroConf",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-01T11:36:11Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox-api-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-01T11:36:12Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox-base",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 83,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:13Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox-base-deps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:14Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Rust",
+      "last_checked": "2026-03-01T11:36:14Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox-wallet-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 304,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:15Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox02-api-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:16Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox02-api-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:17Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox02-backup-recovery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:18Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitbox02-firmware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 345,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:19Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bitpaywalletclient",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:20Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/block-client-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:21Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/blockbook",
+      "is_fork": true,
+      "parent": "trezor/blockbook",
+      "source": "trezor/blockbook",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:22Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/bytes",
+      "is_fork": true,
+      "parent": "tokio-rs/bytes",
+      "source": "tokio-rs/bytes",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:23Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/cryptoauthlib",
+      "is_fork": true,
+      "parent": "MicrochipTech/cryptoauthlib",
+      "source": "MicrochipTech/cryptoauthlib",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:24Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/ctaes",
+      "is_fork": true,
+      "parent": "bitcoin-core/ctaes",
+      "source": "bitcoin-core/ctaes",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:25Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/dbb-app",
+      "is_fork": true,
+      "parent": "jonasschnelli/dbb-app",
+      "source": "jonasschnelli/dbb-app",
+      "stars": 31,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:26Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/digitalbitbox-chrome-commander",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:28Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/electrum",
+      "is_fork": true,
+      "parent": "spesmilo/electrum",
+      "source": "spesmilo/electrum",
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-01T11:36:29Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/electrumx-containers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-01T11:36:30Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/gopherjs",
+      "is_fork": true,
+      "parent": "gopherjs/gopherjs",
+      "source": "gopherjs/gopherjs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:31Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/hidapi",
+      "is_fork": true,
+      "parent": "signal11/hidapi",
+      "source": "signal11/hidapi",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:32Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/html_backup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:33Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/libdbb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:36:34Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/libwally-core",
+      "is_fork": true,
+      "parent": "ElementsProject/libwally-core",
+      "source": "ElementsProject/libwally-core",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:35Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/mcu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:35Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/micro-ecc",
+      "is_fork": true,
+      "parent": "kmackay/micro-ecc",
+      "source": "kmackay/micro-ecc",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-01T11:36:37Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/nanopb",
+      "is_fork": true,
+      "parent": "nanopb/nanopb",
+      "source": "nanopb/nanopb",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:38Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/noise-c",
+      "is_fork": true,
+      "parent": "rweather/noise-c",
+      "source": "rweather/noise-c",
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-01T11:36:39Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/open-source-everything",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:40Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/optiga-trust-m",
+      "is_fork": true,
+      "parent": "Infineon/optiga-trust-m",
+      "source": "Infineon/optiga-trust-m",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:41Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/publicsuffixlist",
+      "is_fork": true,
+      "parent": "publicsuffix/list",
+      "source": "publicsuffix/list",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:42Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/rust-bip32-ed25519",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-01T11:36:43Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/scamwarnbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T11:36:43Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/secp256k1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:44Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/secp256k1-zkp",
+      "is_fork": true,
+      "parent": "BlockstreamResearch/secp256k1-zkp",
+      "source": "BlockstreamResearch/secp256k1-zkp",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T11:36:45Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/secp256k1_patch",
+      "is_fork": true,
+      "parent": "bitcoin-core/secp256k1",
+      "source": "bitcoin-core/secp256k1",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:46Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/smart-verification-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "PHP",
+      "last_checked": "2026-03-01T11:36:47Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/ttf2ugui",
+      "is_fork": true,
+      "parent": "AriZuu/ttf2ugui",
+      "source": "AriZuu/ttf2ugui",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:48Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/usb",
+      "is_fork": true,
+      "parent": "karalabe/usb",
+      "source": "karalabe/usb",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:49Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/user-guides",
+      "is_fork": true,
+      "parent": "just-the-docs/just-the-docs",
+      "source": "just-the-docs/just-the-docs",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T11:36:50Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/ws",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T11:36:51Z"
+    },
+    {
+      "full_name": "BitBoxSwiss/yajl",
+      "is_fork": true,
+      "parent": "lloyd/yajl",
+      "source": "lloyd/yajl",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T11:36:52Z"
+    }
+  ]
+}

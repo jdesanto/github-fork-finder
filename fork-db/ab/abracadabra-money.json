@@ -1,0 +1,321 @@
+{
+  "owner": "abracadabra-money",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "Abracadabra-money/BoringSolidity",
+      "is_fork": true,
+      "parent": "boringcrypto/BoringSolidity",
+      "source": "boringcrypto/BoringSolidity",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:43:27Z"
+    },
+    {
+      "full_name": "Abracadabra-money/BoringSolidityOld",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:43:28Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:29Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-analytics-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:30Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-money-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 146,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:31Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-money-contracts-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 146,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:32Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-money-foundry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 146,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:34Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-money-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:43:34Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-money-vyper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:43:35Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-nft-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:36Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-oft-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:37Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-oft-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:38Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-oftv2-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:39Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:40Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:43:41Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-v2-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:42Z"
+    },
+    {
+      "full_name": "Abracadabra-money/abracadabra-v2-oft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:43Z"
+    },
+    {
+      "full_name": "Abracadabra-money/avalanche-bridge-resources",
+      "is_fork": true,
+      "parent": "ava-labs/avalanche-bridge-resources",
+      "source": "ava-labs/avalanche-bridge-resources",
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:44Z"
+    },
+    {
+      "full_name": "Abracadabra-money/bentobox-strategies",
+      "is_fork": true,
+      "parent": "sushiswap/bentobox-strategies",
+      "source": "sushiswap/bentobox-strategies",
+      "stars": 14,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:45Z"
+    },
+    {
+      "full_name": "Abracadabra-money/brownie",
+      "is_fork": true,
+      "parent": "eth-brownie/brownie",
+      "source": "eth-brownie/brownie",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:43:46Z"
+    },
+    {
+      "full_name": "Abracadabra-money/forge-deploy",
+      "is_fork": true,
+      "parent": "wighawag/forge-deploy",
+      "source": "wighawag/forge-deploy",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T04:43:47Z"
+    },
+    {
+      "full_name": "Abracadabra-money/gm-arb-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:48Z"
+    },
+    {
+      "full_name": "Abracadabra-money/gringotts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:49Z"
+    },
+    {
+      "full_name": "Abracadabra-money/locking-multi-rewards-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:50Z"
+    },
+    {
+      "full_name": "Abracadabra-money/magic-internet-money",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 216,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T04:43:51Z"
+    },
+    {
+      "full_name": "Abracadabra-money/off-chain-resolver-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:52Z"
+    },
+    {
+      "full_name": "Abracadabra-money/offchain-resolvers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:53Z"
+    },
+    {
+      "full_name": "Abracadabra-money/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-01T04:43:54Z"
+    },
+    {
+      "full_name": "Abracadabra-money/solidity-examples",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/endpoint-v1-solidity-examples",
+      "source": "LayerZero-Labs/endpoint-v1-solidity-examples",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T04:43:55Z"
+    },
+    {
+      "full_name": "Abracadabra-money/spell-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:56Z"
+    },
+    {
+      "full_name": "Abracadabra-money/tenderly-tap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:56Z"
+    },
+    {
+      "full_name": "Abracadabra-money/user-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T04:43:57Z"
+    },
+    {
+      "full_name": "Abracadabra-money/web3-functions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T04:43:58Z"
+    },
+    {
+      "full_name": "Abracadabra-money/yearn-exporter",
+      "is_fork": true,
+      "parent": "yearn/yearn-exporter",
+      "source": "yearn/yearn-exporter",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T04:43:59Z"
+    },
+    {
+      "full_name": "Abracadabra-money/yearn-workflows",
+      "is_fork": true,
+      "parent": "yearn/yearn-workflows",
+      "source": "yearn/yearn-workflows",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T04:44:00Z"
+    }
+  ]
+}

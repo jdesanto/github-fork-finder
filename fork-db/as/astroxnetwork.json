@@ -1,0 +1,726 @@
+{
+  "owner": "astroxnetwork",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "AstroxNetwork/4337_poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:28Z"
+    },
+    {
+      "full_name": "AstroxNetwork/AIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:28Z"
+    },
+    {
+      "full_name": "AstroxNetwork/CBP",
+      "is_fork": true,
+      "parent": "CBD-Group/CBP",
+      "source": "CBD-Group/CBP",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:29Z"
+    },
+    {
+      "full_name": "AstroxNetwork/FoxIC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:30Z"
+    },
+    {
+      "full_name": "AstroxNetwork/HumanID",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:31Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ICPunks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:31Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ICSnap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:32Z"
+    },
+    {
+      "full_name": "AstroxNetwork/MultiSig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:20:33Z"
+    },
+    {
+      "full_name": "AstroxNetwork/Proof-of-Personhood",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:34Z"
+    },
+    {
+      "full_name": "AstroxNetwork/SwiftCBOR",
+      "is_fork": true,
+      "parent": "valpackett/SwiftCBOR",
+      "source": "valpackett/SwiftCBOR",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:35Z"
+    },
+    {
+      "full_name": "AstroxNetwork/WalletConnectFlutterV2",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectFlutterV2",
+      "source": "WalletConnect/WalletConnectFlutterV2",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:36Z"
+    },
+    {
+      "full_name": "AstroxNetwork/agent-js",
+      "is_fork": true,
+      "parent": "dfinity/icp-js-core",
+      "source": "dfinity/icp-js-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:37Z"
+    },
+    {
+      "full_name": "AstroxNetwork/agent_dart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 111,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:38Z"
+    },
+    {
+      "full_name": "AstroxNetwork/agent_dart_auth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T08:20:39Z"
+    },
+    {
+      "full_name": "AstroxNetwork/agent_dart_examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "C++",
+      "last_checked": "2026-03-01T08:20:40Z"
+    },
+    {
+      "full_name": "AstroxNetwork/agent_swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-01T08:20:41Z"
+    },
+    {
+      "full_name": "AstroxNetwork/astrox-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:42Z"
+    },
+    {
+      "full_name": "AstroxNetwork/atom32",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:42Z"
+    },
+    {
+      "full_name": "AstroxNetwork/atomicals-js",
+      "is_fork": true,
+      "parent": "Gareyhbs/atomicals-js",
+      "source": "Gareyhbs/atomicals-js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:43Z"
+    },
+    {
+      "full_name": "AstroxNetwork/auth-client-demo",
+      "is_fork": true,
+      "parent": "krpeacock/auth-client-demo",
+      "source": "krpeacock/auth-client-demo",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:20:45Z"
+    },
+    {
+      "full_name": "AstroxNetwork/awesome-metamask-snaps",
+      "is_fork": true,
+      "parent": "piotr-roslaniec/awesome-metamask-snaps",
+      "source": "piotr-roslaniec/awesome-metamask-snaps",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:46Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ax",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:46Z"
+    },
+    {
+      "full_name": "AstroxNetwork/bdk_dart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:20:47Z"
+    },
+    {
+      "full_name": "AstroxNetwork/buy_me_coffee",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:48Z"
+    },
+    {
+      "full_name": "AstroxNetwork/candid_dart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:49Z"
+    },
+    {
+      "full_name": "AstroxNetwork/cdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:49Z"
+    },
+    {
+      "full_name": "AstroxNetwork/connectycube-flutter-call-kit",
+      "is_fork": true,
+      "parent": "ConnectyCube/connectycube-flutter-call-kit",
+      "source": "ConnectyCube/connectycube-flutter-call-kit",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-01T08:20:50Z"
+    },
+    {
+      "full_name": "AstroxNetwork/dapp-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:20:51Z"
+    },
+    {
+      "full_name": "AstroxNetwork/did2dart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:52Z"
+    },
+    {
+      "full_name": "AstroxNetwork/discovery-admin-web",
+      "is_fork": true,
+      "parent": "halo-dev/console",
+      "source": "halo-dev/console",
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-01T08:20:53Z"
+    },
+    {
+      "full_name": "AstroxNetwork/discovery_backend_new",
+      "is_fork": true,
+      "parent": "halo-dev/halo",
+      "source": "halo-dev/halo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:54Z"
+    },
+    {
+      "full_name": "AstroxNetwork/electron-promise-ipc",
+      "is_fork": true,
+      "parent": "sibnerian/electron-promise-ipc",
+      "source": "sibnerian/electron-promise-ipc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:55Z"
+    },
+    {
+      "full_name": "AstroxNetwork/electrs",
+      "is_fork": true,
+      "parent": "Blockstream/electrs",
+      "source": "romanz/electrs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:20:56Z"
+    },
+    {
+      "full_name": "AstroxNetwork/elex-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:56Z"
+    },
+    {
+      "full_name": "AstroxNetwork/espresso-cash-public",
+      "is_fork": true,
+      "parent": "brij-digital/espresso-cash-public",
+      "source": "brij-digital/espresso-cash-public",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:20:57Z"
+    },
+    {
+      "full_name": "AstroxNetwork/eth-sig-util",
+      "is_fork": true,
+      "parent": "wakumo/eth-sig-util",
+      "source": "wakumo/eth-sig-util",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:20:58Z"
+    },
+    {
+      "full_name": "AstroxNetwork/extension",
+      "is_fork": true,
+      "parent": "unisat-wallet/extension",
+      "source": "unisat-wallet/extension",
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:21:00Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter-nfc-manager",
+      "is_fork": true,
+      "parent": "okadan/flutter-nfc-manager",
+      "source": "okadan/flutter-nfc-manager",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:01Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_archive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:01Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_inappwebview",
+      "is_fork": true,
+      "parent": "pichillilorenzo/flutter_inappwebview",
+      "source": "pichillilorenzo/flutter_inappwebview",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:02Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_nfc_kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:02Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_secp256r1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Swift",
+      "last_checked": "2026-03-01T08:21:03Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:04Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-01T08:21:05Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_node_qjsc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T08:21:06Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_node_wbc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T08:21:07Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:07Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_quickjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T08:21:08Z"
+    },
+    {
+      "full_name": "AstroxNetwork/flutter_webf_remote_devtool_proxy_example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T08:21:09Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ic-siwb",
+      "is_fork": true,
+      "parent": "kristoferlund/ic-siwe",
+      "source": "kristoferlund/ic-siwe",
+      "stars": 20,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:21:10Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ic_env",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:11Z"
+    },
+    {
+      "full_name": "AstroxNetwork/icp-js",
+      "is_fork": true,
+      "parent": "FireStack-Lab/icp-js",
+      "source": "FireStack-Lab/icp-js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:12Z"
+    },
+    {
+      "full_name": "AstroxNetwork/internet-identity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:12Z"
+    },
+    {
+      "full_name": "AstroxNetwork/jovial_svg",
+      "is_fork": true,
+      "parent": "zathras/jovial_svg",
+      "source": "zathras/jovial_svg",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:13Z"
+    },
+    {
+      "full_name": "AstroxNetwork/kraken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:13Z"
+    },
+    {
+      "full_name": "AstroxNetwork/local-ledger-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:14Z"
+    },
+    {
+      "full_name": "AstroxNetwork/me_ext",
+      "is_fork": true,
+      "parent": "Bochslertech/Pop",
+      "source": "Bochslertech/Pop",
+      "stars": 0,
+      "language": "Motoko",
+      "last_checked": "2026-03-01T08:21:15Z"
+    },
+    {
+      "full_name": "AstroxNetwork/media-kit",
+      "is_fork": true,
+      "parent": "media-kit/media-kit",
+      "source": "media-kit/media-kit",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:16Z"
+    },
+    {
+      "full_name": "AstroxNetwork/mempool",
+      "is_fork": true,
+      "parent": "mempool/mempool",
+      "source": "mempool/mempool",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:21:17Z"
+    },
+    {
+      "full_name": "AstroxNetwork/mempool-electrs",
+      "is_fork": true,
+      "parent": "mempool/electrs",
+      "source": "mempool/electrs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:18Z"
+    },
+    {
+      "full_name": "AstroxNetwork/modal_bottom_sheet",
+      "is_fork": true,
+      "parent": "jamesblasco/modal_bottom_sheet",
+      "source": "jamesblasco/modal_bottom_sheet",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:19Z"
+    },
+    {
+      "full_name": "AstroxNetwork/msigner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:19Z"
+    },
+    {
+      "full_name": "AstroxNetwork/open_file",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:20Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ord",
+      "is_fork": true,
+      "parent": "ordinals/ord",
+      "source": "ordinals/ord",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:21Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ord_card",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:21Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ord_dart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:22Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ord_ic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:21:23Z"
+    },
+    {
+      "full_name": "AstroxNetwork/ord_snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T08:21:24Z"
+    },
+    {
+      "full_name": "AstroxNetwork/quill",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:24Z"
+    },
+    {
+      "full_name": "AstroxNetwork/rosetta-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:24Z"
+    },
+    {
+      "full_name": "AstroxNetwork/tachikoma_apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-01T08:21:25Z"
+    },
+    {
+      "full_name": "AstroxNetwork/talos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:21:26Z"
+    },
+    {
+      "full_name": "AstroxNetwork/tiny-secp256k1",
+      "is_fork": true,
+      "parent": "bitcoinjs/tiny-secp256k1",
+      "source": "bitcoinjs/tiny-secp256k1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:27Z"
+    },
+    {
+      "full_name": "AstroxNetwork/wallet_call",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T08:21:28Z"
+    },
+    {
+      "full_name": "AstroxNetwork/walletconnect-dart-sdk",
+      "is_fork": true,
+      "parent": "RootSoft/walletconnect-dart-sdk",
+      "source": "RootSoft/walletconnect-dart-sdk",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:29Z"
+    },
+    {
+      "full_name": "AstroxNetwork/walletconnect_dart_monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:30Z"
+    },
+    {
+      "full_name": "AstroxNetwork/web3dart",
+      "is_fork": true,
+      "parent": "xclud/web3dart",
+      "source": "simolus3/web3dart",
+      "stars": 1,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:31Z"
+    },
+    {
+      "full_name": "AstroxNetwork/web3x",
+      "is_fork": true,
+      "parent": "xclud/web3dart",
+      "source": "simolus3/web3dart",
+      "stars": 1,
+      "language": "Dart",
+      "last_checked": "2026-03-01T08:21:32Z"
+    },
+    {
+      "full_name": "AstroxNetwork/webf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:32Z"
+    },
+    {
+      "full_name": "AstroxNetwork/wg-identity-authentication",
+      "is_fork": true,
+      "parent": "dfinity/wg-identity-authentication",
+      "source": "dfinity/wg-identity-authentication",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T08:21:34Z"
+    }
+  ]
+}

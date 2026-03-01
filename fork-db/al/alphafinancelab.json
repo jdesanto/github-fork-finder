@@ -1,0 +1,213 @@
+{
+  "owner": "alphafinancelab",
+  "updated_at": "2026-03-01T19:01:42Z",
+  "repos": [
+    {
+      "full_name": "AlphaFinanceLab/AIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:06:54Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:06:55Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/LocalTerra",
+      "is_fork": true,
+      "parent": "terra-money/LocalTerra",
+      "source": "terra-money/LocalTerra",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:06:56Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-dashboard-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:06:57Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-escrow-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:06:58Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-gringotts-eth-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:06:59Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-guard-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:07:00Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-homora-v1-bsc-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:07:01Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-homora-v1-eth-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 65,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:07:02Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-homora-v2-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:07:03Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-homora-v2-integration-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T06:07:04Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-homora-vested-sushi-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:07:05Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-lending-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:07:06Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/alpha-staking-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T06:07:06Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/assets",
+      "is_fork": true,
+      "parent": "sushiswap/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:08Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/chambers-monitoring-cron",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:08Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/changesets-action",
+      "is_fork": true,
+      "parent": "changesets/action",
+      "source": "changesets/action",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:09Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/compound-protocol",
+      "is_fork": true,
+      "parent": "CreamFi/compound-protocol",
+      "source": "compound-finance/compound-protocol",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:10Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:07:11Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/ecosystem-projects",
+      "is_fork": true,
+      "parent": "ava-labs/ecosystem-projects",
+      "source": "ava-labs/ecosystem-projects",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T06:07:12Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/joe-tokenlists",
+      "is_fork": true,
+      "parent": "lfj-gg/joe-tokenlists",
+      "source": "lfj-gg/joe-tokenlists",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T06:07:13Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/smart-contract-registry",
+      "is_fork": true,
+      "parent": "laurenceday/smart-contract-registry",
+      "source": "laurenceday/smart-contract-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:14Z"
+    },
+    {
+      "full_name": "AlphaFinanceLab/terra-money-grants",
+      "is_fork": true,
+      "parent": "mgamfePromo/terra-money-grants",
+      "source": "mgamfePromo/terra-money-grants",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T06:07:15Z"
+    }
+  ]
+}

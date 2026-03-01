@@ -1,0 +1,807 @@
+{
+  "owner": "badger-finance",
+  "updated_at": "2026-03-01T19:01:43Z",
+  "repos": [
+    {
+      "full_name": "Badger-Finance/BadgerDiscordBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:08Z"
+    },
+    {
+      "full_name": "Badger-Finance/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:45:09Z"
+    },
+    {
+      "full_name": "Badger-Finance/FaucetAlpha",
+      "is_fork": true,
+      "parent": "kilogold/BadgerDAO",
+      "source": "kilogold/BadgerDAO",
+      "stars": 4,
+      "language": "C#",
+      "last_checked": "2026-03-01T10:45:11Z"
+    },
+    {
+      "full_name": "Badger-Finance/Redwall",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:12Z"
+    },
+    {
+      "full_name": "Badger-Finance/SettV4h",
+      "is_fork": true,
+      "parent": "GalloDaSballo/SettV4h",
+      "source": "GalloDaSballo/SettV4h",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:13Z"
+    },
+    {
+      "full_name": "Badger-Finance/SourceCred",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-01T10:45:14Z"
+    },
+    {
+      "full_name": "Badger-Finance/ape-hacking",
+      "is_fork": true,
+      "parent": "Uxio0/ape-hacking",
+      "source": "Uxio0/ape-hacking",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:15Z"
+    },
+    {
+      "full_name": "Badger-Finance/arbitrum",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-classic",
+      "source": "OffchainLabs/arbitrum-classic",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:16Z"
+    },
+    {
+      "full_name": "Badger-Finance/arbitrum-badger-eth-swapr",
+      "is_fork": true,
+      "parent": "GalloDaSballo/arbitrum-wbtc-eth-swapr",
+      "source": "GalloDaSballo/arbitrum-wbtc-eth-swapr",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:17Z"
+    },
+    {
+      "full_name": "Badger-Finance/arbitrum-ibbtc-eth-swapr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:17Z"
+    },
+    {
+      "full_name": "Badger-Finance/arbitrum-weth-swapr-helper-vault",
+      "is_fork": true,
+      "parent": "GalloDaSballo/arbitrum-weth-swapr-helper-vault",
+      "source": "GalloDaSballo/arbitrum-weth-swapr-helper-vault",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:18Z"
+    },
+    {
+      "full_name": "Badger-Finance/aura-autovoter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:19Z"
+    },
+    {
+      "full_name": "Badger-Finance/auraBal-staker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:20Z"
+    },
+    {
+      "full_name": "Badger-Finance/autovoter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:20Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:21Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-api-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-01T10:45:22Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-avatars",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:23Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-emergency-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:24Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:25Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-governance-contract",
+      "is_fork": true,
+      "parent": "noahlitvin/badger-governance-contract",
+      "source": "noahlitvin/badger-governance-contract",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:26Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:27Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-ibbtc-utility-zaps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:28Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-influence-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-01T10:45:29Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-infra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:30Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:31Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-multisigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:31Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-ninja",
+      "is_fork": true,
+      "parent": "okjintao/badger-ninja",
+      "source": "okjintao/badger-ninja",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:32Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:33Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-rewards-manager",
+      "is_fork": true,
+      "parent": "GalloDaSballo/badger-onchain-rewards",
+      "source": "GalloDaSballo/badger-onchain-rewards",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:34Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-scraper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:35Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:36Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-strategies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:37Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-strategy-mix-v1",
+      "is_fork": true,
+      "parent": "yearn/brownie-strategy-mix",
+      "source": "yearn/brownie-strategy-mix",
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:38Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:39Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:40Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:41Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-vaults",
+      "is_fork": true,
+      "parent": "yearn/yearn-vaults-v2",
+      "source": "yearn/yearn-vaults-v2",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:42Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-vaults-1.5",
+      "is_fork": true,
+      "parent": "GalloDaSballo/badger-sett-1.5",
+      "source": "GalloDaSballo/badger-sett-1.5",
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:43Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-vaults-brownie-mix-v2",
+      "is_fork": true,
+      "parent": "GalloDaSballo/badger-vaults-brownie-mix-v2",
+      "source": "GalloDaSballo/badger-vaults-brownie-mix-v2",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:44Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-vaults-mix-v1.5",
+      "is_fork": true,
+      "parent": "GalloDaSballo/badger-vaults-mix-v1.5",
+      "source": "GalloDaSballo/badger-vaults-mix-v1.5",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:45Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-voter-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:46Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:47Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger_governance_veto",
+      "is_fork": true,
+      "parent": "petrovska-petro/badger_governance_veto",
+      "source": "Fatimanaz/badger_governance_veto",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:47Z"
+    },
+    {
+      "full_name": "Badger-Finance/badger_info",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:45:48Z"
+    },
+    {
+      "full_name": "Badger-Finance/bug-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:49Z"
+    },
+    {
+      "full_name": "Badger-Finance/chadger-registry",
+      "is_fork": true,
+      "parent": "GalloDaSballo/chadger-registry",
+      "source": "0xdhan/chadger-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:50Z"
+    },
+    {
+      "full_name": "Badger-Finance/chager-web-ui",
+      "is_fork": true,
+      "parent": "GalloDaSballo/chager-web-ui",
+      "source": "jack-the-pug/chager-web-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:51Z"
+    },
+    {
+      "full_name": "Badger-Finance/daowatch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:52Z"
+    },
+    {
+      "full_name": "Badger-Finance/digg-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:45:53Z"
+    },
+    {
+      "full_name": "Badger-Finance/ebtc-monitor",
+      "is_fork": true,
+      "parent": "GalloDaSballo/ebtc-monitor",
+      "source": "GalloDaSballo/ebtc-monitor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:54Z"
+    },
+    {
+      "full_name": "Badger-Finance/ebtc-purple-paper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:55Z"
+    },
+    {
+      "full_name": "Badger-Finance/ebtc-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:56Z"
+    },
+    {
+      "full_name": "Badger-Finance/fair-selling",
+      "is_fork": true,
+      "parent": "GalloDaSballo/fair-selling",
+      "source": "GalloDaSballo/fair-selling",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:45:57Z"
+    },
+    {
+      "full_name": "Badger-Finance/ftm-oxd-hardcoded-voter",
+      "is_fork": true,
+      "parent": "GalloDaSballo/ftm-oxd-hardcoded-voter",
+      "source": "GalloDaSballo/ftm-oxd-hardcoded-voter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:58Z"
+    },
+    {
+      "full_name": "Badger-Finance/gitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-01T10:45:58Z"
+    },
+    {
+      "full_name": "Badger-Finance/gnosis-multisig-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:45:59Z"
+    },
+    {
+      "full_name": "Badger-Finance/gnosis-safe-delegate-dapp",
+      "is_fork": true,
+      "parent": "Soptq/gnosis-safe-delegate-dapp",
+      "source": "Soptq/gnosis-safe-delegate-dapp",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:00Z"
+    },
+    {
+      "full_name": "Badger-Finance/governance-tech",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:01Z"
+    },
+    {
+      "full_name": "Badger-Finance/harvest-monitor-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:02Z"
+    },
+    {
+      "full_name": "Badger-Finance/ibbtc",
+      "is_fork": true,
+      "parent": "defidollar/ibbtc",
+      "source": "defidollar/ibbtc",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:03Z"
+    },
+    {
+      "full_name": "Badger-Finance/ibbtc-curve-zap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:04Z"
+    },
+    {
+      "full_name": "Badger-Finance/influence-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:05Z"
+    },
+    {
+      "full_name": "Badger-Finance/launch-emp",
+      "is_fork": true,
+      "parent": "UMAprotocol/launch-emp",
+      "source": "UMAprotocol/launch-emp",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:06Z"
+    },
+    {
+      "full_name": "Badger-Finance/messari-subgraphs",
+      "is_fork": true,
+      "parent": "messari/subgraphs",
+      "source": "messari/subgraphs",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:46:07Z"
+    },
+    {
+      "full_name": "Badger-Finance/on-chain-pricer",
+      "is_fork": true,
+      "parent": "rayeaster/on-chain-pricer",
+      "source": "rayeaster/on-chain-pricer",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:08Z"
+    },
+    {
+      "full_name": "Badger-Finance/openzeppelin-contracts-upgradeable",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts-upgradeable",
+      "source": "OpenZeppelin/openzeppelin-contracts-upgradeable",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:09Z"
+    },
+    {
+      "full_name": "Badger-Finance/pancake-swap-interface",
+      "is_fork": true,
+      "parent": "pancakeswap/pancake-swap-interface-v1",
+      "source": "pancakeswap/pancake-swap-interface-v1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:10Z"
+    },
+    {
+      "full_name": "Badger-Finance/pool-math-foundry",
+      "is_fork": true,
+      "parent": "GalloDaSballo/pool-math-foundry",
+      "source": "GalloDaSballo/pool-math-foundry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:11Z"
+    },
+    {
+      "full_name": "Badger-Finance/price-bots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:12Z"
+    },
+    {
+      "full_name": "Badger-Finance/pyrevm",
+      "is_fork": true,
+      "parent": "paradigmxyz/pyrevm",
+      "source": "paradigmxyz/pyrevm",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T10:46:13Z"
+    },
+    {
+      "full_name": "Badger-Finance/python-keepers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:14Z"
+    },
+    {
+      "full_name": "Badger-Finance/rebasing-ibbtc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:15Z"
+    },
+    {
+      "full_name": "Badger-Finance/remBadger",
+      "is_fork": true,
+      "parent": "GalloDaSballo/remBadger",
+      "source": "GalloDaSballo/remBadger",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:16Z"
+    },
+    {
+      "full_name": "Badger-Finance/remBadgerVault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:17Z"
+    },
+    {
+      "full_name": "Badger-Finance/ren-tweet-badger-bot",
+      "is_fork": true,
+      "parent": "jazinheira/ren-tweet-badger-bot",
+      "source": "jazinheira/ren-tweet-badger-bot",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:18Z"
+    },
+    {
+      "full_name": "Badger-Finance/snapshot-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:19Z"
+    },
+    {
+      "full_name": "Badger-Finance/strategy-aura-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:20Z"
+    },
+    {
+      "full_name": "Badger-Finance/strategy-convex-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:21Z"
+    },
+    {
+      "full_name": "Badger-Finance/strategy-convex-stables",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:22Z"
+    },
+    {
+      "full_name": "Badger-Finance/strategy-convex-staking-optimizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:23Z"
+    },
+    {
+      "full_name": "Badger-Finance/synpress",
+      "is_fork": true,
+      "parent": "synpress-io/synpress",
+      "source": "synpress-io/synpress",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:24Z"
+    },
+    {
+      "full_name": "Badger-Finance/template-instance",
+      "is_fork": true,
+      "parent": "sourcecred/template-instance",
+      "source": "sourcecred/template-instance",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T10:46:25Z"
+    },
+    {
+      "full_name": "Badger-Finance/univ3-bot-pricing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:26Z"
+    },
+    {
+      "full_name": "Badger-Finance/v2-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T10:46:27Z"
+    },
+    {
+      "full_name": "Badger-Finance/vested-aura",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T10:46:27Z"
+    },
+    {
+      "full_name": "Badger-Finance/vfat-tools",
+      "is_fork": true,
+      "parent": "vfat-io/vfat-tools",
+      "source": "vfat-io/vfat-tools",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:28Z"
+    },
+    {
+      "full_name": "Badger-Finance/voting_shares",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:29Z"
+    },
+    {
+      "full_name": "Badger-Finance/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy",
+      "is_fork": true,
+      "parent": "GalloDaSballo/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy",
+      "source": "GalloDaSballo/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy",
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T10:46:30Z"
+    },
+    {
+      "full_name": "Badger-Finance/yearn_whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T10:46:31Z"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "owner": "0xflicker",
-  "updated_at": "2026-02-28T20:22:30Z",
+  "updated_at": "2026-03-01T19:01:41Z",
   "repos": [
     {
       "full_name": "0xFlicker/0xflick-com",
@@ -19,6 +19,15 @@
       "stars": 0,
       "language": "TypeScript",
       "last_checked": "2025-12-30T06:20:32.919723Z"
+    },
+    {
+      "full_name": "0xFlicker/hardhat",
+      "is_fork": true,
+      "parent": "NomicFoundation/hardhat",
+      "source": "NomicFoundation/hardhat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-02-28T23:51:42Z"
     },
     {
       "full_name": "0xFlicker/hatchable-creature-nft",
