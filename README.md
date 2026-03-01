@@ -8,7 +8,6 @@ A toolkit for tracking GitHub repository fork relationships and building a colla
 - **Build a database** that grows incrementally — no duplicate API calls
 - **Query instantly** — find parents, forks, fork chains, and all repos by a user
 - **Export** fork relationships to JSON/CSV for use in other tools
-- **Collaborate** by merging result files from multiple contributors
 
 ## Storage Design
 
@@ -64,7 +63,7 @@ Files are human-readable, directly editable, and produce clean git diffs (a chan
 A SQLite file built from the JSON source. Used for cross-owner queries (`--top`, `--search`, `--stats`). Regenerate any time:
 
 ```bash
-python3 build_index.py
+python3 db.py index
 ```
 
 The JSON files are always the source of truth. The SQLite file is a derived artifact.
@@ -86,90 +85,55 @@ The token is read automatically from (in priority order):
 3. A `.env` file in the project directory (`GITHUB_TOKEN=ghp_...`)
 4. Interactive prompt on first run — offers to save to `.env`
 
-```bash
-# Or just run and let it prompt you:
-python3 find_forks.py github_links.txt
-```
+## Workflow
 
-## Quick Start
+### Step 1 — Fetch
 
-### Fetch repos and update database
+`find_forks.py` reads a file of GitHub URLs, checks which repos are already cached in `fork-db/`, and fetches the rest from the GitHub API. Results are written to an intermediate JSON file.
 
 ```bash
-# Fetch up to 20,000 new repos (default limit), using fork-db/ as cache
-python3 find_forks.py github_links.txt
-
-# Smaller chunks for testing
-python3 find_forks.py github_links.txt --limit 1000
-
-# Merge results into the master database
-python3 merge_db.py fork-db/ github_links_results.json
-
-# Rebuild the query index
-python3 build_index.py --rebuild
-```
-
-### Query the database
-
-```bash
-# All repos for a specific user (reads one JSON file — no index needed)
-python3 query_db.py --owner celestiaorg
-
-# Find the parent of a fork
-python3 query_db.py --parent 01node/awesome-celestia
-
-# Show full info about a repo
-python3 query_db.py --info celestiaorg/awesome-celestia
-
-# Search repos by name
-python3 query_db.py --search scaffold-eth
-
-# Top 20 most-forked repos
-python3 query_db.py --top 20
-
-# Database statistics
-python3 query_db.py --stats
-
-# Random repo with its forks
-python3 query_db.py --random
-```
-
-### Spot-check data quality
-
-```bash
-# Check 200 random repos against live GitHub data
-python3 validate_db.py --sample 200
-
-# Check and fix any stale entries
-python3 validate_db.py --sample 500 --fix
-
-# Check a specific owner
-python3 validate_db.py --owner celestiaorg --fix
-```
-
-## Processing Large Input Files
-
-`github_links.txt` can contain hundreds of thousands of URLs. Use `--limit` to process in chunks. The cache means re-running always picks up where it left off:
-
-```bash
-# Day 1: process first 20k uncached repos (~4 hours with a token)
 python3 find_forks.py github_links.txt --limit 20000
-python3 merge_db.py fork-db/ github_links_results.json
-
-# Day 2: automatically skips the 20k already cached
-python3 find_forks.py github_links.txt --limit 20000
-python3 merge_db.py fork-db/ github_links_results.json
-
-# Repeat until all URLs are covered
+# Output: github_links_results.json
 ```
 
-Checkpoint saves happen every 500 repos so progress is never lost if the run is interrupted.
+The `--limit` flag caps new API fetches per run. Already-cached repos are always included and never re-fetched, so re-running always picks up where it left off.
+
+### Step 2 — Merge
+
+Once fetching completes, merge the result file into the master database:
+
+```bash
+python3 db.py merge github_links_results.json
+```
+
+Merge is additive and timestamp-aware: existing entries are only replaced if the incoming data is newer (`last_checked` comparison). The result file can then be discarded — it is already excluded by `.gitignore`.
+
+### Repeat as needed
+
+For large input files, run in chunks across multiple sessions:
+
+```bash
+# Session 1
+python3 find_forks.py github_links.txt --limit 20000
+python3 db.py merge github_links_results.json
+
+# Session 2 — already-cached repos are skipped automatically
+python3 find_forks.py github_links.txt --limit 20000
+python3 db.py merge github_links_results.json
+```
+
+Checkpoint saves happen every 500 repos, so progress is never lost if a run is interrupted mid-way.
+
+### Commit
+
+```bash
+git add fork-db/
+git commit -m "Add batch from github_links.txt"
+```
 
 ## Command Reference
 
-### `find_forks.py`
-
-Fetch repo data from GitHub and write results to a JSON file.
+### `find_forks.py` — fetch from GitHub API
 
 ```
 python3 find_forks.py <input_file> [options]
@@ -188,64 +152,74 @@ Options:
   --export-simple FILE    Export simple {url, parent_url} format to JSON
 ```
 
-### `query_db.py`
+### `db.py` — database operations
 
-```
-python3 query_db.py [options]
+#### merge
 
-Options:
-  --db DIR           Database directory (default: fork-db/)
-  --owner USER       List all repos crawled for a GitHub user/org
-  --info REPO        Show detailed info (owner/repo)
-  --parent FORK      Find the parent of a fork (owner/repo)
-  --search NAME      Search repos by name
-  --top N            Top N most forked repos
-  --stats            Database statistics
-  --random           Random repo with its forks
+Merge one or more result files into `fork-db/`.
+
+```bash
+python3 db.py merge github_links_results.json
+python3 db.py merge results1.json results2.json
+python3 db.py merge --db /other/fork-db/ results.json
 ```
 
-### `merge_db.py`
+#### query
 
-Merge one or more result files into the master database.
+Read and display data from `fork-db/`. No API calls made.
 
-```
-python3 merge_db.py fork-db/ results.json
-python3 merge_db.py fork-db/ results1.json results2.json
-python3 merge_db.py -o merged/ db1/ contrib.json
-```
+```bash
+# All repos for a specific user (reads one JSON file — no index needed)
+python3 db.py query --owner celestiaorg
 
-Accepts any mix of owner-organized directories, old `fork_families` directories, and single-file JSON. Merges only use newer data (compares `last_checked` timestamps).
+# Find the parent of a fork
+python3 db.py query --parent 01node/awesome-celestia
 
-### `build_index.py`
+# Show full info about a repo
+python3 db.py query --info celestiaorg/awesome-celestia
 
-Build or rebuild the SQLite query index from the JSON files.
+# Search repos by name
+python3 db.py query --search scaffold-eth
 
-```
-python3 build_index.py                        # fork-db/ → fork-db.sqlite
-python3 build_index.py --db fork-db/ --out custom.sqlite
-python3 build_index.py --rebuild              # drop and recreate
-```
+# Top 20 most-forked repos
+python3 db.py query --top 20
 
-### `migrate_db.py`
+# Database statistics
+python3 db.py query --stats
 
-Convert an old `fork_families`-format database to the new owner-organized format.
-
-```
-python3 migrate_db.py old-fork-db/ new-fork-db/ --verify
+# Random repo with its known forks
+python3 db.py query --random
 ```
 
-### `validate_db.py`
+#### validate
 
 Spot-check stored data against live GitHub API responses.
 
-```
-python3 validate_db.py --sample 200          # check 200 random repos
-python3 validate_db.py --sample 500 --fix    # check and fix stale entries
-python3 validate_db.py --full                # check everything (slow)
-python3 validate_db.py --owner celestiaorg   # check one owner
+```bash
+# Check 200 random repos
+python3 db.py validate --sample 200
+
+# Check and fix any stale entries
+python3 db.py validate --sample 500 --fix
+
+# Check a specific owner
+python3 db.py validate --owner celestiaorg --fix
+
+# Check everything (slow)
+python3 db.py validate --full
 ```
 
-Reports: repos checked, % still valid, deleted count, fork-status changes, parent changes.
+Reports repos checked, % still valid, deleted count, and any field-level changes (fork status, parent, stars). Run with `--fix` to write fresh data back to `fork-db/`.
+
+#### index
+
+Build or rebuild the SQLite query index.
+
+```bash
+python3 db.py index             # fork-db/ → fork-db.sqlite
+python3 db.py index --rebuild   # drop and recreate
+python3 db.py index --out custom.sqlite
+```
 
 ## Export Formats
 
@@ -269,7 +243,7 @@ python3 find_forks.py links.txt --export relationships.json
 python3 find_forks.py links.txt --export-csv relationships.csv
 ```
 
-Includes fork URL, parent URL, source URL, star counts.
+Includes fork URL, parent URL, source URL, and star counts.
 
 ## Programmatic Access
 
@@ -282,13 +256,13 @@ db = ForkDatabase('fork-db/')
 repos = db.get_owner_repos('celestiaorg')
 
 # Fork relationships
-parent     = db.get_parent('01node/awesome-celestia')
-forks      = db.get_forks('celestiaorg/awesome-celestia')
-chain      = db.get_fork_chain('01node/awesome-celestia')
+parent = db.get_parent('01node/awesome-celestia')
+forks  = db.get_forks('celestiaorg/awesome-celestia')
+chain  = db.get_fork_chain('01node/awesome-celestia')
 
 # Search and stats
-results    = db.search_by_name('scaffold-eth')
-stats      = db.get_stats()
+results = db.search_by_name('scaffold-eth')
+stats   = db.get_stats()
 
 # Build the SQLite index
 db.build_sqlite_index('fork-db.sqlite')
@@ -299,38 +273,33 @@ db.save()
 
 ## Files
 
+### Entry points
+
 | File | Purpose |
 |---|---|
-| `find_forks.py` | Fetch repos from GitHub, write results JSON |
-| `merge_db.py` | Merge result files into master database |
-| `query_db.py` | Query fork relationships and provenance |
-| `build_index.py` | Build SQLite query index from JSON files |
-| `migrate_db.py` | Convert old format database to new owner layout |
-| `validate_db.py` | Spot-check database against live GitHub data |
-| `fork_database.py` | Core database class |
+| `find_forks.py` | Fetch repos from GitHub, write intermediate results JSON |
+| `db.py` | Unified CLI: `merge`, `query`, `validate`, `index` |
+
+### Library (`lib/`)
+
+| File | Purpose |
+|---|---|
+| `lib/fork_database.py` | Core database class |
+| `lib/github_api.py` | GitHub API client, token loading, rate-limit handling |
+| `lib/query_db.py` | Query functions used by `db.py query` |
+| `lib/validate_db.py` | Validation logic used by `db.py validate` |
+| `lib/build_index.py` | SQLite index builder used by `db.py index` |
+| `lib/merge_db.py` | Merge logic used by `db.py merge` |
+| `lib/migrate_db.py` | One-time tool: convert old repo-layout to owner-layout |
+
+### Data & config
+
+| File | Purpose |
+|---|---|
 | `fork-db/` | Owner-organized JSON database (committed) |
 | `fork-db.sqlite` | SQLite query index (not committed, regenerated) |
 | `github_links.txt` | Input URLs to process (not committed) |
 | `.env` | GitHub token storage (not committed) |
-
-## Contributing
-
-```bash
-# 1. Fetch repos and create a result file
-python3 find_forks.py your_repos.txt
-# Output: your_repos_results.json
-
-# 2. Submit the result file as a PR or attachment
-```
-
-Maintainers merge contributions with:
-
-```bash
-python3 merge_db.py fork-db/ contribution.json
-python3 build_index.py --rebuild
-git add fork-db/
-git commit -m "Merge contributions"
-```
 
 ## License
 
