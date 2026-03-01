@@ -1,15 +1,29 @@
 """
-GitHub API client and token helpers — shared by find_forks.py and validate_db.py.
+GitHub API client, token helpers, and timing utilities.
+Shared by find_forks.py, enrich_db.py, and validate_db.py.
 """
 
 import json
 import os
-import sys
 import time
 from pathlib import Path
 from typing import Dict, Optional
 import urllib.request
 import urllib.error
+
+
+def format_duration(seconds: float) -> str:
+    """Format a duration in seconds as a human-readable string (e.g. '1h23m', '4m22s')."""
+    seconds = int(seconds)
+    if seconds < 60:
+        return f"{seconds}s"
+    elif seconds < 3600:
+        m, s = divmod(seconds, 60)
+        return f"{m}m{s:02d}s"
+    else:
+        h, remainder = divmod(seconds, 3600)
+        m = remainder // 60
+        return f"{h}h{m:02d}m"
 
 
 def load_token() -> Optional[str]:
@@ -49,7 +63,7 @@ def prompt_for_token() -> Optional[str]:
 
 
 class GitHubAPIClient:
-    def __init__(self, token: Optional[str] = None, delay: float = 0.5):
+    def __init__(self, token: Optional[str] = None, delay: float = 1.5):
         self.token = token
         self.delay = delay
         self.rate_limit_remaining: Optional[int] = None
