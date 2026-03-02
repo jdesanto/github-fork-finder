@@ -2,6 +2,7 @@
 """
 Unified entry point for fork database operations.
 
+  python3 db.py export --csv forks.csv       # export fork relationships for analysis
   python3 db.py merge results.json           # merge fetched results into fork-db/
   python3 db.py enrich                       # fetch missing parent repos
   python3 db.py query --owner celestiaorg    # query fork relationships
@@ -12,6 +13,27 @@ Unified entry point for fork database operations.
 import argparse
 import sys
 from pathlib import Path
+
+
+# ------------------------------------------------------------------
+# export
+# ------------------------------------------------------------------
+
+def cmd_export(args):
+    from lib.export_db import export
+
+    if not args.csv and not args.json and not args.simple and not args.index:
+        print("Specify at least one output: --csv, --json, --simple, or --index FILE")
+        print("Use --help for details.")
+        return
+
+    export(
+        db_path=args.db,
+        csv_path=args.csv,
+        json_path=args.json,
+        simple_path=args.simple,
+        index_path=args.index,
+    )
 
 
 # ------------------------------------------------------------------
@@ -221,6 +243,9 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
+  python3 db.py export --csv forks.csv
+  python3 db.py export --json forks.json --simple simple.json
+
   python3 db.py merge github_links_results.json
   python3 db.py merge results1.json results2.json
 
@@ -246,6 +271,26 @@ Examples:
 
     sub = parser.add_subparsers(dest='command', metavar='COMMAND')
     sub.required = True
+
+    # export
+    p_export = sub.add_parser(
+        'export',
+        help='Export fork relationships to CSV or JSON for external analysis',
+        description=(
+            'Export fork-db/ relationship data to flat files.\n'
+            'No GitHub token or API calls needed — reads only from fork-db/.\n\n'
+            'CSV/JSON fields: fork, fork_url, parent, parent_url, source, source_url,\n'
+            '                 fork_stars, parent_stars'
+        ),
+    )
+    p_export.add_argument('--csv', metavar='FILE',
+                          help='Export full edge list as CSV')
+    p_export.add_argument('--json', metavar='FILE',
+                          help='Export full edge list as JSON')
+    p_export.add_argument('--simple', metavar='FILE',
+                          help='Export minimal [{url, parent_url}, ...] JSON')
+    p_export.add_argument('--index', metavar='FILE',
+                          help='Export flat {full_name: enriched_entry} index JSON for external consumers (includes fork_count and fork_depth)')
 
     # merge
     p_merge = sub.add_parser(
@@ -337,6 +382,7 @@ Examples:
     args = parser.parse_args()
 
     dispatch = {
+        'export':   cmd_export,
         'merge':    cmd_merge,
         'enrich':   cmd_enrich,
         'query':    cmd_query,

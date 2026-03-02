@@ -373,6 +373,29 @@ class ForkDatabase:
             for fn, entry in sorted(self.repos.items())
         ]
 
+    def export_index(self) -> Dict[str, Dict]:
+        """
+        Export a flat {full_name: enriched_entry} dict for external consumers.
+
+        Extends each slim entry with two computed fields:
+          fork_count  — number of known direct forks of this repo
+          fork_depth  — depth in the fork chain (0 = original, 1 = direct fork, etc.)
+
+        This is the recommended format for tools that need to look up a repo
+        by full_name and get its complete fork relationship info in one step,
+        without needing to walk the fork-db/ directory structure.
+        """
+        result = {}
+        for full_name, entry in sorted(self.repos.items()):
+            fork_count = len(self.forks_by_parent.get(full_name, []))
+            fork_depth = len(self.get_fork_chain(full_name)) - 1
+            result[full_name] = {
+                **entry,
+                'fork_count': fork_count,
+                'fork_depth': fork_depth,
+            }
+        return result
+
     # ------------------------------------------------------------------
     # SQLite index builder
     # ------------------------------------------------------------------

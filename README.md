@@ -1,13 +1,8 @@
 # GitHub Fork Finder
 
-A toolkit for tracking GitHub repository fork relationships and building a collaborative, human-editable database of who forked what.
+A toolkit for building and querying a database of GitHub repository fork relationships. The database tracks which repos are forks of which, enabling analysis of how open-source ecosystems branch and grow.
 
-## Overview
-
-- **Find forks** from a list of GitHub repository URLs
-- **Build a database** that grows incrementally — no duplicate API calls
-- **Query instantly** — find parents, forks, fork chains, and all repos by a user
-- **Export** fork relationships to JSON/CSV for use in other tools
+`fork-db/` is committed to this repository and can be used directly — no GitHub token or API calls needed to query or export the existing data.
 
 ## Storage Design
 
@@ -56,80 +51,192 @@ Each owner file has a slim schema focused on fork relationships:
 }
 ```
 
-Files are human-readable, directly editable, and produce clean git diffs (a change to one owner's repos only touches their file).
+`parent` is the immediate upstream repo. `source` is the ultimate root of the fork chain. Files are human-readable and produce clean git diffs.
 
 ### Query index: `fork-db.sqlite` (not committed)
 
-A SQLite file built from the JSON source. Used for cross-owner queries (`--top`, `--search`, `--stats`). Regenerate any time:
+A SQLite file built from the JSON source for fast cross-owner queries. Regenerate any time:
 
 ```bash
 python3 db.py index
 ```
 
-The JSON files are always the source of truth. The SQLite file is a derived artifact.
+---
 
-## Setup
+## Using the data
 
-### GitHub Token
+No GitHub token required. No dependencies beyond Python 3.8+.
 
-A token raises the API rate limit from **60 req/hour** to **5,000 req/hour**. No scopes are needed for public repo data.
+### Clone and query
+
+```bash
+git clone https://github.com/jdesanto/github-fork-finder.git
+cd github-fork-finder
+
+python3 db.py query --stats
+python3 db.py query --owner celestiaorg
+python3 db.py query --top 20
+python3 db.py query --parent 01node/awesome-celestia
+python3 db.py query --search scaffold-eth
+```
+
+### Export for analysis
+
+```bash
+# Full edge list — fork, parent, source, star counts (CSV or JSON)
+python3 db.py export --csv forks.csv
+python3 db.py export --json forks.json
+
+# Minimal format: [{url, parent_url}, ...] — good for graph tools
+python3 db.py export --simple simple.json
+
+# Flat index — {full_name: enriched_entry} with fork_count and fork_depth
+python3 db.py export --index fork-index.json
+
+# Combine formats in one pass
+python3 db.py export --csv forks.csv --index fork-index.json
+```
+
+> **Note:** `--csv` and `--json` only include fork edges where the parent repo is also present in `fork-db/`. Run `db.py enrich` (see below) to maximize coverage before exporting. `--simple` and `--index` always include all repos.
+
+### Programmatic access
+
+```python
+from lib.fork_database import ForkDatabase
+
+db = ForkDatabase('fork-db/')
+
+# Provenance — all repos for an owner (reads one JSON file)
+repos = db.get_owner_repos('celestiaorg')
+
+# Fork relationships
+parent = db.get_parent('01node/awesome-celestia')
+forks  = db.get_forks('celestiaorg/awesome-celestia')
+chain  = db.get_fork_chain('01node/awesome-celestia')
+
+# Export to flat structures for pandas / NetworkX
+edges  = db.export_fork_relationships()  # list of dicts with fork/parent/source/stars
+simple = db.export_simple()              # [{url, parent_url}, ...]
+index  = db.export_index()               # {full_name: {…, fork_count, fork_depth}}
+
+# Stats
+stats  = db.get_stats()
+```
+
+---
+
+## Integration
+
+`fork-db/` stores the raw data. External tools that need a single queryable file can generate a flat index:
+
+```bash
+python3 db.py enrich              # pull missing parent repos first (improves graph completeness)
+python3 db.py export --index fork-index.json
+```
+
+`fork-index.json` maps every `full_name` to its enriched entry:
+
+```json
+{
+  "celestiaorg/cosmos-sdk": {
+    "is_fork": true,
+    "parent": "cosmos/cosmos-sdk",
+    "source": "cosmos/cosmos-sdk",
+    "stars": 12,
+    "language": "Go",
+    "last_checked": "2025-12-30T09:17Z",
+    "fork_count": 3,
+    "fork_depth": 1
+  },
+  ...
+}
+```
+
+| Field | Meaning |
+|---|---|
+| `parent` | Immediate upstream repo (`null` for originals) |
+| `source` | Root of the fork chain (`null` for originals) |
+| `fork_count` | Number of known direct forks of this repo |
+| `fork_depth` | Depth in the chain — 0 for originals, 1 for direct forks, 2+ for forks-of-forks |
+
+`fork-index.json` is excluded from git (see `.gitignore`). Regenerate it after each `db.py merge` or `db.py enrich` cycle.
+
+---
+
+## Extending the data
+
+To fetch more repos or refresh existing entries, you need a GitHub API token.
+
+### GitHub token setup
+
+A token raises the rate limit from **60 req/hour** to **5,000 req/hour**. No scopes are needed for public repo data.
 
 1. Go to **github.com → Settings → Developer settings → Personal access tokens → Tokens (classic)**
 2. Generate a new token, leave all scopes unchecked
 3. Copy the token (starts with `ghp_`)
 
-The token is read automatically from (in priority order):
+The token is read from (in priority order):
 
-1. `-t TOKEN` command-line flag
+1. `-t TOKEN` CLI flag
 2. `GITHUB_TOKEN` environment variable
-3. A `.env` file in the project directory (`GITHUB_TOKEN=ghp_...`)
+3. `.env` file in the project root (`GITHUB_TOKEN=ghp_...`)
 4. Interactive prompt on first run — offers to save to `.env`
 
-## Workflow
+### Fetch → Merge workflow
 
-### Step 1 — Fetch
+**Step 1 — Fetch**
 
-`find_forks.py` reads a file of GitHub URLs, checks which repos are already cached in `fork-db/`, and fetches the rest from the GitHub API. Results are written to an intermediate JSON file.
+`find_forks.py` reads a file of GitHub URLs, skips anything already in `fork-db/`, and fetches the rest from the API. Results go to an intermediate JSON file.
 
 ```bash
 python3 find_forks.py github_links.txt --limit 20000
 # Output: github_links_results.json
 ```
 
-The `--limit` flag caps new API fetches per run. Already-cached repos are always included and never re-fetched, so re-running always picks up where it left off.
+`--limit` caps new API calls per run. Re-running always picks up where it left off.
 
-### Step 2 — Merge
-
-Once fetching completes, merge the result file into the master database:
+**Step 2 — Merge**
 
 ```bash
 python3 db.py merge github_links_results.json
 ```
 
-Merge is additive and timestamp-aware: existing entries are only replaced if the incoming data is newer (`last_checked` comparison). The result file can then be discarded — it is already excluded by `.gitignore`.
+Merge is additive and timestamp-aware — existing entries are only replaced if the incoming data is newer. The results file can be discarded after merging (it is already excluded by `.gitignore`).
 
-### Repeat as needed
+**Step 3 — Enrich (recommended before exporting)**
 
-For large input files, run in chunks across multiple sessions:
+Many forks reference parent repos that weren't in the input file. `enrich` fetches those parents directly, which is essential for connected graph analysis.
+
+```bash
+python3 db.py enrich --dry-run   # preview what would be fetched
+python3 db.py enrich             # fetch all missing parents
+python3 db.py enrich --limit 500 # chunked, re-run to continue
+```
+
+**Step 4 — Commit**
+
+```bash
+git add fork-db/
+git commit -m "Add batch from github_links.txt"
+```
+
+### Processing large input files
+
+Run in chunks across sessions — the cache means already-fetched repos are never re-fetched:
 
 ```bash
 # Session 1
 python3 find_forks.py github_links.txt --limit 20000
 python3 db.py merge github_links_results.json
 
-# Session 2 — already-cached repos are skipped automatically
+# Session 2 — skips the 20k already in fork-db/
 python3 find_forks.py github_links.txt --limit 20000
 python3 db.py merge github_links_results.json
 ```
 
-Checkpoint saves happen every 500 repos, so progress is never lost if a run is interrupted mid-way.
+Checkpoint saves happen every 500 repos — progress is never lost if a run is interrupted.
 
-### Commit
-
-```bash
-git add fork-db/
-git commit -m "Add batch from github_links.txt"
-```
+---
 
 ## Command Reference
 
@@ -154,11 +261,29 @@ Options:
 
 ### `db.py` — database operations
 
+#### export
+
+Export fork relationships to flat files for analysis. No API calls.
+
+```bash
+python3 db.py export --csv forks.csv
+python3 db.py export --json forks.json
+python3 db.py export --simple simple.json
+python3 db.py export --index fork-index.json
+```
+
+| Flag | Format | Contents |
+|---|---|---|
+| `--csv FILE` | CSV | Fork edges (requires parent in db) |
+| `--json FILE` | JSON array | Fork edges (requires parent in db) |
+| `--simple FILE` | JSON array | `[{url, parent_url}, ...]` for all repos |
+| `--index FILE` | JSON object | `{full_name: enriched_entry}` for all repos, includes `fork_count` and `fork_depth` |
+
+CSV/JSON edge fields: `fork`, `fork_url`, `parent`, `parent_url`, `source`, `source_url`, `fork_stars`, `parent_stars`
+
 #### merge
 
 Merge one or more result files into `fork-db/`.
-
-
 
 ```bash
 python3 db.py merge github_links_results.json
@@ -168,45 +293,25 @@ python3 db.py merge --db /other/fork-db/ results.json
 
 #### enrich
 
-After a fetch run, many forks will reference parent repos that weren't in the input file and are therefore absent from `fork-db/`. `enrich` finds all such parents and fetches them directly, turning the fork graph from disconnected pairs into a properly linked graph ready for analytics.
+Fetch parent repos that are referenced by forks but not yet in the database.
 
 ```bash
-# Preview what would be fetched (no API calls)
-python3 db.py enrich --dry-run
-
-# Fetch all missing parent repos
-python3 db.py enrich
-
-# Process in chunks if needed
-python3 db.py enrich --limit 1000
+python3 db.py enrich --dry-run       # preview missing parents
+python3 db.py enrich                 # fetch all missing parents
+python3 db.py enrich --limit 1000    # chunked, re-run to continue
 ```
-
-Results are written directly into `fork-db/` — no intermediate file or separate merge step needed.
 
 #### query
 
-Read and display data from `fork-db/`. No API calls made.
+Read and display data from `fork-db/`. No API calls.
 
 ```bash
-# All repos for a specific user (reads one JSON file — no index needed)
-python3 db.py query --owner celestiaorg
-
-# Find the parent of a fork
-python3 db.py query --parent 01node/awesome-celestia
-
-# Show full info about a repo
-python3 db.py query --info celestiaorg/awesome-celestia
-
-# Search repos by name
-python3 db.py query --search scaffold-eth
-
-# Top 20 most-forked repos
-python3 db.py query --top 20
-
-# Database statistics
 python3 db.py query --stats
-
-# Random repo with its known forks
+python3 db.py query --owner celestiaorg
+python3 db.py query --parent 01node/awesome-celestia
+python3 db.py query --info celestiaorg/awesome-celestia
+python3 db.py query --search scaffold-eth
+python3 db.py query --top 20
 python3 db.py query --random
 ```
 
@@ -215,80 +320,23 @@ python3 db.py query --random
 Spot-check stored data against live GitHub API responses.
 
 ```bash
-# Check 200 random repos
 python3 db.py validate --sample 200
-
-# Check and fix any stale entries
 python3 db.py validate --sample 500 --fix
-
-# Check a specific owner
 python3 db.py validate --owner celestiaorg --fix
-
-# Check everything (slow)
 python3 db.py validate --full
 ```
-
-Reports repos checked, % still valid, deleted count, and any field-level changes (fork status, parent, stars). Run with `--fix` to write fresh data back to `fork-db/`.
 
 #### index
 
 Build or rebuild the SQLite query index.
 
 ```bash
-python3 db.py index             # fork-db/ → fork-db.sqlite
-python3 db.py index --rebuild   # drop and recreate
+python3 db.py index
+python3 db.py index --rebuild
 python3 db.py index --out custom.sqlite
 ```
 
-## Export Formats
-
-### Simple (recommended for external tools)
-
-```bash
-python3 find_forks.py links.txt --export-simple forks.json
-```
-
-```json
-[
-  { "url": "https://github.com/torvalds/linux",  "parent_url": null },
-  { "url": "https://github.com/user/linux",       "parent_url": "https://github.com/torvalds/linux" }
-]
-```
-
-### Full relationship export
-
-```bash
-python3 find_forks.py links.txt --export relationships.json
-python3 find_forks.py links.txt --export-csv relationships.csv
-```
-
-Includes fork URL, parent URL, source URL, and star counts.
-
-## Programmatic Access
-
-```python
-from fork_database import ForkDatabase
-
-db = ForkDatabase('fork-db/')
-
-# Provenance — all repos for an owner (reads one JSON file)
-repos = db.get_owner_repos('celestiaorg')
-
-# Fork relationships
-parent = db.get_parent('01node/awesome-celestia')
-forks  = db.get_forks('celestiaorg/awesome-celestia')
-chain  = db.get_fork_chain('01node/awesome-celestia')
-
-# Search and stats
-results = db.search_by_name('scaffold-eth')
-stats   = db.get_stats()
-
-# Build the SQLite index
-db.build_sqlite_index('fork-db.sqlite')
-
-# Save changes
-db.save()
-```
+---
 
 ## Files
 
@@ -297,7 +345,7 @@ db.save()
 | File | Purpose |
 |---|---|
 | `find_forks.py` | Fetch repos from GitHub, write intermediate results JSON |
-| `db.py` | Unified CLI: `merge`, `query`, `validate`, `index` |
+| `db.py` | Unified CLI: `export`, `merge`, `enrich`, `query`, `validate`, `index` |
 
 ### Library (`lib/`)
 
@@ -305,6 +353,7 @@ db.save()
 |---|---|
 | `lib/fork_database.py` | Core database class |
 | `lib/github_api.py` | GitHub API client, token loading, rate-limit handling |
+| `lib/export_db.py` | Export logic used by `db.py export` |
 | `lib/query_db.py` | Query functions used by `db.py query` |
 | `lib/validate_db.py` | Validation logic used by `db.py validate` |
 | `lib/enrich_db.py` | Parent enrichment logic used by `db.py enrich` |

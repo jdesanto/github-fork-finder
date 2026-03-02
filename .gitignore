@@ -11,6 +11,9 @@ github_links.txt
 # Intermediate result files from find_forks.py runs
 *_results.json
 
+# Generated flat index for external consumers — regenerate with: python3 db.py export --index
+fork-index.json
+
 # Python
 __pycache__/
 *.py[cod]
