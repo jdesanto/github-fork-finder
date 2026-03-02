@@ -1,0 +1,420 @@
+{
+  "owner": "coreumfoundation",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "CoreumFoundation/CoreDEX-API",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-02T04:35:51Z"
+    },
+    {
+      "full_name": "CoreumFoundation/IBCWorkshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:35:52Z"
+    },
+    {
+      "full_name": "CoreumFoundation/UpdateReadMe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:35:54Z"
+    },
+    {
+      "full_name": "CoreumFoundation/advisories",
+      "is_fork": true,
+      "parent": "CosmWasm/advisories",
+      "source": "CosmWasm/advisories",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:35:56Z"
+    },
+    {
+      "full_name": "CoreumFoundation/astroport-core",
+      "is_fork": true,
+      "parent": "astroport-fi/astroport-core",
+      "source": "astroport-fi/astroport-core",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:35:58Z"
+    },
+    {
+      "full_name": "CoreumFoundation/awesomewasm-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:00Z"
+    },
+    {
+      "full_name": "CoreumFoundation/bdjuno",
+      "is_fork": true,
+      "parent": "forbole/callisto",
+      "source": "forbole/callisto",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:03Z"
+    },
+    {
+      "full_name": "CoreumFoundation/big-dipper-2.0-cosmos",
+      "is_fork": true,
+      "parent": "forbole/big-dipper-2.0-cosmos",
+      "source": "forbole/big-dipper-2.0-cosmos",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:36:05Z"
+    },
+    {
+      "full_name": "CoreumFoundation/callisto",
+      "is_fork": true,
+      "parent": "forbole/callisto",
+      "source": "forbole/callisto",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:07Z"
+    },
+    {
+      "full_name": "CoreumFoundation/chain-registry",
+      "is_fork": true,
+      "parent": "cosmos/chain-registry",
+      "source": "cosmos/chain-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:09Z"
+    },
+    {
+      "full_name": "CoreumFoundation/cometbft",
+      "is_fork": true,
+      "parent": "cometbft/cometbft",
+      "source": "cometbft/cometbft",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:11Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:13Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:13Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:15Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-rust-protobuf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:16Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:18Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-ts-protobuf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:36:20Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreum-wasm-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:20Z"
+    },
+    {
+      "full_name": "CoreumFoundation/coreumbridge-xrpl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:22Z"
+    },
+    {
+      "full_name": "CoreumFoundation/crust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:24Z"
+    },
+    {
+      "full_name": "CoreumFoundation/cw-contracts",
+      "is_fork": true,
+      "parent": "webmaster128/cosmwasm-examples",
+      "source": "webmaster128/cosmwasm-examples",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:26Z"
+    },
+    {
+      "full_name": "CoreumFoundation/docs-internal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:26Z"
+    },
+    {
+      "full_name": "CoreumFoundation/docs-next",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-02T04:36:28Z"
+    },
+    {
+      "full_name": "CoreumFoundation/faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:30Z"
+    },
+    {
+      "full_name": "CoreumFoundation/grant-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:32Z"
+    },
+    {
+      "full_name": "CoreumFoundation/ibc-contract-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:34Z"
+    },
+    {
+      "full_name": "CoreumFoundation/iso20022-addressbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:37Z"
+    },
+    {
+      "full_name": "CoreumFoundation/iso20022-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:39Z"
+    },
+    {
+      "full_name": "CoreumFoundation/juno",
+      "is_fork": true,
+      "parent": "forbole/juno",
+      "source": "forbole/juno",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:41Z"
+    },
+    {
+      "full_name": "CoreumFoundation/juno-archive",
+      "is_fork": true,
+      "parent": "forbole/juno",
+      "source": "forbole/juno",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:43Z"
+    },
+    {
+      "full_name": "CoreumFoundation/junov5",
+      "is_fork": true,
+      "parent": "forbole/juno",
+      "source": "forbole/juno",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:45Z"
+    },
+    {
+      "full_name": "CoreumFoundation/ledger-coreum",
+      "is_fork": true,
+      "parent": "cosmos/ledger-cosmos",
+      "source": "cosmos/ledger-cosmos",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-02T04:36:48Z"
+    },
+    {
+      "full_name": "CoreumFoundation/merkle-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:49Z"
+    },
+    {
+      "full_name": "CoreumFoundation/multichain-auditor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:36:51Z"
+    },
+    {
+      "full_name": "CoreumFoundation/osmosis-std-derive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:52Z"
+    },
+    {
+      "full_name": "CoreumFoundation/ripple-keypairs-rust",
+      "is_fork": true,
+      "parent": "otov4its/ripple-keypairs-rust",
+      "source": "otov4its/ripple-keypairs-rust",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:55Z"
+    },
+    {
+      "full_name": "CoreumFoundation/runner",
+      "is_fork": true,
+      "parent": "actions/runner",
+      "source": "actions/runner",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-02T04:36:57Z"
+    },
+    {
+      "full_name": "CoreumFoundation/secure-messaging-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:36:59Z"
+    },
+    {
+      "full_name": "CoreumFoundation/smart-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:36:59Z"
+    },
+    {
+      "full_name": "CoreumFoundation/smartcontract-template",
+      "is_fork": true,
+      "parent": "CosmWasm/cw-template",
+      "source": "CosmWasm/cw-template",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:37:01Z"
+    },
+    {
+      "full_name": "CoreumFoundation/test-tube",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:37:03Z"
+    },
+    {
+      "full_name": "CoreumFoundation/token-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:37:05Z"
+    },
+    {
+      "full_name": "CoreumFoundation/token-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-02T04:37:07Z"
+    },
+    {
+      "full_name": "CoreumFoundation/tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:37:09Z"
+    },
+    {
+      "full_name": "CoreumFoundation/workshops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:37:11Z"
+    },
+    {
+      "full_name": "CoreumFoundation/znet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:37:11Z"
+    }
+  ]
+}

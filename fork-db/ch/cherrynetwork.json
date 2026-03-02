@@ -1,0 +1,357 @@
+{
+  "owner": "cherrynetwork",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "CherryNetwork/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:24Z"
+    },
+    {
+      "full_name": "CherryNetwork/ChainBridge",
+      "is_fork": true,
+      "parent": "ChainSafe/ChainBridge",
+      "source": "ChainSafe/ChainBridge",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T01:25:26Z"
+    },
+    {
+      "full_name": "CherryNetwork/Cherry-Node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:25:28Z"
+    },
+    {
+      "full_name": "CherryNetwork/address-converter",
+      "is_fork": true,
+      "parent": "ibriz/snow-address-converter",
+      "source": "ibriz/snow-address-converter",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:25:30Z"
+    },
+    {
+      "full_name": "CherryNetwork/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:25:32Z"
+    },
+    {
+      "full_name": "CherryNetwork/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T01:25:34Z"
+    },
+    {
+      "full_name": "CherryNetwork/banana_split",
+      "is_fork": true,
+      "parent": "paritytech/banana_split",
+      "source": "paritytech/banana_split",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:25:36Z"
+    },
+    {
+      "full_name": "CherryNetwork/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-02T01:25:38Z"
+    },
+    {
+      "full_name": "CherryNetwork/chainbridge-optimism-module",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-optimism-module",
+      "source": "ChainSafe/chainbridge-optimism-module",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:41Z"
+    },
+    {
+      "full_name": "CherryNetwork/chainbridge-solidity",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-solidity",
+      "source": "ChainSafe/chainbridge-solidity",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:43Z"
+    },
+    {
+      "full_name": "CherryNetwork/chainbridge-ui",
+      "is_fork": true,
+      "parent": "ChainSafe/chainbridge-ui",
+      "source": "ChainSafe/chainbridge-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:45Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherry-api",
+      "is_fork": true,
+      "parent": "polkadot-js/api",
+      "source": "polkadot-js/api",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:25:47Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherry-ipfs-parachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:25:49Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherry-ipfs-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T01:25:51Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherry-relay-node",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:25:53Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherry-ui-iris",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:25:55Z"
+    },
+    {
+      "full_name": "CherryNetwork/cherryscan",
+      "is_fork": true,
+      "parent": "subscan-explorer/subscan-essentials",
+      "source": "subscan-explorer/subscan-essentials",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:57Z"
+    },
+    {
+      "full_name": "CherryNetwork/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:25:59Z"
+    },
+    {
+      "full_name": "CherryNetwork/ethereum-explorer",
+      "is_fork": true,
+      "parent": "dimaskiddo/ethereum-explorer",
+      "source": "dimaskiddo/ethereum-explorer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:01Z"
+    },
+    {
+      "full_name": "CherryNetwork/evm-parachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:03Z"
+    },
+    {
+      "full_name": "CherryNetwork/explorer",
+      "is_fork": true,
+      "parent": "polkascan/explorer",
+      "source": "polkascan/explorer",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-02T01:26:05Z"
+    },
+    {
+      "full_name": "CherryNetwork/explorer-api",
+      "is_fork": true,
+      "parent": "polkascan/explorer-api",
+      "source": "polkascan/explorer-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:07Z"
+    },
+    {
+      "full_name": "CherryNetwork/explorer-ui",
+      "is_fork": true,
+      "parent": "polkascan/explorer-ui",
+      "source": "polkascan/explorer-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:09Z"
+    },
+    {
+      "full_name": "CherryNetwork/faucet-bot-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:11Z"
+    },
+    {
+      "full_name": "CherryNetwork/filecoindot",
+      "is_fork": true,
+      "parent": "ChainSafe/filecoindot",
+      "source": "ChainSafe/filecoindot",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:13Z"
+    },
+    {
+      "full_name": "CherryNetwork/forest",
+      "is_fork": true,
+      "parent": "ChainSafe/forest",
+      "source": "ChainSafe/forest",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:15Z"
+    },
+    {
+      "full_name": "CherryNetwork/go-substrate-rpc-client",
+      "is_fork": true,
+      "parent": "centrifuge/go-substrate-rpc-client",
+      "source": "centrifuge/go-substrate-rpc-client",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T01:26:17Z"
+    },
+    {
+      "full_name": "CherryNetwork/harvester",
+      "is_fork": true,
+      "parent": "polkascan/harvester",
+      "source": "polkascan/harvester",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:19Z"
+    },
+    {
+      "full_name": "CherryNetwork/kubernetes-bitwarden_rs",
+      "is_fork": true,
+      "parent": "icicimov/kubernetes-bitwarden_rs",
+      "source": "icicimov/kubernetes-bitwarden_rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:21Z"
+    },
+    {
+      "full_name": "CherryNetwork/oss-project-template",
+      "is_fork": true,
+      "parent": "TBD54566975/tbd-project-template",
+      "source": "TBD54566975/tbd-project-template",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:23Z"
+    },
+    {
+      "full_name": "CherryNetwork/parity-bridges-common",
+      "is_fork": true,
+      "parent": "paritytech/parity-bridges-common",
+      "source": "paritytech/parity-bridges-common",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:25Z"
+    },
+    {
+      "full_name": "CherryNetwork/polkadapt",
+      "is_fork": true,
+      "parent": "polkascan/polkadapt",
+      "source": "polkascan/polkadapt",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:26:27Z"
+    },
+    {
+      "full_name": "CherryNetwork/rust-ipfs",
+      "is_fork": true,
+      "parent": "rs-ipfs/rust-ipfs",
+      "source": "rs-ipfs/rust-ipfs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:29Z"
+    },
+    {
+      "full_name": "CherryNetwork/solang",
+      "is_fork": true,
+      "parent": "hyperledger-solang/solang",
+      "source": "hyperledger-solang/solang",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:31Z"
+    },
+    {
+      "full_name": "CherryNetwork/subscan-essentials",
+      "is_fork": true,
+      "parent": "subscan-explorer/subscan-essentials",
+      "source": "subscan-explorer/subscan-essentials",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:33Z"
+    },
+    {
+      "full_name": "CherryNetwork/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:36Z"
+    },
+    {
+      "full_name": "CherryNetwork/substrate-connect",
+      "is_fork": true,
+      "parent": "paritytech/substrate-connect",
+      "source": "paritytech/substrate-connect",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:26:38Z"
+    },
+    {
+      "full_name": "CherryNetwork/substrate-ipfs-iris",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:26:39Z"
+    },
+    {
+      "full_name": "CherryNetwork/substrate-iris",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:26:40Z"
+    }
+  ]
+}

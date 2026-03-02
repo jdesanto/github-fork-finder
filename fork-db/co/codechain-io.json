@@ -1,0 +1,582 @@
+{
+  "owner": "codechain-io",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "CodeChain-io/codechain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 257,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:08Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-agent-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:11Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-agent-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:12Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-blake-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:14Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-change-common-params",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:16Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-config-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T02:45:18Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-crypto-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T02:45:20Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-cuckoo-cuda-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-02T02:45:22Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-cuckoo-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:24Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:26Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-02T02:45:28Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:30Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:32Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T02:45:34Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-helicopter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:36Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:37Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-indexer-types-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:39Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-keystore-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T02:45:41Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-keystore-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:43Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-keystore-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:45Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:45:47Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-primitives-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:49Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-02T02:45:51Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-rpc-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:45:53Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-rpc-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T02:45:55Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-sdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-02T02:45:57Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-sdk-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T02:45:58Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:00Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-sdk-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-02T02:46:02Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-stakeholder-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:04Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-test-helper-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:06Z"
+    },
+    {
+      "full_name": "CodeChain-io/codechain-web-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:08Z"
+    },
+    {
+      "full_name": "CodeChain-io/cron-jobs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:10Z"
+    },
+    {
+      "full_name": "CodeChain-io/cuckoo",
+      "is_fork": true,
+      "parent": "tromp/cuckoo",
+      "source": "tromp/cuckoo",
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-02T02:46:12Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:14Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry-keystore-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T02:46:16Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry-keystore-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:18Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry-primitives-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:20Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry-rpc-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:22Z"
+    },
+    {
+      "full_name": "CodeChain-io/foundry-sandbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:24Z"
+    },
+    {
+      "full_name": "CodeChain-io/intertrait",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 42,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:25Z"
+    },
+    {
+      "full_name": "CodeChain-io/jsonrpc-filter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:27Z"
+    },
+    {
+      "full_name": "CodeChain-io/lowdb-session-storage-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T02:46:29Z"
+    },
+    {
+      "full_name": "CodeChain-io/module-rt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:31Z"
+    },
+    {
+      "full_name": "CodeChain-io/proof-of-ownership-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:33Z"
+    },
+    {
+      "full_name": "CodeChain-io/remote-trait-object",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:35Z"
+    },
+    {
+      "full_name": "CodeChain-io/research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:46:37Z"
+    },
+    {
+      "full_name": "CodeChain-io/rlp",
+      "is_fork": true,
+      "parent": "paritytech/rlp",
+      "source": "paritytech/rlp",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:39Z"
+    },
+    {
+      "full_name": "CodeChain-io/rlp-debugger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:46:41Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-codechain-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:43Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-codechain-db",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:45Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-codechain-primitives",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:47Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-cuckoo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:49Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-finally-block",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:51Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-iblt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:53Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-limited-table",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:55Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-merkle-trie",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:57Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-multimap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:46:58Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-never-type",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:47:00Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-secp256k1",
+      "is_fork": true,
+      "parent": "paritytech/rust-secp256k1",
+      "source": "rust-bitcoin/rust-secp256k1",
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-02T02:47:02Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-sgx-sdk",
+      "is_fork": true,
+      "parent": "apache/teaclave-sgx-sdk",
+      "source": "apache/teaclave-sgx-sdk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:47:04Z"
+    },
+    {
+      "full_name": "CodeChain-io/rust-token-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:47:06Z"
+    },
+    {
+      "full_name": "CodeChain-io/trie-standardmap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:47:08Z"
+    },
+    {
+      "full_name": "CodeChain-io/vrf-rs",
+      "is_fork": true,
+      "parent": "witnet/vrf-rs",
+      "source": "witnet/vrf-rs",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:47:10Z"
+    }
+  ]
+}

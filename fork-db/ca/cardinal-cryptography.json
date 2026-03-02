@@ -1,0 +1,1014 @@
+{
+  "owner": "cardinal-cryptography",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "Cardinal-Cryptography/Aleph-Testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-01T22:09:11Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/AlephBFT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 60,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:12Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T22:09:15Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/Feist-Khovratovich",
+      "is_fork": true,
+      "parent": "geometryxyz/fk",
+      "source": "geometryxyz/fk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:17Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/General-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:19Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/HouseSnark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:21Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/Liminal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-01T22:09:23Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/PSP22",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:25Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/PSP34",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:27Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 87,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:28Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-node-issues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:30Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-node-runner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Shell",
+      "last_checked": "2026-03-01T22:09:33Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-parachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:34Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-parachain-bridge",
+      "is_fork": true,
+      "parent": "paritytech/parity-bridges-common",
+      "source": "paritytech/parity-bridges-common",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:36Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-parachain-bridge-relay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:37Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-zero-bounty",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:39Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-zero-dashboard",
+      "is_fork": true,
+      "parent": "polkadot-cloud/polkadot-staking-dashboard",
+      "source": "polkadot-cloud/polkadot-staking-dashboard",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:09:41Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-zero-signer",
+      "is_fork": true,
+      "parent": "polkadot-js/extension",
+      "source": "polkadot-js/extension",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:09:43Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/aleph-zero-wallet-extension",
+      "is_fork": true,
+      "parent": "polkadot-js/extension",
+      "source": "polkadot-js/extension",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:09:46Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:09:48Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/arbitrum-token-bridge",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-token-bridge",
+      "source": "OffchainLabs/arbitrum-token-bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:09:50Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/awesome-ink",
+      "is_fork": true,
+      "parent": "use-ink/awesome-ink",
+      "source": "use-ink/awesome-ink",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:52Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/awesome-substrate",
+      "is_fork": true,
+      "parent": "polkadot-developers/awesome-substrate",
+      "source": "polkadot-developers/awesome-substrate",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:54Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/axiom-halo2",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:09:56Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/axiom-snark-verifier",
+      "is_fork": true,
+      "parent": "axiom-crypto/snark-verifier",
+      "source": "privacy-ethereum/snark-verifier",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:09:58Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/azero-dev",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:10:00Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/azero-faucet",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-testnet-faucet",
+      "source": "paritytech/polkadot-testnet-faucet",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:10:03Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/baby-liminal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:05Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/bulletin-board-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:10:07Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/cargo-nono",
+      "is_fork": true,
+      "parent": "hobofan/cargo-nono",
+      "source": "hobofan/cargo-nono",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:09Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:11Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/client-side-proving-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:11Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T22:10:13Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-amm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:15Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-amm-evm-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:15Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-amm-stable-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:17Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-amm-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v2-subgraph",
+      "source": "Uniswap/v2-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:19Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:19Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/common-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-01T22:10:21Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/contract-benchmarking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:23Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:25Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/crypto",
+      "is_fork": true,
+      "parent": "docknetwork/crypto",
+      "source": "docknetwork/crypto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:27Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/dev-runtime-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:29Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/dex-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:29Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/docker-ink-dev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-01T22:10:31Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/drink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 74,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:34Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/fork-off",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:35Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/github-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-01T22:10:37Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/github-actions-runners-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T22:10:39Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/github-actions-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-01T22:10:41Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2",
+      "is_fork": true,
+      "parent": "privacy-ethereum/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:43Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2-browser",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2-browser",
+      "source": "axiom-crypto/halo2-browser",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:45Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2-gadgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:46Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2-lib",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:48Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2-pse",
+      "is_fork": true,
+      "parent": "privacy-ethereum/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:50Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/halo2-solidity-verifier",
+      "is_fork": true,
+      "parent": "privacy-ethereum/halo2-solidity-verifier",
+      "source": "privacy-ethereum/halo2-solidity-verifier",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:52Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ibc-rs",
+      "is_fork": true,
+      "parent": "informalsystems/hermes",
+      "source": "informalsystems/hermes",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:10:54Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:10:56Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink",
+      "is_fork": true,
+      "parent": "use-ink/ink",
+      "source": "use-ink/ink",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:10:58Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink-championship",
+      "is_fork": true,
+      "parent": "paritytech/ink-championship",
+      "source": "use-ink/ink-workshop",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:11:00Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink-docs",
+      "is_fork": true,
+      "parent": "use-ink/ink-docs",
+      "source": "use-ink/ink-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:02Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink-exercises",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:04Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:06Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ink4-migration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:08Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/jellyfish",
+      "is_fork": true,
+      "parent": "EspressoSystems/jellyfish",
+      "source": "EspressoSystems/jellyfish",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:10Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/legacy-shielder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:12Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/liminal-ark-poseidon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:13Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/liminal-ark-relations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:15Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/liminal-jf-relations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:17Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/manta-rs",
+      "is_fork": true,
+      "parent": "Manta-Network/manta-rs",
+      "source": "Manta-Network/manta-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:19Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/membrane-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:22Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/merkle-wrapping-with-risc0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:23Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/most",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:26Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/nitro",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:28Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/onboarding-aleph-node",
+      "is_fork": true,
+      "parent": "Cardinal-Cryptography/aleph-node",
+      "source": "Cardinal-Cryptography/aleph-node",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:30Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:32Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/parity-bridges-common",
+      "is_fork": true,
+      "parent": "paritytech/parity-bridges-common",
+      "source": "paritytech/parity-bridges-common",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:34Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/parity-scale-codec",
+      "is_fork": true,
+      "parent": "paritytech/parity-scale-codec",
+      "source": "paritytech/parity-scale-codec",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:36Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/peer-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:38Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:39Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/polkadot-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:40Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/polkadot-sdk",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-sdk",
+      "source": "paritytech/polkadot-sdk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:42Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/polkadot-staking-dashboard",
+      "is_fork": true,
+      "parent": "polkadot-cloud/polkadot-staking-dashboard",
+      "source": "polkadot-cloud/polkadot-staking-dashboard",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:11:44Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/poseidon",
+      "is_fork": true,
+      "parent": "privacy-ethereum/poseidon",
+      "source": "privacy-ethereum/poseidon",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-01T22:11:46Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/poseidon-gadget",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:49Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/poseidon377",
+      "is_fork": true,
+      "parent": "penumbra-zone/poseidon377",
+      "source": "penumbra-zone/poseidon377",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:51Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/pse-halo2",
+      "is_fork": true,
+      "parent": "privacy-ethereum/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:53Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/psp22-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:55Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/rsa-challenge-with-halo2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:57Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/runtime-call",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:11:58Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/shielder-sdk-test-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:00Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/shielding-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:02Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/signer-integration-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:04Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/sponge",
+      "is_fork": true,
+      "parent": "penumbra-zone/sponge",
+      "source": "arkworks-rs/sponge",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:06Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:08Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/sub-flood",
+      "is_fork": true,
+      "parent": "paritytech/sub-flood",
+      "source": "paritytech/sub-flood",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:10Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:12Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/substrate-api-client",
+      "is_fork": true,
+      "parent": "scs/substrate-api-client",
+      "source": "scs/substrate-api-client",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:14Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/substrate-matrix-faucet",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-testnet-faucet",
+      "source": "paritytech/polkadot-testnet-faucet",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:17Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/substrate-telemetry",
+      "is_fork": true,
+      "parent": "paritytech/substrate-telemetry",
+      "source": "paritytech/substrate-telemetry",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:19Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/subway",
+      "is_fork": true,
+      "parent": "AcalaNetwork/subway",
+      "source": "AcalaNetwork/subway",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:22Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/subxtxt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:24Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/tagged-base64",
+      "is_fork": true,
+      "parent": "EspressoSystems/tagged-base64",
+      "source": "EspressoSystems/tagged-base64",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:26Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/terra-terra-ibc",
+      "is_fork": true,
+      "parent": "deuszx/terra-terra-ibc",
+      "source": "deuszx/terra-terra-ibc",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-01T22:12:28Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/traffic-maker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:30Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/wAZERO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:32Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/wAZERO-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-01T22:12:34Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/wasmarking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:36Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/workflow-conclusion-action",
+      "is_fork": true,
+      "parent": "technote-space/workflow-conclusion-action",
+      "source": "technote-space/workflow-conclusion-action",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:38Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/zk-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:40Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/zk-dapp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-01T22:12:42Z"
+    },
+    {
+      "full_name": "Cardinal-Cryptography/zkOS-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-01T22:12:44Z"
+    }
+  ]
+}

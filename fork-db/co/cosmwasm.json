@@ -1,0 +1,654 @@
+{
+  "owner": "cosmwasm",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "CosmWasm/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:25Z"
+    },
+    {
+      "full_name": "CosmWasm/CWIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-02T04:44:27Z"
+    },
+    {
+      "full_name": "CosmWasm/CosmWasmJS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:44:29Z"
+    },
+    {
+      "full_name": "CosmWasm/academy-deploy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:44:31Z"
+    },
+    {
+      "full_name": "CosmWasm/advisories",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:33Z"
+    },
+    {
+      "full_name": "CosmWasm/awesome-cosmwasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 270,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:35Z"
+    },
+    {
+      "full_name": "CosmWasm/big-dipper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:35Z"
+    },
+    {
+      "full_name": "CosmWasm/book",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:37Z"
+    },
+    {
+      "full_name": "CosmWasm/chat.cosmwasm.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-02T04:44:39Z"
+    },
+    {
+      "full_name": "CosmWasm/code-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:44:41Z"
+    },
+    {
+      "full_name": "CosmWasm/core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:41Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmos-discord-faucet",
+      "is_fork": true,
+      "parent": "CosmosContracts/cosmos-discord-faucet",
+      "source": "CosmosContracts/cosmos-discord-faucet",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-02T04:44:43Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmos-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:44Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmwasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1138,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:46Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmwasm-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:44:47Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmwasm-simulate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:49Z"
+    },
+    {
+      "full_name": "CosmWasm/cosmwasm-verify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Shell",
+      "last_checked": "2026-03-02T04:44:51Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-academy-course",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:53Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-cron",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:44:54Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-mcs-academy-course",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:55Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-minus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:57Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-multi-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:44:59Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-nfts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 201,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:02Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-plus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 528,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:03Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-storage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:05Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-storage-plus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:07Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 298,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:09Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 90,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:11Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:13Z"
+    },
+    {
+      "full_name": "CosmWasm/cw-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:15Z"
+    },
+    {
+      "full_name": "CosmWasm/dApps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:45:17Z"
+    },
+    {
+      "full_name": "CosmWasm/discord-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:18Z"
+    },
+    {
+      "full_name": "CosmWasm/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "MDX",
+      "last_checked": "2026-03-02T04:45:20Z"
+    },
+    {
+      "full_name": "CosmWasm/docs-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T04:45:22Z"
+    },
+    {
+      "full_name": "CosmWasm/docs-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T04:45:24Z"
+    },
+    {
+      "full_name": "CosmWasm/fix-ci-issues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:24Z"
+    },
+    {
+      "full_name": "CosmWasm/gaia",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:25Z"
+    },
+    {
+      "full_name": "CosmWasm/ics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:25Z"
+    },
+    {
+      "full_name": "CosmWasm/idl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:27Z"
+    },
+    {
+      "full_name": "CosmWasm/jsonparser",
+      "is_fork": true,
+      "parent": "buger/jsonparser",
+      "source": "buger/jsonparser",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:45:29Z"
+    },
+    {
+      "full_name": "CosmWasm/keplr-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:29Z"
+    },
+    {
+      "full_name": "CosmWasm/keplr-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:30Z"
+    },
+    {
+      "full_name": "CosmWasm/mesh-security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 88,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:32Z"
+    },
+    {
+      "full_name": "CosmWasm/mesh-security-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 88,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:34Z"
+    },
+    {
+      "full_name": "CosmWasm/mesh-security-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:45:36Z"
+    },
+    {
+      "full_name": "CosmWasm/name-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:45:38Z"
+    },
+    {
+      "full_name": "CosmWasm/optimizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 147,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:40Z"
+    },
+    {
+      "full_name": "CosmWasm/relayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:40Z"
+    },
+    {
+      "full_name": "CosmWasm/resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:42Z"
+    },
+    {
+      "full_name": "CosmWasm/runtime-macros-derive",
+      "is_fork": true,
+      "parent": "tonyfinn/runtime-macros-derive",
+      "source": "jeremydavis519/runtime-macros",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:44Z"
+    },
+    {
+      "full_name": "CosmWasm/rust-optimizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 147,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:46Z"
+    },
+    {
+      "full_name": "CosmWasm/serde-cw-value",
+      "is_fork": true,
+      "parent": "arcnmx/serde-value",
+      "source": "arcnmx/serde-value",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:49Z"
+    },
+    {
+      "full_name": "CosmWasm/serde-json-wasm",
+      "is_fork": true,
+      "parent": "rust-embedded-community/serde-json-core",
+      "source": "rust-embedded-community/serde-json-core",
+      "stars": 31,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:51Z"
+    },
+    {
+      "full_name": "CosmWasm/simple-option",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:53Z"
+    },
+    {
+      "full_name": "CosmWasm/starport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:45:53Z"
+    },
+    {
+      "full_name": "CosmWasm/storey",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:55Z"
+    },
+    {
+      "full_name": "CosmWasm/stork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:57Z"
+    },
+    {
+      "full_name": "CosmWasm/sylvia",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 102,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:45:59Z"
+    },
+    {
+      "full_name": "CosmWasm/sylvia-book",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T04:46:02Z"
+    },
+    {
+      "full_name": "CosmWasm/sylvia-runtime-macros",
+      "is_fork": true,
+      "parent": "tonyfinn/runtime-macros-derive",
+      "source": "jeremydavis519/runtime-macros",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:46:04Z"
+    },
+    {
+      "full_name": "CosmWasm/sylvia-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:46:06Z"
+    },
+    {
+      "full_name": "CosmWasm/terra-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:46:08Z"
+    },
+    {
+      "full_name": "CosmWasm/testnets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:46:10Z"
+    },
+    {
+      "full_name": "CosmWasm/tinygo",
+      "is_fork": true,
+      "parent": "tinygo-org/tinygo",
+      "source": "tinygo-org/tinygo",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:46:12Z"
+    },
+    {
+      "full_name": "CosmWasm/tinyjson",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:46:14Z"
+    },
+    {
+      "full_name": "CosmWasm/token-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T04:46:16Z"
+    },
+    {
+      "full_name": "CosmWasm/token-factory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:46:18Z"
+    },
+    {
+      "full_name": "CosmWasm/ts-codegen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 125,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T04:46:20Z"
+    },
+    {
+      "full_name": "CosmWasm/ts-proto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T04:46:20Z"
+    },
+    {
+      "full_name": "CosmWasm/wabt-docker",
+      "is_fork": true,
+      "parent": "polkascan/webassembly-wabt",
+      "source": "polkascan/webassembly-wabt",
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-02T04:46:22Z"
+    },
+    {
+      "full_name": "CosmWasm/wasmd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 410,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:46:24Z"
+    },
+    {
+      "full_name": "CosmWasm/wasmvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 204,
+      "language": "Go",
+      "last_checked": "2026-03-02T04:46:26Z"
+    }
+  ]
+}

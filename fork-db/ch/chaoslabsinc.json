@@ -1,0 +1,366 @@
+{
+  "owner": "chaoslabsinc",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "ChaosLabsInc/LocalChainlink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T01:08:45Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/Maker-Simulations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:08:47Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-chaos-v3-risk-proposal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:08:49Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-governance-v3",
+      "is_fork": true,
+      "parent": "aave-dao/aave-governance-v3",
+      "source": "aave-dao/aave-governance-v3",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:08:51Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-proposals",
+      "is_fork": true,
+      "parent": "bgd-labs/aave-proposals",
+      "source": "bgd-labs/aave-proposals",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:08:53Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-proposals-v3",
+      "is_fork": true,
+      "parent": "aave-dao/aave-proposals-v3",
+      "source": "aave-dao/aave-proposals-v3",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:08:55Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-protocol-subgraphs",
+      "is_fork": true,
+      "parent": "aave/protocol-subgraphs",
+      "source": "aave/protocol-subgraphs",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:08:57Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-risk-stewards",
+      "is_fork": true,
+      "parent": "aave-dao/aave-risk-stewards",
+      "source": "aave-dao/aave-risk-stewards",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:08:59Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-utilities",
+      "is_fork": true,
+      "parent": "aave/aave-utilities",
+      "source": "aave/aave-utilities",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:01Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-v2-payloads",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:09:03Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/aave-v3-listing-stewards",
+      "is_fork": true,
+      "parent": "bgd-labs/aave-v3-listing-stewards",
+      "source": "bgd-labs/aave-v3-listing-stewards",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:05Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/bullmq",
+      "is_fork": true,
+      "parent": "taskforcesh/bullmq",
+      "source": "taskforcesh/bullmq",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:07Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chainlink-hardhat-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:09Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chainlink-oracle-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:11Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chainlink-price-feeds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:13Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chaos-aave-v3-aip",
+      "is_fork": true,
+      "parent": "aave/aip",
+      "source": "aave/aip",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:09:15Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chaos-agents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T01:09:17Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chaos-labs-sqs-sender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:09:19Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chaos-labs-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:19Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/chaos-server-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:21Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:23Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/defillama-sdk",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-sdk",
+      "source": "DefiLlama/defillama-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:25Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/demeter",
+      "is_fork": true,
+      "parent": "zelos-alpha/demeter",
+      "source": "zelos-alpha/demeter",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-02T01:09:27Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/demo-plugins-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:29Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/dydx-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:31Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/edge-push-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:31Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/election-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:32Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/flipside-sdk",
+      "is_fork": true,
+      "parent": "FlipsideCrypto/sdk",
+      "source": "FlipsideCrypto/sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:34Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/messari-subgraphs",
+      "is_fork": true,
+      "parent": "messari/subgraphs",
+      "source": "messari/subgraphs",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:36Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/multi-agent-framework",
+      "is_fork": true,
+      "parent": "jpmorganchase/abides-jpmc-public",
+      "source": "jpmorganchase/abides-jpmc-public",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:38Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/multivariate-normal-js",
+      "is_fork": true,
+      "parent": "tulip/multivariate-normal-js",
+      "source": "tulip/multivariate-normal-js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T01:09:40Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/python-mock-firestore",
+      "is_fork": true,
+      "parent": "mdowds/python-mock-firestore",
+      "source": "mdowds/python-mock-firestore",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T01:09:42Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/risk-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:42Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/subgraph-benqi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:44Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/subgraph-benqi-qi-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:45Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/subgraph-tashi",
+      "is_fork": true,
+      "parent": "ChaosLabsInc/subgraph-benqi",
+      "source": "ChaosLabsInc/subgraph-benqi",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:47Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/uniswap-lp-strategy-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T01:09:47Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/uniswap-v3-oracle-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:49Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/uniswap-v3-oracle-hardhat-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:51Z"
+    },
+    {
+      "full_name": "ChaosLabsInc/uniswap-v3-oracle-pool-mocker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T01:09:53Z"
+    }
+  ]
+}

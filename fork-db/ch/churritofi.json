@@ -1,0 +1,78 @@
+{
+  "owner": "churritofi",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "ChurritoFi/backend",
+      "is_fork": true,
+      "parent": "buidl-labs/celo-voting-validator-backend",
+      "source": "buidl-labs/celo-voting-validator-backend",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T02:09:43Z"
+    },
+    {
+      "full_name": "ChurritoFi/data-service",
+      "is_fork": true,
+      "parent": "buidl-labs/celo-onchain-data-service",
+      "source": "buidl-labs/celo-onchain-data-service",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:09:45Z"
+    },
+    {
+      "full_name": "ChurritoFi/frontend",
+      "is_fork": true,
+      "parent": "buidl-labs/cvvt-frontend",
+      "source": "buidl-labs/cvvt-frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:09:47Z"
+    },
+    {
+      "full_name": "ChurritoFi/indexer",
+      "is_fork": true,
+      "parent": "buidl-labs/celo-indexer",
+      "source": "buidl-labs/celo-indexer",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T02:09:49Z"
+    },
+    {
+      "full_name": "ChurritoFi/reminder",
+      "is_fork": true,
+      "parent": "buidl-labs/churrofi-reminder",
+      "source": "buidl-labs/churrofi-reminder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:09:51Z"
+    },
+    {
+      "full_name": "ChurritoFi/reminder-cfw",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:09:53Z"
+    },
+    {
+      "full_name": "ChurritoFi/twitter-bot",
+      "is_fork": true,
+      "parent": "buidl-labs/churrofi-twitter-bot",
+      "source": "buidl-labs/churrofi-twitter-bot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:09:55Z"
+    },
+    {
+      "full_name": "ChurritoFi/widgets",
+      "is_fork": true,
+      "parent": "manangouhari/churrofi-wc",
+      "source": "manangouhari/churrofi-wc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:09:57Z"
+    }
+  ]
+}

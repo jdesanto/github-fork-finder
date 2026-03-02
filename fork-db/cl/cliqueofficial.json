@@ -1,0 +1,420 @@
+{
+  "owner": "cliqueofficial",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "CliqueOfficial/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:20Z"
+    },
+    {
+      "full_name": "CliqueOfficial/InfinityVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:20Z"
+    },
+    {
+      "full_name": "CliqueOfficial/TLSNotaryServer",
+      "is_fork": true,
+      "parent": "AbstrLabs/server",
+      "source": "AbstrLabs/server",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T02:27:22Z"
+    },
+    {
+      "full_name": "CliqueOfficial/aHash",
+      "is_fork": true,
+      "parent": "tkaitchuck/aHash",
+      "source": "tkaitchuck/aHash",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:24Z"
+    },
+    {
+      "full_name": "CliqueOfficial/attestation-hooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T02:27:26Z"
+    },
+    {
+      "full_name": "CliqueOfficial/automata-dcap-v3-attestation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:26Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:27:28Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-optimism-AS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:27:30Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-sdk-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:27:32Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-sibyl-chat-gpt-data-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:27:34Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-sibyl-demo-data-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:27:36Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-sibyl-github-data-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:27:38Z"
+    },
+    {
+      "full_name": "CliqueOfficial/clique-sibyl-plaid-data-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:27:40Z"
+    },
+    {
+      "full_name": "CliqueOfficial/elizaTEE",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:27:42Z"
+    },
+    {
+      "full_name": "CliqueOfficial/forge",
+      "is_fork": true,
+      "parent": "OSSTech-JP/forge",
+      "source": "digitalbazaar/forge",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:44Z"
+    },
+    {
+      "full_name": "CliqueOfficial/gramine",
+      "is_fork": true,
+      "parent": "gramineproject/gramine",
+      "source": "gramineproject/gramine",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-02T02:27:46Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:48Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib-deprecated",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:50Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib-p256",
+      "is_fork": true,
+      "parent": "zkwebauthn/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:52Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib-secp256r1",
+      "is_fork": true,
+      "parent": "axiom-crypto/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:54Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib-wasm",
+      "is_fork": true,
+      "parent": "DCMMC/halo2-lib-wasm",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:56Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-lib-zkwebauthn",
+      "is_fork": true,
+      "parent": "zkwebauthn/halo2-lib",
+      "source": "axiom-crypto/halo2-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:27:59Z"
+    },
+    {
+      "full_name": "CliqueOfficial/halo2-regex",
+      "is_fork": true,
+      "parent": "DCMMC/halo2-regex",
+      "source": "zkemail/halo2-regex",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:01Z"
+    },
+    {
+      "full_name": "CliqueOfficial/identity-schemas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:02Z"
+    },
+    {
+      "full_name": "CliqueOfficial/infinityVM-foundry-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:03Z"
+    },
+    {
+      "full_name": "CliqueOfficial/linea-attestations-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T02:28:05Z"
+    },
+    {
+      "full_name": "CliqueOfficial/num-bigint-sgx",
+      "is_fork": true,
+      "parent": "mesalock-linux/num-bigint-sgx",
+      "source": "rust-num/num-bigint",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:28:07Z"
+    },
+    {
+      "full_name": "CliqueOfficial/num-integer-sgx",
+      "is_fork": true,
+      "parent": "mesalock-linux/num-integer-sgx",
+      "source": "rust-num/num-integer",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-02T02:28:09Z"
+    },
+    {
+      "full_name": "CliqueOfficial/p256-verifier",
+      "is_fork": true,
+      "parent": "daimo-eth/p256-verifier",
+      "source": "daimo-eth/p256-verifier",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T02:28:11Z"
+    },
+    {
+      "full_name": "CliqueOfficial/passport",
+      "is_fork": true,
+      "parent": "passportxyz/passport",
+      "source": "passportxyz/passport",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:28:13Z"
+    },
+    {
+      "full_name": "CliqueOfficial/playpopgo-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:13Z"
+    },
+    {
+      "full_name": "CliqueOfficial/polygonid-schema",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:15Z"
+    },
+    {
+      "full_name": "CliqueOfficial/raydium-clmm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:16Z"
+    },
+    {
+      "full_name": "CliqueOfficial/raydium-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:16Z"
+    },
+    {
+      "full_name": "CliqueOfficial/risc0",
+      "is_fork": true,
+      "parent": "DCMMC/risc0",
+      "source": "risc0/risc0",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:18Z"
+    },
+    {
+      "full_name": "CliqueOfficial/rust-libp2p",
+      "is_fork": true,
+      "parent": "libp2p/rust-libp2p",
+      "source": "libp2p/rust-libp2p",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:20Z"
+    },
+    {
+      "full_name": "CliqueOfficial/seadrop",
+      "is_fork": true,
+      "parent": "ProjectOpenSea/seadrop",
+      "source": "ProjectOpenSea/seadrop",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T02:28:22Z"
+    },
+    {
+      "full_name": "CliqueOfficial/template-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T02:28:24Z"
+    },
+    {
+      "full_name": "CliqueOfficial/template-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:28:26Z"
+    },
+    {
+      "full_name": "CliqueOfficial/tiny-http",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:26Z"
+    },
+    {
+      "full_name": "CliqueOfficial/tinysmpc",
+      "is_fork": true,
+      "parent": "kennysong/tinysmpc",
+      "source": "kennysong/tinysmpc",
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-02T02:28:28Z"
+    },
+    {
+      "full_name": "CliqueOfficial/tweety-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:29Z"
+    },
+    {
+      "full_name": "CliqueOfficial/verax-schema",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T02:28:31Z"
+    },
+    {
+      "full_name": "CliqueOfficial/verax-sdk-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T02:28:32Z"
+    },
+    {
+      "full_name": "CliqueOfficial/yasna.rs-sgx",
+      "is_fork": true,
+      "parent": "mesalock-linux/yasna.rs-sgx",
+      "source": "qnighy/yasna.rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:28:35Z"
+    },
+    {
+      "full_name": "CliqueOfficial/zk-dcap-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-02T02:28:36Z"
+    }
+  ]
+}

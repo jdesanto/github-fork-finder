@@ -1,0 +1,744 @@
+{
+  "owner": "concordium",
+  "updated_at": "2026-03-02T06:09:39Z",
+  "repos": [
+    {
+      "full_name": "Concordium/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T03:29:47Z"
+    },
+    {
+      "full_name": "Concordium/ChainAgnostic-namespaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:48Z"
+    },
+    {
+      "full_name": "Concordium/Concordium-Free-Open-Grant-Milestone-Delivery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:49Z"
+    },
+    {
+      "full_name": "Concordium/Concordium-Free-Open-Grants-Program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:51Z"
+    },
+    {
+      "full_name": "Concordium/Testnet3-Challenges",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 317,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:53Z"
+    },
+    {
+      "full_name": "Concordium/Testnet4-Challenges",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:55Z"
+    },
+    {
+      "full_name": "Concordium/cargo-fuzz",
+      "is_fork": true,
+      "parent": "rust-fuzz/cargo-fuzz",
+      "source": "rust-fuzz/cargo-fuzz",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:29:57Z"
+    },
+    {
+      "full_name": "Concordium/ccd-academy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:00Z"
+    },
+    {
+      "full_name": "Concordium/concordium-academy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:01Z"
+    },
+    {
+      "full_name": "Concordium/concordium-article-reentrance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:03Z"
+    },
+    {
+      "full_name": "Concordium/concordium-base",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:05Z"
+    },
+    {
+      "full_name": "Concordium/concordium-bounty-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:07Z"
+    },
+    {
+      "full_name": "Concordium/concordium-browser-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:09Z"
+    },
+    {
+      "full_name": "Concordium/concordium-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:30:11Z"
+    },
+    {
+      "full_name": "Concordium/concordium-contracts-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:13Z"
+    },
+    {
+      "full_name": "Concordium/concordium-dapp-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 79,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:15Z"
+    },
+    {
+      "full_name": "Concordium/concordium-dapp-libraries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:17Z"
+    },
+    {
+      "full_name": "Concordium/concordium-dapp-piggybank",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:19Z"
+    },
+    {
+      "full_name": "Concordium/concordium-dapp-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:21Z"
+    },
+    {
+      "full_name": "Concordium/concordium-demo-pay-and-verify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-02T03:30:23Z"
+    },
+    {
+      "full_name": "Concordium/concordium-desktop-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:25Z"
+    },
+    {
+      "full_name": "Concordium/concordium-euro2ccd-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:27Z"
+    },
+    {
+      "full_name": "Concordium/concordium-go-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-02T03:30:29Z"
+    },
+    {
+      "full_name": "Concordium/concordium-governance-committee-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:30:31Z"
+    },
+    {
+      "full_name": "Concordium/concordium-grpc-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:33Z"
+    },
+    {
+      "full_name": "Concordium/concordium-infra-images",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-02T03:30:35Z"
+    },
+    {
+      "full_name": "Concordium/concordium-java-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Java",
+      "last_checked": "2026-03-02T03:30:36Z"
+    },
+    {
+      "full_name": "Concordium/concordium-json-rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:38Z"
+    },
+    {
+      "full_name": "Concordium/concordium-ledger-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-02T03:30:40Z"
+    },
+    {
+      "full_name": "Concordium/concordium-ledger-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:41Z"
+    },
+    {
+      "full_name": "Concordium/concordium-local-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:41Z"
+    },
+    {
+      "full_name": "Concordium/concordium-misc-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T03:30:43Z"
+    },
+    {
+      "full_name": "Concordium/concordium-mysomeid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-02T03:30:45Z"
+    },
+    {
+      "full_name": "Concordium/concordium-net-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C#",
+      "last_checked": "2026-03-02T03:30:47Z"
+    },
+    {
+      "full_name": "Concordium/concordium-network-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Elm",
+      "last_checked": "2026-03-02T03:30:49Z"
+    },
+    {
+      "full_name": "Concordium/concordium-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 114,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:30:51Z"
+    },
+    {
+      "full_name": "Concordium/concordium-node-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:53Z"
+    },
+    {
+      "full_name": "Concordium/concordium-node-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:55Z"
+    },
+    {
+      "full_name": "Concordium/concordium-nodejs-idp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:30:57Z"
+    },
+    {
+      "full_name": "Concordium/concordium-reference-nft-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:30:57Z"
+    },
+    {
+      "full_name": "Concordium/concordium-reference-wallet-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Kotlin",
+      "last_checked": "2026-03-02T03:30:59Z"
+    },
+    {
+      "full_name": "Concordium/concordium-reference-wallet-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Swift",
+      "last_checked": "2026-03-02T03:31:01Z"
+    },
+    {
+      "full_name": "Concordium/concordium-rosetta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:03Z"
+    },
+    {
+      "full_name": "Concordium/concordium-rust-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:05Z"
+    },
+    {
+      "full_name": "Concordium/concordium-rust-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 135,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:07Z"
+    },
+    {
+      "full_name": "Concordium/concordium-scan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:09Z"
+    },
+    {
+      "full_name": "Concordium/concordium-smart-contract-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:31:11Z"
+    },
+    {
+      "full_name": "Concordium/concordium-swift-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2026-03-02T03:31:12Z"
+    },
+    {
+      "full_name": "Concordium/concordium-transaction-logger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:14Z"
+    },
+    {
+      "full_name": "Concordium/concordium-umbrella-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:16Z"
+    },
+    {
+      "full_name": "Concordium/concordium-update-proposals",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-02T03:31:18Z"
+    },
+    {
+      "full_name": "Concordium/concordium-use-case-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:20Z"
+    },
+    {
+      "full_name": "Concordium/concordium-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Dart",
+      "last_checked": "2026-03-02T03:31:22Z"
+    },
+    {
+      "full_name": "Concordium/concordium-wallet-common-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:31:24Z"
+    },
+    {
+      "full_name": "Concordium/concordium-wallet-crypto-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:26Z"
+    },
+    {
+      "full_name": "Concordium/concordium-wallet-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:31:28Z"
+    },
+    {
+      "full_name": "Concordium/concordium-wasm-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:30Z"
+    },
+    {
+      "full_name": "Concordium/concordium-web3id",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T03:31:32Z"
+    },
+    {
+      "full_name": "Concordium/concordium.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Python",
+      "last_checked": "2026-03-02T03:31:33Z"
+    },
+    {
+      "full_name": "Concordium/cryptox-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Kotlin",
+      "last_checked": "2026-03-02T03:31:35Z"
+    },
+    {
+      "full_name": "Concordium/cryptox-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-02T03:31:37Z"
+    },
+    {
+      "full_name": "Concordium/did-spec-registries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:31:38Z"
+    },
+    {
+      "full_name": "Concordium/electionguard-rust",
+      "is_fork": true,
+      "parent": "microsoft/electionguard-rust",
+      "source": "microsoft/electionguard-rust",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:40Z"
+    },
+    {
+      "full_name": "Concordium/eth-ccd-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:31:40Z"
+    },
+    {
+      "full_name": "Concordium/github-action-changelog-extract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T03:31:42Z"
+    },
+    {
+      "full_name": "Concordium/github-parse-tag",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T03:31:44Z"
+    },
+    {
+      "full_name": "Concordium/guest-author",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T03:31:46Z"
+    },
+    {
+      "full_name": "Concordium/haskell-lmdb",
+      "is_fork": true,
+      "parent": "floopdedoop/haskell-lmdb",
+      "source": "floopdedoop/haskell-lmdb",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:31:48Z"
+    },
+    {
+      "full_name": "Concordium/http2-client",
+      "is_fork": true,
+      "parent": "haskell-grpc-native/http2-client",
+      "source": "haskell-grpc-native/http2-client",
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:31:51Z"
+    },
+    {
+      "full_name": "Concordium/http2-grpc-haskell",
+      "is_fork": true,
+      "parent": "haskell-grpc-native/http2-grpc-haskell",
+      "source": "higherkindness/http2-grpc-haskell",
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-02T03:31:53Z"
+    },
+    {
+      "full_name": "Concordium/noiseexplorer_xx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:31:54Z"
+    },
+    {
+      "full_name": "Concordium/notabene",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:31:56Z"
+    },
+    {
+      "full_name": "Concordium/rosetta-cli",
+      "is_fork": true,
+      "parent": "coinbase/mesh-cli",
+      "source": "coinbase/mesh-cli",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T03:31:58Z"
+    },
+    {
+      "full_name": "Concordium/rosetta-sdk-go",
+      "is_fork": true,
+      "parent": "coinbase/mesh-sdk-go",
+      "source": "coinbase/mesh-sdk-go",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:32:00Z"
+    },
+    {
+      "full_name": "Concordium/rsm-offchain-transfers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:32:01Z"
+    },
+    {
+      "full_name": "Concordium/shebuilds-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:32:03Z"
+    },
+    {
+      "full_name": "Concordium/swift-mobile-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T03:32:03Z"
+    },
+    {
+      "full_name": "Concordium/testnet-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-02T03:32:05Z"
+    },
+    {
+      "full_name": "Concordium/translations-unofficial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-02T03:32:07Z"
+    },
+    {
+      "full_name": "Concordium/voting-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:32:09Z"
+    },
+    {
+      "full_name": "Concordium/wasm-tools",
+      "is_fork": true,
+      "parent": "bytecodealliance/wasm-tools",
+      "source": "bytecodealliance/wasm-tools",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T03:32:11Z"
+    },
+    {
+      "full_name": "Concordium/workshops-and-hackathons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-02T03:32:13Z"
+    }
+  ]
+}
