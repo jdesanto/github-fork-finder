@@ -1,0 +1,654 @@
+{
+  "owner": "dodoex",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "DODOEX/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:32:39Z"
+    },
+    {
+      "full_name": "DODOEX/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:32:41Z"
+    },
+    {
+      "full_name": "DODOEX/LlamaSwap-interface",
+      "is_fork": true,
+      "parent": "LlamaSwap/interface",
+      "source": "LlamaSwap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:32:43Z"
+    },
+    {
+      "full_name": "DODOEX/Uniswap-swap-router-contracts",
+      "is_fork": true,
+      "parent": "Uniswap/swap-router-contracts",
+      "source": "Uniswap/swap-router-contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:46Z"
+    },
+    {
+      "full_name": "DODOEX/Uniswap-v2-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:48Z"
+    },
+    {
+      "full_name": "DODOEX/Uniswap-v2-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v2-periphery",
+      "source": "Uniswap/v2-periphery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:50Z"
+    },
+    {
+      "full_name": "DODOEX/Uniswap-v3-core",
+      "is_fork": true,
+      "parent": "Uniswap/v3-core",
+      "source": "Uniswap/v3-core",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:52Z"
+    },
+    {
+      "full_name": "DODOEX/Uniswap-v3-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v3-periphery",
+      "source": "Uniswap/v3-periphery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:54Z"
+    },
+    {
+      "full_name": "DODOEX/abstractions",
+      "is_fork": true,
+      "parent": "duneanalytics/spellbook",
+      "source": "duneanalytics/spellbook",
+      "stars": 0,
+      "language": "PLpgSQL",
+      "last_checked": "2026-03-02T20:32:56Z"
+    },
+    {
+      "full_name": "DODOEX/alita",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:32:56Z"
+    },
+    {
+      "full_name": "DODOEX/alita-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:32:58Z"
+    },
+    {
+      "full_name": "DODOEX/chainlist",
+      "is_fork": true,
+      "parent": "DefiLlama/chainlist",
+      "source": "DefiLlama/chainlist",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:33:00Z"
+    },
+    {
+      "full_name": "DODOEX/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-02T20:33:02Z"
+    },
+    {
+      "full_name": "DODOEX/cn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:33:04Z"
+    },
+    {
+      "full_name": "DODOEX/contract-request",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:06Z"
+    },
+    {
+      "full_name": "DODOEX/contractV2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 165,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:08Z"
+    },
+    {
+      "full_name": "DODOEX/contractV2-ovm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:10Z"
+    },
+    {
+      "full_name": "DODOEX/dRPC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:10Z"
+    },
+    {
+      "full_name": "DODOEX/dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:12Z"
+    },
+    {
+      "full_name": "DODOEX/docker-yapi",
+      "is_fork": true,
+      "parent": "AutarkXu/docker-yapi",
+      "source": "AutarkXu/docker-yapi",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:14Z"
+    },
+    {
+      "full_name": "DODOEX/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:33:16Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:18Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-bridge-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:20Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:21Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:22Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-gassaving-pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:24Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-limit-order",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:26Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-route-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:28Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 150,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:30Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-the-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:32Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:34Z"
+    },
+    {
+      "full_name": "DODOEX/dodo-young",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:35Z"
+    },
+    {
+      "full_name": "DODOEX/dodoex_v2_subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:36Z"
+    },
+    {
+      "full_name": "DODOEX/duneanalytics-projects",
+      "is_fork": true,
+      "parent": "duneanalytics/projects",
+      "source": "duneanalytics/projects",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:33:38Z"
+    },
+    {
+      "full_name": "DODOEX/etcdkeeper",
+      "is_fork": true,
+      "parent": "evildecay/etcdkeeper",
+      "source": "evildecay/etcdkeeper",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:33:40Z"
+    },
+    {
+      "full_name": "DODOEX/ethereum-blocks",
+      "is_fork": true,
+      "parent": "blocklytics/ethereum-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:43Z"
+    },
+    {
+      "full_name": "DODOEX/ethereum-tx-sender",
+      "is_fork": true,
+      "parent": "HydroProtocol/ethereum-tx-sender",
+      "source": "HydroProtocol/ethereum-tx-sender",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:45Z"
+    },
+    {
+      "full_name": "DODOEX/extension-widgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:45Z"
+    },
+    {
+      "full_name": "DODOEX/gitCoinGrant",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:47Z"
+    },
+    {
+      "full_name": "DODOEX/go-ethereum",
+      "is_fork": true,
+      "parent": "streamingfast/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:49Z"
+    },
+    {
+      "full_name": "DODOEX/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:51Z"
+    },
+    {
+      "full_name": "DODOEX/hackathon-2021-spring",
+      "is_fork": true,
+      "parent": "substrate-asia/hackathon-2021-spring",
+      "source": "substrate-asia/hackathon-2021-spring",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:33:53Z"
+    },
+    {
+      "full_name": "DODOEX/hyperlane-registry",
+      "is_fork": true,
+      "parent": "hyperlane-xyz/hyperlane-registry",
+      "source": "hyperlane-xyz/hyperlane-registry",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:33:55Z"
+    },
+    {
+      "full_name": "DODOEX/json-rpc-proxy",
+      "is_fork": true,
+      "parent": "RequestNetwork/json-rpc-proxy",
+      "source": "RequestNetwork/json-rpc-proxy",
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-02T20:33:57Z"
+    },
+    {
+      "full_name": "DODOEX/konva",
+      "is_fork": true,
+      "parent": "konvajs/konva",
+      "source": "konvajs/konva",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T20:33:59Z"
+    },
+    {
+      "full_name": "DODOEX/l2-lxp-liquidity-reward",
+      "is_fork": true,
+      "parent": "delta-hq/l2-lxp-liquidity-reward",
+      "source": "delta-hq/l2-lxp-liquidity-reward",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:01Z"
+    },
+    {
+      "full_name": "DODOEX/ledger-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:34:03Z"
+    },
+    {
+      "full_name": "DODOEX/messari_subgraphs",
+      "is_fork": true,
+      "parent": "messari/subgraphs",
+      "source": "messari/subgraphs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:05Z"
+    },
+    {
+      "full_name": "DODOEX/oracle-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-02T20:34:07Z"
+    },
+    {
+      "full_name": "DODOEX/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:09Z"
+    },
+    {
+      "full_name": "DODOEX/rfq_maker_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T20:34:11Z"
+    },
+    {
+      "full_name": "DODOEX/safe-client-gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:12Z"
+    },
+    {
+      "full_name": "DODOEX/safe-deployments",
+      "is_fork": true,
+      "parent": "safe-global/safe-deployments",
+      "source": "safe-global/safe-deployments",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:14Z"
+    },
+    {
+      "full_name": "DODOEX/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:16Z"
+    },
+    {
+      "full_name": "DODOEX/safe-react",
+      "is_fork": true,
+      "parent": "AxeAfk/safe-react",
+      "source": "5afe/safe-react",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:18Z"
+    },
+    {
+      "full_name": "DODOEX/safe-wallet-web",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:20Z"
+    },
+    {
+      "full_name": "DODOEX/scan-contract-verify-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:22Z"
+    },
+    {
+      "full_name": "DODOEX/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 1,
+      "language": "SCSS",
+      "last_checked": "2026-03-02T20:34:24Z"
+    },
+    {
+      "full_name": "DODOEX/status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:24Z"
+    },
+    {
+      "full_name": "DODOEX/token-price-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T20:34:26Z"
+    },
+    {
+      "full_name": "DODOEX/token-profile",
+      "is_fork": true,
+      "parent": "consenlabs/token-profile",
+      "source": "consenlabs/token-profile",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:28Z"
+    },
+    {
+      "full_name": "DODOEX/transaction-launcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:29Z"
+    },
+    {
+      "full_name": "DODOEX/tvl-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:29Z"
+    },
+    {
+      "full_name": "DODOEX/viem",
+      "is_fork": true,
+      "parent": "wevm/viem",
+      "source": "wevm/viem",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:31Z"
+    },
+    {
+      "full_name": "DODOEX/web3-provider-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:31Z"
+    },
+    {
+      "full_name": "DODOEX/web3-rpc-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:33Z"
+    },
+    {
+      "full_name": "DODOEX/web3-rpc-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Go",
+      "last_checked": "2026-03-02T20:34:35Z"
+    },
+    {
+      "full_name": "DODOEX/widget-preview",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:37Z"
+    },
+    {
+      "full_name": "DODOEX/widgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:34:39Z"
+    },
+    {
+      "full_name": "DODOEX/widgets-single-chain-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:39Z"
+    },
+    {
+      "full_name": "DODOEX/xprofiler-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:39Z"
+    },
+    {
+      "full_name": "DODOEX/zetachain-gateway-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:34:40Z"
+    }
+  ]
+}

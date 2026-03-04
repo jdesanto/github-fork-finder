@@ -1,7 +1,16 @@
 {
   "owner": "azure",
-  "updated_at": "2026-03-01T21:50:14Z",
+  "updated_at": "2026-03-04T03:37:28Z",
   "repos": [
+    {
+      "full_name": "Azure/azure-cli-extensions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 430,
+      "language": "Python",
+      "last_checked": "2026-03-04T03:26:26Z"
+    },
     {
       "full_name": "Azure/cosmos-sign",
       "is_fork": false,
@@ -10,6 +19,15 @@
       "stars": 7,
       "language": "TypeScript",
       "last_checked": "2026-03-01T10:28:16Z"
+    },
+    {
+      "full_name": "Azure/msrestazure-for-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Python",
+      "last_checked": "2026-03-04T03:26:28Z"
     }
   ]
 }

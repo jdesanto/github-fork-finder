@@ -1,0 +1,492 @@
+{
+  "owner": "crossbell-box",
+  "updated_at": "2026-03-04T03:37:30Z",
+  "repos": [
+    {
+      "full_name": "Crossbell-Box/CIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-02T18:46:33Z"
+    },
+    {
+      "full_name": "Crossbell-Box/CrossSync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Vue",
+      "last_checked": "2026-03-02T18:46:35Z"
+    },
+    {
+      "full_name": "Crossbell-Box/Crossbell-Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:46:37Z"
+    },
+    {
+      "full_name": "Crossbell-Box/OperatorSync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:46:39Z"
+    },
+    {
+      "full_name": "Crossbell-Box/blockscout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-02T18:46:40Z"
+    },
+    {
+      "full_name": "Crossbell-Box/bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:46:42Z"
+    },
+    {
+      "full_name": "Crossbell-Box/bridge-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:46:43Z"
+    },
+    {
+      "full_name": "Crossbell-Box/bridge-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:46:45Z"
+    },
+    {
+      "full_name": "Crossbell-Box/bridge-migrations",
+      "is_fork": true,
+      "parent": "axieinfinity/bridge-migrations",
+      "source": "axieinfinity/bridge-migrations",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:46:47Z"
+    },
+    {
+      "full_name": "Crossbell-Box/cdk-data-availability",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-data-availability",
+      "source": "0xPolygon/cdk-data-availability",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:46:49Z"
+    },
+    {
+      "full_name": "Crossbell-Box/cdk-validium-node",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:46:51Z"
+    },
+    {
+      "full_name": "Crossbell-Box/chainlist",
+      "is_fork": true,
+      "parent": "DefiLlama/chainlist",
+      "source": "DefiLlama/chainlist",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:46:53Z"
+    },
+    {
+      "full_name": "Crossbell-Box/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-02T18:46:55Z"
+    },
+    {
+      "full_name": "Crossbell-Box/contracts.go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:46:57Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-app-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:46:59Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-bridge-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:47:01Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-ipfs-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:03Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-marketplace-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:47:06Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:08Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell-universe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:10Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:12Z"
+    },
+    {
+      "full_name": "Crossbell-Box/crossbell.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:14Z"
+    },
+    {
+      "full_name": "Crossbell-Box/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-02T18:47:15Z"
+    },
+    {
+      "full_name": "Crossbell-Box/export",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:18Z"
+    },
+    {
+      "full_name": "Crossbell-Box/go-http-fileserver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:47:20Z"
+    },
+    {
+      "full_name": "Crossbell-Box/hardhat",
+      "is_fork": true,
+      "parent": "NomicFoundation/hardhat",
+      "source": "NomicFoundation/hardhat",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:22Z"
+    },
+    {
+      "full_name": "Crossbell-Box/indexer-swr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:47:24Z"
+    },
+    {
+      "full_name": "Crossbell-Box/io-sitemap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:47:26Z"
+    },
+    {
+      "full_name": "Crossbell-Box/liteSync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:47:27Z"
+    },
+    {
+      "full_name": "Crossbell-Box/mastodon",
+      "is_fork": true,
+      "parent": "mastodon/mastodon",
+      "source": "mastodon/mastodon",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-02T18:47:30Z"
+    },
+    {
+      "full_name": "Crossbell-Box/mira",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:31Z"
+    },
+    {
+      "full_name": "Crossbell-Box/newbie-villa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:33Z"
+    },
+    {
+      "full_name": "Crossbell-Box/operator-sign",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:35Z"
+    },
+    {
+      "full_name": "Crossbell-Box/relay",
+      "is_fork": true,
+      "parent": "WalletConnect/relay",
+      "source": "WalletConnect/relay",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:37Z"
+    },
+    {
+      "full_name": "Crossbell-Box/safe-core-sdk",
+      "is_fork": true,
+      "parent": "safe-global/safe-core-sdk",
+      "source": "safe-global/safe-core-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:40Z"
+    },
+    {
+      "full_name": "Crossbell-Box/safe-deployments",
+      "is_fork": true,
+      "parent": "safe-global/safe-deployments",
+      "source": "safe-global/safe-deployments",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:42Z"
+    },
+    {
+      "full_name": "Crossbell-Box/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:47:44Z"
+    },
+    {
+      "full_name": "Crossbell-Box/safe-k8s",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-02T18:47:46Z"
+    },
+    {
+      "full_name": "Crossbell-Box/safe-transaction-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-transaction-service",
+      "source": "safe-global/safe-transaction-service",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:47:48Z"
+    },
+    {
+      "full_name": "Crossbell-Box/superchain-registry",
+      "is_fork": true,
+      "parent": "ethereum-optimism/superchain-registry",
+      "source": "ethereum-optimism/superchain-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:47:50Z"
+    },
+    {
+      "full_name": "Crossbell-Box/sync-landing-page",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:47:52Z"
+    },
+    {
+      "full_name": "Crossbell-Box/telegram2crossbell",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:54Z"
+    },
+    {
+      "full_name": "Crossbell-Box/twitter2crossbell",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:47:56Z"
+    },
+    {
+      "full_name": "Crossbell-Box/upgrade-via-multisigwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:47:58Z"
+    },
+    {
+      "full_name": "Crossbell-Box/web-core",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:00Z"
+    },
+    {
+      "full_name": "Crossbell-Box/website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:02Z"
+    },
+    {
+      "full_name": "Crossbell-Box/wechat2crossbell",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:04Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xChar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:06Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xLog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2695,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:07Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xLog-Obsidian",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:09Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xLog-caddy",
+      "is_fork": true,
+      "parent": "sljeff/caddy-tlsredis-docker",
+      "source": "sljeff/caddy-tlsredis-docker",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:48:12Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xLog-mobile",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 163,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:14Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xShop-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:48:15Z"
+    },
+    {
+      "full_name": "Crossbell-Box/xSync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:48:17Z"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "owner": "cozy-finance",
+  "updated_at": "2026-03-04T03:37:30Z",
+  "repos": [
+    {
+      "full_name": "Cozy-Finance/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:21Z"
+    },
+    {
+      "full_name": "Cozy-Finance/LFT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:22Z"
+    },
+    {
+      "full_name": "Cozy-Finance/agent-buttercup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "Rust",
+      "last_checked": "2026-03-02T18:26:24Z"
+    },
+    {
+      "full_name": "Cozy-Finance/agent-smith",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "Rust",
+      "last_checked": "2026-03-02T18:26:27Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-developer-guides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:26:29Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-developer-guides-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:31Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-interfaces-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:32Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-models-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:34Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-models-v2-simulation",
+      "is_fork": true,
+      "parent": "Cozy-Finance/cozy-models-v2",
+      "source": "Cozy-Finance/cozy-models-v2",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:36Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:37Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-developer-guides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:39Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:41Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-metadata-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:44Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-models",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:46Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-rewards-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:48Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-shared",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:50Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-safety-module-triggers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:52Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-token-buyer-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:52Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-trigger-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:53Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-triggers-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:55Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cozy-triggers-v2-simulation",
+      "is_fork": true,
+      "parent": "Cozy-Finance/cozy-triggers-v2",
+      "source": "Cozy-Finance/cozy-triggers-v2",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:26:57Z"
+    },
+    {
+      "full_name": "Cozy-Finance/cross-chain-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:57Z"
+    },
+    {
+      "full_name": "Cozy-Finance/invest-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T18:26:59Z"
+    },
+    {
+      "full_name": "Cozy-Finance/market-lists",
+      "is_fork": true,
+      "parent": "Uniswap/token-lists",
+      "source": "Uniswap/token-lists",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:27:01Z"
+    },
+    {
+      "full_name": "Cozy-Finance/platform-ids",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:27:03Z"
+    },
+    {
+      "full_name": "Cozy-Finance/simulation-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "Rust",
+      "last_checked": "2026-03-02T18:27:06Z"
+    }
+  ]
+}

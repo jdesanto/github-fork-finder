@@ -1,0 +1,600 @@
+{
+  "owner": "curioteam",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "CurioTeam/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:32:04Z"
+    },
+    {
+      "full_name": "CurioTeam/aragon-fundraising",
+      "is_fork": true,
+      "parent": "galtproject/aragon-fundraising",
+      "source": "galtproject/aragon-fundraising",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:06Z"
+    },
+    {
+      "full_name": "CurioTeam/autograph-parachain-ts-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:08Z"
+    },
+    {
+      "full_name": "CurioTeam/bridge-assets",
+      "is_fork": true,
+      "parent": "aurora-is-near/bridge-assets",
+      "source": "aurora-is-near/bridge-assets",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T19:32:10Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:12Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-core-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:14Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-parachain-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:32:16Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:32:18Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:32:20Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:22Z"
+    },
+    {
+      "full_name": "CurioTeam/capital-dex-ton-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:22Z"
+    },
+    {
+      "full_name": "CurioTeam/csc-community",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:24Z"
+    },
+    {
+      "full_name": "CurioTeam/csc-plugin-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:26Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:28Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-parachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T19:32:30Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-parachain-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:30Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-parachain-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:32Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-parachain-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T19:32:34Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-parachain-ts-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:36Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-stablecoin-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:38Z"
+    },
+    {
+      "full_name": "CurioTeam/curio-stablecoin-security-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:40Z"
+    },
+    {
+      "full_name": "CurioTeam/curiocar-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:42Z"
+    },
+    {
+      "full_name": "CurioTeam/curioinvest-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:44Z"
+    },
+    {
+      "full_name": "CurioTeam/dai-plugin-mcd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:32:46Z"
+    },
+    {
+      "full_name": "CurioTeam/daico-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:48Z"
+    },
+    {
+      "full_name": "CurioTeam/ds-chief",
+      "is_fork": true,
+      "parent": "sky-ecosystem/ds-chief",
+      "source": "dapphub/ds-chief",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:50Z"
+    },
+    {
+      "full_name": "CurioTeam/ds-pause",
+      "is_fork": true,
+      "parent": "sky-ecosystem/ds-pause",
+      "source": "dapphub/ds-pause",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:52Z"
+    },
+    {
+      "full_name": "CurioTeam/ds-token",
+      "is_fork": true,
+      "parent": "sky-ecosystem/ds-token",
+      "source": "dapphub/ds-token",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:54Z"
+    },
+    {
+      "full_name": "CurioTeam/dsr-manager",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dsr-manager",
+      "source": "sky-ecosystem/dsr-manager",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:32:56Z"
+    },
+    {
+      "full_name": "CurioTeam/dss",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss",
+      "source": "sky-ecosystem/dss",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:32:58Z"
+    },
+    {
+      "full_name": "CurioTeam/dss-cdp-manager",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-cdp-manager",
+      "source": "sky-ecosystem/dss-cdp-manager",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:01Z"
+    },
+    {
+      "full_name": "CurioTeam/dss-deploy",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-deploy",
+      "source": "sky-ecosystem/dss-deploy",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:03Z"
+    },
+    {
+      "full_name": "CurioTeam/dss-deploy-pause-proxy-actions",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-deploy-pause-proxy-actions",
+      "source": "sky-ecosystem/dss-deploy-pause-proxy-actions",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:05Z"
+    },
+    {
+      "full_name": "CurioTeam/dss-deploy-scripts",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-deploy-scripts",
+      "source": "sky-ecosystem/dss-deploy-scripts",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-02T19:33:07Z"
+    },
+    {
+      "full_name": "CurioTeam/dss-proxy-actions",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-proxy-actions",
+      "source": "sky-ecosystem/dss-proxy-actions",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:09Z"
+    },
+    {
+      "full_name": "CurioTeam/esm",
+      "is_fork": true,
+      "parent": "sky-ecosystem/esm",
+      "source": "sky-ecosystem/esm",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:11Z"
+    },
+    {
+      "full_name": "CurioTeam/ethcc-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:13Z"
+    },
+    {
+      "full_name": "CurioTeam/flipper-mom",
+      "is_fork": true,
+      "parent": "sky-ecosystem/flipper-mom",
+      "source": "sky-ecosystem/flipper-mom",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:15Z"
+    },
+    {
+      "full_name": "CurioTeam/ilk-registry",
+      "is_fork": true,
+      "parent": "sky-ecosystem/ilk-registry",
+      "source": "sky-ecosystem/ilk-registry",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:17Z"
+    },
+    {
+      "full_name": "CurioTeam/ink-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T19:33:19Z"
+    },
+    {
+      "full_name": "CurioTeam/l2ton-parachain-ts-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:20Z"
+    },
+    {
+      "full_name": "CurioTeam/maker-ui-components-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:22Z"
+    },
+    {
+      "full_name": "CurioTeam/makerpkgs",
+      "is_fork": true,
+      "parent": "sky-ecosystem/makerpkgs",
+      "source": "sky-ecosystem/makerpkgs",
+      "stars": 0,
+      "language": "Nix",
+      "last_checked": "2026-03-02T19:33:24Z"
+    },
+    {
+      "full_name": "CurioTeam/mcd-cdp-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:33:26Z"
+    },
+    {
+      "full_name": "CurioTeam/median",
+      "is_fork": true,
+      "parent": "sky-ecosystem/median",
+      "source": "sky-ecosystem/median",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:28Z"
+    },
+    {
+      "full_name": "CurioTeam/mkr-authority",
+      "is_fork": true,
+      "parent": "sky-ecosystem/mkr-authority",
+      "source": "sky-ecosystem/mkr-authority",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:30Z"
+    },
+    {
+      "full_name": "CurioTeam/mt-pelerin-assets",
+      "is_fork": true,
+      "parent": "MtPelerin/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:33:32Z"
+    },
+    {
+      "full_name": "CurioTeam/multicall",
+      "is_fork": true,
+      "parent": "sky-ecosystem/multicall",
+      "source": "sky-ecosystem/multicall",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:34Z"
+    },
+    {
+      "full_name": "CurioTeam/neon-token-list",
+      "is_fork": true,
+      "parent": "neonlabsorg/token-list",
+      "source": "neonlabsorg/token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:36Z"
+    },
+    {
+      "full_name": "CurioTeam/nova-utils",
+      "is_fork": true,
+      "parent": "novasamatech/nova-utils",
+      "source": "novasamatech/nova-utils",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:38Z"
+    },
+    {
+      "full_name": "CurioTeam/one-way-erc20-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:33:40Z"
+    },
+    {
+      "full_name": "CurioTeam/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T19:33:42Z"
+    },
+    {
+      "full_name": "CurioTeam/oracle-source",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:44Z"
+    },
+    {
+      "full_name": "CurioTeam/osm",
+      "is_fork": true,
+      "parent": "sky-ecosystem/osm",
+      "source": "sky-ecosystem/osm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:46Z"
+    },
+    {
+      "full_name": "CurioTeam/osm-mom",
+      "is_fork": true,
+      "parent": "sky-ecosystem/osm-mom",
+      "source": "sky-ecosystem/osm-mom",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:48Z"
+    },
+    {
+      "full_name": "CurioTeam/projects-info",
+      "is_fork": true,
+      "parent": "subscan-explorer/projects-info",
+      "source": "subscan-explorer/projects-info",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:50Z"
+    },
+    {
+      "full_name": "CurioTeam/proxy-registry",
+      "is_fork": true,
+      "parent": "sky-ecosystem/proxy-registry",
+      "source": "sky-ecosystem/proxy-registry",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:33:52Z"
+    },
+    {
+      "full_name": "CurioTeam/security-token-contracts",
+      "is_fork": true,
+      "parent": "galtproject/security-token-contracts",
+      "source": "galtproject/security-token-contracts",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:33:54Z"
+    },
+    {
+      "full_name": "CurioTeam/security-token-contracts-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:33:56Z"
+    },
+    {
+      "full_name": "CurioTeam/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:33:58Z"
+    },
+    {
+      "full_name": "CurioTeam/symbolic-voting",
+      "is_fork": true,
+      "parent": "sky-ecosystem/symbolic-voting",
+      "source": "sky-ecosystem/symbolic-voting",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:34:00Z"
+    },
+    {
+      "full_name": "CurioTeam/testchain-medians",
+      "is_fork": true,
+      "parent": "sky-ecosystem/testchain-medians",
+      "source": "sky-ecosystem/testchain-medians",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:34:03Z"
+    },
+    {
+      "full_name": "CurioTeam/token-faucet",
+      "is_fork": true,
+      "parent": "sky-ecosystem/token-faucet",
+      "source": "sky-ecosystem/token-faucet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:34:05Z"
+    },
+    {
+      "full_name": "CurioTeam/ton-assets",
+      "is_fork": true,
+      "parent": "tonkeeper/ton-assets",
+      "source": "tonkeeper/ton-assets",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T19:34:07Z"
+    },
+    {
+      "full_name": "CurioTeam/vote-proxy",
+      "is_fork": true,
+      "parent": "sky-ecosystem/vote-proxy",
+      "source": "sky-ecosystem/vote-proxy",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:34:09Z"
+    },
+    {
+      "full_name": "CurioTeam/whitelisted-tokensale",
+      "is_fork": true,
+      "parent": "galtproject/whitelisted-tokensale",
+      "source": "galtproject/whitelisted-tokensale",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:34:11Z"
+    }
+  ]
+}

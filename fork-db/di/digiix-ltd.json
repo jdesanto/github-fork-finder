@@ -1,0 +1,24 @@
+{
+  "owner": "digiix-ltd",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "DIGIIX-Ltd/stellar-core",
+      "is_fork": true,
+      "parent": "stellar/stellar-core",
+      "source": "stellar/stellar-core",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-02T20:22:01Z"
+    },
+    {
+      "full_name": "DIGIIX-Ltd/stellar-protocol",
+      "is_fork": true,
+      "parent": "stellar/stellar-protocol",
+      "source": "stellar/stellar-protocol",
+      "stars": 1,
+      "language": "RPC",
+      "last_checked": "2026-03-02T20:22:03Z"
+    }
+  ]
+}

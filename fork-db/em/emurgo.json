@@ -1,0 +1,33 @@
+{
+  "owner": "emurgo",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "Emurgo/cardano-http-bridge",
+      "is_fork": true,
+      "parent": "input-output-hk/cardano-http-bridge",
+      "source": "input-output-hk/cardano-http-bridge",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-04T03:31:28Z"
+    },
+    {
+      "full_name": "Emurgo/cardano-serialization-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 250,
+      "language": "Rust",
+      "last_checked": "2026-03-04T03:31:30Z"
+    },
+    {
+      "full_name": "Emurgo/csl-mobile-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "C++",
+      "last_checked": "2026-03-04T03:31:32Z"
+    }
+  ]
+}

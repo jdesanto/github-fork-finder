@@ -1,0 +1,96 @@
+{
+  "owner": "cubfinance",
+  "updated_at": "2026-03-04T03:37:30Z",
+  "repos": [
+    {
+      "full_name": "CubFinance/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:27:13Z"
+    },
+    {
+      "full_name": "CubFinance/cub-api",
+      "is_fork": true,
+      "parent": "goosedefi/goose-api",
+      "source": "goosedefi/goose-api",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:27:15Z"
+    },
+    {
+      "full_name": "CubFinance/cub-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:17Z"
+    },
+    {
+      "full_name": "CubFinance/cub-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:19Z"
+    },
+    {
+      "full_name": "CubFinance/cub-frontend-amm",
+      "is_fork": true,
+      "parent": "goosedefi/goose-frontend-amm",
+      "source": "goosedefi/goose-frontend-amm",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:21Z"
+    },
+    {
+      "full_name": "CubFinance/cub-uikit",
+      "is_fork": true,
+      "parent": "bobadefi/boba-uikit",
+      "source": "bobadefi/boba-uikit",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:23Z"
+    },
+    {
+      "full_name": "CubFinance/cub-uikit-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:25Z"
+    },
+    {
+      "full_name": "CubFinance/pancake-uikit",
+      "is_fork": true,
+      "parent": "pancakeswap/pancake-uikit",
+      "source": "pancakeswap/pancake-uikit",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:27Z"
+    },
+    {
+      "full_name": "CubFinance/polycub-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:27:29Z"
+    },
+    {
+      "full_name": "CubFinance/polycub-uikit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T19:27:31Z"
+    }
+  ]
+}

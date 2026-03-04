@@ -1,0 +1,51 @@
+{
+  "owner": "cycleprotocol",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "CycleProtocol/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:44:42Z"
+    },
+    {
+      "full_name": "CycleProtocol/bridge-tokens",
+      "is_fork": true,
+      "parent": "ava-labs/bridge-tokens",
+      "source": "ava-labs/bridge-tokens",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T19:44:44Z"
+    },
+    {
+      "full_name": "CycleProtocol/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T19:44:46Z"
+    },
+    {
+      "full_name": "CycleProtocol/holders",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T19:44:48Z"
+    },
+    {
+      "full_name": "CycleProtocol/tokenlists",
+      "is_fork": true,
+      "parent": "pangolindex/tokenlists",
+      "source": "pangolindex/tokenlists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T19:44:50Z"
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "owner": "consensys-academy",
-  "updated_at": "2026-03-02T06:09:39Z",
+  "updated_at": "2026-03-04T03:37:30Z",
   "repos": [
+    {
+      "full_name": "ConsenSys-Academy/Blockchain-Developer-Bootcamp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 580,
+      "language": "CSS",
+      "last_checked": "2026-03-04T03:28:20Z"
+    },
     {
       "full_name": "ConsenSys-Academy/Infura-Celo-Dapp",
       "is_fork": false,
@@ -19,6 +28,15 @@
       "stars": 2,
       "language": "TypeScript",
       "last_checked": "2026-03-02T03:39:07Z"
+    },
+    {
+      "full_name": "ConsenSys-Academy/geth-poa-tutorial",
+      "is_fork": true,
+      "parent": "cooganb/geth-poa-tutorial",
+      "source": "cooganb/geth-poa-tutorial",
+      "stars": 21,
+      "language": "Shell",
+      "last_checked": "2026-03-04T03:28:22Z"
     }
   ]
 }

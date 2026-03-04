@@ -1,0 +1,384 @@
+{
+  "owner": "creamfi",
+  "updated_at": "2026-03-04T03:37:30Z",
+  "repos": [
+    {
+      "full_name": "CreamFi/CoinGecko-API",
+      "is_fork": true,
+      "parent": "padamshrestha/CoinGecko-API",
+      "source": "padamshrestha/CoinGecko-API",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:30:55Z"
+    },
+    {
+      "full_name": "CreamFi/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:30:57Z"
+    },
+    {
+      "full_name": "CreamFi/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:30:59Z"
+    },
+    {
+      "full_name": "CreamFi/MetaGovBot",
+      "is_fork": true,
+      "parent": "ncitron/MetaGovBot",
+      "source": "ncitron/MetaGovBot",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:31:01Z"
+    },
+    {
+      "full_name": "CreamFi/Open-Defi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:03Z"
+    },
+    {
+      "full_name": "CreamFi/Snapshot-Distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:05Z"
+    },
+    {
+      "full_name": "CreamFi/ape-safe",
+      "is_fork": true,
+      "parent": "banteg/brownie-safe",
+      "source": "banteg/brownie-safe",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:31:07Z"
+    },
+    {
+      "full_name": "CreamFi/assets",
+      "is_fork": true,
+      "parent": "sushiswap/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:09Z"
+    },
+    {
+      "full_name": "CreamFi/balancer-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:11Z"
+    },
+    {
+      "full_name": "CreamFi/collateral-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:13Z"
+    },
+    {
+      "full_name": "CreamFi/compound-protocol",
+      "is_fork": true,
+      "parent": "compound-finance/compound-protocol",
+      "source": "compound-finance/compound-protocol",
+      "stars": 33,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:15Z"
+    },
+    {
+      "full_name": "CreamFi/compound-v2-subgraph",
+      "is_fork": true,
+      "parent": "graphprotocol/compound-v2-subgraph",
+      "source": "compound-finance/compound-v2-subgraph",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:31:18Z"
+    },
+    {
+      "full_name": "CreamFi/comptroller-upgrade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:19Z"
+    },
+    {
+      "full_name": "CreamFi/contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:31:22Z"
+    },
+    {
+      "full_name": "CreamFi/cream-deployment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:23Z"
+    },
+    {
+      "full_name": "CreamFi/cream-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:25Z"
+    },
+    {
+      "full_name": "CreamFi/cream-tokenomics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:26Z"
+    },
+    {
+      "full_name": "CreamFi/cream-voting-power",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:31:28Z"
+    },
+    {
+      "full_name": "CreamFi/crslp-sushi-vesting-query",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:31:30Z"
+    },
+    {
+      "full_name": "CreamFi/curve-dao-contracts",
+      "is_fork": true,
+      "parent": "curvefi/curve-dao-contracts",
+      "source": "curvefi/curve-dao-contracts",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:31:32Z"
+    },
+    {
+      "full_name": "CreamFi/dsa-connectors",
+      "is_fork": true,
+      "parent": "Instadapp/dsa-connectors",
+      "source": "Instadapp/dsa-connectors",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:34Z"
+    },
+    {
+      "full_name": "CreamFi/dsa-resolvers",
+      "is_fork": true,
+      "parent": "mubaris/dsa-resolvers",
+      "source": "mubaris/dsa-resolvers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:36Z"
+    },
+    {
+      "full_name": "CreamFi/flashloan-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:38Z"
+    },
+    {
+      "full_name": "CreamFi/forta-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:38Z"
+    },
+    {
+      "full_name": "CreamFi/forta-agent-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:38Z"
+    },
+    {
+      "full_name": "CreamFi/ftm-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:40Z"
+    },
+    {
+      "full_name": "CreamFi/hardhat-deploy-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:31:42Z"
+    },
+    {
+      "full_name": "CreamFi/ib-agreement",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:31:44Z"
+    },
+    {
+      "full_name": "CreamFi/keep3r.network",
+      "is_fork": true,
+      "parent": "keep3r-network/keep3r.network",
+      "source": "keep3r-network/keep3r.network",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:47Z"
+    },
+    {
+      "full_name": "CreamFi/liquidity-mining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:31:49Z"
+    },
+    {
+      "full_name": "CreamFi/reserve-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:31:51Z"
+    },
+    {
+      "full_name": "CreamFi/smart-contract-registry",
+      "is_fork": true,
+      "parent": "laurenceday/smart-contract-registry",
+      "source": "laurenceday/smart-contract-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:53Z"
+    },
+    {
+      "full_name": "CreamFi/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:55Z"
+    },
+    {
+      "full_name": "CreamFi/snapshot-strategies",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot-strategies",
+      "source": "snapshot-labs/snapshot-strategies",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:31:57Z"
+    },
+    {
+      "full_name": "CreamFi/snapshot.js",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot.js",
+      "source": "snapshot-labs/snapshot.js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:31:59Z"
+    },
+    {
+      "full_name": "CreamFi/solidly",
+      "is_fork": true,
+      "parent": "stephenbyrne99/solidly",
+      "source": "stephenbyrne99/solidly",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:32:01Z"
+    },
+    {
+      "full_name": "CreamFi/validator-directory",
+      "is_fork": true,
+      "parent": "bnb-chain/validator-directory",
+      "source": "bnb-chain/validator-directory",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:32:03Z"
+    },
+    {
+      "full_name": "CreamFi/yearn-assets",
+      "is_fork": true,
+      "parent": "yearn/yearn-assets",
+      "source": "yearn/yearn-assets",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-02T18:32:05Z"
+    },
+    {
+      "full_name": "CreamFi/yearn-finance-v3",
+      "is_fork": true,
+      "parent": "yearn/yearn-finance-v3",
+      "source": "yearn/yearn-finance-v3",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:32:07Z"
+    },
+    {
+      "full_name": "CreamFi/yearn-lens",
+      "is_fork": true,
+      "parent": "yearn/yearn-lens",
+      "source": "yearn/yearn-lens",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:32:09Z"
+    },
+    {
+      "full_name": "CreamFi/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:32:11Z"
+    },
+    {
+      "full_name": "CreamFi/yieldfarming",
+      "is_fork": true,
+      "parent": "yieldfarming/yieldfarming",
+      "source": "yieldfarming/yieldfarming",
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-02T18:32:13Z"
+    }
+  ]
+}

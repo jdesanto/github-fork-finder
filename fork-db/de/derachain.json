@@ -1,0 +1,105 @@
+{
+  "owner": "derachain",
+  "updated_at": "2026-03-04T03:37:31Z",
+  "repos": [
+    {
+      "full_name": "DERACHAIN/Demo-AA-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:17:01Z"
+    },
+    {
+      "full_name": "DERACHAIN/aa-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:17:03Z"
+    },
+    {
+      "full_name": "DERACHAIN/avalanche-faucet",
+      "is_fork": true,
+      "parent": "ava-labs/avalanche-faucet",
+      "source": "ava-labs/avalanche-faucet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:05Z"
+    },
+    {
+      "full_name": "DERACHAIN/avalanchego",
+      "is_fork": true,
+      "parent": "ava-labs/avalanchego",
+      "source": "ava-labs/avalanchego",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:07Z"
+    },
+    {
+      "full_name": "DERACHAIN/benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:08Z"
+    },
+    {
+      "full_name": "DERACHAIN/demo-avalanchejs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:17:10Z"
+    },
+    {
+      "full_name": "DERACHAIN/derachain-docs",
+      "is_fork": true,
+      "parent": "darenft-labs/derachain-docs",
+      "source": "darenft-labs/derachain-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:12Z"
+    },
+    {
+      "full_name": "DERACHAIN/explorer-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T20:17:14Z"
+    },
+    {
+      "full_name": "DERACHAIN/icm-contracts",
+      "is_fork": true,
+      "parent": "ava-labs/icm-contracts",
+      "source": "ava-labs/icm-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T20:17:16Z"
+    },
+    {
+      "full_name": "DERACHAIN/subnet-evm",
+      "is_fork": true,
+      "parent": "ava-labs/subnet-evm",
+      "source": "ava-labs/subnet-evm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:18Z"
+    },
+    {
+      "full_name": "DERACHAIN/subnet-vrf-contracts",
+      "is_fork": true,
+      "parent": "ava-labs/subnet-vrf-contracts",
+      "source": "ava-labs/subnet-vrf-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T20:17:20Z"
+    }
+  ]
+}

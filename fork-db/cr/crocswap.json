@@ -1,0 +1,213 @@
+{
+  "owner": "crocswap",
+  "updated_at": "2026-03-04T03:37:30Z",
+  "repos": [
+    {
+      "full_name": "CrocSwap/CrocSwap-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 79,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:03Z"
+    },
+    {
+      "full_name": "CrocSwap/CrocSwap-protocol-mirror",
+      "is_fork": true,
+      "parent": "CrocSwap/CrocSwap-protocol",
+      "source": "CrocSwap/CrocSwap-protocol",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:43:05Z"
+    },
+    {
+      "full_name": "CrocSwap/ambi-vite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:07Z"
+    },
+    {
+      "full_name": "CrocSwap/ambient-ember-rust-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-02T18:43:09Z"
+    },
+    {
+      "full_name": "CrocSwap/ambient-ember-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:11Z"
+    },
+    {
+      "full_name": "CrocSwap/ambient-ts-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:12Z"
+    },
+    {
+      "full_name": "CrocSwap/ambient-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:14Z"
+    },
+    {
+      "full_name": "CrocSwap/analytics-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-02T18:43:16Z"
+    },
+    {
+      "full_name": "CrocSwap/blast-points-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:18Z"
+    },
+    {
+      "full_name": "CrocSwap/blog-posts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": null,
+      "last_checked": "2026-03-02T18:43:20Z"
+    },
+    {
+      "full_name": "CrocSwap/croc-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:22Z"
+    },
+    {
+      "full_name": "CrocSwap/croc-subgraph-events",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:24Z"
+    },
+    {
+      "full_name": "CrocSwap/croc-subgraph-sepolia",
+      "is_fork": true,
+      "parent": "CrocSwap/croc-subgraph-tracing",
+      "source": "CrocSwap/croc-subgraph-tracing",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:26Z"
+    },
+    {
+      "full_name": "CrocSwap/croc-subgraph-tracing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:28Z"
+    },
+    {
+      "full_name": "CrocSwap/croc-universal-router",
+      "is_fork": true,
+      "parent": "Uniswap/universal-router",
+      "source": "Uniswap/universal-router",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-02T18:43:30Z"
+    },
+    {
+      "full_name": "CrocSwap/crocswap-router-compat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-02T18:43:32Z"
+    },
+    {
+      "full_name": "CrocSwap/eth-faucet",
+      "is_fork": true,
+      "parent": "chainflag/eth-faucet",
+      "source": "chainflag/eth-faucet",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:43:34Z"
+    },
+    {
+      "full_name": "CrocSwap/futa-brand-guide",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-02T18:43:36Z"
+    },
+    {
+      "full_name": "CrocSwap/graphcache-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Go",
+      "last_checked": "2026-03-02T18:43:38Z"
+    },
+    {
+      "full_name": "CrocSwap/perps-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:40Z"
+    },
+    {
+      "full_name": "CrocSwap/plume-pending-erc4626",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-02T18:43:42Z"
+    },
+    {
+      "full_name": "CrocSwap/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:44Z"
+    },
+    {
+      "full_name": "CrocSwap/tempest-tokens-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-02T18:43:46Z"
+    }
+  ]
+}
