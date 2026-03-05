@@ -1,7 +1,25 @@
 {
   "owner": "defich",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
+    {
+      "full_name": "DeFiCh/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-04T23:06:51Z"
+    },
+    {
+      "full_name": "DeFiCh/DefiLlama-Adapters",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:06:51Z"
+    },
     {
       "full_name": "DeFiCh/ain",
       "is_fork": false,
@@ -10,6 +28,528 @@
       "stars": 402,
       "language": "C++",
       "last_checked": "2026-03-04T03:29:18Z"
+    },
+    {
+      "full_name": "DeFiCh/ainx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:06:53Z"
+    },
+    {
+      "full_name": "DeFiCh/app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 155,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:06:56Z"
+    },
+    {
+      "full_name": "DeFiCh/bitcore-lib-dfi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-04T23:06:58Z"
+    },
+    {
+      "full_name": "DeFiCh/containers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-04T23:07:00Z"
+    },
+    {
+      "full_name": "DeFiCh/defi-btc-anchorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:07:04Z"
+    },
+    {
+      "full_name": "DeFiCh/defi-pressure-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:07:06Z"
+    },
+    {
+      "full_name": "DeFiCh/defi-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:06Z"
+    },
+    {
+      "full_name": "DeFiCh/defichain-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 155,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:07:08Z"
+    },
+    {
+      "full_name": "DeFiCh/defichain.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 58,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:07:10Z"
+    },
+    {
+      "full_name": "DeFiCh/defiscan.live",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:07:12Z"
+    },
+    {
+      "full_name": "DeFiCh/dfi-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:14Z"
+    },
+    {
+      "full_name": "DeFiCh/dfi-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-04T23:07:16Z"
+    },
+    {
+      "full_name": "DeFiCh/dfid",
+      "is_fork": true,
+      "parent": "btcsuite/btcd",
+      "source": "btcsuite/btcd",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:07:19Z"
+    },
+    {
+      "full_name": "DeFiCh/dfips",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 128,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:21Z"
+    },
+    {
+      "full_name": "DeFiCh/dindexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:24Z"
+    },
+    {
+      "full_name": "DeFiCh/ecosystem",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:26Z"
+    },
+    {
+      "full_name": "DeFiCh/ethereum",
+      "is_fork": true,
+      "parent": "rust-ethereum/ethereum",
+      "source": "rust-ethereum/ethereum",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:28Z"
+    },
+    {
+      "full_name": "DeFiCh/evm",
+      "is_fork": true,
+      "parent": "rust-ethereum/evm",
+      "source": "rust-ethereum/evm",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:30Z"
+    },
+    {
+      "full_name": "DeFiCh/explorer.defichain.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:31Z"
+    },
+    {
+      "full_name": "DeFiCh/explorer.defichain.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:31Z"
+    },
+    {
+      "full_name": "DeFiCh/external-adapters-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:32Z"
+    },
+    {
+      "full_name": "DeFiCh/go-ethlibs",
+      "is_fork": true,
+      "parent": "INFURA/go-ethlibs",
+      "source": "INFURA/go-ethlibs",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:07:34Z"
+    },
+    {
+      "full_name": "DeFiCh/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:36Z"
+    },
+    {
+      "full_name": "DeFiCh/handbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-04T23:07:39Z"
+    },
+    {
+      "full_name": "DeFiCh/icx-makerbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-04T23:07:41Z"
+    },
+    {
+      "full_name": "DeFiCh/indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:43Z"
+    },
+    {
+      "full_name": "DeFiCh/infra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:45Z"
+    },
+    {
+      "full_name": "DeFiCh/infra-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HCL",
+      "last_checked": "2026-03-04T23:07:47Z"
+    },
+    {
+      "full_name": "DeFiCh/jellyfishsdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 101,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:07:49Z"
+    },
+    {
+      "full_name": "DeFiCh/jsonrpsee",
+      "is_fork": true,
+      "parent": "paritytech/jsonrpsee",
+      "source": "paritytech/jsonrpsee",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:51Z"
+    },
+    {
+      "full_name": "DeFiCh/libain-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:54Z"
+    },
+    {
+      "full_name": "DeFiCh/lighthouse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:54Z"
+    },
+    {
+      "full_name": "DeFiCh/mainnet.defichain.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:07:54Z"
+    },
+    {
+      "full_name": "DeFiCh/meta.defichain.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:07:56Z"
+    },
+    {
+      "full_name": "DeFiCh/metachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:07:58Z"
+    },
+    {
+      "full_name": "DeFiCh/metachain-ts-tests",
+      "is_fork": true,
+      "parent": "Jouzo/metachain-ts-tests",
+      "source": "Jouzo/metachain-ts-tests",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:08:03Z"
+    },
+    {
+      "full_name": "DeFiCh/metascan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:08:05Z"
+    },
+    {
+      "full_name": "DeFiCh/mobil-ave",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:08Z"
+    },
+    {
+      "full_name": "DeFiCh/ocean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:08Z"
+    },
+    {
+      "full_name": "DeFiCh/octopus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:09Z"
+    },
+    {
+      "full_name": "DeFiCh/oracle-adapters",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:08:11Z"
+    },
+    {
+      "full_name": "DeFiCh/oss-governance-bot",
+      "is_fork": true,
+      "parent": "BirthdayResearch/oss-governance-bot",
+      "source": "BirthdayResearch/oss-governance-bot",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:08:13Z"
+    },
+    {
+      "full_name": "DeFiCh/pinkpaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:15Z"
+    },
+    {
+      "full_name": "DeFiCh/resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:17Z"
+    },
+    {
+      "full_name": "DeFiCh/rosetta-cli",
+      "is_fork": true,
+      "parent": "coinbase/mesh-cli",
+      "source": "coinbase/mesh-cli",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:08:19Z"
+    },
+    {
+      "full_name": "DeFiCh/rosetta-defichain",
+      "is_fork": true,
+      "parent": "coinbase/mesh-bitcoin",
+      "source": "coinbase/mesh-bitcoin",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:08:21Z"
+    },
+    {
+      "full_name": "DeFiCh/rust-bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:08:23Z"
+    },
+    {
+      "full_name": "DeFiCh/rust-defichain-rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:08:26Z"
+    },
+    {
+      "full_name": "DeFiCh/salmon-oracles-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:26Z"
+    },
+    {
+      "full_name": "DeFiCh/slips",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:26Z"
+    },
+    {
+      "full_name": "DeFiCh/snapshots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:28Z"
+    },
+    {
+      "full_name": "DeFiCh/status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-04T23:08:30Z"
+    },
+    {
+      "full_name": "DeFiCh/testnet.defichain.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:31Z"
+    },
+    {
+      "full_name": "DeFiCh/vsdb",
+      "is_fork": true,
+      "parent": "Jouzo/vsdb",
+      "source": "rust-util-collections/vsdb",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:08:33Z"
+    },
+    {
+      "full_name": "DeFiCh/vsdbsled",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:08:35Z"
+    },
+    {
+      "full_name": "DeFiCh/wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 126,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:08:37Z"
+    },
+    {
+      "full_name": "DeFiCh/wallet.docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:40Z"
+    },
+    {
+      "full_name": "DeFiCh/zh.defichain.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:08:42Z"
     }
   ]
 }

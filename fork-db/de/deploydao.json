@@ -1,7 +1,52 @@
 {
   "owner": "deploydao",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
+    {
+      "full_name": "DeployDAO/aptos-core",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-core",
+      "source": "aptos-labs/aptos-core",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:55:45Z"
+    },
+    {
+      "full_name": "DeployDAO/aptos-deployer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:55:47Z"
+    },
+    {
+      "full_name": "DeployDAO/dialectlabs-react",
+      "is_fork": true,
+      "parent": "dialectlabs/react",
+      "source": "dialectlabs/react",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-05T01:55:50Z"
+    },
+    {
+      "full_name": "DeployDAO/migrator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:55:52Z"
+    },
+    {
+      "full_name": "DeployDAO/solana-program-index",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-05T01:55:54Z"
+    },
     {
       "full_name": "DeployDAO/solana-program-registry",
       "is_fork": false,
@@ -10,6 +55,24 @@
       "stars": 39,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:29:49Z"
+    },
+    {
+      "full_name": "DeployDAO/verified-program-artifacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-05T01:55:56Z"
+    },
+    {
+      "full_name": "DeployDAO/verified-programs-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Nix",
+      "last_checked": "2026-03-05T01:55:59Z"
     }
   ]
 }

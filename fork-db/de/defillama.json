@@ -1,6 +1,6 @@
 {
   "owner": "defillama",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
     {
       "full_name": "DefiLlama/DefiLlama-Adapters",
@@ -12,6 +12,87 @@
       "last_checked": "2026-03-04T03:29:28Z"
     },
     {
+      "full_name": "DefiLlama/abi-decoder-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-05T01:26:01Z"
+    },
+    {
+      "full_name": "DefiLlama/airdrop-checker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:26:03Z"
+    },
+    {
+      "full_name": "DefiLlama/api-keys",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:04Z"
+    },
+    {
+      "full_name": "DefiLlama/api-status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:04Z"
+    },
+    {
+      "full_name": "DefiLlama/auth-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:05Z"
+    },
+    {
+      "full_name": "DefiLlama/bitcoin-cache-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:26:07Z"
+    },
+    {
+      "full_name": "DefiLlama/born-to-llama",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:08Z"
+    },
+    {
+      "full_name": "DefiLlama/bridges-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:10Z"
+    },
+    {
+      "full_name": "DefiLlama/careers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 69,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:12Z"
+    },
+    {
       "full_name": "DefiLlama/chainlist",
       "is_fork": false,
       "parent": null,
@@ -21,6 +102,24 @@
       "last_checked": "2026-03-04T03:29:30Z"
     },
     {
+      "full_name": "DefiLlama/coins-api-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:26:16Z"
+    },
+    {
+      "full_name": "DefiLlama/coins-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:17Z"
+    },
+    {
       "full_name": "DefiLlama/defillama-app",
       "is_fork": false,
       "parent": null,
@@ -28,6 +127,24 @@
       "stars": 280,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:29:32Z"
+    },
+    {
+      "full_name": "DefiLlama/defillama-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:19Z"
+    },
+    {
+      "full_name": "DefiLlama/defillama-press-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:21Z"
     },
     {
       "full_name": "DefiLlama/defillama-sdk",
@@ -48,6 +165,15 @@
       "last_checked": "2026-03-04T03:29:36Z"
     },
     {
+      "full_name": "DefiLlama/defillama_yields_coverage",
+      "is_fork": true,
+      "parent": "vrtnd/defillama_yields_coverage",
+      "source": "vrtnd/defillama_yields_coverage",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:24Z"
+    },
+    {
       "full_name": "DefiLlama/dimension-adapters",
       "is_fork": false,
       "parent": null,
@@ -55,6 +181,51 @@
       "stars": 174,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:29:38Z"
+    },
+    {
+      "full_name": "DefiLlama/disclosures",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:26Z"
+    },
+    {
+      "full_name": "DefiLlama/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:28Z"
+    },
+    {
+      "full_name": "DefiLlama/emissions-adapters",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:30Z"
+    },
+    {
+      "full_name": "DefiLlama/fe-cache-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:32Z"
+    },
+    {
+      "full_name": "DefiLlama/fees-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:34Z"
     },
     {
       "full_name": "DefiLlama/icons",
@@ -66,6 +237,87 @@
       "last_checked": "2026-03-04T03:29:40Z"
     },
     {
+      "full_name": "DefiLlama/icons-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:35Z"
+    },
+    {
+      "full_name": "DefiLlama/indexer-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Python",
+      "last_checked": "2026-03-05T01:26:37Z"
+    },
+    {
+      "full_name": "DefiLlama/liquidations-extra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:40Z"
+    },
+    {
+      "full_name": "DefiLlama/llama-corp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:26:42Z"
+    },
+    {
+      "full_name": "DefiLlama/llamapunks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Python",
+      "last_checked": "2026-03-05T01:26:44Z"
+    },
+    {
+      "full_name": "DefiLlama/llamemes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Astro",
+      "last_checked": "2026-03-05T01:26:46Z"
+    },
+    {
+      "full_name": "DefiLlama/memes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": null,
+      "last_checked": "2026-03-05T01:26:49Z"
+    },
+    {
+      "full_name": "DefiLlama/nft-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:26:52Z"
+    },
+    {
+      "full_name": "DefiLlama/og-cards",
+      "is_fork": true,
+      "parent": "mintdart/og-image",
+      "source": "vercel/og-image",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:55Z"
+    },
+    {
       "full_name": "DefiLlama/peggedassets-server",
       "is_fork": false,
       "parent": null,
@@ -75,6 +327,78 @@
       "last_checked": "2026-03-04T03:29:42Z"
     },
     {
+      "full_name": "DefiLlama/perps-metrics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:26:58Z"
+    },
+    {
+      "full_name": "DefiLlama/raises-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-05T01:27:01Z"
+    },
+    {
+      "full_name": "DefiLlama/reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-05T01:27:03Z"
+    },
+    {
+      "full_name": "DefiLlama/rpc-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:27:05Z"
+    },
+    {
+      "full_name": "DefiLlama/sushi-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:27:08Z"
+    },
+    {
+      "full_name": "DefiLlama/task-runner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:27:10Z"
+    },
+    {
+      "full_name": "DefiLlama/token-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:27:12Z"
+    },
+    {
+      "full_name": "DefiLlama/tracked-protocols",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:27:14Z"
+    },
+    {
       "full_name": "DefiLlama/url-directory",
       "is_fork": false,
       "parent": null,
@@ -82,6 +406,24 @@
       "stars": 15,
       "language": null,
       "last_checked": "2026-03-04T03:29:44Z"
+    },
+    {
+      "full_name": "DefiLlama/users-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:27:17Z"
+    },
+    {
+      "full_name": "DefiLlama/yield-ml",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-05T01:27:19Z"
     },
     {
       "full_name": "DefiLlama/yield-server",

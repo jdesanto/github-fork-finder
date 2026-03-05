@@ -1,7 +1,25 @@
 {
   "owner": "dexalot",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
+    {
+      "full_name": "Dexalot/Frontend-Coding-Challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:08:33Z"
+    },
+    {
+      "full_name": "Dexalot/avalanche-faucet",
+      "is_fork": true,
+      "parent": "chainbloq-com/avalanche-faucet",
+      "source": "ava-labs/avalanche-faucet-legacy",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:08:36Z"
+    },
     {
       "full_name": "Dexalot/contracts",
       "is_fork": false,
@@ -10,6 +28,105 @@
       "stars": 45,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:29:59Z"
+    },
+    {
+      "full_name": "Dexalot/deploy-firebase-functions",
+      "is_fork": true,
+      "parent": "veyselozkahraman/deploy-firebase-functions",
+      "source": "lowply/deploy-firebase",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-03T21:08:41Z"
+    },
+    {
+      "full_name": "Dexalot/dexalot-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-03T21:08:43Z"
+    },
+    {
+      "full_name": "Dexalot/dexalot-public-chain-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:08:45Z"
+    },
+    {
+      "full_name": "Dexalot/dexalot-subnet",
+      "is_fork": true,
+      "parent": "ava-labs/subnet-evm",
+      "source": "ava-labs/subnet-evm",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-03T21:08:47Z"
+    },
+    {
+      "full_name": "Dexalot/evm-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:08:49Z"
+    },
+    {
+      "full_name": "Dexalot/firebase-action",
+      "is_fork": true,
+      "parent": "w9jds/firebase-action",
+      "source": "w9jds/firebase-action",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:08:51Z"
+    },
+    {
+      "full_name": "Dexalot/samplebot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:08:53Z"
+    },
+    {
+      "full_name": "Dexalot/token-vesting-ui",
+      "is_fork": true,
+      "parent": "OpenZeppelin/token-vesting-ui",
+      "source": "OpenZeppelin/token-vesting-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:08:55Z"
+    },
+    {
+      "full_name": "Dexalot/tokenlist",
+      "is_fork": true,
+      "parent": "dasconnor/tokenlist",
+      "source": "dasconnor/tokenlist",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-03T21:08:57Z"
+    },
+    {
+      "full_name": "Dexalot/vscode-solidity-comments",
+      "is_fork": true,
+      "parent": "microsoft/vscode-comment",
+      "source": "microsoft/vscode-comment",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:08:59Z"
+    },
+    {
+      "full_name": "Dexalot/vuepress-theme-hope",
+      "is_fork": true,
+      "parent": "vuepress-theme-hope/vuepress-theme-hope",
+      "source": "vuepress-theme-hope/vuepress-theme-hope",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:09:01Z"
     }
   ]
 }

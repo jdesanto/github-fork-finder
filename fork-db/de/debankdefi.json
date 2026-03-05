@@ -1,7 +1,493 @@
 {
   "owner": "debankdefi",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
+    {
+      "full_name": "DeBankDeFi/ChainX-genesis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:29Z"
+    },
+    {
+      "full_name": "DeBankDeFi/DAPPDevNotes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 71,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:32Z"
+    },
+    {
+      "full_name": "DeBankDeFi/DeBankChain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:32Z"
+    },
+    {
+      "full_name": "DeBankDeFi/DeDollar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:33Z"
+    },
+    {
+      "full_name": "DeBankDeFi/EOS-MainNet",
+      "is_fork": true,
+      "parent": "CryptoLions/EOS-MainNet",
+      "source": "CryptoLions/EOS-MainNet",
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-04T23:02:37Z"
+    },
+    {
+      "full_name": "DeBankDeFi/Hire",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:38Z"
+    },
+    {
+      "full_name": "DeBankDeFi/Issues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:40Z"
+    },
+    {
+      "full_name": "DeBankDeFi/RedisBloom",
+      "is_fork": true,
+      "parent": "RedisBloom/RedisBloom",
+      "source": "RedisBloom/RedisBloom",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:42Z"
+    },
+    {
+      "full_name": "DeBankDeFi/RedisShake",
+      "is_fork": true,
+      "parent": "tair-opensource/RedisShake",
+      "source": "tair-opensource/RedisShake",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:44Z"
+    },
+    {
+      "full_name": "DeBankDeFi/TweeterPy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:45Z"
+    },
+    {
+      "full_name": "DeBankDeFi/aave-stake-v2",
+      "is_fork": true,
+      "parent": "Agave-DAO/aave-stake-v2",
+      "source": "aave/aave-stake-v2",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:47Z"
+    },
+    {
+      "full_name": "DeBankDeFi/ansible-role-docker",
+      "is_fork": true,
+      "parent": "geerlingguy/ansible-role-docker",
+      "source": "geerlingguy/ansible-role-docker",
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:49Z"
+    },
+    {
+      "full_name": "DeBankDeFi/arbitrum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:50Z"
+    },
+    {
+      "full_name": "DeBankDeFi/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:02:52Z"
+    },
+    {
+      "full_name": "DeBankDeFi/avalanchego",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:52Z"
+    },
+    {
+      "full_name": "DeBankDeFi/bor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:53Z"
+    },
+    {
+      "full_name": "DeBankDeFi/bsc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:53Z"
+    },
+    {
+      "full_name": "DeBankDeFi/caddy",
+      "is_fork": true,
+      "parent": "caddyserver/caddy",
+      "source": "caddyserver/caddy",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:55Z"
+    },
+    {
+      "full_name": "DeBankDeFi/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 19,
+      "language": "Kotlin",
+      "last_checked": "2026-03-04T23:02:57Z"
+    },
+    {
+      "full_name": "DeBankDeFi/chyson-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:02:58Z"
+    },
+    {
+      "full_name": "DeBankDeFi/cloudflare-exporter",
+      "is_fork": true,
+      "parent": "lablabs/cloudflare-exporter",
+      "source": "lablabs/cloudflare-exporter",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:00Z"
+    },
+    {
+      "full_name": "DeBankDeFi/cometbft",
+      "is_fork": true,
+      "parent": "cometbft/cometbft",
+      "source": "cometbft/cometbft",
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:02Z"
+    },
+    {
+      "full_name": "DeBankDeFi/cometbft-db",
+      "is_fork": true,
+      "parent": "cometbft/cometbft-db",
+      "source": "cometbft/cometbft-db",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:04Z"
+    },
+    {
+      "full_name": "DeBankDeFi/coreth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:05Z"
+    },
+    {
+      "full_name": "DeBankDeFi/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 15,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:07Z"
+    },
+    {
+      "full_name": "DeBankDeFi/cp-ansible",
+      "is_fork": true,
+      "parent": "wooparadog/cp-ansible",
+      "source": "confluentinc/cp-ansible",
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-04T23:03:10Z"
+    },
+    {
+      "full_name": "DeBankDeFi/dapppubbosbp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-04T23:03:13Z"
+    },
+    {
+      "full_name": "DeBankDeFi/dapptalking.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:13Z"
+    },
+    {
+      "full_name": "DeBankDeFi/derive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:03:15Z"
+    },
+    {
+      "full_name": "DeBankDeFi/eos",
+      "is_fork": true,
+      "parent": "EOSIO/eos",
+      "source": "EOSIO/eos",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-04T23:03:18Z"
+    },
+    {
+      "full_name": "DeBankDeFi/eos-bp-profile",
+      "is_fork": true,
+      "parent": "consenlabs/eos-bp-profile",
+      "source": "consenlabs/eos-bp-profile",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-04T23:03:20Z"
+    },
+    {
+      "full_name": "DeBankDeFi/eos-go",
+      "is_fork": true,
+      "parent": "eoscanada/eos-go",
+      "source": "eoscanada/eos-go",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:22Z"
+    },
+    {
+      "full_name": "DeBankDeFi/eos_faucet",
+      "is_fork": true,
+      "parent": "cryptokylin/eos_faucet",
+      "source": "cryptokylin/eos_faucet",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:03:25Z"
+    },
+    {
+      "full_name": "DeBankDeFi/eosjs",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs",
+      "source": "EOSIO/eosjs",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:03:30Z"
+    },
+    {
+      "full_name": "DeBankDeFi/erigon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:30Z"
+    },
+    {
+      "full_name": "DeBankDeFi/ethereum-dasm",
+      "is_fork": true,
+      "parent": "tintinweb/ethereum-dasm",
+      "source": "tintinweb/ethereum-dasm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:32Z"
+    },
+    {
+      "full_name": "DeBankDeFi/etherlib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:34Z"
+    },
+    {
+      "full_name": "DeBankDeFi/exchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:35Z"
+    },
+    {
+      "full_name": "DeBankDeFi/fairdicegame",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:36Z"
+    },
+    {
+      "full_name": "DeBankDeFi/fastcache",
+      "is_fork": true,
+      "parent": "VictoriaMetrics/fastcache",
+      "source": "VictoriaMetrics/fastcache",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:44Z"
+    },
+    {
+      "full_name": "DeBankDeFi/flower",
+      "is_fork": true,
+      "parent": "mher/flower",
+      "source": "mher/flower",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:47Z"
+    },
+    {
+      "full_name": "DeBankDeFi/glog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:49Z"
+    },
+    {
+      "full_name": "DeBankDeFi/go-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:50Z"
+    },
+    {
+      "full_name": "DeBankDeFi/go-ethereum-debank",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:03:52Z"
+    },
+    {
+      "full_name": "DeBankDeFi/go-lachesis",
+      "is_fork": true,
+      "parent": "Fantom-foundation/go-lachesis",
+      "source": "Fantom-foundation/go-lachesis",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:56Z"
+    },
+    {
+      "full_name": "DeBankDeFi/go-opera",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:56Z"
+    },
+    {
+      "full_name": "DeBankDeFi/godwoken-info",
+      "is_fork": true,
+      "parent": "godwokenrises/godwoken-info",
+      "source": "godwokenrises/godwoken-info",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:03:59Z"
+    },
+    {
+      "full_name": "DeBankDeFi/golib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:01Z"
+    },
+    {
+      "full_name": "DeBankDeFi/hackathon-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Rust",
+      "last_checked": "2026-03-04T23:04:03Z"
+    },
+    {
+      "full_name": "DeBankDeFi/hugo-fresh",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:03Z"
+    },
+    {
+      "full_name": "DeBankDeFi/huobi-eco-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:04Z"
+    },
+    {
+      "full_name": "DeBankDeFi/iBank",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:06Z"
+    },
+    {
+      "full_name": "DeBankDeFi/iZiSwap-node-server",
+      "is_fork": true,
+      "parent": "izumiFinance/iZiSwap-node-server",
+      "source": "izumiFinance/iZiSwap-node-server",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:09Z"
+    },
+    {
+      "full_name": "DeBankDeFi/iavl",
+      "is_fork": true,
+      "parent": "cosmos/iavl",
+      "source": "cosmos/iavl",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:11Z"
+    },
     {
       "full_name": "DeBankDeFi/kafka_plugin",
       "is_fork": true,
@@ -10,6 +496,276 @@
       "stars": 6,
       "language": "C++",
       "last_checked": "2026-03-04T03:29:17Z"
+    },
+    {
+      "full_name": "DeBankDeFi/logo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:13Z"
+    },
+    {
+      "full_name": "DeBankDeFi/moonbeam",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:13Z"
+    },
+    {
+      "full_name": "DeBankDeFi/nimbus-eth2",
+      "is_fork": true,
+      "parent": "status-im/nimbus-eth2",
+      "source": "status-im/nimbus-eth2",
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:16Z"
+    },
+    {
+      "full_name": "DeBankDeFi/nitro-das-celestia",
+      "is_fork": true,
+      "parent": "celestiaorg/nitro-das-celestia",
+      "source": "celestiaorg/nitro-das-celestia",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:18Z"
+    },
+    {
+      "full_name": "DeBankDeFi/node-exporter-installer",
+      "is_fork": true,
+      "parent": "ClouDesire/node-exporter-installer",
+      "source": "ClouDesire/node-exporter-installer",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-04T23:04:20Z"
+    },
+    {
+      "full_name": "DeBankDeFi/nodex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:23Z"
+    },
+    {
+      "full_name": "DeBankDeFi/op-replica",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:23Z"
+    },
+    {
+      "full_name": "DeBankDeFi/opDebank-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:25Z"
+    },
+    {
+      "full_name": "DeBankDeFi/openethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:26Z"
+    },
+    {
+      "full_name": "DeBankDeFi/optimism-dbkchain",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:28Z"
+    },
+    {
+      "full_name": "DeBankDeFi/optimism-debank",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-04T23:04:30Z"
+    },
+    {
+      "full_name": "DeBankDeFi/polkadot-secure-validator",
+      "is_fork": true,
+      "parent": "w3f/polkadot-validator-setup",
+      "source": "w3f/polkadot-validator-setup",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:33Z"
+    },
+    {
+      "full_name": "DeBankDeFi/py-scale-codec",
+      "is_fork": true,
+      "parent": "JAMdotTech/py-scale-codec",
+      "source": "JAMdotTech/py-scale-codec",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:04:35Z"
+    },
+    {
+      "full_name": "DeBankDeFi/py-substrate-interface",
+      "is_fork": true,
+      "parent": "JAMdotTech/py-polkadot-sdk",
+      "source": "JAMdotTech/py-polkadot-sdk",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-04T23:04:37Z"
+    },
+    {
+      "full_name": "DeBankDeFi/react-native-wagmi-charts",
+      "is_fork": true,
+      "parent": "coinjar/react-native-wagmi-charts",
+      "source": "coinjar/react-native-wagmi-charts",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:04:40Z"
+    },
+    {
+      "full_name": "DeBankDeFi/rollup-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-04T23:04:43Z"
+    },
+    {
+      "full_name": "DeBankDeFi/rollup-node-dbkchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-04T23:04:45Z"
+    },
+    {
+      "full_name": "DeBankDeFi/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:47Z"
+    },
+    {
+      "full_name": "DeBankDeFi/signupeoseos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:47Z"
+    },
+    {
+      "full_name": "DeBankDeFi/starkex-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:48Z"
+    },
+    {
+      "full_name": "DeBankDeFi/starkware-crypto-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:48Z"
+    },
+    {
+      "full_name": "DeBankDeFi/superchain-registry",
+      "is_fork": true,
+      "parent": "ethereum-optimism/superchain-registry",
+      "source": "ethereum-optimism/superchain-registry",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:50Z"
+    },
+    {
+      "full_name": "DeBankDeFi/tendermint",
+      "is_fork": true,
+      "parent": "tendermint/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 11,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:53Z"
+    },
+    {
+      "full_name": "DeBankDeFi/tm-db",
+      "is_fork": true,
+      "parent": "tendermint/tm-db",
+      "source": "tendermint/tm-db",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:55Z"
+    },
+    {
+      "full_name": "DeBankDeFi/tokendapppub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": "C++",
+      "last_checked": "2026-03-04T23:04:58Z"
+    },
+    {
+      "full_name": "DeBankDeFi/tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:04:58Z"
+    },
+    {
+      "full_name": "DeBankDeFi/vision-core",
+      "is_fork": true,
+      "parent": "err-nil/vision-core",
+      "source": "err-nil/vision-core",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-04T23:05:01Z"
+    },
+    {
+      "full_name": "DeBankDeFi/web3-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 136,
+      "language": null,
+      "last_checked": "2026-03-04T23:05:03Z"
+    },
+    {
+      "full_name": "DeBankDeFi/web3-data-DEPRECATED",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 136,
+      "language": null,
+      "last_checked": "2026-03-04T23:05:06Z"
+    },
+    {
+      "full_name": "DeBankDeFi/zkfair-cdk-validium-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:05:07Z"
     }
   ]
 }

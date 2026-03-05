@@ -1,7 +1,97 @@
 {
   "owner": "dexkit",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-05T07:32:36Z",
   "repos": [
+    {
+      "full_name": "DexKit/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:06:10Z"
+    },
+    {
+      "full_name": "DexKit/0x-api",
+      "is_fork": true,
+      "parent": "0xProject/0x-api",
+      "source": "0xProject/0x-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:06:12Z"
+    },
+    {
+      "full_name": "DexKit/0x-exchange-proxy-v4-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:14Z"
+    },
+    {
+      "full_name": "DexKit/0x-instant-instance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-03T21:06:16Z"
+    },
+    {
+      "full_name": "DexKit/0x-nft-v4-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:18Z"
+    },
+    {
+      "full_name": "DexKit/DexMind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:06:20Z"
+    },
+    {
+      "full_name": "DexKit/LionDEX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:22Z"
+    },
+    {
+      "full_name": "DexKit/Price-bot-for-Discord",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:06:24Z"
+    },
+    {
+      "full_name": "DexKit/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:06:26Z"
+    },
+    {
+      "full_name": "DexKit/champions-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:28Z"
+    },
     {
       "full_name": "DexKit/coin-leagues",
       "is_fork": false,
@@ -10,6 +100,411 @@
       "stars": 9,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:29:57Z"
+    },
+    {
+      "full_name": "DexKit/coinleague",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:06:30Z"
+    },
+    {
+      "full_name": "DexKit/coinleagues-champions-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:06:32Z"
+    },
+    {
+      "full_name": "DexKit/coinleagues-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:34Z"
+    },
+    {
+      "full_name": "DexKit/coinleagues-rooms-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:36Z"
+    },
+    {
+      "full_name": "DexKit/coinleagueschampions-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:06:38Z"
+    },
+    {
+      "full_name": "DexKit/default-token-list",
+      "is_fork": true,
+      "parent": "sushiswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:06:40Z"
+    },
+    {
+      "full_name": "DexKit/dexappbuilder-intl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:06:42Z"
+    },
+    {
+      "full_name": "DexKit/dexfren-ai-telegram-chatbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:06:44Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-dash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-03T21:06:46Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-evm-chains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:48Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-js-2024",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:50Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:52Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-open-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:54Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-token-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:06:56Z"
+    },
+    {
+      "full_name": "DexKit/dexkit-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:06:58Z"
+    },
+    {
+      "full_name": "DexKit/dexkitcontracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:07:00Z"
+    },
+    {
+      "full_name": "DexKit/discord-counter-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:07:02Z"
+    },
+    {
+      "full_name": "DexKit/engine",
+      "is_fork": true,
+      "parent": "thirdweb-dev/engine",
+      "source": "thirdweb-dev/engine",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:04Z"
+    },
+    {
+      "full_name": "DexKit/ep-subgraph",
+      "is_fork": true,
+      "parent": "dorothy-zbornak/ep-subgraph",
+      "source": "dorothy-zbornak/ep-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:06Z"
+    },
+    {
+      "full_name": "DexKit/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:08Z"
+    },
+    {
+      "full_name": "DexKit/gpt-discord-bot-dexkit",
+      "is_fork": true,
+      "parent": "openai/gpt-discord-bot",
+      "source": "openai/gpt-discord-bot",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:07:10Z"
+    },
+    {
+      "full_name": "DexKit/icons",
+      "is_fork": true,
+      "parent": "caribedigital/icons",
+      "source": "caribedigital/icons",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:12Z"
+    },
+    {
+      "full_name": "DexKit/kits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:07:14Z"
+    },
+    {
+      "full_name": "DexKit/kittygotchi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:07:16Z"
+    },
+    {
+      "full_name": "DexKit/kittygotchi-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:17Z"
+    },
+    {
+      "full_name": "DexKit/kittygotchi-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:19Z"
+    },
+    {
+      "full_name": "DexKit/liquidity-staker",
+      "is_fork": true,
+      "parent": "Uniswap/liquidity-staker",
+      "source": "Uniswap/liquidity-staker",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:07:21Z"
+    },
+    {
+      "full_name": "DexKit/nft-drops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:23Z"
+    },
+    {
+      "full_name": "DexKit/nft-league-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:25Z"
+    },
+    {
+      "full_name": "DexKit/nft-rarity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:07:27Z"
+    },
+    {
+      "full_name": "DexKit/nft-swap-sdk",
+      "is_fork": true,
+      "parent": "trader-xyz/nft-swap-sdk",
+      "source": "trader-xyz/nft-swap-sdk",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:29Z"
+    },
+    {
+      "full_name": "DexKit/open-nft-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:31Z"
+    },
+    {
+      "full_name": "DexKit/pancake-swap-interface",
+      "is_fork": true,
+      "parent": "pancakeswap/pancake-swap-interface-v1",
+      "source": "pancakeswap/pancake-swap-interface-v1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:33Z"
+    },
+    {
+      "full_name": "DexKit/scripts-for-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:35Z"
+    },
+    {
+      "full_name": "DexKit/squid-league-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:37Z"
+    },
+    {
+      "full_name": "DexKit/task-bot-discord",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:07:39Z"
+    },
+    {
+      "full_name": "DexKit/trader-orderbook",
+      "is_fork": true,
+      "parent": "trader-xyz/trader-orderbook",
+      "source": "trader-xyz/trader-orderbook",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:41Z"
+    },
+    {
+      "full_name": "DexKit/trading-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:43Z"
+    },
+    {
+      "full_name": "DexKit/trading-bots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:45Z"
+    },
+    {
+      "full_name": "DexKit/uniswap-fee-reader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:47Z"
+    },
+    {
+      "full_name": "DexKit/uniswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:49Z"
+    },
+    {
+      "full_name": "DexKit/uniswap-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:07:51Z"
+    },
+    {
+      "full_name": "DexKit/widgets",
+      "is_fork": true,
+      "parent": "Uniswap/widgets",
+      "source": "Uniswap/widgets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:07:53Z"
+    },
+    {
+      "full_name": "DexKit/wizard-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:07:55Z"
+    },
+    {
+      "full_name": "DexKit/wordpress",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "PHP",
+      "last_checked": "2026-03-03T21:07:57Z"
     }
   ]
 }
