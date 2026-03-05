@@ -62,6 +62,11 @@ def prompt_for_token() -> Optional[str]:
     return token
 
 
+_BACKOFF_BASE    = 30    # seconds for first backoff tier
+_BACKOFF_MAX     = 600   # cap at 10 minutes
+_BACKOFF_FACTOR  = 2.0   # multiply by this each tier
+
+
 class GitHubAPIClient:
     def __init__(self, token: Optional[str] = None, delay: float = 1.5):
         self.token = token
@@ -69,6 +74,32 @@ class GitHubAPIClient:
         self.rate_limit_remaining: Optional[int] = None
         self.rate_limit_reset: Optional[int] = None
         self.api_calls_made = 0
+        # Tracks consecutive rate-limit failures across repo fetches.
+        # Reset to 0 on any successful response; drives exponential backoff.
+        self._consecutive_rate_limit_hits = 0
+
+    def _rate_limit_wait(self, e: urllib.error.HTTPError, attempt: int) -> float:
+        """
+        Compute how long to wait after a 403.
+
+        Uses whichever is larger:
+          - The time until the server's rate-limit window resets (from headers)
+          - Exponential backoff based on how many consecutive rate-limit hits
+            have occurred across *all* recent repo fetches
+
+        GitHub secondary rate limits don't always set X-RateLimit-Reset, but
+        may set Retry-After.  Both are checked.
+        """
+        # Header-suggested waits
+        reset_time   = int(e.headers.get('X-RateLimit-Reset', 0))
+        retry_after  = int(e.headers.get('Retry-After', 0))
+        header_wait  = max(reset_time - time.time() + 5, retry_after, 0)
+
+        # Exponential backoff tier based on lifetime consecutive failures
+        tier         = self._consecutive_rate_limit_hits
+        backoff_wait = min(_BACKOFF_BASE * (_BACKOFF_FACTOR ** tier), _BACKOFF_MAX)
+
+        return max(header_wait, backoff_wait)
 
     def get_repo_info(self, owner: str, repo: str) -> Optional[Dict]:
         """Fetch repository metadata from the GitHub API."""
@@ -100,21 +131,28 @@ class GitHubAPIClient:
                     )
                     data = json.loads(resp.read().decode())
                     self.api_calls_made += 1
+                    self._consecutive_rate_limit_hits = 0  # success resets the counter
                     time.sleep(self.delay)
                     return data
 
             except urllib.error.HTTPError as e:
                 if e.code == 404:
+                    self._consecutive_rate_limit_hits = 0  # 404 is a clean response
                     return None
                 elif e.code == 403:
-                    reset_time = int(e.headers.get('X-RateLimit-Reset', 0))
-                    wait = reset_time - time.time() + 5
-                    if wait > 0 and attempt < 2:
-                        print(f"Rate limit exceeded. Waiting {int(wait)}s "
-                              f"(attempt {attempt + 1}/3)...")
+                    self._consecutive_rate_limit_hits += 1
+                    wait = self._rate_limit_wait(e, attempt)
+                    if attempt < 2:
+                        print(
+                            f"Rate limit hit (consecutive={self._consecutive_rate_limit_hits}). "
+                            f"Waiting {format_duration(wait)} (attempt {attempt + 1}/3)..."
+                        )
                         time.sleep(wait)
                         continue
-                    print(f"Rate limit: giving up after 3 attempts for {owner}/{repo}")
+                    print(
+                        f"Rate limit: giving up after 3 attempts for {owner}/{repo} "
+                        f"(consecutive={self._consecutive_rate_limit_hits})"
+                    )
                     return None
                 else:
                     print(f"HTTP {e.code} fetching {owner}/{repo}: {e}")
