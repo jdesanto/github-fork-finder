@@ -1,0 +1,96 @@
+{
+  "owner": "deltabotdev",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "DeltaBotDev/Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:38:57Z"
+    },
+    {
+      "full_name": "DeltaBotDev/chat",
+      "is_fork": true,
+      "parent": "BitteProtocol/chat",
+      "source": "BitteProtocol/chat",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:00Z"
+    },
+    {
+      "full_name": "DeltaBotDev/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:02Z"
+    },
+    {
+      "full_name": "DeltaBotDev/deltatrade-agent-next",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:04Z"
+    },
+    {
+      "full_name": "DeltaBotDev/deltatrade-ai-chat",
+      "is_fork": true,
+      "parent": "BitteProtocol/chat",
+      "source": "BitteProtocol/chat",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:09Z"
+    },
+    {
+      "full_name": "DeltaBotDev/dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:12Z"
+    },
+    {
+      "full_name": "DeltaBotDev/gocryptotrader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-05T01:39:14Z"
+    },
+    {
+      "full_name": "DeltaBotDev/gpt4free",
+      "is_fork": true,
+      "parent": "xtekky/gpt4free",
+      "source": "xtekky/gpt4free",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:39:16Z"
+    },
+    {
+      "full_name": "DeltaBotDev/hot-sdk-js",
+      "is_fork": true,
+      "parent": "hot-dao/hot-sdk-js",
+      "source": "hot-dao/hot-sdk-js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:18Z"
+    },
+    {
+      "full_name": "DeltaBotDev/sdk-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:39:20Z"
+    }
+  ]
+}

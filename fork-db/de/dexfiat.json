@@ -1,0 +1,51 @@
+{
+  "owner": "dexfiat",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "Dexfiat/Dexfiat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:09:07Z"
+    },
+    {
+      "full_name": "Dexfiat/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:09:09Z"
+    },
+    {
+      "full_name": "Dexfiat/harmonyj",
+      "is_fork": true,
+      "parent": "harmony-one/harmonyj",
+      "source": "harmony-one/harmonyj",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:09:11Z"
+    },
+    {
+      "full_name": "Dexfiat/ref-contracts",
+      "is_fork": true,
+      "parent": "ref-finance/ref-contracts",
+      "source": "ref-finance/ref-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:09:13Z"
+    },
+    {
+      "full_name": "Dexfiat/ref-sdk",
+      "is_fork": true,
+      "parent": "ref-finance/ref-sdk",
+      "source": "ref-finance/ref-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:09:16Z"
+    }
+  ]
+}

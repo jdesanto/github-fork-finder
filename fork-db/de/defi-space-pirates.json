@@ -1,0 +1,51 @@
+{
+  "owner": "defi-space-pirates",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "DeFi-Space-Pirates/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:06:35Z"
+    },
+    {
+      "full_name": "DeFi-Space-Pirates/space-pirates-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Solidity",
+      "last_checked": "2026-03-04T23:06:38Z"
+    },
+    {
+      "full_name": "DeFi-Space-Pirates/space-pirates-contracts-tron",
+      "is_fork": true,
+      "parent": "DeFi-Space-Pirates/space-pirates-contracts",
+      "source": "DeFi-Space-Pirates/space-pirates-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:06:40Z"
+    },
+    {
+      "full_name": "DeFi-Space-Pirates/space-pirates-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-04T23:06:42Z"
+    },
+    {
+      "full_name": "DeFi-Space-Pirates/space-pirates-frontend-tron",
+      "is_fork": true,
+      "parent": "DeFi-Space-Pirates/space-pirates-frontend",
+      "source": "DeFi-Space-Pirates/space-pirates-frontend",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-04T23:06:44Z"
+    }
+  ]
+}

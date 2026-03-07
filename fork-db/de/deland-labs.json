@@ -1,0 +1,411 @@
+{
+  "owner": "deland-labs",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "Deland-Labs/DFT-Standard-Tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:34:44Z"
+    },
+    {
+      "full_name": "Deland-Labs/DFT-free-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:34:46Z"
+    },
+    {
+      "full_name": "Deland-Labs/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:34:48Z"
+    },
+    {
+      "full_name": "Deland-Labs/DelandLabsWeb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "SCSS",
+      "last_checked": "2026-03-05T01:34:50Z"
+    },
+    {
+      "full_name": "Deland-Labs/ICConnector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:34:53Z"
+    },
+    {
+      "full_name": "Deland-Labs/ICP.NET",
+      "is_fork": true,
+      "parent": "edjCase/ICP.NET",
+      "source": "edjCase/ICP.NET",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-05T01:34:55Z"
+    },
+    {
+      "full_name": "Deland-Labs/KasplexBuilder",
+      "is_fork": true,
+      "parent": "KaffinPX/KasplexBuilder",
+      "source": "KaffinPX/KasplexBuilder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:34:57Z"
+    },
+    {
+      "full_name": "Deland-Labs/TonSdk.NET",
+      "is_fork": true,
+      "parent": "continuation-team/TonSdk.NET",
+      "source": "continuation-team/TonSdk.NET",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:34:59Z"
+    },
+    {
+      "full_name": "Deland-Labs/agent-rs",
+      "is_fork": true,
+      "parent": "dfinity/agent-rs",
+      "source": "dfinity/agent-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:01Z"
+    },
+    {
+      "full_name": "Deland-Labs/canister-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:35:03Z"
+    },
+    {
+      "full_name": "Deland-Labs/canister-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:05Z"
+    },
+    {
+      "full_name": "Deland-Labs/dfinity-call-error-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:07Z"
+    },
+    {
+      "full_name": "Deland-Labs/dfinity-self-describing-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:09Z"
+    },
+    {
+      "full_name": "Deland-Labs/dft-issuance-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:11Z"
+    },
+    {
+      "full_name": "Deland-Labs/dfx_docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-05T01:35:13Z"
+    },
+    {
+      "full_name": "Deland-Labs/env_to_config_toml",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:16Z"
+    },
+    {
+      "full_name": "Deland-Labs/ex3-ord",
+      "is_fork": true,
+      "parent": "okx/ord",
+      "source": "ordinals/ord",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:18Z"
+    },
+    {
+      "full_name": "Deland-Labs/examples",
+      "is_fork": true,
+      "parent": "dfinity/examples",
+      "source": "dfinity/examples",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:20Z"
+    },
+    {
+      "full_name": "Deland-Labs/extension",
+      "is_fork": true,
+      "parent": "kasware-wallet/extension",
+      "source": "kasware-wallet/extension",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:22Z"
+    },
+    {
+      "full_name": "Deland-Labs/fungible-token-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:24Z"
+    },
+    {
+      "full_name": "Deland-Labs/hibit-id",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:27Z"
+    },
+    {
+      "full_name": "Deland-Labs/hibit-id-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:30Z"
+    },
+    {
+      "full_name": "Deland-Labs/hibit-id-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:32Z"
+    },
+    {
+      "full_name": "Deland-Labs/hibit-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:34Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:34Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic-bin-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:36Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic-canister-package",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:39Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic-dev-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:41Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic-kit",
+      "is_fork": true,
+      "parent": "Psychedelic/ic-kit",
+      "source": "Psychedelic/ic-kit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:44Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic-test-env",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:35:46Z"
+    },
+    {
+      "full_name": "Deland-Labs/ic_common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:35:48Z"
+    },
+    {
+      "full_name": "Deland-Labs/localCache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:50Z"
+    },
+    {
+      "full_name": "Deland-Labs/noble-curves",
+      "is_fork": true,
+      "parent": "paulmillr/noble-curves",
+      "source": "paulmillr/noble-curves",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-05T01:35:52Z"
+    },
+    {
+      "full_name": "Deland-Labs/openmask-extension",
+      "is_fork": true,
+      "parent": "OpenProduct/openmask-extension",
+      "source": "OpenProduct/openmask-extension",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:35:54Z"
+    },
+    {
+      "full_name": "Deland-Labs/ord",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:56Z"
+    },
+    {
+      "full_name": "Deland-Labs/ord1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:56Z"
+    },
+    {
+      "full_name": "Deland-Labs/renovate-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:35:58Z"
+    },
+    {
+      "full_name": "Deland-Labs/rs-merkle",
+      "is_fork": true,
+      "parent": "antouhou/rs-merkle",
+      "source": "antouhou/rs-merkle",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:36:00Z"
+    },
+    {
+      "full_name": "Deland-Labs/rust-rocksdb",
+      "is_fork": true,
+      "parent": "rust-rocksdb/rust-rocksdb",
+      "source": "rust-rocksdb/rust-rocksdb",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:36:03Z"
+    },
+    {
+      "full_name": "Deland-Labs/rust-secp256k1",
+      "is_fork": true,
+      "parent": "rust-bitcoin/rust-secp256k1",
+      "source": "rust-bitcoin/rust-secp256k1",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-05T01:36:05Z"
+    },
+    {
+      "full_name": "Deland-Labs/rusty-kaspa",
+      "is_fork": true,
+      "parent": "kaspanet/rusty-kaspa",
+      "source": "kaspanet/rusty-kaspa",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:36:07Z"
+    },
+    {
+      "full_name": "Deland-Labs/scroll-test-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:36:10Z"
+    },
+    {
+      "full_name": "Deland-Labs/stable-structures",
+      "is_fork": true,
+      "parent": "dfinity/stable-structures",
+      "source": "dfinity/stable-structures",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-05T01:36:13Z"
+    },
+    {
+      "full_name": "Deland-Labs/test-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-05T01:36:15Z"
+    },
+    {
+      "full_name": "Deland-Labs/tipjar",
+      "is_fork": true,
+      "parent": "ninegua/tipjar",
+      "source": "ninegua/tipjar",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-05T01:36:18Z"
+    }
+  ]
+}

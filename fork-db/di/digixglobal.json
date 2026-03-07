@@ -1,0 +1,996 @@
+{
+  "owner": "digixglobal",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "DigixGlobal/Bank-profile",
+      "is_fork": true,
+      "parent": "IamYunusAli/Bank-profile",
+      "source": "IamYunusAli/Bank-profile",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-03T21:34:45Z"
+    },
+    {
+      "full_name": "DigixGlobal/DGXi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:34:47Z"
+    },
+    {
+      "full_name": "DigixGlobal/Tokens",
+      "is_fork": true,
+      "parent": "Consensys/Tokens",
+      "source": "Consensys/Tokens",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:34:49Z"
+    },
+    {
+      "full_name": "DigixGlobal/abi",
+      "is_fork": true,
+      "parent": "roynalnaruto/abi",
+      "source": "exthereum/abi",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:34:51Z"
+    },
+    {
+      "full_name": "DigixGlobal/absinthe",
+      "is_fork": true,
+      "parent": "absinthe-graphql/absinthe",
+      "source": "absinthe-graphql/absinthe",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:34:53Z"
+    },
+    {
+      "full_name": "DigixGlobal/absinthe_plug",
+      "is_fork": true,
+      "parent": "absinthe-graphql/absinthe_plug",
+      "source": "absinthe-graphql/absinthe_plug",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:34:55Z"
+    },
+    {
+      "full_name": "DigixGlobal/acid-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:34:57Z"
+    },
+    {
+      "full_name": "DigixGlobal/api-connectors",
+      "is_fork": true,
+      "parent": "BitMEX/api-connectors",
+      "source": "BitMEX/api-connectors",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-03T21:34:59Z"
+    },
+    {
+      "full_name": "DigixGlobal/aurum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:01Z"
+    },
+    {
+      "full_name": "DigixGlobal/aws_elixir_srp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:35:03Z"
+    },
+    {
+      "full_name": "DigixGlobal/bamboo_postmark",
+      "is_fork": true,
+      "parent": "pablo-co/bamboo_postmark",
+      "source": "pablo-co/bamboo_postmark",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:35:05Z"
+    },
+    {
+      "full_name": "DigixGlobal/bitfinex",
+      "is_fork": true,
+      "parent": "mrenoon/bitfinex",
+      "source": "scottjbarr/bitfinex-py",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:35:07Z"
+    },
+    {
+      "full_name": "DigixGlobal/cacp-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:09Z"
+    },
+    {
+      "full_name": "DigixGlobal/conduit_nsq",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:35:11Z"
+    },
+    {
+      "full_name": "DigixGlobal/conduit_plugs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:35:13Z"
+    },
+    {
+      "full_name": "DigixGlobal/contest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:15Z"
+    },
+    {
+      "full_name": "DigixGlobal/contract-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:16Z"
+    },
+    {
+      "full_name": "DigixGlobal/cpp-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/aleth",
+      "source": "ethereum/aleth",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-03T21:35:19Z"
+    },
+    {
+      "full_name": "DigixGlobal/dao-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Solidity",
+      "last_checked": "2026-03-03T21:35:20Z"
+    },
+    {
+      "full_name": "DigixGlobal/dao-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:22Z"
+    },
+    {
+      "full_name": "DigixGlobal/dao-test-automation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "RobotFramework",
+      "last_checked": "2026-03-03T21:35:24Z"
+    },
+    {
+      "full_name": "DigixGlobal/dice-to-entropy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:26Z"
+    },
+    {
+      "full_name": "DigixGlobal/digix-press-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-03T21:35:28Z"
+    },
+    {
+      "full_name": "DigixGlobal/digixbot-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:30Z"
+    },
+    {
+      "full_name": "DigixGlobal/digixdao-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 50,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:32Z"
+    },
+    {
+      "full_name": "DigixGlobal/dijix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:34Z"
+    },
+    {
+      "full_name": "DigixGlobal/dijix-attestation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:36Z"
+    },
+    {
+      "full_name": "DigixGlobal/dijix-image",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:38Z"
+    },
+    {
+      "full_name": "DigixGlobal/dijix-pdf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:40Z"
+    },
+    {
+      "full_name": "DigixGlobal/dijix-plugin-pinning",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:42Z"
+    },
+    {
+      "full_name": "DigixGlobal/documentations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-03T21:35:44Z"
+    },
+    {
+      "full_name": "DigixGlobal/doxity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 213,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:46Z"
+    },
+    {
+      "full_name": "DigixGlobal/doxity-gatsby-starter-project",
+      "is_fork": true,
+      "parent": "gatsbyjs/gatsby-starter-documentation",
+      "source": "gatsbyjs/gatsby-starter-documentation",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:35:48Z"
+    },
+    {
+      "full_name": "DigixGlobal/droplet_kit",
+      "is_fork": true,
+      "parent": "digitalocean/droplet_kit",
+      "source": "digitalocean/droplet_kit",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:50Z"
+    },
+    {
+      "full_name": "DigixGlobal/electron-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:35:52Z"
+    },
+    {
+      "full_name": "DigixGlobal/eleveldb",
+      "is_fork": true,
+      "parent": "basho/eleveldb",
+      "source": "basho/eleveldb",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:35:54Z"
+    },
+    {
+      "full_name": "DigixGlobal/elixir_nsq",
+      "is_fork": true,
+      "parent": "wistia/elixir_nsq",
+      "source": "wistia/elixir_nsq",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:35:56Z"
+    },
+    {
+      "full_name": "DigixGlobal/erlang-keccakf1600",
+      "is_fork": true,
+      "parent": "potatosalad/erlang-keccakf1600",
+      "source": "potatosalad/erlang-keccakf1600",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-03T21:35:58Z"
+    },
+    {
+      "full_name": "DigixGlobal/etc-redemption",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:00Z"
+    },
+    {
+      "full_name": "DigixGlobal/etc-refund",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:02Z"
+    },
+    {
+      "full_name": "DigixGlobal/eth-block-tracker",
+      "is_fork": true,
+      "parent": "MetaMask/eth-block-tracker",
+      "source": "MetaMask/eth-block-tracker",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:04Z"
+    },
+    {
+      "full_name": "DigixGlobal/eth-lightwallet",
+      "is_fork": true,
+      "parent": "Consensys/eth-lightwallet",
+      "source": "Consensys/eth-lightwallet",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:06Z"
+    },
+    {
+      "full_name": "DigixGlobal/eth-net-intelligence-api",
+      "is_fork": true,
+      "parent": "cubedro/eth-net-intelligence-api",
+      "source": "cubedro/eth-net-intelligence-api",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:08Z"
+    },
+    {
+      "full_name": "DigixGlobal/ethash",
+      "is_fork": true,
+      "parent": "ethereum/ethash",
+      "source": "ethereum/ethash",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-03T21:36:10Z"
+    },
+    {
+      "full_name": "DigixGlobal/ethereum-ruby",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 196,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:36:12Z"
+    },
+    {
+      "full_name": "DigixGlobal/event_bus",
+      "is_fork": true,
+      "parent": "otobus/event_bus",
+      "source": "otobus/event_bus",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:36:14Z"
+    },
+    {
+      "full_name": "DigixGlobal/exth_crypto",
+      "is_fork": true,
+      "parent": "exthereum/exth_crypto",
+      "source": "exthereum/exth_crypto",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:36:16Z"
+    },
+    {
+      "full_name": "DigixGlobal/ganache-core",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/ganache",
+      "source": "ConsenSys-archive/ganache",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:18Z"
+    },
+    {
+      "full_name": "DigixGlobal/gfx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "PostScript",
+      "last_checked": "2026-03-03T21:36:20Z"
+    },
+    {
+      "full_name": "DigixGlobal/gnosis-multisig-dapplet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:22Z"
+    },
+    {
+      "full_name": "DigixGlobal/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-03T21:36:24Z"
+    },
+    {
+      "full_name": "DigixGlobal/gold-tokens-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-03T21:36:26Z"
+    },
+    {
+      "full_name": "DigixGlobal/governance-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:28Z"
+    },
+    {
+      "full_name": "DigixGlobal/governance-ui-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:30Z"
+    },
+    {
+      "full_name": "DigixGlobal/hex_formatter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:36:32Z"
+    },
+    {
+      "full_name": "DigixGlobal/imaplibrary-python36",
+      "is_fork": true,
+      "parent": "mikegeorgejimenez/imaplibrary-python36",
+      "source": "mikegeorgejimenez/imaplibrary-python36",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:36:34Z"
+    },
+    {
+      "full_name": "DigixGlobal/info-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:36Z"
+    },
+    {
+      "full_name": "DigixGlobal/ipfs-pinning-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:38Z"
+    },
+    {
+      "full_name": "DigixGlobal/isomorphic-canvas",
+      "is_fork": true,
+      "parent": "arusakov/isomorphic-canvas",
+      "source": "arusakov/isomorphic-canvas",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:40Z"
+    },
+    {
+      "full_name": "DigixGlobal/jaxon",
+      "is_fork": true,
+      "parent": "boudra/jaxon",
+      "source": "boudra/jaxon",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-03T21:36:42Z"
+    },
+    {
+      "full_name": "DigixGlobal/json-ipc-server",
+      "is_fork": true,
+      "parent": "paritytech/json-ipc-server",
+      "source": "NikVolf/json-ipc-server",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:36:44Z"
+    },
+    {
+      "full_name": "DigixGlobal/json-tcp-server",
+      "is_fork": true,
+      "parent": "paritytech/json-tcp-server",
+      "source": "paritytech/json-tcp-server",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:36:46Z"
+    },
+    {
+      "full_name": "DigixGlobal/libsalty",
+      "is_fork": true,
+      "parent": "ArteMisc/libsalty",
+      "source": "ArteMisc/libsalty",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:36:48Z"
+    },
+    {
+      "full_name": "DigixGlobal/libsecp256k1",
+      "is_fork": true,
+      "parent": "exthereum/libsecp256k1",
+      "source": "mbrix/libsecp256k1",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-03T21:36:50Z"
+    },
+    {
+      "full_name": "DigixGlobal/lite-dgx-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:52Z"
+    },
+    {
+      "full_name": "DigixGlobal/managed-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-03T21:36:54Z"
+    },
+    {
+      "full_name": "DigixGlobal/merkle_patricia_tree",
+      "is_fork": true,
+      "parent": "exthereum/merkle_patricia_tree",
+      "source": "exthereum/merkle_patricia_tree",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:36:56Z"
+    },
+    {
+      "full_name": "DigixGlobal/meteor-dapp-cosmo",
+      "is_fork": true,
+      "parent": "cosmo-project/meteor-dapp-cosmo",
+      "source": "cosmo-project/meteor-dapp-cosmo",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:36:58Z"
+    },
+    {
+      "full_name": "DigixGlobal/mio",
+      "is_fork": true,
+      "parent": "tokio-rs/mio",
+      "source": "tokio-rs/mio",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:37:00Z"
+    },
+    {
+      "full_name": "DigixGlobal/multi-hash",
+      "is_fork": true,
+      "parent": "tinybike/multi-hash",
+      "source": "tinybike/multi-hash",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:02Z"
+    },
+    {
+      "full_name": "DigixGlobal/multiplexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:04Z"
+    },
+    {
+      "full_name": "DigixGlobal/nanomsg.rs",
+      "is_fork": true,
+      "parent": "thehydroimpulse/nanomsg.rs",
+      "source": "thehydroimpulse/nanomsg.rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:37:06Z"
+    },
+    {
+      "full_name": "DigixGlobal/node-ipfs-pinner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:08Z"
+    },
+    {
+      "full_name": "DigixGlobal/node-ipfs-pinning-server-lite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:10Z"
+    },
+    {
+      "full_name": "DigixGlobal/optimize-css-assets-webpack-plugin",
+      "is_fork": true,
+      "parent": "NMFR/optimize-css-assets-webpack-plugin",
+      "source": "NMFR/optimize-css-assets-webpack-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:12Z"
+    },
+    {
+      "full_name": "DigixGlobal/parity",
+      "is_fork": true,
+      "parent": "openethereum/parity-ethereum",
+      "source": "openethereum/parity-ethereum",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:37:14Z"
+    },
+    {
+      "full_name": "DigixGlobal/qaexam",
+      "is_fork": true,
+      "parent": "jreyes424/qaexam",
+      "source": "jreyes424/qaexam",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-03T21:37:16Z"
+    },
+    {
+      "full_name": "DigixGlobal/react-ledger-container",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:18Z"
+    },
+    {
+      "full_name": "DigixGlobal/react-trezor-container",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:20Z"
+    },
+    {
+      "full_name": "DigixGlobal/react-webcam",
+      "is_fork": true,
+      "parent": "mozmorris/react-webcam",
+      "source": "mozmorris/react-webcam",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:22Z"
+    },
+    {
+      "full_name": "DigixGlobal/redux-crypto-prices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:24Z"
+    },
+    {
+      "full_name": "DigixGlobal/robotframework-imaplibrary",
+      "is_fork": true,
+      "parent": "lovelysystems/robotframework-imaplibrary",
+      "source": "lovelysystems/robotframework-imaplibrary",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-03T21:37:26Z"
+    },
+    {
+      "full_name": "DigixGlobal/ruby-eth",
+      "is_fork": true,
+      "parent": "se3000/ruby-eth",
+      "source": "se3000/ruby-eth",
+      "stars": 4,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:37:28Z"
+    },
+    {
+      "full_name": "DigixGlobal/rustls",
+      "is_fork": true,
+      "parent": "rustls/rustls",
+      "source": "rustls/rustls",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:37:30Z"
+    },
+    {
+      "full_name": "DigixGlobal/sha3-pure-ruby",
+      "is_fork": true,
+      "parent": "havenwood/sha3-pure-ruby",
+      "source": "havenwood/sha3-pure-ruby",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-03T21:37:33Z"
+    },
+    {
+      "full_name": "DigixGlobal/sigmate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:34Z"
+    },
+    {
+      "full_name": "DigixGlobal/simple-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:36Z"
+    },
+    {
+      "full_name": "DigixGlobal/solidity-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:38Z"
+    },
+    {
+      "full_name": "DigixGlobal/solidity-collections-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:40Z"
+    },
+    {
+      "full_name": "DigixGlobal/solidity-demonstrations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:42Z"
+    },
+    {
+      "full_name": "DigixGlobal/solidity-statemachine-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:44Z"
+    },
+    {
+      "full_name": "DigixGlobal/sui-react-dijix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:46Z"
+    },
+    {
+      "full_name": "DigixGlobal/sui-react-ezmodal",
+      "is_fork": true,
+      "parent": "IstoraMandiri/sui-react-ezmodal",
+      "source": "IstoraMandiri/sui-react-ezmodal",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:48Z"
+    },
+    {
+      "full_name": "DigixGlobal/tempo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:50Z"
+    },
+    {
+      "full_name": "DigixGlobal/testrpc",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/ganache-cli-archive",
+      "source": "ConsenSys-archive/ganache-cli-archive",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:52Z"
+    },
+    {
+      "full_name": "DigixGlobal/truffle",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle",
+      "source": "ConsenSys-archive/truffle",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:54Z"
+    },
+    {
+      "full_name": "DigixGlobal/truffle-compile",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle-compile",
+      "source": "ConsenSys-archive/truffle-compile",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:56Z"
+    },
+    {
+      "full_name": "DigixGlobal/truffle-contract",
+      "is_fork": true,
+      "parent": "oladotunr/truffle-contract",
+      "source": "oladotunr/truffle-contract",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:37:58Z"
+    },
+    {
+      "full_name": "DigixGlobal/truffle-lightwallet-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:00Z"
+    },
+    {
+      "full_name": "DigixGlobal/truffle-starter-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:02Z"
+    },
+    {
+      "full_name": "DigixGlobal/ucb-seminar-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:05Z"
+    },
+    {
+      "full_name": "DigixGlobal/wallet-migration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:06Z"
+    },
+    {
+      "full_name": "DigixGlobal/web3-console",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:08Z"
+    },
+    {
+      "full_name": "DigixGlobal/web3-redux",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:10Z"
+    },
+    {
+      "full_name": "DigixGlobal/web3.js",
+      "is_fork": true,
+      "parent": "web3/web3.js",
+      "source": "web3/web3.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:12Z"
+    },
+    {
+      "full_name": "DigixGlobal/webpack-pwa-manifest",
+      "is_fork": true,
+      "parent": "arthurbergmz/webpack-pwa-manifest",
+      "source": "arthurbergmz/webpack-pwa-manifest",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:15Z"
+    },
+    {
+      "full_name": "DigixGlobal/webpki",
+      "is_fork": true,
+      "parent": "briansmith/webpki",
+      "source": "briansmith/webpki",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:38:17Z"
+    },
+    {
+      "full_name": "DigixGlobal/webthree-helpers",
+      "is_fork": true,
+      "parent": "ethereum/webthree-helpers",
+      "source": "ethereum/webthree-helpers",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-03T21:38:19Z"
+    },
+    {
+      "full_name": "DigixGlobal/whitelist-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-03T21:38:21Z"
+    },
+    {
+      "full_name": "DigixGlobal/ws-rs",
+      "is_fork": true,
+      "parent": "paritytech/ws-rs",
+      "source": "housleyjk/ws-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-03T21:38:23Z"
+    }
+  ]
+}

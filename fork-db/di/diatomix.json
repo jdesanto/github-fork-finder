@@ -1,0 +1,24 @@
+{
+  "owner": "diatomix",
+  "updated_at": "2026-03-05T07:32:36Z",
+  "repos": [
+    {
+      "full_name": "Diatomix/Diatomix-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-03T21:23:00Z"
+    },
+    {
+      "full_name": "Diatomix/go-algorand",
+      "is_fork": true,
+      "parent": "algorand/go-algorand",
+      "source": "algorand/go-algorand",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-03T21:23:03Z"
+    }
+  ]
+}
