@@ -1,7 +1,466 @@
 {
   "owner": "instadapp",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:55:00Z",
   "repos": [
+    {
+      "full_name": "InstaDApp/Gelato-automations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/InstaContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/InstaDApp-Dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/SaiPool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/all-things-instadapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/blockchain-security-contacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/brand",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/defibot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-connect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-connectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-connectors-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-developers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-ecosystem",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-flashloan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-resolvers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/dsa-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/flusher-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/instadapp-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/reserve",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/spells",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/yield-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "InstaDApp/yield-flusher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/ERC-20-Token-Allowance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/Forta-Agents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/InstaContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/InstaDApp-Dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/Paraswap-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/Solana-multisig-txn-decoder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/Swap-Aggregator-Subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/UniswapV3-USDC-ETH-Subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/aave-automation-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/aave-protocol-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/aip",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/all-things-instadapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/assembly",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/avocado-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/avocado-contracts-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/avocado-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/avocado-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/boardroom-inc-protocol-Info",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/brand",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/chainlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/chains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/compound-dsa-managers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-connect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-connect-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
     {
       "full_name": "Instadapp/dsa-connectors",
       "is_fork": false,
@@ -12,6 +471,78 @@
       "last_checked": "2026-03-04T03:36:39Z"
     },
     {
+      "full_name": "Instadapp/dsa-connectors-2.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-connectors-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-developers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-flashloan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-periphery-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-polygon-migration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
       "full_name": "Instadapp/dsa-resolvers",
       "is_fork": false,
       "parent": null,
@@ -19,6 +550,195 @@
       "stars": 21,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:36:41Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-resolvers-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/dsa-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/fla-fees-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/flashloan-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/fluid-brand",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/fluid-contracts-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/gov-proposals",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/infinite-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/inst-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/insta-graphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/instadapp-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/instadapp-dsa-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/smart-lookup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/token-vesting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/trustwallet-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/vue-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/web3modal-ethers5",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/yield-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
+    },
+    {
+      "full_name": "Instadapp/yield-flusher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:15Z"
     }
   ]
 }

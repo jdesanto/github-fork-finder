@@ -1,7 +1,385 @@
 {
   "owner": "harmoniclabs",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:55:00Z",
   "repos": [
+    {
+      "full_name": "HarmonicLabs/CIP-onchain-tx-chaining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/CIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/Concordia",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/base_resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/bigint-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/biguint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/bip32_ed25519",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/bitstream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/blockfrost-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/buildooor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/bytestring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cardano-costmodels-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cardano-ledger-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cardano-ts_beginner-to-advanced",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cardanocli-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/catalyst-bond",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/catalyst-close-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cbor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cbor-zig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cip68-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/cnode-ts-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/connection-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/consensus_notes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/erc20-like",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/formal-ledger-spec-4-plebs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/gerolamo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/gerolamo-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/hello-pluts-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/jest-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/koios-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/kupmios-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/mutexo-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/mutexo-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/mutexo-messages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/mutexo-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/nft-vending-machine-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/nix-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/obj-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/ouroboros-miniprotocols-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/pair",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
     {
       "full_name": "HarmonicLabs/pebble",
       "is_fork": false,
@@ -10,6 +388,168 @@
       "stars": 175,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:35:41Z"
+    },
+    {
+      "full_name": "HarmonicLabs/pebble-lsp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plu-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plu-ts-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plu-ts-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plu-ts-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/pluts-emulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plutus-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plutus-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/plutus-machine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/programmable-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/shared-cardano-mempool-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/shared-header-pool-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/simple-minting-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/tempus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/ts-best-practices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/uint8array-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/uplc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
+    },
+    {
+      "full_name": "HarmonicLabs/vesting-pluts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:02Z"
     }
   ]
 }

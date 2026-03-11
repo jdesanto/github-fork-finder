@@ -1,7 +1,124 @@
 {
   "owner": "gajesh2007",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "Gajesh2007/BanklessSubscription",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:38:39Z"
+    },
+    {
+      "full_name": "Gajesh2007/BountyNetwork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:40Z"
+    },
+    {
+      "full_name": "Gajesh2007/CoinFlip_Solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:42Z"
+    },
+    {
+      "full_name": "Gajesh2007/CoinFlip_TON",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:38:44Z"
+    },
+    {
+      "full_name": "Gajesh2007/ConnectFour",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:46Z"
+    },
+    {
+      "full_name": "Gajesh2007/DVideo-Solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:48Z"
+    },
+    {
+      "full_name": "Gajesh2007/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:38:50Z"
+    },
+    {
+      "full_name": "Gajesh2007/DiceGame_Solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:52Z"
+    },
+    {
+      "full_name": "Gajesh2007/DriftRust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:54Z"
+    },
+    {
+      "full_name": "Gajesh2007/Drop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:38:56Z"
+    },
+    {
+      "full_name": "Gajesh2007/Juicebox_TON",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:38:58Z"
+    },
+    {
+      "full_name": "Gajesh2007/LosslessDonation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:00Z"
+    },
+    {
+      "full_name": "Gajesh2007/MasterChef",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:02Z"
+    },
     {
       "full_name": "Gajesh2007/NFT-Farming",
       "is_fork": false,
@@ -12,6 +129,303 @@
       "last_checked": "2026-03-04T03:33:24Z"
     },
     {
+      "full_name": "Gajesh2007/NFTCollaterizedLoans",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:04Z"
+    },
+    {
+      "full_name": "Gajesh2007/NFTSpinner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:06Z"
+    },
+    {
+      "full_name": "Gajesh2007/NFT_OTC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:39:08Z"
+    },
+    {
+      "full_name": "Gajesh2007/OTC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:10Z"
+    },
+    {
+      "full_name": "Gajesh2007/OmniMint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:39:12Z"
+    },
+    {
+      "full_name": "Gajesh2007/Reimburse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:14Z"
+    },
+    {
+      "full_name": "Gajesh2007/SolanaVRF",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:15Z"
+    },
+    {
+      "full_name": "Gajesh2007/TokenBarSolana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:17Z"
+    },
+    {
+      "full_name": "Gajesh2007/TrustLend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:39:19Z"
+    },
+    {
+      "full_name": "Gajesh2007/Vestor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:21Z"
+    },
+    {
+      "full_name": "Gajesh2007/Voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:23Z"
+    },
+    {
+      "full_name": "Gajesh2007/ai-trading-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 465,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:39:25Z"
+    },
+    {
+      "full_name": "Gajesh2007/anchor",
+      "is_fork": true,
+      "parent": "solana-foundation/anchor",
+      "source": "solana-foundation/anchor",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:27Z"
+    },
+    {
+      "full_name": "Gajesh2007/anchor-by-example",
+      "is_fork": true,
+      "parent": "coral-xyz/anchor-by-example",
+      "source": "coral-xyz/anchor-by-example",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:29Z"
+    },
+    {
+      "full_name": "Gajesh2007/awesome-ton",
+      "is_fork": true,
+      "parent": "ton-community/awesome-ton",
+      "source": "ton-community/awesome-ton",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:31Z"
+    },
+    {
+      "full_name": "Gajesh2007/backpack",
+      "is_fork": true,
+      "parent": "coral-xyz/backpack",
+      "source": "coral-xyz/backpack",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:39:34Z"
+    },
+    {
+      "full_name": "Gajesh2007/copytrading-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:39:35Z"
+    },
+    {
+      "full_name": "Gajesh2007/double-diffusion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:39:38Z"
+    },
+    {
+      "full_name": "Gajesh2007/eattheblocks",
+      "is_fork": true,
+      "parent": "jklepatch/eattheblocks",
+      "source": "jklepatch/eattheblocks",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:40Z"
+    },
+    {
+      "full_name": "Gajesh2007/escrow",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:41Z"
+    },
+    {
+      "full_name": "Gajesh2007/momentum-trading",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:39:43Z"
+    },
+    {
+      "full_name": "Gajesh2007/nft-drop-starter-project",
+      "is_fork": true,
+      "parent": "buildspace/nft-drop-starter-project",
+      "source": "buildspace/nft-drop-starter-project",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:45Z"
+    },
+    {
+      "full_name": "Gajesh2007/onchain-chess",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:39:47Z"
+    },
+    {
+      "full_name": "Gajesh2007/onchain-safte",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:39:49Z"
+    },
+    {
+      "full_name": "Gajesh2007/openbook-dex-ui",
+      "is_fork": true,
+      "parent": "openbook-dex/openbook-dex-ui",
+      "source": "project-serum/serum-dex-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:51Z"
+    },
+    {
+      "full_name": "Gajesh2007/port-anchor-adaptor",
+      "is_fork": true,
+      "parent": "port-finance/port-anchor-adaptor",
+      "source": "port-finance/port-anchor-adaptor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:53Z"
+    },
+    {
+      "full_name": "Gajesh2007/raydium-swap-anchor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:39:55Z"
+    },
+    {
+      "full_name": "Gajesh2007/solana-program-library",
+      "is_fork": true,
+      "parent": "solana-labs/solana-program-library",
+      "source": "solana-labs/solana-program-library",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:57Z"
+    },
+    {
+      "full_name": "Gajesh2007/stable-swap",
+      "is_fork": true,
+      "parent": "saber-hq/stable-swap",
+      "source": "saber-hq/stable-swap",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:39:59Z"
+    },
+    {
+      "full_name": "Gajesh2007/staking-rewards",
+      "is_fork": true,
+      "parent": "step-finance/reward-pool",
+      "source": "step-finance/reward-pool",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:40:01Z"
+    },
+    {
+      "full_name": "Gajesh2007/tact-docs",
+      "is_fork": true,
+      "parent": "tact-lang/tact-docs",
+      "source": "tact-lang/tact-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:40:03Z"
+    },
+    {
+      "full_name": "Gajesh2007/ton-by-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:40:05Z"
+    },
+    {
+      "full_name": "Gajesh2007/verifiable-rds-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:40:07Z"
+    },
+    {
       "full_name": "Gajesh2007/vrf-demo-walkthrough",
       "is_fork": false,
       "parent": null,
@@ -19,6 +433,15 @@
       "stars": 0,
       "language": null,
       "last_checked": "2026-03-04T03:33:26Z"
+    },
+    {
+      "full_name": "Gajesh2007/wbtc_sol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:40:09Z"
     }
   ]
 }

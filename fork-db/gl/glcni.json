@@ -1,6 +1,6 @@
 {
   "owner": "glcni",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
     {
       "full_name": "GLCNI/ETH-Solo-Validator-Addresses",
@@ -10,6 +10,15 @@
       "stars": 47,
       "language": null,
       "last_checked": "2026-03-04T03:33:14Z"
+    },
+    {
+      "full_name": "GLCNI/RPC-node-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Shell",
+      "last_checked": "2026-03-09T13:24:32Z"
     }
   ]
 }

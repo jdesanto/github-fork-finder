@@ -1,7 +1,250 @@
 {
   "owner": "fairblock",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "Fairblock/ArbitrumContracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:56:02Z"
+    },
+    {
+      "full_name": "Fairblock/DistributedIBE",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:04Z"
+    },
+    {
+      "full_name": "Fairblock/Fairblock.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:06Z"
+    },
+    {
+      "full_name": "Fairblock/FairyringContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T10:56:08Z"
+    },
+    {
+      "full_name": "Fairblock/GatewayContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T10:56:10Z"
+    },
+    {
+      "full_name": "Fairblock/ShareGenerationClient",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:12Z"
+    },
+    {
+      "full_name": "Fairblock/ShareGenerator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:14Z"
+    },
+    {
+      "full_name": "Fairblock/Unruggable-AI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:17Z"
+    },
+    {
+      "full_name": "Fairblock/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:19Z"
+    },
+    {
+      "full_name": "Fairblock/bdjuno",
+      "is_fork": true,
+      "parent": "forbole/callisto",
+      "source": "forbole/callisto",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:21Z"
+    },
+    {
+      "full_name": "Fairblock/beacon-kit",
+      "is_fork": true,
+      "parent": "evstack/beacon-kit",
+      "source": "berachain/beacon-kit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:23Z"
+    },
+    {
+      "full_name": "Fairblock/cdk-erigon",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:25Z"
+    },
+    {
+      "full_name": "Fairblock/cometbft",
+      "is_fork": true,
+      "parent": "cometbft/cometbft",
+      "source": "cometbft/cometbft",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:27Z"
+    },
+    {
+      "full_name": "Fairblock/cosmos-rust",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-rust",
+      "source": "cosmos/cosmos-rust",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:30Z"
+    },
+    {
+      "full_name": "Fairblock/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:32Z"
+    },
+    {
+      "full_name": "Fairblock/cosmossdk-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:34Z"
+    },
+    {
+      "full_name": "Fairblock/dkg-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:36Z"
+    },
+    {
+      "full_name": "Fairblock/dkg-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:38Z"
+    },
+    {
+      "full_name": "Fairblock/dkg-protocol-testing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:40Z"
+    },
+    {
+      "full_name": "Fairblock/eigenda-nitro-precompile-contracts",
+      "is_fork": true,
+      "parent": "Layr-Labs/nitro-contracts",
+      "source": "Layr-Labs/nitro-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T10:56:42Z"
+    },
+    {
+      "full_name": "Fairblock/eigenda-orbit-precompile-setup-script",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenda-orbit-setup-script",
+      "source": "Layr-Labs/eigenda-orbit-setup-script",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:56:44Z"
+    },
+    {
+      "full_name": "Fairblock/encrypter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:46Z"
+    },
+    {
+      "full_name": "Fairblock/fairates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:56:48Z"
+    },
+    {
+      "full_name": "Fairblock/fairblock-cycles-quartz",
+      "is_fork": true,
+      "parent": "informalsystems/quartz",
+      "source": "informalsystems/quartz",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:56:50Z"
+    },
+    {
+      "full_name": "Fairblock/fairblock-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:56:52Z"
+    },
+    {
+      "full_name": "Fairblock/fairblock-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:56:54Z"
+    },
+    {
+      "full_name": "Fairblock/fairyport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:54Z"
+    },
     {
       "full_name": "Fairblock/fairyring",
       "is_fork": false,
@@ -10,6 +253,231 @@
       "stars": 32,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:32:21Z"
+    },
+    {
+      "full_name": "Fairblock/fairyringChainMetrics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:56:55Z"
+    },
+    {
+      "full_name": "Fairblock/fairyringclient",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:56:57Z"
+    },
+    {
+      "full_name": "Fairblock/faucet",
+      "is_fork": true,
+      "parent": "ping-pub/faucet",
+      "source": "ping-pub/faucet",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:56:59Z"
+    },
+    {
+      "full_name": "Fairblock/forma-geth",
+      "is_fork": true,
+      "parent": "forma-dev/forma-geth",
+      "source": "forma-dev/forma-geth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:01Z"
+    },
+    {
+      "full_name": "Fairblock/ignite-cli",
+      "is_fork": true,
+      "parent": "ignite/cli",
+      "source": "ignite/cli",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T10:57:03Z"
+    },
+    {
+      "full_name": "Fairblock/keplr-chain-registry",
+      "is_fork": true,
+      "parent": "chainapsis/keplr-chain-registry",
+      "source": "chainapsis/keplr-chain-registry",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:57:05Z"
+    },
+    {
+      "full_name": "Fairblock/lazychain",
+      "is_fork": true,
+      "parent": "Lazychain/lazychain",
+      "source": "Lazychain/lazychain",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T10:57:07Z"
+    },
+    {
+      "full_name": "Fairblock/local_stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:09Z"
+    },
+    {
+      "full_name": "Fairblock/nitro-eigenda-precompile",
+      "is_fork": true,
+      "parent": "Layr-Labs/nitro",
+      "source": "Layr-Labs/nitro",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:11Z"
+    },
+    {
+      "full_name": "Fairblock/omni",
+      "is_fork": true,
+      "parent": "evstack/omni",
+      "source": "omni-network/omni",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:13Z"
+    },
+    {
+      "full_name": "Fairblock/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:16Z"
+    },
+    {
+      "full_name": "Fairblock/op_geth_precompile",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:18Z"
+    },
+    {
+      "full_name": "Fairblock/phala-network-key-recovery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:20Z"
+    },
+    {
+      "full_name": "Fairblock/pob",
+      "is_fork": true,
+      "parent": "skip-mev/pob",
+      "source": "skip-mev/pob",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:22Z"
+    },
+    {
+      "full_name": "Fairblock/privgov",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:24Z"
+    },
+    {
+      "full_name": "Fairblock/reth-exex-examples",
+      "is_fork": true,
+      "parent": "paradigmxyz/reth-exex-examples",
+      "source": "paradigmxyz/reth-exex-examples",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:57:26Z"
+    },
+    {
+      "full_name": "Fairblock/scepEncrypter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:28Z"
+    },
+    {
+      "full_name": "Fairblock/sealed-bid-auction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:30Z"
+    },
+    {
+      "full_name": "Fairblock/stylus",
+      "is_fork": true,
+      "parent": "OffchainLabs/stylus",
+      "source": "OffchainLabs/stylus",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:32Z"
+    },
+    {
+      "full_name": "Fairblock/tofn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:57:34Z"
+    },
+    {
+      "full_name": "Fairblock/tofnd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:57:36Z"
+    },
+    {
+      "full_name": "Fairblock/tower-abci",
+      "is_fork": true,
+      "parent": "penumbra-zone/tower-abci",
+      "source": "penumbra-zone/tower-abci",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:57:38Z"
+    },
+    {
+      "full_name": "Fairblock/uniswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:57:40Z"
+    },
+    {
+      "full_name": "Fairblock/vote-encrypter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:42Z"
+    },
+    {
+      "full_name": "Fairblock/wasmd",
+      "is_fork": true,
+      "parent": "CosmWasm/wasmd",
+      "source": "CosmWasm/wasmd",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:57:44Z"
     }
   ]
 }

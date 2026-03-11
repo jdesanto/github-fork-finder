@@ -1,7 +1,169 @@
 {
   "owner": "entropy-foundation",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "Entropy-Foundation/BICYCL",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T08:49:55Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:49:57Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/IntraLayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:49:59Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/NodeOps-Support-FAQ",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:01Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/QuicDataServer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:03Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/Supra-dapp-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:03Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/SupraMove-extn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:03Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/ZHT",
+      "is_fork": true,
+      "parent": "mierl/ZHT",
+      "source": "mierl/ZHT",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:05Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/access_control_public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:50:07Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/aptos-core",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-core",
+      "source": "aptos-labs/aptos-core",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:09Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/aptos-python-sdk",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-python-sdk",
+      "source": "aptos-labs/aptos-python-sdk",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T08:50:11Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/bcs",
+      "is_fork": true,
+      "parent": "zefchain/bcs",
+      "source": "zefchain/bcs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:13Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/bls-miracl-mcl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:15Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/blsttc",
+      "is_fork": true,
+      "parent": "maidsafe/blsttc",
+      "source": "maidsafe/blsttc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:18Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/blsttc-supra",
+      "is_fork": true,
+      "parent": "maidsafe/blsttc",
+      "source": "maidsafe/blsttc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:20Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/bulletproofs",
+      "is_fork": true,
+      "parent": "zkcrypto/bulletproofs",
+      "source": "dalek-cryptography/bulletproofs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:22Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/circle-stablecoin-supra",
+      "is_fork": true,
+      "parent": "circlefin/stablecoin-aptos",
+      "source": "circlefin/stablecoin-aptos",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:24Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/class",
+      "is_fork": true,
+      "parent": "ZenGo-X/class",
+      "source": "ZenGo-X/class",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T08:50:26Z"
+    },
     {
       "full_name": "Entropy-Foundation/class-group",
       "is_fork": false,
@@ -10,6 +172,501 @@
       "stars": 2,
       "language": "C++",
       "last_checked": "2026-03-04T03:31:35Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:50:28Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/dfinity-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:30Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/dice_game",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:30Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/dkg-substrate-test",
+      "is_fork": true,
+      "parent": "Cardinal-Cryptography/substrate",
+      "source": "paritytech/substrate",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:32Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/dora-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:50:34Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/helios",
+      "is_fork": true,
+      "parent": "a16z/helios",
+      "source": "a16z/helios",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:37Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/homebrew-supra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T08:50:38Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/hw-aptos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:50:40Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/hyperloop_relaynode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:43Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/hypernova-prototype",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:45Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/hypernova-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:45Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/influxdb2",
+      "is_fork": true,
+      "parent": "aprimadi/influxdb2",
+      "source": "aprimadi/influxdb2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:50:47Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/ledger-app-aptos",
+      "is_fork": true,
+      "parent": "aptos-labs/ledger-app-aptos",
+      "source": "aptos-labs/ledger-app-aptos",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T08:50:50Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/ledger-app-supra",
+      "is_fork": true,
+      "parent": "aptos-labs/ledger-app-aptos",
+      "source": "aptos-labs/ledger-app-aptos",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T08:50:52Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/legacy-aptos-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:50:54Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/liquid_nation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:50:56Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/milagro_bls",
+      "is_fork": true,
+      "parent": "sigp/milagro_bls",
+      "source": "sigp/milagro_bls",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:50:58Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/miracl_core_bn254",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:00Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/miracl_core_ed25519",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:02Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/mx-sdk-rs",
+      "is_fork": true,
+      "parent": "multiversx/mx-sdk-rs",
+      "source": "multiversx/mx-sdk-rs",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:04Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/narwhal",
+      "is_fork": true,
+      "parent": "asonnino/narwhal",
+      "source": "facebookresearch/narwhal",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:06Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/oracle-pull-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:08Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/reth",
+      "is_fork": true,
+      "parent": "paradigmxyz/reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:11Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/reward_distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:51:13Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/rust-libp2p",
+      "is_fork": true,
+      "parent": "libp2p/rust-libp2p",
+      "source": "libp2p/rust-libp2p",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:15Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/security-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:17Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/security-scan-report",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T08:51:19Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/simulations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T08:51:20Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/ssz-rs",
+      "is_fork": true,
+      "parent": "polytope-labs/ssz-rs",
+      "source": "ralexstokes/ssz-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:23Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/stablecoin-evm",
+      "is_fork": true,
+      "parent": "circlefin/stablecoin-evm",
+      "source": "circlefin/stablecoin-evm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:25Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/starkey-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:25Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/state-prover",
+      "is_fork": true,
+      "parent": "commonprefix/state-prover",
+      "source": "commonprefix/state-prover",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:51:27Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-aptos-ts-sdk",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-ts-sdk",
+      "source": "aptos-labs/aptos-ts-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:29Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:31Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-dev-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:33Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-dora-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:51:35Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-from-scratch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T08:51:37Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-l1-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:51:39Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-l1-sdk-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:51:41Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-node-monitoring-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T08:51:43Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-nodeops-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T08:51:45Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-pok3r",
+      "is_fork": true,
+      "parent": "rsinha/pok3r",
+      "source": "rsinha/pok3r",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:51:47Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-python-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T08:51:49Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supra-vrf-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:51:51Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/suprabft-fv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TeX",
+      "last_checked": "2026-03-09T08:51:53Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/supranova-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:51:55Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/sync-committee-rs",
+      "is_fork": true,
+      "parent": "polytope-labs/sync-committee-rs",
+      "source": "polytope-labs/sync-committee-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:51:57Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/tao_fomc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T08:51:59Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/tcp-console",
+      "is_fork": true,
+      "parent": "vnermolaev/tcp-console",
+      "source": "vnermolaev/tcp-console",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:52:01Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/tendermint",
+      "is_fork": true,
+      "parent": "tendermint/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T08:52:03Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/test-dht",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:52:05Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/unity-protocol-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T08:52:07Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/vrf-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Move",
+      "last_checked": "2026-03-09T08:52:09Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/x25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/x25519-dalek",
+      "source": "dalek-cryptography/x25519-dalek",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:52:11Z"
+    },
+    {
+      "full_name": "Entropy-Foundation/zengo-lib-dkg-tezos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:52:13Z"
     }
   ]
 }

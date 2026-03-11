@@ -1,7 +1,178 @@
 {
   "owner": "espressosystems",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "EspressoSystems/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:12:10Z"
+    },
+    {
+      "full_name": "EspressoSystems/HotShot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 161,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:12Z"
+    },
+    {
+      "full_name": "EspressoSystems/Marvellous",
+      "is_fork": true,
+      "parent": "KULeuven-COSIC/Marvellous",
+      "source": "KULeuven-COSIC/Marvellous",
+      "stars": 0,
+      "language": "Sage",
+      "last_checked": "2026-03-09T09:12:15Z"
+    },
+    {
+      "full_name": "EspressoSystems/Push-CDN",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:17Z"
+    },
+    {
+      "full_name": "EspressoSystems/across-contracts-v2",
+      "is_fork": true,
+      "parent": "across-protocol/contracts",
+      "source": "across-protocol/contracts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:12:19Z"
+    },
+    {
+      "full_name": "EspressoSystems/across-relayer-v2",
+      "is_fork": true,
+      "parent": "across-protocol/relayer",
+      "source": "across-protocol/relayer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:12:21Z"
+    },
+    {
+      "full_name": "EspressoSystems/arbitrary-wrappers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:23Z"
+    },
+    {
+      "full_name": "EspressoSystems/arbitrum-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-sdk",
+      "source": "OffchainLabs/arbitrum-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:12:25Z"
+    },
+    {
+      "full_name": "EspressoSystems/arbitrum-token-bridge",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-token-bridge",
+      "source": "OffchainLabs/arbitrum-token-bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:12:27Z"
+    },
+    {
+      "full_name": "EspressoSystems/ark-srs",
+      "is_fork": true,
+      "parent": "alxiong/ark-srs",
+      "source": "alxiong/ark-srs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:29Z"
+    },
+    {
+      "full_name": "EspressoSystems/async-compatibility-layer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:31Z"
+    },
+    {
+      "full_name": "EspressoSystems/atomicstore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:33Z"
+    },
+    {
+      "full_name": "EspressoSystems/automata-dcap-attestation",
+      "is_fork": true,
+      "parent": "automata-network/automata-dcap-attestation",
+      "source": "automata-network/automata-dcap-attestation",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:12:35Z"
+    },
+    {
+      "full_name": "EspressoSystems/base64-bytes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Nix",
+      "last_checked": "2026-03-09T09:12:37Z"
+    },
+    {
+      "full_name": "EspressoSystems/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-09T09:12:39Z"
+    },
+    {
+      "full_name": "EspressoSystems/blst",
+      "is_fork": true,
+      "parent": "supranational/blst",
+      "source": "supranational/blst",
+      "stars": 1,
+      "language": "Assembly",
+      "last_checked": "2026-03-09T09:12:41Z"
+    },
+    {
+      "full_name": "EspressoSystems/bold",
+      "is_fork": true,
+      "parent": "OffchainLabs/bold",
+      "source": "OffchainLabs/bold",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:12:43Z"
+    },
+    {
+      "full_name": "EspressoSystems/cached-eth-rpc",
+      "is_fork": true,
+      "parent": "fuzzland/cached-eth-rpc",
+      "source": "tonyke-bot/cached-eth-rpc",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:45Z"
+    },
+    {
+      "full_name": "EspressoSystems/cap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:47Z"
+    },
     {
       "full_name": "EspressoSystems/cape",
       "is_fork": false,
@@ -10,6 +181,348 @@
       "stars": 103,
       "language": "Rust",
       "last_checked": "2026-03-04T03:31:43Z"
+    },
+    {
+      "full_name": "EspressoSystems/cargo-stylus",
+      "is_fork": true,
+      "parent": "OffchainLabs/cargo-stylus",
+      "source": "OffchainLabs/cargo-stylus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:12:49Z"
+    },
+    {
+      "full_name": "EspressoSystems/cdk-validium-contracts",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-contracts",
+      "source": "agglayer/agglayer-contracts",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:12:52Z"
+    },
+    {
+      "full_name": "EspressoSystems/cdk-validium-node",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:12:54Z"
+    },
+    {
+      "full_name": "EspressoSystems/commit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:12:56Z"
+    },
+    {
+      "full_name": "EspressoSystems/curta",
+      "is_fork": true,
+      "parent": "succinctlabs/starkyx",
+      "source": "succinctlabs/starkyx",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:12:58Z"
+    },
+    {
+      "full_name": "EspressoSystems/curve25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:00Z"
+    },
+    {
+      "full_name": "EspressoSystems/discord-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:02Z"
+    },
+    {
+      "full_name": "EspressoSystems/es-version",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:04Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:06Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:08Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-build-something-real",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:13:10Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-for-dummies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:12Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:13:14Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-macros",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:16Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 186,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:18Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-network-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:18Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-nitro-validator",
+      "is_fork": true,
+      "parent": "base/nitro-validator",
+      "source": "base/nitro-validator",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:13:20Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-optimism-package",
+      "is_fork": true,
+      "parent": "ethpandaops/optimism-package",
+      "source": "ethpandaops/optimism-package",
+      "stars": 1,
+      "language": "Starlark",
+      "last_checked": "2026-03-09T09:13:22Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-polygon-zkevm-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:24Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-rollup-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Just",
+      "last_checked": "2026-03-09T09:13:26Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-sequencer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 186,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:28Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-sequencer-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:29Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-systems-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:31Z"
+    },
+    {
+      "full_name": "EspressoSystems/espresso-tee-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:13:33Z"
+    },
+    {
+      "full_name": "EspressoSystems/geth-arbitrum",
+      "is_fork": true,
+      "parent": "OffchainLabs/go-ethereum",
+      "source": "OffchainLabs/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:13:35Z"
+    },
+    {
+      "full_name": "EspressoSystems/go-espresso-sequencer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:35Z"
+    },
+    {
+      "full_name": "EspressoSystems/gsc",
+      "is_fork": true,
+      "parent": "gramineproject/gsc",
+      "source": "gramineproject/gsc",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:13:37Z"
+    },
+    {
+      "full_name": "EspressoSystems/hackathon-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:13:39Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-builder-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:42Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-events-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:43Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-primitives",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:45Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-prover-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:13:46Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-query-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:48Z"
+    },
+    {
+      "full_name": "EspressoSystems/hotshot-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:50Z"
+    },
+    {
+      "full_name": "EspressoSystems/hs-builder-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:52Z"
+    },
+    {
+      "full_name": "EspressoSystems/hs-builder-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:54Z"
+    },
+    {
+      "full_name": "EspressoSystems/hyperlane-integration-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:13:56Z"
+    },
+    {
+      "full_name": "EspressoSystems/hyperplonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 338,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:13:58Z"
     },
     {
       "full_name": "EspressoSystems/jellyfish",
@@ -21,6 +534,267 @@
       "last_checked": "2026-03-04T03:31:44Z"
     },
     {
+      "full_name": "EspressoSystems/key-set",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:00Z"
+    },
+    {
+      "full_name": "EspressoSystems/kurtosis-cdk",
+      "is_fork": true,
+      "parent": "0xPolygon/kurtosis-cdk",
+      "source": "0xPolygon/kurtosis-cdk",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-09T09:14:02Z"
+    },
+    {
+      "full_name": "EspressoSystems/local-celestia-devnet",
+      "is_fork": true,
+      "parent": "evstack/local-celestia-devnet",
+      "source": "evstack/local-celestia-devnet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:14:04Z"
+    },
+    {
+      "full_name": "EspressoSystems/marketplace-builder-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:06Z"
+    },
+    {
+      "full_name": "EspressoSystems/marketplace-solver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:08Z"
+    },
+    {
+      "full_name": "EspressoSystems/net",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:10Z"
+    },
+    {
+      "full_name": "EspressoSystems/netlink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:12Z"
+    },
+    {
+      "full_name": "EspressoSystems/nitro-contracts",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-contracts",
+      "source": "OffchainLabs/nitro-contracts",
+      "stars": 6,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:14:14Z"
+    },
+    {
+      "full_name": "EspressoSystems/nitro-espresso-integration",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 32,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:14:17Z"
+    },
+    {
+      "full_name": "EspressoSystems/nitro-testnode",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-testnode",
+      "source": "OffchainLabs/nitro-testnode",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:14:19Z"
+    },
+    {
+      "full_name": "EspressoSystems/nix-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T09:14:21Z"
+    },
+    {
+      "full_name": "EspressoSystems/nix-solc-bin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Nix",
+      "last_checked": "2026-03-09T09:14:23Z"
+    },
+    {
+      "full_name": "EspressoSystems/nll",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Nix",
+      "last_checked": "2026-03-09T09:14:25Z"
+    },
+    {
+      "full_name": "EspressoSystems/nmt-rs",
+      "is_fork": true,
+      "parent": "Sovereign-Labs/nmt-rs",
+      "source": "Sovereign-Labs/nmt-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:14:27Z"
+    },
+    {
+      "full_name": "EspressoSystems/offchainlabs-actions",
+      "is_fork": true,
+      "parent": "OffchainLabs/actions",
+      "source": "OffchainLabs/actions",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:14:29Z"
+    },
+    {
+      "full_name": "EspressoSystems/op-design-docs",
+      "is_fork": true,
+      "parent": "ethereum-optimism/design-docs",
+      "source": "ethereum-optimism/design-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:14:31Z"
+    },
+    {
+      "full_name": "EspressoSystems/op-espresso-integration",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:14:33Z"
+    },
+    {
+      "full_name": "EspressoSystems/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:14:35Z"
+    },
+    {
+      "full_name": "EspressoSystems/op-leader-election",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:14:37Z"
+    },
+    {
+      "full_name": "EspressoSystems/optimism-espresso-integration",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:14:39Z"
+    },
+    {
+      "full_name": "EspressoSystems/orbit-actions",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-actions",
+      "source": "OffchainLabs/orbit-actions",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:14:41Z"
+    },
+    {
+      "full_name": "EspressoSystems/reef",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:43Z"
+    },
+    {
+      "full_name": "EspressoSystems/reorgme",
+      "is_fork": true,
+      "parent": "0xsequence/reorgme",
+      "source": "0xsequence/reorgme",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:14:45Z"
+    },
+    {
+      "full_name": "EspressoSystems/seahorse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:47Z"
+    },
+    {
+      "full_name": "EspressoSystems/sequencer-example-l2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:50Z"
+    },
+    {
+      "full_name": "EspressoSystems/solidity-BN256G2",
+      "is_fork": true,
+      "parent": "musalbas/solidity-BN256G2",
+      "source": "musalbas/solidity-BN256G2",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:14:52Z"
+    },
+    {
+      "full_name": "EspressoSystems/solidity-bn254",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:14:54Z"
+    },
+    {
+      "full_name": "EspressoSystems/stylus-experiments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:56Z"
+    },
+    {
+      "full_name": "EspressoSystems/surf-disco",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:14:58Z"
+    },
+    {
       "full_name": "EspressoSystems/tagged-base64",
       "is_fork": false,
       "parent": null,
@@ -28,6 +802,87 @@
       "stars": 5,
       "language": "Rust",
       "last_checked": "2026-03-04T03:31:46Z"
+    },
+    {
+      "full_name": "EspressoSystems/tide-disco",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:00Z"
+    },
+    {
+      "full_name": "EspressoSystems/timeboost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:02Z"
+    },
+    {
+      "full_name": "EspressoSystems/timeboost-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:04Z"
+    },
+    {
+      "full_name": "EspressoSystems/veri-zexe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:06Z"
+    },
+    {
+      "full_name": "EspressoSystems/versioned-binary-serialization",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:08Z"
+    },
+    {
+      "full_name": "EspressoSystems/wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:15:10Z"
+    },
+    {
+      "full_name": "EspressoSystems/zkevm-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:15:12Z"
+    },
+    {
+      "full_name": "EspressoSystems/zkevm-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:15:14Z"
+    },
+    {
+      "full_name": "EspressoSystems/zkrollup-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:15:14Z"
     }
   ]
 }

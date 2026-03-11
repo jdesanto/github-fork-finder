@@ -1,7 +1,70 @@
 {
   "owner": "fantom-foundation",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "Fantom-foundation/1155-dist-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:10Z"
+    },
+    {
+      "full_name": "Fantom-foundation/1155-transfer-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:12Z"
+    },
+    {
+      "full_name": "Fantom-foundation/721-dist-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:14Z"
+    },
+    {
+      "full_name": "Fantom-foundation/721-fallback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:16Z"
+    },
+    {
+      "full_name": "Fantom-foundation/721-transfer-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:17Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Aida",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:05:19Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Artion-API-GraphQL",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:05:22Z"
+    },
     {
       "full_name": "Fantom-foundation/Artion-Client",
       "is_fork": false,
@@ -10,6 +73,15 @@
       "stars": 85,
       "language": "JavaScript",
       "last_checked": "2026-03-04T03:32:27Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Artion-Client-V2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:05:24Z"
     },
     {
       "full_name": "Fantom-foundation/Artion-Contracts",
@@ -21,6 +93,15 @@
       "last_checked": "2026-03-04T03:32:29Z"
     },
     {
+      "full_name": "Fantom-foundation/Artion-Maintenance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T11:05:25Z"
+    },
+    {
       "full_name": "Fantom-foundation/Artion-Server",
       "is_fork": false,
       "parent": null,
@@ -28,6 +109,474 @@
       "stars": 25,
       "language": "JavaScript",
       "last_checked": "2026-03-04T03:32:31Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Artion-Thumbnail-Api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:28Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Artion-Thumbnail-Indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:30Z"
+    },
+    {
+      "full_name": "Fantom-foundation/BitNFC",
+      "is_fork": true,
+      "parent": "720kb/BitNFC",
+      "source": "720kb/BitNFC",
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-09T11:05:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Carmen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:05:34Z"
+    },
+    {
+      "full_name": "Fantom-foundation/EMV-NFC-Paycard-Enrollment",
+      "is_fork": true,
+      "parent": "devnied/EMV-NFC-Paycard-Enrollment",
+      "source": "devnied/EMV-NFC-Paycard-Enrollment",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:05:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/FIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:05:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/FNS-SCs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:05:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Contract-Validation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:05:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-CrossChain-Bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:05:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Datafeed-Backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:05:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-DeFi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:05:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Energy-ERP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:05:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-FLend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:05:52Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-FLend-AAVE-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:05:54Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-FMint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:05:56Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-FUni",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:05:58Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Fusd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:00Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Identity-Manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:02Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Network-Monitoring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:06:04Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-OnFire",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:06Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Oracle-Backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:08Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Oracle-Pricefeed",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:11Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-PWA-Explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:06:13Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-PWA-Wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:06:13Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Pricefeed",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:15Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Statheros",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:18Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-TrustWallet-Integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:06:20Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Uniswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:22Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:24Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Vue-Components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:26Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-Vue3-Components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:28Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-foundation.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "HTML",
+      "last_checked": "2026-03-09T11:06:30Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom-wFTM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/FantomMask-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:06:33Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Fantom_ClientJS_Utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:35Z"
+    },
+    {
+      "full_name": "Fantom-foundation/FtmStableCoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:06:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/LaScala",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:06:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Ledger-Hardhat-Deployment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/MultiSigWallet",
+      "is_fork": true,
+      "parent": "danny-wu/MultiSigWallet",
+      "source": "gnosis/MultiSigWallet",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:06:43Z"
+    },
+    {
+      "full_name": "Fantom-foundation/MyCryptoCurve",
+      "is_fork": true,
+      "parent": "CryptoCurve/MyCryptoCurve",
+      "source": "CryptoCurve/MyCryptoCurve",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:06:45Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Norma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:47Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Sonic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:49Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Substate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:51Z"
+    },
+    {
+      "full_name": "Fantom-foundation/ThresholdECDSA",
+      "is_fork": true,
+      "parent": "citp/ThresholdECDSA",
+      "source": "citp/ThresholdECDSA",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:06:53Z"
+    },
+    {
+      "full_name": "Fantom-foundation/Tosca",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:06:55Z"
+    },
+    {
+      "full_name": "Fantom-foundation/TrustWallet-tokens",
+      "is_fork": true,
+      "parent": "trustwallet/tokens",
+      "source": "trustwallet/tokens",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:57Z"
+    },
+    {
+      "full_name": "Fantom-foundation/WrapFTM-Demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:06:59Z"
+    },
+    {
+      "full_name": "Fantom-foundation/artion-auction-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:01Z"
+    },
+    {
+      "full_name": "Fantom-foundation/artion-bundle-marketplace-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:03Z"
+    },
+    {
+      "full_name": "Fantom-foundation/artion-invalid-nft-filter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:05Z"
+    },
+    {
+      "full_name": "Fantom-foundation/artion-marketplace-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:07Z"
+    },
+    {
+      "full_name": "Fantom-foundation/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-09T11:07:09Z"
     },
     {
       "full_name": "Fantom-foundation/bnbridge.exchange",
@@ -39,6 +588,609 @@
       "last_checked": "2026-03-04T03:32:33Z"
     },
     {
+      "full_name": "Fantom-foundation/bombarding-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-09T11:07:11Z"
+    },
+    {
+      "full_name": "Fantom-foundation/bridge-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T11:07:13Z"
+    },
+    {
+      "full_name": "Fantom-foundation/carmendb",
+      "is_fork": true,
+      "parent": "Fantom-foundation/Carmen",
+      "source": "Fantom-foundation/Carmen",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:07:15Z"
+    },
+    {
+      "full_name": "Fantom-foundation/chains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:07:15Z"
+    },
+    {
+      "full_name": "Fantom-foundation/consensus-rough-notes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2026-03-09T11:07:17Z"
+    },
+    {
+      "full_name": "Fantom-foundation/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:07:19Z"
+    },
+    {
+      "full_name": "Fantom-foundation/crypto-fantom-game",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:21Z"
+    },
+    {
+      "full_name": "Fantom-foundation/dag2ascii-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:07:23Z"
+    },
+    {
+      "full_name": "Fantom-foundation/dag2dot-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:07:25Z"
+    },
+    {
+      "full_name": "Fantom-foundation/data-hashing-authentication",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:07:27Z"
+    },
+    {
+      "full_name": "Fantom-foundation/dcemv",
+      "is_fork": true,
+      "parent": "vicente-da-silva/dcemv",
+      "source": "vicente-da-silva/dcemv",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-09T11:07:29Z"
+    },
+    {
+      "full_name": "Fantom-foundation/desktop-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:31Z"
+    },
+    {
+      "full_name": "Fantom-foundation/desktop-web-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:07:33Z"
+    },
+    {
+      "full_name": "Fantom-foundation/diamondproxy-hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:35Z"
+    },
+    {
+      "full_name": "Fantom-foundation/diamondproxy-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:37Z"
+    },
+    {
+      "full_name": "Fantom-foundation/erc20pump",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:07:39Z"
+    },
+    {
+      "full_name": "Fantom-foundation/ethql",
+      "is_fork": true,
+      "parent": "Consensys/ethql",
+      "source": "Consensys/ethql",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:07:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/evm-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:07:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/evmc",
+      "is_fork": true,
+      "parent": "ipsilon/evmc",
+      "source": "ipsilon/evmc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:07:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/example-deployment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/explorer-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:07:51Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fWallet-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:07:52Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-api-graphql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:07:54Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-dev-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "HTML",
+      "last_checked": "2026-03-09T11:07:56Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T11:07:58Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Makefile",
+      "last_checked": "2026-03-09T11:08:00Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-finance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:02Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-fluid-staking-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:04Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-foundation-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:06Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-09T11:08:08Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-govern",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:08:10Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-lachesis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TeX",
+      "last_checked": "2026-03-09T11:08:12Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-ledger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T11:08:14Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-mobile-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:16Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Makefile",
+      "last_checked": "2026-03-09T11:08:18Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-rfcs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Makefile",
+      "last_checked": "2026-03-09T11:08:20Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-rs-architecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:22Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-rust-vm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:08:24Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-safe-wallet-web",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:26Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-safe-web-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:26Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-sfc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:28Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-testnet-deployment-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-09T11:08:30Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-trezor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-vote",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:34Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-vote-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-web3-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantom-web3j-sdk",
+      "is_fork": true,
+      "parent": "quan8/fantom-web3j-sdk",
+      "source": "quan8/fantom-web3j-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantomEventLoader",
+      "is_fork": true,
+      "parent": "antonnell/fantomEventLoader",
+      "source": "antonnell/fantomEventLoader",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantomExplorer",
+      "is_fork": true,
+      "parent": "antonnell/fantomExplorer",
+      "source": "antonnell/fantomExplorer",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fantomGraphQL",
+      "is_fork": true,
+      "parent": "antonnell/fantomGraphQL",
+      "source": "antonnell/fantomGraphQL",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/flend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fns-contracts",
+      "is_fork": true,
+      "parent": "ensdomains/ens-contracts",
+      "source": "ensdomains/ens-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:08:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fns-gui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:52Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fns-homepage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:08:53Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fns-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:55Z"
+    },
+    {
+      "full_name": "Fantom-foundation/full-cli-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:08:57Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fusd-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:08:59Z"
+    },
+    {
+      "full_name": "Fantom-foundation/fusdswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:09:01Z"
+    },
+    {
+      "full_name": "Fantom-foundation/geth-indexer",
+      "is_fork": true,
+      "parent": "enumatech/geth-indexer",
+      "source": "enumatech/geth-indexer",
+      "stars": 0,
+      "language": "Nix",
+      "last_checked": "2026-03-09T11:09:03Z"
+    },
+    {
+      "full_name": "Fantom-foundation/gnosis_front",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:09:05Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:07Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-ethereum-sonic",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:09Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-ethereum-substate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:11Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:13Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-lachesis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 224,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:15Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-lachesis-substate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:17Z"
+    },
+    {
       "full_name": "Fantom-foundation/go-opera",
       "is_fork": false,
       "parent": null,
@@ -46,6 +1198,798 @@
       "stars": 294,
       "language": "Go",
       "last_checked": "2026-03-04T03:32:35Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-opera-norma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:20Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-opera-substate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:22Z"
+    },
+    {
+      "full_name": "Fantom-foundation/go-txflow",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:24Z"
+    },
+    {
+      "full_name": "Fantom-foundation/govern-launch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:09:26Z"
+    },
+    {
+      "full_name": "Fantom-foundation/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:09:28Z"
+    },
+    {
+      "full_name": "Fantom-foundation/jazzicon",
+      "is_fork": true,
+      "parent": "danfinlay/jazzicon",
+      "source": "danfinlay/jazzicon",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:09:30Z"
+    },
+    {
+      "full_name": "Fantom-foundation/jlachesis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:09:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/jopera",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:09:34Z"
+    },
+    {
+      "full_name": "Fantom-foundation/keep3r.network",
+      "is_fork": true,
+      "parent": "keep3r-network/keep3r.network",
+      "source": "keep3r-network/keep3r.network",
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:09:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/keythereum",
+      "is_fork": true,
+      "parent": "ethereumjs/keythereum",
+      "source": "ethereumjs/keythereum",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:09:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-base",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-base-sonic",
+      "is_fork": true,
+      "parent": "Fantom-foundation/lachesis-base",
+      "source": "Fantom-foundation/lachesis-base",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-dag-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-ex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:09:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-rewards-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:09:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:09:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/lachesis_launch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": null,
+      "last_checked": "2026-03-09T11:09:52Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libcli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:09:54Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libcommon-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:09:56Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libconsensus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:09:58Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libconsensus-dag",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:00Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libconsensus-lachesis-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:02Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libconsensus-paxos-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:04Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libconsensus-raft-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:06Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libhash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:08Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libhash-sha3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:10Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libnode-membership",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:12Z"
+    },
+    {
+      "full_name": "Fantom-foundation/librevm-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:14Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libsignature",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:16Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libsignature-ed25519-dalek",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:18Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libsignature-minisign",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:20Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:22Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport-grpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:24Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport-http",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:26Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport-rpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:28Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport-streaming",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:30Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libtransport-tcp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:34Z"
+    },
+    {
+      "full_name": "Fantom-foundation/libvm-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/light-cli-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/multichain",
+      "is_fork": true,
+      "parent": "renproject/multichain",
+      "source": "renproject/multichain",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:10:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/nft-contract-detector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:10:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/node-crawler",
+      "is_fork": true,
+      "parent": "ethereum/node-crawler",
+      "source": "ethereum/node-crawler",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:10:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/node-monitor",
+      "is_fork": true,
+      "parent": "pwollemi/fantom-node-monitor",
+      "source": "pwollemi/fantom-node-monitor",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:10:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/node-monitor-server",
+      "is_fork": true,
+      "parent": "pwollemi/node-monitor-server",
+      "source": "pwollemi/node-monitor-server",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:10:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/old-vm-transport-consensus-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:10:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-docker",
+      "is_fork": true,
+      "parent": "doublesharp/fantom-docker",
+      "source": "doublesharp/fantom-docker",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T11:10:53Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-experiments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:10:55Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-jet-api-graphql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:10:57Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-jet-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:10:59Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-remix",
+      "is_fork": true,
+      "parent": "remix-project-org/remix-ide",
+      "source": "remix-project-org/remix-ide",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:01Z"
+    },
+    {
+      "full_name": "Fantom-foundation/opera-sfc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:11:03Z"
+    },
+    {
+      "full_name": "Fantom-foundation/operajs-blockstream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:11:05Z"
+    },
+    {
+      "full_name": "Fantom-foundation/oracle-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:07Z"
+    },
+    {
+      "full_name": "Fantom-foundation/oracle-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:09Z"
+    },
+    {
+      "full_name": "Fantom-foundation/ov",
+      "is_fork": true,
+      "parent": "quan8/ov",
+      "source": "quan8/ov",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:11Z"
+    },
+    {
+      "full_name": "Fantom-foundation/pgLachesisAPI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:13Z"
+    },
+    {
+      "full_name": "Fantom-foundation/price-bandintegration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:15Z"
+    },
+    {
+      "full_name": "Fantom-foundation/prost",
+      "is_fork": true,
+      "parent": "tokio-rs/prost",
+      "source": "tokio-rs/prost",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:17Z"
+    },
+    {
+      "full_name": "Fantom-foundation/qewa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:11:19Z"
+    },
+    {
+      "full_name": "Fantom-foundation/raft-rs",
+      "is_fork": true,
+      "parent": "tikv/raft-rs",
+      "source": "tikv/raft-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:21Z"
+    },
+    {
+      "full_name": "Fantom-foundation/remix",
+      "is_fork": true,
+      "parent": "remix-project-org/remix",
+      "source": "remix-project-org/remix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:23Z"
+    },
+    {
+      "full_name": "Fantom-foundation/rosetta-fantom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:25Z"
+    },
+    {
+      "full_name": "Fantom-foundation/safe-transaction-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:11:27Z"
+    },
+    {
+      "full_name": "Fantom-foundation/sdk-application-tutorial",
+      "is_fork": true,
+      "parent": "cosmos/sdk-tutorials",
+      "source": "cosmos/sdk-tutorials",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:29Z"
+    },
+    {
+      "full_name": "Fantom-foundation/serde-protobuf",
+      "is_fork": true,
+      "parent": "dflemstr/serde-protobuf",
+      "source": "dflemstr/serde-protobuf",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:32Z"
+    },
+    {
+      "full_name": "Fantom-foundation/serial_hacking_fantom_rbvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T11:11:34Z"
+    },
+    {
+      "full_name": "Fantom-foundation/slate",
+      "is_fork": true,
+      "parent": "ringcentral/slate",
+      "source": "ringcentral/slate",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:36Z"
+    },
+    {
+      "full_name": "Fantom-foundation/sled",
+      "is_fork": true,
+      "parent": "spacejam/sled",
+      "source": "spacejam/sled",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:38Z"
+    },
+    {
+      "full_name": "Fantom-foundation/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:40Z"
+    },
+    {
+      "full_name": "Fantom-foundation/solidity-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:42Z"
+    },
+    {
+      "full_name": "Fantom-foundation/sonic-safe-wallet-monorepo",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:44Z"
+    },
+    {
+      "full_name": "Fantom-foundation/substate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:46Z"
+    },
+    {
+      "full_name": "Fantom-foundation/substate-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:48Z"
+    },
+    {
+      "full_name": "Fantom-foundation/tokensale",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 72,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/tokio",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:11:50Z"
+    },
+    {
+      "full_name": "Fantom-foundation/tosca-go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:11:52Z"
+    },
+    {
+      "full_name": "Fantom-foundation/tower-grpc",
+      "is_fork": true,
+      "parent": "tower-rs/tower-grpc",
+      "source": "tower-rs/tower-grpc",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:11:54Z"
+    },
+    {
+      "full_name": "Fantom-foundation/transparentproxy-hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:56Z"
+    },
+    {
+      "full_name": "Fantom-foundation/transparentproxy-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:11:58Z"
+    },
+    {
+      "full_name": "Fantom-foundation/transparentproxy2-hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:00Z"
+    },
+    {
+      "full_name": "Fantom-foundation/transparentproxy2-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:02Z"
+    },
+    {
+      "full_name": "Fantom-foundation/tun-replay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T11:12:04Z"
+    },
+    {
+      "full_name": "Fantom-foundation/unittestexample-hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:06Z"
+    },
+    {
+      "full_name": "Fantom-foundation/unittestexample-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:08Z"
+    },
+    {
+      "full_name": "Fantom-foundation/web3-methods",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:10Z"
+    },
+    {
+      "full_name": "Fantom-foundation/web3_ftm_examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:12Z"
+    },
+    {
+      "full_name": "Fantom-foundation/website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:12:14Z"
     }
   ]
 }

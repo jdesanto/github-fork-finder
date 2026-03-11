@@ -1,7 +1,43 @@
 {
   "owner": "gallodasballo",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "GalloDaSballo/Cdp-Template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:37Z"
+    },
+    {
+      "full_name": "GalloDaSballo/Ethereum-Dev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:42:39Z"
+    },
+    {
+      "full_name": "GalloDaSballo/MacroERC20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:41Z"
+    },
+    {
+      "full_name": "GalloDaSballo/RewardsManager-Invariants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:43Z"
+    },
     {
       "full_name": "GalloDaSballo/SettV4h",
       "is_fork": false,
@@ -10,6 +46,15 @@
       "stars": 0,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:33:30Z"
+    },
+    {
+      "full_name": "GalloDaSballo/aave-chainlink-euro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:42:45Z"
     },
     {
       "full_name": "GalloDaSballo/arbitrum-wbtc-eth-swapr",
@@ -39,6 +84,15 @@
       "last_checked": "2026-03-04T03:33:36Z"
     },
     {
+      "full_name": "GalloDaSballo/badger-rewards-endpoint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:46Z"
+    },
+    {
       "full_name": "GalloDaSballo/badger-sett-1.5",
       "is_fork": false,
       "parent": null,
@@ -46,6 +100,15 @@
       "stars": 0,
       "language": "Python",
       "last_checked": "2026-03-04T03:33:38Z"
+    },
+    {
+      "full_name": "GalloDaSballo/badger-system",
+      "is_fork": true,
+      "parent": "Badger-Finance/badger-system",
+      "source": "Badger-Finance/badger-system",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:48Z"
     },
     {
       "full_name": "GalloDaSballo/badger-vaults-brownie-mix-v2",
@@ -84,6 +147,15 @@
       "last_checked": "2026-03-04T03:33:46Z"
     },
     {
+      "full_name": "GalloDaSballo/connext-gas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:42:50Z"
+    },
+    {
       "full_name": "GalloDaSballo/ebtc-monitor",
       "is_fork": false,
       "parent": null,
@@ -91,6 +163,15 @@
       "stars": 0,
       "language": "TypeScript",
       "last_checked": "2026-03-04T03:33:48Z"
+    },
+    {
+      "full_name": "GalloDaSballo/euler-v1-recon-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:52Z"
     },
     {
       "full_name": "GalloDaSballo/fair-selling",
@@ -102,6 +183,15 @@
       "last_checked": "2026-03-04T03:33:50Z"
     },
     {
+      "full_name": "GalloDaSballo/flights-on-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:42:54Z"
+    },
+    {
       "full_name": "GalloDaSballo/ftm-oxd-hardcoded-voter",
       "is_fork": false,
       "parent": null,
@@ -109,6 +199,33 @@
       "stars": 0,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:33:52Z"
+    },
+    {
+      "full_name": "GalloDaSballo/ftm-testnet-solidly",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:42:57Z"
+    },
+    {
+      "full_name": "GalloDaSballo/hardhat-next-subgraph-mono",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:42:58Z"
+    },
+    {
+      "full_name": "GalloDaSballo/kleidi-notes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:43:00Z"
     },
     {
       "full_name": "GalloDaSballo/mai-finance-subgraph",
@@ -120,6 +237,42 @@
       "last_checked": "2026-03-04T03:33:54Z"
     },
     {
+      "full_name": "GalloDaSballo/matic-microblog-mono",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:43:02Z"
+    },
+    {
+      "full_name": "GalloDaSballo/matic-social-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:43:04Z"
+    },
+    {
+      "full_name": "GalloDaSballo/medusa-rpc-crash-repro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:43:06Z"
+    },
+    {
+      "full_name": "GalloDaSballo/polygon-yield",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:43:08Z"
+    },
+    {
       "full_name": "GalloDaSballo/pool-math-foundry",
       "is_fork": false,
       "parent": null,
@@ -127,6 +280,24 @@
       "stars": 10,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:33:56Z"
+    },
+    {
+      "full_name": "GalloDaSballo/rebased-fee-wrapper-fuzz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:43:10Z"
+    },
+    {
+      "full_name": "GalloDaSballo/recon-demo-3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T13:43:12Z"
     },
     {
       "full_name": "GalloDaSballo/remBadger",
@@ -138,6 +309,15 @@
       "last_checked": "2026-03-04T03:33:58Z"
     },
     {
+      "full_name": "GalloDaSballo/strategy-v2-polygon-quick-lp-usdc-wbtc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:43:14Z"
+    },
+    {
       "full_name": "GalloDaSballo/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy",
       "is_fork": false,
       "parent": null,
@@ -145,6 +325,15 @@
       "stars": 3,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:33:59Z"
+    },
+    {
+      "full_name": "GalloDaSballo/yieldbox-foundry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:43:16Z"
     }
   ]
 }

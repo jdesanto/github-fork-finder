@@ -1,7 +1,151 @@
 {
   "owner": "fraxfinance",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "FraxFinance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:40:02Z"
+    },
+    {
+      "full_name": "FraxFinance/ERC4626",
+      "is_fork": true,
+      "parent": "corddry/ERC4626",
+      "source": "ERC4626-Alliance/ERC4626-Contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:04Z"
+    },
+    {
+      "full_name": "FraxFinance/Foundry-Vyper",
+      "is_fork": true,
+      "parent": "corddry/Foundry-Vyper",
+      "source": "0xKitsune/Foundry-Vyper",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:07Z"
+    },
+    {
+      "full_name": "FraxFinance/FraxFinance.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-09T12:40:09Z"
+    },
+    {
+      "full_name": "FraxFinance/LayerZero-v2-upgradeable",
+      "is_fork": true,
+      "parent": "JorgeAtPaladin/LayerZero-v2",
+      "source": "LayerZero-Labs/LayerZero-v2",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:11Z"
+    },
+    {
+      "full_name": "FraxFinance/YieldSpaceAMO",
+      "is_fork": true,
+      "parent": "corddry/YieldSpaceAMO",
+      "source": "corddry/YieldSpaceAMO",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:13Z"
+    },
+    {
+      "full_name": "FraxFinance/aave-asset-listing",
+      "is_fork": true,
+      "parent": "aave/aave-asset-listing",
+      "source": "aave/aave-asset-listing",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:40:15Z"
+    },
+    {
+      "full_name": "FraxFinance/aip",
+      "is_fork": true,
+      "parent": "aave/aip",
+      "source": "aave/aip",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:40:17Z"
+    },
+    {
+      "full_name": "FraxFinance/apeswap-token-lists",
+      "is_fork": true,
+      "parent": "ApeSwapFinance/apeswap-token-lists",
+      "source": "ApeSwapFinance/apeswap-token-lists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:19Z"
+    },
+    {
+      "full_name": "FraxFinance/assets",
+      "is_fork": true,
+      "parent": "sushiswap/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:40:21Z"
+    },
+    {
+      "full_name": "FraxFinance/avalanche-bridge-resources",
+      "is_fork": true,
+      "parent": "ava-labs/avalanche-bridge-resources",
+      "source": "ava-labs/avalanche-bridge-resources",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:23Z"
+    },
+    {
+      "full_name": "FraxFinance/chaindata",
+      "is_fork": true,
+      "parent": "connext/chaindata",
+      "source": "connext/chaindata",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:25Z"
+    },
+    {
+      "full_name": "FraxFinance/compound-protocol",
+      "is_fork": true,
+      "parent": "compound-finance/compound-protocol",
+      "source": "compound-finance/compound-protocol",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:28Z"
+    },
+    {
+      "full_name": "FraxFinance/contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:40:30Z"
+    },
+    {
+      "full_name": "FraxFinance/dev-fraxswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:32Z"
+    },
+    {
+      "full_name": "FraxFinance/dev-savings-frax-erc4626",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:32Z"
+    },
     {
       "full_name": "FraxFinance/docs",
       "is_fork": false,
@@ -12,6 +156,168 @@
       "last_checked": "2026-03-04T03:33:06Z"
     },
     {
+      "full_name": "FraxFinance/ens-contracts-fraxtal",
+      "is_fork": true,
+      "parent": "ensdomains/ens-contracts",
+      "source": "ensdomains/ens-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:34Z"
+    },
+    {
+      "full_name": "FraxFinance/ethereum-optimism.github.io",
+      "is_fork": true,
+      "parent": "ethereum-optimism/ethereum-optimism.github.io",
+      "source": "ethereum-optimism/ethereum-optimism.github.io",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:36Z"
+    },
+    {
+      "full_name": "FraxFinance/fns-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:37Z"
+    },
+    {
+      "full_name": "FraxFinance/fns-subgraph",
+      "is_fork": true,
+      "parent": "ensdomains/ens-subgraph",
+      "source": "graphprotocol/ens-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:40:39Z"
+    },
+    {
+      "full_name": "FraxFinance/frax",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T12:40:41Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-bonds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T12:40:43Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-eigenlayer-operator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:45Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-ether-redemption-queue",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:47Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:49Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-langs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:40:51Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oft-converter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:53Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oft-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:40:55Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oft-legacy-recovery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:40:57Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oft-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:40:59Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oft-upgradeable",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:01Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:41:03Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oracle-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:41:05Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-oracles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:07Z"
+    },
+    {
       "full_name": "FraxFinance/frax-solidity",
       "is_fork": false,
       "parent": null,
@@ -19,6 +325,312 @@
       "stars": 523,
       "language": "Solidity",
       "last_checked": "2026-03-04T03:33:08Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-standard-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:09Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:11Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-tron",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:13Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-tron-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:16Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:41:16Z"
+    },
+    {
+      "full_name": "FraxFinance/frax-vefpis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:41:18Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxlend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:20Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxlend-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:22Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxswap-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:41:24Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T12:41:26Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:28Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-da-follower",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T12:41:30Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-lz-curve-amo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:32Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-lz-hop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:34Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-09T12:41:36Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-op-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T12:41:38Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-op-reth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:41:40Z"
+    },
+    {
+      "full_name": "FraxFinance/fraxtal-usdc",
+      "is_fork": true,
+      "parent": "circlefin/stablecoin-evm",
+      "source": "circlefin/stablecoin-evm",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:41:42Z"
+    },
+    {
+      "full_name": "FraxFinance/frxETH-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:44Z"
+    },
+    {
+      "full_name": "FraxFinance/frxETH-v2-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:46Z"
+    },
+    {
+      "full_name": "FraxFinance/merkle-airdrop-starter",
+      "is_fork": true,
+      "parent": "Anish-Agnihotri/merkle-airdrop-starter",
+      "source": "Anish-Agnihotri/merkle-airdrop-starter",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:41:48Z"
+    },
+    {
+      "full_name": "FraxFinance/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:41:50Z"
+    },
+    {
+      "full_name": "FraxFinance/protocol-v2",
+      "is_fork": true,
+      "parent": "aave/protocol-v2",
+      "source": "aave/protocol-v2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:41:53Z"
+    },
+    {
+      "full_name": "FraxFinance/public-frax-bamm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:55Z"
+    },
+    {
+      "full_name": "FraxFinance/savings-frax-erc4626",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:41:57Z"
+    },
+    {
+      "full_name": "FraxFinance/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-09T12:41:59Z"
+    },
+    {
+      "full_name": "FraxFinance/snapshot-strategies",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot-strategies",
+      "source": "snapshot-labs/snapshot-strategies",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:42:01Z"
+    },
+    {
+      "full_name": "FraxFinance/snapshot.js",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot.js",
+      "source": "snapshot-labs/snapshot.js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:42:03Z"
+    },
+    {
+      "full_name": "FraxFinance/spiritswap-tokens-list-icon",
+      "is_fork": true,
+      "parent": "Spirit-DAO/spiritswap-tokens-list-icon",
+      "source": "Spirit-DAO/spiritswap-tokens-list-icon",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:42:06Z"
+    },
+    {
+      "full_name": "FraxFinance/staked-frax-erc4626",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:42:08Z"
+    },
+    {
+      "full_name": "FraxFinance/token-list",
+      "is_fork": true,
+      "parent": "solana-labs/token-list",
+      "source": "solana-labs/token-list",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:42:10Z"
+    },
+    {
+      "full_name": "FraxFinance/tokens",
+      "is_fork": true,
+      "parent": "pangolindex/tokens",
+      "source": "pangolindex/tokens",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:42:12Z"
+    },
+    {
+      "full_name": "FraxFinance/uni-v3-manipulation-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T12:42:14Z"
+    },
+    {
+      "full_name": "FraxFinance/uniswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:42:16Z"
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "owner": "elementsproject",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
+    {
+      "full_name": "ElementsProject/ELIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": null,
+      "last_checked": "2026-03-09T08:03:59Z"
+    },
+    {
+      "full_name": "ElementsProject/borromean-signatures-writeup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TeX",
+      "last_checked": "2026-03-09T08:04:01Z"
+    },
+    {
+      "full_name": "ElementsProject/cln-application",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:04:03Z"
+    },
+    {
+      "full_name": "ElementsProject/confidential-assets-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "Go",
+      "last_checked": "2026-03-09T08:04:05Z"
+    },
+    {
+      "full_name": "ElementsProject/dicemix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:04:08Z"
+    },
+    {
+      "full_name": "ElementsProject/elements",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1148,
+      "language": "C++",
+      "last_checked": "2026-03-09T08:04:10Z"
+    },
+    {
+      "full_name": "ElementsProject/elements-assets-exchange-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:12Z"
+    },
     {
       "full_name": "ElementsProject/elements-miniscript",
       "is_fork": false,
@@ -10,6 +73,69 @@
       "stars": 15,
       "language": "Rust",
       "last_checked": "2026-03-04T03:31:15Z"
+    },
+    {
+      "full_name": "ElementsProject/elementsbp-api-reference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T08:04:13Z"
+    },
+    {
+      "full_name": "ElementsProject/elementsproject.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "HTML",
+      "last_checked": "2026-03-09T08:04:16Z"
+    },
+    {
+      "full_name": "ElementsProject/elementsproject.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 89,
+      "language": "CSS",
+      "last_checked": "2026-03-09T08:04:18Z"
+    },
+    {
+      "full_name": "ElementsProject/filebazaar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:19Z"
+    },
+    {
+      "full_name": "ElementsProject/glightning",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T08:04:21Z"
+    },
+    {
+      "full_name": "ElementsProject/hal-elements",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:04:23Z"
+    },
+    {
+      "full_name": "ElementsProject/ifpaytt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:25Z"
     },
     {
       "full_name": "ElementsProject/libwally-core",
@@ -30,6 +156,123 @@
       "last_checked": "2026-03-04T03:31:19Z"
     },
     {
+      "full_name": "ElementsProject/lightning-charge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 557,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:27Z"
+    },
+    {
+      "full_name": "ElementsProject/lightning-charge-client-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:29Z"
+    },
+    {
+      "full_name": "ElementsProject/lightning-charge-client-php",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "PHP",
+      "last_checked": "2026-03-09T08:04:31Z"
+    },
+    {
+      "full_name": "ElementsProject/lightning-demos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T08:04:33Z"
+    },
+    {
+      "full_name": "ElementsProject/lightning-jukebox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:35Z"
+    },
+    {
+      "full_name": "ElementsProject/lightning-rfc-protocol-test",
+      "is_fork": true,
+      "parent": "lightning/bolts",
+      "source": "lightning/bolts",
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-09T08:04:37Z"
+    },
+    {
+      "full_name": "ElementsProject/nanopos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:39Z"
+    },
+    {
+      "full_name": "ElementsProject/nanotip",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 84,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:41Z"
+    },
+    {
+      "full_name": "ElementsProject/paypercall",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 150,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T08:04:43Z"
+    },
+    {
+      "full_name": "ElementsProject/peerswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "Go",
+      "last_checked": "2026-03-09T08:04:45Z"
+    },
+    {
+      "full_name": "ElementsProject/peerswap-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T08:04:47Z"
+    },
+    {
+      "full_name": "ElementsProject/qa-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T08:04:49Z"
+    },
+    {
+      "full_name": "ElementsProject/reserves",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 50,
+      "language": "Rust",
+      "last_checked": "2026-03-09T08:04:51Z"
+    },
+    {
       "full_name": "ElementsProject/rust-elements",
       "is_fork": false,
       "parent": null,
@@ -37,6 +280,60 @@
       "stars": 57,
       "language": "Rust",
       "last_checked": "2026-03-04T03:31:20Z"
+    },
+    {
+      "full_name": "ElementsProject/rust-secp256k1-zkp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "C",
+      "last_checked": "2026-03-09T08:04:53Z"
+    },
+    {
+      "full_name": "ElementsProject/rust-simplicity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "C",
+      "last_checked": "2026-03-09T08:04:55Z"
+    },
+    {
+      "full_name": "ElementsProject/scriptless-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 169,
+      "language": "TeX",
+      "last_checked": "2026-03-09T08:04:58Z"
+    },
+    {
+      "full_name": "ElementsProject/secp256k1-zkp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 413,
+      "language": "C",
+      "last_checked": "2026-03-09T08:05:00Z"
+    },
+    {
+      "full_name": "ElementsProject/woocommerce-gateway-lightning",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "PHP",
+      "last_checked": "2026-03-09T08:05:02Z"
+    },
+    {
+      "full_name": "ElementsProject/wordpress-lightning-publisher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "PHP",
+      "last_checked": "2026-03-09T08:05:04Z"
     }
   ]
 }

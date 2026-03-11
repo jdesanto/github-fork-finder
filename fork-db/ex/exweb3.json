@@ -1,6 +1,6 @@
 {
   "owner": "exweb3",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:54:59Z",
   "repos": [
     {
       "full_name": "ExWeb3/block_keys",
@@ -10,6 +10,24 @@
       "stars": 31,
       "language": "Elixir",
       "last_checked": "2026-03-04T03:31:56Z"
+    },
+    {
+      "full_name": "ExWeb3/elixir_ethers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 126,
+      "language": "Elixir",
+      "last_checked": "2026-03-09T09:56:28Z"
+    },
+    {
+      "full_name": "ExWeb3/elixir_ethers_kms",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Elixir",
+      "last_checked": "2026-03-09T09:56:30Z"
     }
   ]
 }

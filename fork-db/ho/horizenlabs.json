@@ -1,7 +1,250 @@
 {
   "owner": "horizenlabs",
-  "updated_at": "2026-03-04T03:37:31Z",
+  "updated_at": "2026-03-11T15:55:00Z",
   "repos": [
+    {
+      "full_name": "HorizenLabs/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/accelerated-bn-cryptography",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/ape-staking-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/balancer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/blockscout-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/cdk-validium-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/cdk-validium-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/chaindata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/ci-base-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/compose-evm-regtest-simplified",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/compose-evm-testnet-simplified",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/compose-zkverify-simplified",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/create-zkverify-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/did-sdk-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/eon-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/era-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/fflonk_verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/foo-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/frontier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/governor-hidden-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/grapes-erc20-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/marlin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/monolith",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/moria",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/nh-substrate-telemetry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/plonky2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/poly-commit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
     {
       "full_name": "HorizenLabs/poseidon2",
       "is_fork": false,
@@ -10,6 +253,249 @@
       "stars": 73,
       "language": "Rust",
       "last_checked": "2026-03-04T03:35:59Z"
+    },
+    {
+      "full_name": "HorizenLabs/proof-of-sql-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/risc0-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/smart_contract_verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/snarkjs2zkv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/ss58-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/substrate-payctl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/sxt-proof-of-sql",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/ultraplonk_verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zen-sidechain-truffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zk-mastermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkMastermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkVerify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkVerify-qa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkevm-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zksnark-sudoku",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zksync-era",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zksync-era-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkv-attestation-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-example-sindri",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-example-typescript",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-explorer-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-explorer-harvester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-explorer-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverify-react-nextjs-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverifyjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
+    },
+    {
+      "full_name": "HorizenLabs/zkverifyjs-starter-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:51:07Z"
     }
   ]
 }
