@@ -1,0 +1,1221 @@
+{
+  "owner": "mahadao",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "MahaDAO/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:15Z"
+    },
+    {
+      "full_name": "MahaDAO/Arth-perp",
+      "is_fork": true,
+      "parent": "perpetual-protocol/perp-lite",
+      "source": "perpetual-protocol/perp-lite",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:17Z"
+    },
+    {
+      "full_name": "MahaDAO/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:12:20Z"
+    },
+    {
+      "full_name": "MahaDAO/DefiLlama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:22Z"
+    },
+    {
+      "full_name": "MahaDAO/DefiLlama-yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:12:24Z"
+    },
+    {
+      "full_name": "MahaDAO/FreshDesk-Bot",
+      "is_fork": true,
+      "parent": "Sagar133/Express-Typescript-Mongo-Boilerplate",
+      "source": "Sagar133/Express-Typescript-Mongo-Boilerplate",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:26Z"
+    },
+    {
+      "full_name": "MahaDAO/Kyc-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:28Z"
+    },
+    {
+      "full_name": "MahaDAO/Supply-Based-Farming",
+      "is_fork": true,
+      "parent": "Cryption-Digital-Services/Supply-Based-Farming",
+      "source": "Cryption-Digital-Services/Supply-Based-Farming",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:30Z"
+    },
+    {
+      "full_name": "MahaDAO/api.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:32Z"
+    },
+    {
+      "full_name": "MahaDAO/api.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:33Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-chicken-bonds",
+      "is_fork": true,
+      "parent": "liquity/ChickenBond",
+      "source": "liquity/ChickenBond",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:35Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-collateral-modeling",
+      "is_fork": true,
+      "parent": "yash-vezures/modelling-coins",
+      "source": "yash-vezures/modelling-coins",
+      "stars": 2,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T23:12:37Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:12:39Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-lend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:40Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-loans",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:12:43Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-perps",
+      "is_fork": true,
+      "parent": "perpetual-protocol/perpetual-protocol",
+      "source": "perpetual-protocol/perpetual-protocol",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:46Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-risk-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:48Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-strategies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:12:50Z"
+    },
+    {
+      "full_name": "MahaDAO/arth-usd-rebase",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:12:52Z"
+    },
+    {
+      "full_name": "MahaDAO/arthcoin-cdp-v0",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss",
+      "source": "sky-ecosystem/dss",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:12:54Z"
+    },
+    {
+      "full_name": "MahaDAO/arthcoin-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:12:56Z"
+    },
+    {
+      "full_name": "MahaDAO/arthcoin-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:12:58Z"
+    },
+    {
+      "full_name": "MahaDAO/arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:58Z"
+    },
+    {
+      "full_name": "MahaDAO/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:12:59Z"
+    },
+    {
+      "full_name": "MahaDAO/auctions-ui",
+      "is_fork": true,
+      "parent": "sky-ecosystem/auctions-ui",
+      "source": "b-pmcg/auction-helper",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:01Z"
+    },
+    {
+      "full_name": "MahaDAO/audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:03Z"
+    },
+    {
+      "full_name": "MahaDAO/basiscash-protocol",
+      "is_fork": true,
+      "parent": "Basis-Cash/basiscash-protocol",
+      "source": "Basis-Cash/basiscash-protocol",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:13:05Z"
+    },
+    {
+      "full_name": "MahaDAO/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:07Z"
+    },
+    {
+      "full_name": "MahaDAO/bribes-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:09Z"
+    },
+    {
+      "full_name": "MahaDAO/chainlink-keepers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:13:11Z"
+    },
+    {
+      "full_name": "MahaDAO/compound-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:13Z"
+    },
+    {
+      "full_name": "MahaDAO/crosschain-talk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:13:15Z"
+    },
+    {
+      "full_name": "MahaDAO/dai.js",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dai.js",
+      "source": "sky-ecosystem/dai.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:13:17Z"
+    },
+    {
+      "full_name": "MahaDAO/dao-contracts",
+      "is_fork": true,
+      "parent": "curvefi/curve-dao-contracts",
+      "source": "curvefi/curve-dao-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:19Z"
+    },
+    {
+      "full_name": "MahaDAO/dapptools",
+      "is_fork": true,
+      "parent": "dapphub/dapptools",
+      "source": "dapphub/dapptools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:22Z"
+    },
+    {
+      "full_name": "MahaDAO/dapptools-1",
+      "is_fork": true,
+      "parent": "anurag925/dapptools",
+      "source": "anurag925/dapptools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:24Z"
+    },
+    {
+      "full_name": "MahaDAO/debt.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:26Z"
+    },
+    {
+      "full_name": "MahaDAO/debt.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:13:28Z"
+    },
+    {
+      "full_name": "MahaDAO/debtpool-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:13:30Z"
+    },
+    {
+      "full_name": "MahaDAO/defi-lama-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:32Z"
+    },
+    {
+      "full_name": "MahaDAO/defillama-dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:34Z"
+    },
+    {
+      "full_name": "MahaDAO/defillama-emissions-adapter",
+      "is_fork": true,
+      "parent": "DefiLlama/emissions-adapters",
+      "source": "DefiLlama/emissions-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:13:37Z"
+    },
+    {
+      "full_name": "MahaDAO/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:13:39Z"
+    },
+    {
+      "full_name": "MahaDAO/dex.mahadao.com",
+      "is_fork": true,
+      "parent": "cleancoindev/oasis-landing",
+      "source": "cleancoindev/oasis-landing",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:13:41Z"
+    },
+    {
+      "full_name": "MahaDAO/discord-notifications",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:13:43Z"
+    },
+    {
+      "full_name": "MahaDAO/docs.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:45Z"
+    },
+    {
+      "full_name": "MahaDAO/docs.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:48Z"
+    },
+    {
+      "full_name": "MahaDAO/dss-deploy-scripts",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-deploy-scripts",
+      "source": "sky-ecosystem/dss-deploy-scripts",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T23:13:50Z"
+    },
+    {
+      "full_name": "MahaDAO/dss-gov-rewards",
+      "is_fork": true,
+      "parent": "BellwoodStudios/dss-gov-rewards",
+      "source": "BellwoodStudios/dss-gov-rewards",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:53Z"
+    },
+    {
+      "full_name": "MahaDAO/ethereum.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:13:55Z"
+    },
+    {
+      "full_name": "MahaDAO/faq.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:13:58Z"
+    },
+    {
+      "full_name": "MahaDAO/farming-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:00Z"
+    },
+    {
+      "full_name": "MahaDAO/flashloans-arth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:14:02Z"
+    },
+    {
+      "full_name": "MahaDAO/frax-solidity",
+      "is_fork": true,
+      "parent": "FraxFinance/frax-solidity",
+      "source": "FraxFinance/frax-solidity",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:04Z"
+    },
+    {
+      "full_name": "MahaDAO/frax-truffle",
+      "is_fork": true,
+      "parent": "IncentiveLoop/frax-truffle",
+      "source": "IncentiveLoop/frax-truffle",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:06Z"
+    },
+    {
+      "full_name": "MahaDAO/gasless.js",
+      "is_fork": true,
+      "parent": "mosendo/gasless.js",
+      "source": "mosendo/gasless.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:08Z"
+    },
+    {
+      "full_name": "MahaDAO/gassless-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:14:11Z"
+    },
+    {
+      "full_name": "MahaDAO/gmu-index",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:13Z"
+    },
+    {
+      "full_name": "MahaDAO/gmu-oracle-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T23:14:15Z"
+    },
+    {
+      "full_name": "MahaDAO/gov-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:14:17Z"
+    },
+    {
+      "full_name": "MahaDAO/gov.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:17Z"
+    },
+    {
+      "full_name": "MahaDAO/governance-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:14:19Z"
+    },
+    {
+      "full_name": "MahaDAO/historical-api",
+      "is_fork": true,
+      "parent": "mahalend/historical-api",
+      "source": "aave/aave-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:22Z"
+    },
+    {
+      "full_name": "MahaDAO/homora-v2",
+      "is_fork": true,
+      "parent": "Sam-Code-Sam/homora-v2",
+      "source": "Sam-Code-Sam/homora-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:24Z"
+    },
+    {
+      "full_name": "MahaDAO/horizon-stablecoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:26Z"
+    },
+    {
+      "full_name": "MahaDAO/index-coop-contracts-legacy",
+      "is_fork": true,
+      "parent": "SetProtocol/index-coop-contracts-legacy",
+      "source": "SetProtocol/index-coop-contracts-legacy",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:28Z"
+    },
+    {
+      "full_name": "MahaDAO/info.mahaswap.com",
+      "is_fork": true,
+      "parent": "Uniswap/info",
+      "source": "Uniswap/info",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:14:30Z"
+    },
+    {
+      "full_name": "MahaDAO/inrd-explorer",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dai-explorer",
+      "source": "sky-ecosystem/dai-explorer",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:14:32Z"
+    },
+    {
+      "full_name": "MahaDAO/kyberswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:34Z"
+    },
+    {
+      "full_name": "MahaDAO/lend.mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:35Z"
+    },
+    {
+      "full_name": "MahaDAO/liquidity-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:14:37Z"
+    },
+    {
+      "full_name": "MahaDAO/liquidity.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:37Z"
+    },
+    {
+      "full_name": "MahaDAO/maha.vision",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:14:39Z"
+    },
+    {
+      "full_name": "MahaDAO/mahachain-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:41Z"
+    },
+    {
+      "full_name": "MahaDAO/mahadao-official-handles",
+      "is_fork": true,
+      "parent": "gafoor-k/mahadao-official-handles",
+      "source": "gafoor-k/mahadao-official-handles",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:43Z"
+    },
+    {
+      "full_name": "MahaDAO/mahadao.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:45Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalabs.xyz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-09T23:14:47Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalend-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Elm",
+      "last_checked": "2026-03-09T23:14:49Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalend-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:14:51Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalend-contracts",
+      "is_fork": true,
+      "parent": "aave/protocol-v2",
+      "source": "aave/protocol-v2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:53Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalend-incentive-contracts",
+      "is_fork": true,
+      "parent": "aave/aave-stake-v2",
+      "source": "aave/aave-stake-v2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:14:56Z"
+    },
+    {
+      "full_name": "MahaDAO/mahalend.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:57Z"
+    },
+    {
+      "full_name": "MahaDAO/maharajadao.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:14:59Z"
+    },
+    {
+      "full_name": "MahaDAO/mahasender.app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:14:59Z"
+    },
+    {
+      "full_name": "MahaDAO/mahastarter-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:00Z"
+    },
+    {
+      "full_name": "MahaDAO/mahastarter.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:00Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:15:02Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap-tokenlist",
+      "is_fork": true,
+      "parent": "opynfinance/opyn-tokenlist",
+      "source": "opynfinance/opyn-tokenlist",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:05Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap-v2-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:15:07Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap-v2-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v2-periphery",
+      "source": "Uniswap/v2-periphery",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:15:10Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap-v2-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v2-subgraph",
+      "source": "Uniswap/v2-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:12Z"
+    },
+    {
+      "full_name": "MahaDAO/mahaswap.com",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:15:16Z"
+    },
+    {
+      "full_name": "MahaDAO/mahatoken-analytics-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:15:18Z"
+    },
+    {
+      "full_name": "MahaDAO/mahax-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:15:20Z"
+    },
+    {
+      "full_name": "MahaDAO/makerpkgs",
+      "is_fork": true,
+      "parent": "sky-ecosystem/makerpkgs",
+      "source": "sky-ecosystem/makerpkgs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:22Z"
+    },
+    {
+      "full_name": "MahaDAO/mcd-cli",
+      "is_fork": true,
+      "parent": "sky-ecosystem/mcd-cli",
+      "source": "sky-ecosystem/mcd-cli",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:24Z"
+    },
+    {
+      "full_name": "MahaDAO/metamask-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:15:27Z"
+    },
+    {
+      "full_name": "MahaDAO/migrate.mahaswap.com",
+      "is_fork": true,
+      "parent": "sushiswap/sushiswap-lite",
+      "source": "sushiswap/sushiswap-lite",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:15:29Z"
+    },
+    {
+      "full_name": "MahaDAO/monorepo",
+      "is_fork": true,
+      "parent": "nomad-xyz/monorepo",
+      "source": "nomad-xyz/monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:31Z"
+    },
+    {
+      "full_name": "MahaDAO/notifications-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:32Z"
+    },
+    {
+      "full_name": "MahaDAO/oldv2.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:15:34Z"
+    },
+    {
+      "full_name": "MahaDAO/oracle-treasury-updater",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:15:36Z"
+    },
+    {
+      "full_name": "MahaDAO/oracles",
+      "is_fork": true,
+      "parent": "sky-ecosystem/oracles-v2",
+      "source": "sky-ecosystem/oracles-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:38Z"
+    },
+    {
+      "full_name": "MahaDAO/poap",
+      "is_fork": true,
+      "parent": "poapxyz/poap",
+      "source": "mcortesi/poap",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:41Z"
+    },
+    {
+      "full_name": "MahaDAO/polygon-token-list",
+      "is_fork": true,
+      "parent": "0xPolygon/polygon-token-list",
+      "source": "0xPolygon/polygon-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:15:44Z"
+    },
+    {
+      "full_name": "MahaDAO/polygon.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:15:46Z"
+    },
+    {
+      "full_name": "MahaDAO/pool-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:15:48Z"
+    },
+    {
+      "full_name": "MahaDAO/scallop-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:15:50Z"
+    },
+    {
+      "full_name": "MahaDAO/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-09T23:15:52Z"
+    },
+    {
+      "full_name": "MahaDAO/solidly",
+      "is_fork": true,
+      "parent": "stephenbyrne99/solidly",
+      "source": "stephenbyrne99/solidly",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:54Z"
+    },
+    {
+      "full_name": "MahaDAO/staging.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:15:56Z"
+    },
+    {
+      "full_name": "MahaDAO/staking-pool-wrappers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:15:58Z"
+    },
+    {
+      "full_name": "MahaDAO/symbiosis-js-sdk",
+      "is_fork": true,
+      "parent": "symbiosis-finance/js-sdk",
+      "source": "symbiosis-finance/js-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:01Z"
+    },
+    {
+      "full_name": "MahaDAO/telegram-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:03Z"
+    },
+    {
+      "full_name": "MahaDAO/test-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:05Z"
+    },
+    {
+      "full_name": "MahaDAO/test-arb-bot",
+      "is_fork": true,
+      "parent": "Uniswap/uniswap-first-contract-example",
+      "source": "Uniswap/uniswap-first-contract-example",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:07Z"
+    },
+    {
+      "full_name": "MahaDAO/token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:16:09Z"
+    },
+    {
+      "full_name": "MahaDAO/token-vesting-ui",
+      "is_fork": true,
+      "parent": "OpenZeppelin/token-vesting-ui",
+      "source": "OpenZeppelin/token-vesting-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:11Z"
+    },
+    {
+      "full_name": "MahaDAO/trustwallet-assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T23:16:13Z"
+    },
+    {
+      "full_name": "MahaDAO/v1.arthcoin.com",
+      "is_fork": true,
+      "parent": "OasisDEX/mcd-cdp-portal",
+      "source": "OasisDEX/mcd-cdp-portal",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:15Z"
+    },
+    {
+      "full_name": "MahaDAO/vaults.arth.loans",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:16:17Z"
+    },
+    {
+      "full_name": "MahaDAO/vfat-tools",
+      "is_fork": true,
+      "parent": "vfat-io/vfat-tools",
+      "source": "vfat-io/vfat-tools",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:20Z"
+    },
+    {
+      "full_name": "MahaDAO/vfat.arthcoin.com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:21Z"
+    },
+    {
+      "full_name": "MahaDAO/vote-incentives",
+      "is_fork": true,
+      "parent": "antonnell/vote-incentives",
+      "source": "antonnell/vote-incentives",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:23Z"
+    },
+    {
+      "full_name": "MahaDAO/vote.mahadao.com",
+      "is_fork": true,
+      "parent": "sky-ecosystem/governance-portal",
+      "source": "sky-ecosystem/governance-portal",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:25Z"
+    },
+    {
+      "full_name": "MahaDAO/voting-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:16:27Z"
+    },
+    {
+      "full_name": "MahaDAO/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:29Z"
+    },
+    {
+      "full_name": "MahaDAO/zapper-fi-studio",
+      "is_fork": true,
+      "parent": "Zapper-fi/studio",
+      "source": "Zapper-fi/studio",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:16:31Z"
+    },
+    {
+      "full_name": "MahaDAO/zeroland-gm-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:32Z"
+    },
+    {
+      "full_name": "MahaDao/dai.js",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dai.js",
+      "source": "sky-ecosystem/dai.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:16:34Z"
+    },
+    {
+      "full_name": "MahaDao/gasless",
+      "is_fork": true,
+      "parent": "mosendo/gasless",
+      "source": "mosendo/gasless",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:36Z"
+    },
+    {
+      "full_name": "MahaDao/inrd-explorer",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dai-explorer",
+      "source": "sky-ecosystem/dai-explorer",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:16:38Z"
+    },
+    {
+      "full_name": "MahaDao/mahaswap.com",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:16:41Z"
+    },
+    {
+      "full_name": "MahaDao/matic-block-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:41Z"
+    },
+    {
+      "full_name": "MahaDao/uniswap-v1",
+      "is_fork": true,
+      "parent": "Uniswap/v1-contracts",
+      "source": "Uniswap/v1-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:16:43Z"
+    }
+  ]
+}

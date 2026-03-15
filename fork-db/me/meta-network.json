@@ -1,0 +1,42 @@
+{
+  "owner": "meta-network",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "Meta-Network/fan-ticket-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:40:17Z"
+    },
+    {
+      "full_name": "Meta-Network/meta-cms-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:40:19Z"
+    },
+    {
+      "full_name": "Meta-Network/nft-core",
+      "is_fork": true,
+      "parent": "ourzora/core",
+      "source": "ourzora/core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:40:21Z"
+    },
+    {
+      "full_name": "Meta-Network/unlock-content-by-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:40:23Z"
+    }
+  ]
+}

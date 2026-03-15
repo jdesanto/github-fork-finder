@@ -1,0 +1,357 @@
+{
+  "owner": "paulelisha",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PaulElisha/Board-Build",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:29:52Z"
+    },
+    {
+      "full_name": "PaulElisha/CreateJsonStructure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:29:54Z"
+    },
+    {
+      "full_name": "PaulElisha/Hardhat-Raffle-ChainLinkKeeper-SmartContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T13:29:57Z"
+    },
+    {
+      "full_name": "PaulElisha/Kaia-Airdrop-Distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:29:59Z"
+    },
+    {
+      "full_name": "PaulElisha/Kaia-Foundry-Tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:01Z"
+    },
+    {
+      "full_name": "PaulElisha/Kaia-Oracle-Toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:04Z"
+    },
+    {
+      "full_name": "PaulElisha/Kaia-Precompile-Toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:06Z"
+    },
+    {
+      "full_name": "PaulElisha/Liq0S-Custom-UniV4-Router-For-Auction-based-Liquidity-Market-JIT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:08Z"
+    },
+    {
+      "full_name": "PaulElisha/NFT_Chainlink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:10Z"
+    },
+    {
+      "full_name": "PaulElisha/PythPriceFeed-Kaia-Integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:12Z"
+    },
+    {
+      "full_name": "PaulElisha/Uniswap-v2-Interaction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:14Z"
+    },
+    {
+      "full_name": "PaulElisha/Web3BridgeTest-DAY3-Uniswap-v2-VotingContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:17Z"
+    },
+    {
+      "full_name": "PaulElisha/airdropdistribution-merkle-eip712",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:19Z"
+    },
+    {
+      "full_name": "PaulElisha/asset-scooper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:20Z"
+    },
+    {
+      "full_name": "PaulElisha/boardbuild",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:22Z"
+    },
+    {
+      "full_name": "PaulElisha/build-json-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:24Z"
+    },
+    {
+      "full_name": "PaulElisha/dynamic-auction-based-jit-rebalancer-hook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:26Z"
+    },
+    {
+      "full_name": "PaulElisha/foundryTemplate-PythPriceFeed",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:29Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-foundry-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:31Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-foundryTemplate--pricefeedManager-PriceConverter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:34Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-foundrytool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:36Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-oracle-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:37Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-payment-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:39Z"
+    },
+    {
+      "full_name": "PaulElisha/kaiachain-precompile-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:41Z"
+    },
+    {
+      "full_name": "PaulElisha/liquidity-rebalancer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:30:43Z"
+    },
+    {
+      "full_name": "PaulElisha/nft-chainlink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:46Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-kaiachain-sdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T13:30:47Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-kaiachain-sdk-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T13:30:49Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-kaiachain-sdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T13:30:51Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-kaiachain-sdk-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:30:53Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-sdk-kaiachain-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T13:30:56Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-sdk-kaiachain-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T13:30:58Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-sdk-kaiachain-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T13:31:00Z"
+    },
+    {
+      "full_name": "PaulElisha/oklink-sdk-kaiachain-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:31:02Z"
+    },
+    {
+      "full_name": "PaulElisha/permit2-example-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:31:04Z"
+    },
+    {
+      "full_name": "PaulElisha/pythpricefeed-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:31:06Z"
+    },
+    {
+      "full_name": "PaulElisha/raffle-chainlink-keeper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T13:31:08Z"
+    },
+    {
+      "full_name": "PaulElisha/uniV3-clone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:31:10Z"
+    },
+    {
+      "full_name": "PaulElisha/uniswapscript",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:31:12Z"
+    }
+  ]
+}

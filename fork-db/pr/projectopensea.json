@@ -1,0 +1,762 @@
+{
+  "owner": "projectopensea",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "ProjectOpenSea/0x-fee-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:38:11Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/0x-tools",
+      "is_fork": true,
+      "parent": "0xProject/tools",
+      "source": "0xProject/tools",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:38:13Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/CoinGecko-Java",
+      "is_fork": true,
+      "parent": "Philipinho/CoinGecko-Java",
+      "source": "Philipinho/CoinGecko-Java",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T18:38:15Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/SDWebImageSVGNativeCoder",
+      "is_fork": true,
+      "parent": "SDWebImage/SDWebImageSVGNativeCoder",
+      "source": "SDWebImage/SDWebImageSVGNativeCoder",
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T18:38:17Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/SDWebImageSwiftUI",
+      "is_fork": true,
+      "parent": "SDWebImage/SDWebImageSwiftUI",
+      "source": "SDWebImage/SDWebImageSwiftUI",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T18:38:21Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/SIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:23Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/WalletConnectSwiftV2",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectSwiftV2",
+      "source": "WalletConnect/WalletConnectSwiftV2",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T18:38:25Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/anchorpy",
+      "is_fork": true,
+      "parent": "kevinheavey/anchorpy",
+      "source": "kevinheavey/anchorpy",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:38:27Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/apischema",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:27Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/aws-privateca-issuer",
+      "is_fork": true,
+      "parent": "cert-manager/aws-privateca-issuer",
+      "source": "cert-manager/aws-privateca-issuer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:29Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/boundary-chart",
+      "is_fork": true,
+      "parent": "janikgar/boundary-chart",
+      "source": "janikgar/boundary-chart",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:32Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/brownie",
+      "is_fork": true,
+      "parent": "eth-brownie/brownie",
+      "source": "eth-brownie/brownie",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:34Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/buy-sell-opensea-sdk-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:38:36Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/celery-batches",
+      "is_fork": true,
+      "parent": "clokep/celery-batches",
+      "source": "clokep/celery-batches",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:38:38Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/cryptotickets",
+      "is_fork": true,
+      "parent": "fboydc/cryptotickets",
+      "source": "fboydc/cryptotickets",
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:40Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/developer-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:40Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/discord-moderator",
+      "is_fork": true,
+      "parent": "joshuawu/discord-moderator",
+      "source": "joshuawu/discord-moderator",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:42Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/domain-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:38:44Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/dynamic-traits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:45Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/embeddable-nfts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 333,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:38:47Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/eslint-plugin-relay",
+      "is_fork": true,
+      "parent": "relayjs/eslint-plugin-relay",
+      "source": "relayjs/eslint-plugin-relay",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:49Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/ethdenver-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:51Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/ethmoji-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:53Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/ethmoji-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:55Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/ethmoji-js-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:38:57Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/fake-gcs-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:38:57Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/heroku-td-agent",
+      "is_fork": true,
+      "parent": "treasure-data/heroku-td-agent",
+      "source": "treasure-data/heroku-td-agent",
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T18:39:00Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/jellyfish",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T18:39:02Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/klaytn-contracts",
+      "is_fork": true,
+      "parent": "baerae-colin/klaytn-contracts-old",
+      "source": "klaytn/klaytn-contracts-old",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:04Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/kotlin-walletconnect-lib",
+      "is_fork": true,
+      "parent": "WalletConnect/kotlin-walletconnect-lib",
+      "source": "WalletConnect/kotlin-walletconnect-lib",
+      "stars": 4,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T18:39:06Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/marketplace-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:08Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/masonic",
+      "is_fork": true,
+      "parent": "jaredLunde/masonic",
+      "source": "jaredLunde/masonic",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:10Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/meta-transactions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:12Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/metadata-api-nodejs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 194,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:39:14Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/metadata-api-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 117,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:39:16Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/multi-token-standard",
+      "is_fork": true,
+      "parent": "0xsequence/erc-1155",
+      "source": "0xsequence/erc-1155",
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:19Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/next-safe-middleware",
+      "is_fork": true,
+      "parent": "nibtime/next-safe-middleware",
+      "source": "nibtime/next-safe-middleware",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:21Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/next-translate",
+      "is_fork": true,
+      "parent": "aralroca/next-translate",
+      "source": "aralroca/next-translate",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:39:23Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/nft-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:39:25Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/niftygateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:26Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/opensea-creatures",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1153,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:39:28Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/opensea-erc1155",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 603,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:39:30Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/opensea-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2338,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:32Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/opensea-stream-discord-webhook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:35Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/opensea-whitelabel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 225,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:39:37Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/operator-filter-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 308,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:39Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/plunderbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:39Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/pyexiv2",
+      "is_fork": true,
+      "parent": "LeoHsiao1/pyexiv2",
+      "source": "LeoHsiao1/pyexiv2",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:39:41Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/pytest-django",
+      "is_fork": true,
+      "parent": "pytest-dev/pytest-django",
+      "source": "pytest-dev/pytest-django",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:43Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/pytest-xml-report",
+      "is_fork": true,
+      "parent": "numirias/pytest-json-report",
+      "source": "numirias/pytest-json-report",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:45Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/redeemables",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:47Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/relay",
+      "is_fork": true,
+      "parent": "facebook/relay",
+      "source": "facebook/relay",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:39:49Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seadrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 310,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:52Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2245,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:54Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-1.6",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:56Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:39:58Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-deploy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:00Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-generic-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:02Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-gossip",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 125,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:04Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-hooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-10T18:40:06Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 264,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:08Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-order-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 50,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:10Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-sol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:12Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:15Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/seaport.py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:40:17Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/search-ui",
+      "is_fork": true,
+      "parent": "elastic/search-ui",
+      "source": "elastic/search-ui",
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-10T18:40:19Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/ships-log",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:40:21Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/shipyard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:23Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/shipyard-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:25Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/shipyard-example-project",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:27Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/stream-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 169,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:29Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/terraform-aws-eks",
+      "is_fork": true,
+      "parent": "terraform-aws-modules/terraform-aws-eks",
+      "source": "terraform-aws-modules/terraform-aws-eks",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:40:31Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/truffle-contract",
+      "is_fork": true,
+      "parent": "pfletcherhill/truffle-contract",
+      "source": "oladotunr/truffle-contract",
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:40:33Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/tstorish",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:35Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/uSockets",
+      "is_fork": true,
+      "parent": "uNetworking/uSockets",
+      "source": "uNetworking/uSockets",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T18:40:37Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/uWebSockets",
+      "is_fork": true,
+      "parent": "uNetworking/uWebSockets",
+      "source": "uNetworking/uWebSockets",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T18:40:40Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/uWebSockets.js",
+      "is_fork": true,
+      "parent": "uNetworking/uWebSockets.js",
+      "source": "uNetworking/uWebSockets.js",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T18:40:42Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/unleash-proxy-client-swift",
+      "is_fork": true,
+      "parent": "Unleash/unleash-ios-sdk",
+      "source": "Unleash/unleash-ios-sdk",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T18:40:44Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/vercel-repros",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:46Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/web3.py",
+      "is_fork": true,
+      "parent": "ethereum/web3.py",
+      "source": "ethereum/web3.py",
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:40:48Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/weth-converter",
+      "is_fork": true,
+      "parent": "ProjectOpenSea/seaport-generic-adapter",
+      "source": "ProjectOpenSea/seaport-generic-adapter",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T18:40:50Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/wyvern-js",
+      "is_fork": true,
+      "parent": "ProjectWyvern/wyvern-js",
+      "source": "ProjectWyvern/wyvern-js",
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:52Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/wyvern-schemas",
+      "is_fork": true,
+      "parent": "ProjectWyvern/wyvern-schemas",
+      "source": "ProjectWyvern/wyvern-schemas",
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:40:54Z"
+    },
+    {
+      "full_name": "ProjectOpenSea/xiang-wu-experimental",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:40:55Z"
+    }
+  ]
+}

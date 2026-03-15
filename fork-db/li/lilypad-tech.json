@@ -1,0 +1,699 @@
+{
+  "owner": "lilypad-tech",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Lilypad-Tech/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:17Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/ComfyUI",
+      "is_fork": true,
+      "parent": "Comfy-Org/ComfyUI",
+      "source": "Comfy-Org/ComfyUI",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:19Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/Waterlily",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:30:21Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/WindowsResourceProvider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-09T18:30:23Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/awesome-Lilypad",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:25Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/axolotl",
+      "is_fork": true,
+      "parent": "lukemarsden/axolotl",
+      "source": "axolotl-ai-cloud/axolotl",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:28Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/cloudops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:30Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/community-bots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:30:32Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/dcn",
+      "is_fork": true,
+      "parent": "bacalhau-project/generic-dcn",
+      "source": "bacalhau-project/generic-dcn",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:30:34Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/eth-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:35Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/eth-faucet-bac",
+      "is_fork": true,
+      "parent": "chainflag/eth-faucet",
+      "source": "chainflag/eth-faucet",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:30:37Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:30:39Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/helm-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:30:41Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/jamjam",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T18:30:44Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/js-cli-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T18:30:46Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/kafka-oauth-broker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:30:48Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lily-synthetizoor",
+      "is_fork": true,
+      "parent": "dub3-space/lily-synthetizoor",
+      "source": "dub3-space/lily-synthetizoor",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:30:50Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilybot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:30:52Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:30:55Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-bark-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:30:57Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-codellama-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:00Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-concat-files-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:31:02Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-dcn",
+      "is_fork": true,
+      "parent": "bacalhau-project/generic-dcn",
+      "source": "bacalhau-project/generic-dcn",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:31:04Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-deepscaler-1.5b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:07Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-deepseek-r1-7b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:09Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:11Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-front-end",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:31:13Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-gemma3-12b-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:15Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-gemma3-4b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:17Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-hardhat-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:31:19Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-kokoro-audio-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T18:31:21Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-lilyrepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:31:23Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-llava-7b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:25Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-marketing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:27Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-mistral-7b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:31:29Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-modicum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T18:31:32Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:34Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-cowsay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:36Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-duckdb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:38Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-fastchat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:40Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-filecoin-data-prep",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:42Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-lilysay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T18:31:45Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-lora-inference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:47Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-lora-training",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:49Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-mistral-7b-instruct",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:51Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-ollama-pipeline",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:31:54Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-sdv-pipeline",
+      "is_fork": true,
+      "parent": "Lilypad-Tech/lilypad-module-sdxl-pipeline",
+      "source": "Lilypad-Tech/lilypad-module-sdxl-pipeline",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:31:56Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-sdxl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:31:58Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-sdxl-pipeline",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:00Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-stable-diffusion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:02Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-synthetic-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T18:32:04Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-test",
+      "is_fork": true,
+      "parent": "Lilypad-Tech/lilypad-module-cowsay",
+      "source": "Lilypad-Tech/lilypad-module-cowsay",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:07Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-module-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:10Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-nomic-embed-text",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:12Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-openthinker-7b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:14Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-phi4-14b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:17Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-phi4-mini-3.8b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:19Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-qwen2.5-7b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:22Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-qwen3-14b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:24Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:26Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T18:32:28Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:30Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:32Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-v0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:32:34Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-wan2.1-t2v-1.3b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:36Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilypad-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T18:32:38Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/lilysaas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:32:42Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/module-allowlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:44Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/module-phi2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:46Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/module-sdxl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:48Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/obsidian-lilypad",
+      "is_fork": true,
+      "parent": "polus-arcticus/obsidian-lilypad",
+      "source": "polus-arcticus/obsidian-lilypad",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:51Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/ollama-3.3-70b-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:32:53Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/phi2-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:32:55Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:32:57Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/test-lilypad-releases",
+      "is_fork": true,
+      "parent": "Lilypad-Tech/lilypad",
+      "source": "Lilypad-Tech/lilypad",
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:32:59Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/test-lilypad-releases2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T18:33:01Z"
+    },
+    {
+      "full_name": "Lilypad-Tech/web-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:33:03Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "galoisinc",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "GaloisInc/cardano-network-service-assurance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T13:43:22Z"
+    },
+    {
+      "full_name": "GaloisInc/cardano-node",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-node",
+      "source": "IntersectMBO/cardano-node",
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T13:43:24Z"
+    },
+    {
+      "full_name": "GaloisInc/formal-verso",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:43:26Z"
+    }
+  ]
+}

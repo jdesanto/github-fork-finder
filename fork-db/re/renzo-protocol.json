@@ -1,0 +1,150 @@
+{
+  "owner": "renzo-protocol",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "Renzo-Protocol/SIPs",
+      "is_fork": true,
+      "parent": "Synthetixio/SIPs",
+      "source": "Synthetixio/SIPs",
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T22:44:35Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/contracts-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T22:44:36Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/curve-assets",
+      "is_fork": true,
+      "parent": "curvefi/curve-assets",
+      "source": "curvefi/curve-assets",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:38Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/eigenlayer-cli",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenlayer-cli",
+      "source": "Layr-Labs/eigenlayer-cli",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T22:44:40Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/eigenlayer-contracts",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenlayer-contracts",
+      "source": "Layr-Labs/eigenlayer-contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:43Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/eigenlayer-rewards-updater",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenlayer-rewards-updater",
+      "source": "Layr-Labs/eigenlayer-rewards-updater",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:45Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/eigenpod-proofs-generation",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenpod-proofs-generation",
+      "source": "Layr-Labs/eigenpod-proofs-generation",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-10T22:44:47Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/eigenpod-proofs-generation-prepectra",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenpod-proofs-generation-prepectra",
+      "source": "Layr-Labs/eigenpod-proofs-generation",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:49Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/foundational-hooks",
+      "is_fork": true,
+      "parent": "uniswapfoundation/foundational-hooks",
+      "source": "uniswapfoundation/foundational-hooks",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T22:44:51Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/jupiter-swap-api-client",
+      "is_fork": true,
+      "parent": "jup-ag/jupiter-swap-api-client",
+      "source": "jup-ag/jupiter-swap-api-client",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:44:53Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/l2-lxp-liquidity-reward",
+      "is_fork": true,
+      "parent": "delta-hq/l2-lxp-liquidity-reward",
+      "source": "delta-hq/l2-lxp-liquidity-reward",
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T22:44:55Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/mmi-defi-adapters",
+      "is_fork": true,
+      "parent": "consensys-vertical-apps/mmi-defi-adapters",
+      "source": "consensys-vertical-apps/mmi-defi-adapters",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:57Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/restaking",
+      "is_fork": true,
+      "parent": "jito-foundation/restaking",
+      "source": "jito-foundation/restaking",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:44:59Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/squads-v4-public-ui",
+      "is_fork": true,
+      "parent": "Squads-Protocol/squads-v4-public-ui",
+      "source": "Squads-Protocol/squads-v4-public-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:45:01Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/ssv-rewards-claim-ui",
+      "is_fork": true,
+      "parent": "EridianAlpha/ssv-rewards-claim-ui",
+      "source": "EridianAlpha/ssv-rewards-claim-ui",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T22:45:03Z"
+    },
+    {
+      "full_name": "Renzo-Protocol/vem_message_generator",
+      "is_fork": true,
+      "parent": "p2p-org/vem_message_generator",
+      "source": "p2p-org/vem_message_generator",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:45:05Z"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "owner": "lootswap",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LootSwap/lootswap-contracts",
+      "is_fork": true,
+      "parent": "blockflow/venomswap-contracts",
+      "source": "blockflow/venomswap-contracts",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:25:56Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:25:59Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-default-token-list",
+      "is_fork": true,
+      "parent": "Uniswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:26:01Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:04Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-interface-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:06Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-lib",
+      "is_fork": true,
+      "parent": "Uniswap/solidity-lib",
+      "source": "Uniswap/solidity-lib",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:08Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v2-periphery",
+      "source": "Uniswap/v2-periphery",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:26:10Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:12Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-sdk-extra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:15Z"
+    },
+    {
+      "full_name": "LootSwap/lootswap-uikit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:17Z"
+    },
+    {
+      "full_name": "LootSwap/snapshot-spaces",
+      "is_fork": true,
+      "parent": "harmony-one/snapshot-spaces",
+      "source": "harmony-one/snapshot-spaces",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:26:22Z"
+    }
+  ]
+}

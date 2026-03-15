@@ -1,0 +1,177 @@
+{
+  "owner": "midas-protocol",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "Midas-Protocol/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:41:16Z"
+    },
+    {
+      "full_name": "Midas-Protocol/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:41:18Z"
+    },
+    {
+      "full_name": "Midas-Protocol/euler-oracle-tools",
+      "is_fork": true,
+      "parent": "euler-xyz/euler-oracle-tools",
+      "source": "euler-xyz/euler-oracle-tools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:20Z"
+    },
+    {
+      "full_name": "Midas-Protocol/flywheel-v2",
+      "is_fork": true,
+      "parent": "fei-protocol/flywheel-v2",
+      "source": "fei-protocol/flywheel-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:23Z"
+    },
+    {
+      "full_name": "Midas-Protocol/fuse-contracts",
+      "is_fork": true,
+      "parent": "Rari-Capital/fuse-contracts",
+      "source": "Rari-Capital/fuse-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:25Z"
+    },
+    {
+      "full_name": "Midas-Protocol/fuse-flywheel",
+      "is_fork": true,
+      "parent": "fei-protocol/fuse-flywheel",
+      "source": "fei-protocol/fuse-flywheel",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:27Z"
+    },
+    {
+      "full_name": "Midas-Protocol/fuse-liquidator-bot",
+      "is_fork": true,
+      "parent": "Rari-Capital/fuse-liquidator-bot",
+      "source": "Rari-Capital/fuse-liquidator-bot",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:30Z"
+    },
+    {
+      "full_name": "Midas-Protocol/fuse-prom-target",
+      "is_fork": true,
+      "parent": "Rari-Capital/fuse-prom-target",
+      "source": "Rari-Capital/fuse-prom-target",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:32Z"
+    },
+    {
+      "full_name": "Midas-Protocol/fuse-twap-bot",
+      "is_fork": true,
+      "parent": "Rari-Capital/fuse-twap-bot",
+      "source": "Rari-Capital/fuse-twap-bot",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:34Z"
+    },
+    {
+      "full_name": "Midas-Protocol/icons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HCL",
+      "last_checked": "2026-03-10T02:41:36Z"
+    },
+    {
+      "full_name": "Midas-Protocol/midas-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:38Z"
+    },
+    {
+      "full_name": "Midas-Protocol/monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:40Z"
+    },
+    {
+      "full_name": "Midas-Protocol/rari-fuse-subgraph",
+      "is_fork": true,
+      "parent": "jarbacoa/rari-fuse-subgraph",
+      "source": "zacel/rari-fuse-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:42Z"
+    },
+    {
+      "full_name": "Midas-Protocol/references",
+      "is_fork": true,
+      "parent": "wevm/references",
+      "source": "wevm/references",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:44Z"
+    },
+    {
+      "full_name": "Midas-Protocol/tribe-turbo",
+      "is_fork": true,
+      "parent": "fei-protocol/tribe-turbo",
+      "source": "fei-protocol/tribe-turbo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:46Z"
+    },
+    {
+      "full_name": "Midas-Protocol/vaults",
+      "is_fork": true,
+      "parent": "Rari-Capital/vaults",
+      "source": "Rari-Capital/vaults",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:41:49Z"
+    },
+    {
+      "full_name": "Midas-Protocol/webtwo-infra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "HCL",
+      "last_checked": "2026-03-10T02:41:51Z"
+    },
+    {
+      "full_name": "Midas-Protocol/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:41:53Z"
+    },
+    {
+      "full_name": "Midas-Protocol/zapper-fi",
+      "is_fork": true,
+      "parent": "Zapper-fi/studio",
+      "source": "Zapper-fi/studio",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:41:55Z"
+    }
+  ]
+}

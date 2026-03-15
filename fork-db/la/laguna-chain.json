@@ -1,0 +1,96 @@
+{
+  "owner": "laguna-chain",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Laguna-Chain/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:26:42Z"
+    },
+    {
+      "full_name": "Laguna-Chain/contracts-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:26:44Z"
+    },
+    {
+      "full_name": "Laguna-Chain/laguna-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:26:47Z"
+    },
+    {
+      "full_name": "Laguna-Chain/laguna-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:26:50Z"
+    },
+    {
+      "full_name": "Laguna-Chain/laguna-network-scan",
+      "is_fork": true,
+      "parent": "peaqnetwork/peaq-network-scan",
+      "source": "peaqnetwork/peaq-network-scan",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:26:53Z"
+    },
+    {
+      "full_name": "Laguna-Chain/laguna-rpc-adapter",
+      "is_fork": true,
+      "parent": "AcalaNetwork/bodhi.js",
+      "source": "AcalaNetwork/bodhi.js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:26:56Z"
+    },
+    {
+      "full_name": "Laguna-Chain/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:26:58Z"
+    },
+    {
+      "full_name": "Laguna-Chain/squid-laguna-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:27:00Z"
+    },
+    {
+      "full_name": "Laguna-Chain/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:27:02Z"
+    },
+    {
+      "full_name": "Laguna-Chain/subxt",
+      "is_fork": true,
+      "parent": "paritytech/subxt",
+      "source": "paritytech/subxt",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:27:04Z"
+    }
+  ]
+}

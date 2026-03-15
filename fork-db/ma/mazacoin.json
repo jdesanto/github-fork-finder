@@ -1,0 +1,159 @@
+{
+  "owner": "mazacoin",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MazaCoin/MazaCoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:00:47Z"
+    },
+    {
+      "full_name": "MazaCoin/bisq-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:00:47Z"
+    },
+    {
+      "full_name": "MazaCoin/gitian.sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:00:49Z"
+    },
+    {
+      "full_name": "MazaCoin/graphics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T01:00:51Z"
+    },
+    {
+      "full_name": "MazaCoin/maza",
+      "is_fork": true,
+      "parent": "bitcoin/bitcoin",
+      "source": "bitcoin/bitcoin",
+      "stars": 23,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:00:53Z"
+    },
+    {
+      "full_name": "MazaCoin/maza-detached-sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:00:55Z"
+    },
+    {
+      "full_name": "MazaCoin/maza_hash",
+      "is_fork": true,
+      "parent": "dashpay/dash_hash",
+      "source": "dashdot/python-x11_hash",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T01:00:58Z"
+    },
+    {
+      "full_name": "MazaCoin/maza_ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T01:01:01Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoin-android",
+      "is_fork": true,
+      "parent": "bitcoin-wallet/bitcoin-wallet",
+      "source": "bitcoin-wallet/bitcoin-wallet",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:01:04Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoin-new",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:01:06Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoin-seeder",
+      "is_fork": true,
+      "parent": "mazacoin-project/mazacoin-seeder",
+      "source": "sipa/bitcoin-seeder",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:01:10Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoin.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:01:13Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoinj-new",
+      "is_fork": true,
+      "parent": "bitcoinj/bitcoinj",
+      "source": "bitcoinj/bitcoinj",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:01:15Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacoinpaperwallet",
+      "is_fork": true,
+      "parent": "cantonbecker/bitcoinpaperwallet",
+      "source": "pointbiz/bitaddress.org",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:01:17Z"
+    },
+    {
+      "full_name": "MazaCoin/mazacore",
+      "is_fork": true,
+      "parent": "bitpay/bitcore",
+      "source": "bitpay/bitcore",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:01:19Z"
+    },
+    {
+      "full_name": "MazaCoin/p2pool",
+      "is_fork": true,
+      "parent": "mazaclub/p2pool",
+      "source": "p2pool/p2pool",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T01:01:21Z"
+    },
+    {
+      "full_name": "MazaCoin/portage-overlay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:01:23Z"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "owner": "raifinance",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "RaiFinance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T21:37:32Z"
+    },
+    {
+      "full_name": "RaiFinance/RAI-Home",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:34Z"
+    },
+    {
+      "full_name": "RaiFinance/RaiSwap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:37:34Z"
+    },
+    {
+      "full_name": "RaiFinance/RaiSwap-Classic-Exchange",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:36Z"
+    },
+    {
+      "full_name": "RaiFinance/RaiSwap-FrontEnd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:38Z"
+    },
+    {
+      "full_name": "RaiFinance/Soswap-Pro-Frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:40Z"
+    },
+    {
+      "full_name": "RaiFinance/ethereum-optimism.github.io",
+      "is_fork": true,
+      "parent": "ethereum-optimism/ethereum-optimism.github.io",
+      "source": "ethereum-optimism/ethereum-optimism.github.io",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:42Z"
+    },
+    {
+      "full_name": "RaiFinance/geyser-v2-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:37:42Z"
+    },
+    {
+      "full_name": "RaiFinance/openethereum",
+      "is_fork": true,
+      "parent": "paritytech/openethereum",
+      "source": "openethereum/parity-ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:37:44Z"
+    },
+    {
+      "full_name": "RaiFinance/parity-bridges-common",
+      "is_fork": true,
+      "parent": "paritytech/parity-bridges-common",
+      "source": "paritytech/parity-bridges-common",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T21:37:46Z"
+    },
+    {
+      "full_name": "RaiFinance/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T21:37:48Z"
+    },
+    {
+      "full_name": "RaiFinance/raiswap-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:37:50Z"
+    },
+    {
+      "full_name": "RaiFinance/raiswap-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:52Z"
+    },
+    {
+      "full_name": "RaiFinance/raiswap-ido",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:37:54Z"
+    },
+    {
+      "full_name": "RaiFinance/raiswap-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:37:56Z"
+    },
+    {
+      "full_name": "RaiFinance/skystrife-public",
+      "is_fork": true,
+      "parent": "latticexyz/skystrife-public",
+      "source": "latticexyz/skystrife-public",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:37:58Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-core-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:38:00Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:38:02Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-stable-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vyper",
+      "last_checked": "2026-03-10T21:38:04Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-sts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:38:06Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-substrate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T21:38:08Z"
+    },
+    {
+      "full_name": "RaiFinance/sofi-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T21:38:10Z"
+    },
+    {
+      "full_name": "RaiFinance/soswap-v2-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v2-subgraph",
+      "source": "Uniswap/v2-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:38:12Z"
+    },
+    {
+      "full_name": "RaiFinance/substrate-evm",
+      "is_fork": true,
+      "parent": "danforbes/substrate-evm",
+      "source": "danforbes/substrate-evm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:38:14Z"
+    },
+    {
+      "full_name": "RaiFinance/swap-v2-info",
+      "is_fork": true,
+      "parent": "Uniswap/info",
+      "source": "Uniswap/info",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T21:38:16Z"
+    },
+    {
+      "full_name": "RaiFinance/uniswap-v2-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:38:20Z"
+    },
+    {
+      "full_name": "RaiFinance/uniswap-v2-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:38:22Z"
+    }
+  ]
+}

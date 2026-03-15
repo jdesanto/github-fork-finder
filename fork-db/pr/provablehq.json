@@ -1,0 +1,555 @@
+{
+  "owner": "provablehq",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "ProvableHQ/ARCs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 232,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:53:36Z"
+    },
+    {
+      "full_name": "ProvableHQ/DELETE-2-aleo-wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:53:37Z"
+    },
+    {
+      "full_name": "ProvableHQ/HTTPClient",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:39Z"
+    },
+    {
+      "full_name": "ProvableHQ/afl_program_tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:41Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-forked-demox",
+      "is_fork": true,
+      "parent": "ProvableHQ/sdk",
+      "source": "ProvableHQ/sdk",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:43Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-instructions-syntax-sublime",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-10T18:53:45Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-instructions-syntax-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-10T18:53:47Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:53:49Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-key-gen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:51Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-linguist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:53:53Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:55Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-setup-integration-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:53:57Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-snap-chainsafe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:53:59Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-standard-programs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:01Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-standard-programs-demox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:03Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-standard-programs-pondo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:05Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-std",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:54:07Z"
+    },
+    {
+      "full_name": "ProvableHQ/aleo-wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 93,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:09Z"
+    },
+    {
+      "full_name": "ProvableHQ/ant-design",
+      "is_fork": true,
+      "parent": "ant-design/ant-design",
+      "source": "ant-design/ant-design",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:11Z"
+    },
+    {
+      "full_name": "ProvableHQ/bounty-2022-ethdenver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:13Z"
+    },
+    {
+      "full_name": "ProvableHQ/collector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:15Z"
+    },
+    {
+      "full_name": "ProvableHQ/community",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:17Z"
+    },
+    {
+      "full_name": "ProvableHQ/dizk",
+      "is_fork": true,
+      "parent": "scipr-lab/dizk",
+      "source": "scipr-lab/dizk",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:19Z"
+    },
+    {
+      "full_name": "ProvableHQ/grammars",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:21Z"
+    },
+    {
+      "full_name": "ProvableHQ/highlight.js",
+      "is_fork": true,
+      "parent": "highlightjs/highlight.js",
+      "source": "highlightjs/highlight.js",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:23Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4804,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:54:26Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-acl2-bin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:28Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-contributors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:28Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-docs-source",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 331,
+      "language": "Mermaid",
+      "last_checked": "2026-03-10T18:54:30Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Leo",
+      "last_checked": "2026-03-10T18:54:32Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-linguist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:34Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:36Z"
+    },
+    {
+      "full_name": "ProvableHQ/leo-syntax-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:54:38Z"
+    },
+    {
+      "full_name": "ProvableHQ/linguist",
+      "is_fork": true,
+      "parent": "github-linguist/linguist",
+      "source": "github-linguist/linguist",
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T18:54:41Z"
+    },
+    {
+      "full_name": "ProvableHQ/linguist-grammars",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:43Z"
+    },
+    {
+      "full_name": "ProvableHQ/lsp4intellij",
+      "is_fork": true,
+      "parent": "ballerina-platform/lsp4intellij",
+      "source": "ballerina-platform/lsp4intellij",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-10T18:54:45Z"
+    },
+    {
+      "full_name": "ProvableHQ/marlin",
+      "is_fork": true,
+      "parent": "arkworks-rs/marlin",
+      "source": "arkworks-rs/marlin",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:54:47Z"
+    },
+    {
+      "full_name": "ProvableHQ/nemean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-10T18:54:49Z"
+    },
+    {
+      "full_name": "ProvableHQ/neptune",
+      "is_fork": true,
+      "parent": "lurk-lab/neptune",
+      "source": "lurk-lab/neptune",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:51Z"
+    },
+    {
+      "full_name": "ProvableHQ/package_control_channel",
+      "is_fork": true,
+      "parent": "sublimehq/package_control_channel",
+      "source": "sublimehq/package_control_channel",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:54:53Z"
+    },
+    {
+      "full_name": "ProvableHQ/poly-commit",
+      "is_fork": true,
+      "parent": "arkworks-rs/poly-commit",
+      "source": "arkworks-rs/poly-commit",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:54:55Z"
+    },
+    {
+      "full_name": "ProvableHQ/pontoon",
+      "is_fork": true,
+      "parent": "mozilla/pontoon",
+      "source": "mozilla/pontoon",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:57Z"
+    },
+    {
+      "full_name": "ProvableHQ/provablehq.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T18:54:59Z"
+    },
+    {
+      "full_name": "ProvableHQ/python-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:55:01Z"
+    },
+    {
+      "full_name": "ProvableHQ/rust-rocksdb",
+      "is_fork": true,
+      "parent": "rust-rocksdb/rust-rocksdb",
+      "source": "rust-rocksdb/rust-rocksdb",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:03Z"
+    },
+    {
+      "full_name": "ProvableHQ/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 624,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T18:55:05Z"
+    },
+    {
+      "full_name": "ProvableHQ/service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:55:07Z"
+    },
+    {
+      "full_name": "ProvableHQ/snarkOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4512,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:55:09Z"
+    },
+    {
+      "full_name": "ProvableHQ/snarkOS-fork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:10Z"
+    },
+    {
+      "full_name": "ProvableHQ/snarkOS-indexer",
+      "is_fork": true,
+      "parent": "ProvableHQ/snarkOS",
+      "source": "ProvableHQ/snarkOS",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:12Z"
+    },
+    {
+      "full_name": "ProvableHQ/snarkVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1152,
+      "language": "Rust",
+      "last_checked": "2026-03-10T18:55:14Z"
+    },
+    {
+      "full_name": "ProvableHQ/snarkVM-fork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:14Z"
+    },
+    {
+      "full_name": "ProvableHQ/sublimelsp-repository",
+      "is_fork": true,
+      "parent": "sublimelsp/repository",
+      "source": "sublimelsp/repository",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T18:55:16Z"
+    },
+    {
+      "full_name": "ProvableHQ/varuna-sage-impl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Sage",
+      "last_checked": "2026-03-10T18:55:18Z"
+    },
+    {
+      "full_name": "ProvableHQ/web-view",
+      "is_fork": true,
+      "parent": "Boscop/web-view",
+      "source": "Boscop/web-view",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:20Z"
+    },
+    {
+      "full_name": "ProvableHQ/welcome",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 331,
+      "language": "Mermaid",
+      "last_checked": "2026-03-10T18:55:23Z"
+    },
+    {
+      "full_name": "ProvableHQ/workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 341,
+      "language": "Shell",
+      "last_checked": "2026-03-10T18:55:25Z"
+    },
+    {
+      "full_name": "ProvableHQ/yew_webview_bridge",
+      "is_fork": true,
+      "parent": "hobofan/yew_webview_bridge",
+      "source": "hobofan/yew_webview_bridge",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:27Z"
+    },
+    {
+      "full_name": "ProvableHQ/zexe",
+      "is_fork": true,
+      "parent": "arkworks-rs/snark",
+      "source": "arkworks-rs/snark",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:29Z"
+    },
+    {
+      "full_name": "ProvableHQ/zk-auction-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T18:55:31Z"
+    },
+    {
+      "full_name": "ProvableHQ/zxcvbn-rs",
+      "is_fork": true,
+      "parent": "shssoichiro/zxcvbn-rs",
+      "source": "shssoichiro/zxcvbn-rs",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T18:55:33Z"
+    }
+  ]
+}

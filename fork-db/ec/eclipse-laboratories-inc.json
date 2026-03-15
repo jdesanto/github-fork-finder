@@ -1,0 +1,645 @@
+{
+  "owner": "eclipse-laboratories-inc",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "Eclipse-Laboratories-Inc/AEADs",
+      "is_fork": true,
+      "parent": "RustCrypto/AEADs",
+      "source": "RustCrypto/AEADs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:37Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:25:39Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/Docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:41Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/agave",
+      "is_fork": true,
+      "parent": "anza-xyz/agave",
+      "source": "solana-labs/solana",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:43Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/anchor",
+      "is_fork": true,
+      "parent": "solana-foundation/anchor",
+      "source": "solana-foundation/anchor",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:25:45Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ansem-backend",
+      "is_fork": true,
+      "parent": "0xIcarus/ansem-backend",
+      "source": "0xIcarus/ansem-backend",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:25:47Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ansem-fight",
+      "is_fork": true,
+      "parent": "khim-iam/ansem-fight",
+      "source": "khim-iam/ansem-fight",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:25:49Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:51Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/awesome-eclipse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:53Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/bridges-server",
+      "is_fork": true,
+      "parent": "DefiLlama/bridges-server",
+      "source": "DefiLlama/bridges-server",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:25:55Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/celestia-zk-da-challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:25:57Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/chain-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:25:59Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/chomping-glass",
+      "is_fork": true,
+      "parent": "jarry-xiao/chomping-glass",
+      "source": "jarry-xiao/chomping-glass",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:01Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/curve25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:03Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/dev-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:05Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/devnet-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:26:07Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:07Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-benchmarking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:09Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-bridge-ux",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:11Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-deposit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:26:13Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-faucet-front-end",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:15Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-program-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:17Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-snap",
+      "is_fork": true,
+      "parent": "solflare-wallet/solflare-snap",
+      "source": "solflare-wallet/solflare-snap",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:26:19Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 102,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:26:21Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/eclipse-wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:26:23Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ed25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/ed25519-dalek",
+      "source": "dalek-cryptography/ed25519-dalek",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:25Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ed25519-dalek-bip32",
+      "is_fork": true,
+      "parent": "jpopesculian/ed25519-dalek-bip32",
+      "source": "jpopesculian/ed25519-dalek-bip32",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:27Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/execution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:27Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/explorer",
+      "is_fork": true,
+      "parent": "solana-foundation/explorer",
+      "source": "solana-foundation/explorer",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:29Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/get-signatures-for-address",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:31Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/gist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:33Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/greenfield-go-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:33Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/hyperlane-monorepo",
+      "is_fork": true,
+      "parent": "GalaxyNode/abacus-monorepo",
+      "source": "hyperlane-xyz/hyperlane-monorepo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:35Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ibc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:37Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ibc-rs",
+      "is_fork": true,
+      "parent": "informalsystems/ibc-rs",
+      "source": "informalsystems/ibc-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:40Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/lumina",
+      "is_fork": true,
+      "parent": "celestiaorg/lumina",
+      "source": "celestiaorg/lumina",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:42Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/mev-internalization-and-ass",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T07:26:44Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/minsvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:45Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/modular-network-component",
+      "is_fork": true,
+      "parent": "0xIcarus/modular-networks-component",
+      "source": "0xIcarus/modular-networks-component",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:48Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/multisig",
+      "is_fork": true,
+      "parent": "LMAX-Exchange/multisig",
+      "source": "coral-xyz/multisig",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:50Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/neon-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:26:51Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/neon-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:53Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/octane",
+      "is_fork": true,
+      "parent": "anza-xyz/octane",
+      "source": "anza-xyz/octane",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:26:55Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:56Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ore-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:56Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ore-boost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:56Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ore-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:57Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/ore-pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:57Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/parity-common",
+      "is_fork": true,
+      "parent": "paritytech/parity-common",
+      "source": "paritytech/parity-common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:26:59Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/program-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:01Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/proxy-model.py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T07:27:03Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/qmdb",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/qmdb",
+      "source": "LayerZero-Labs/qmdb",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:05Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/rbpf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:07Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/rustls",
+      "is_fork": true,
+      "parent": "rustls/rustls",
+      "source": "rustls/rustls",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:09Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/settlement-private-frozen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:09Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/signatures",
+      "is_fork": true,
+      "parent": "RustCrypto/signatures",
+      "source": "RustCrypto/signatures",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:11Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/solana-improvement-documents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:12Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/solana-program-library",
+      "is_fork": true,
+      "parent": "solana-labs/solana-program-library",
+      "source": "solana-labs/solana-program-library",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:14Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/solar-eclipse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:14Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/sparse-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:16Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/support",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Handlebars",
+      "last_checked": "2026-03-09T07:27:18Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/testnet-deposit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:27:21Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/verify-smt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:23Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/wasm-ansem-fight",
+      "is_fork": true,
+      "parent": "dontdothatjoel/wasm-ansem-fight",
+      "source": "dontdothatjoel/wasm-ansem-fight",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:27:25Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-bpf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 94,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:28Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-litesvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:30Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-solana-account-info-2.1.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:31Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-solana-bpf-loader-program-2.1.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:33Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-solana-program-2.1.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:35Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-solana-program-runtime-2.1.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:37Z"
+    },
+    {
+      "full_name": "Eclipse-Laboratories-Inc/zk-solana-sdk-2.1.0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T07:27:39Z"
+    }
+  ]
+}

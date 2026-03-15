@@ -1,0 +1,420 @@
+{
+  "owner": "metadium",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "METADIUM/Documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T20:59:19Z"
+    },
+    {
+      "full_name": "METADIUM/JWTsSwift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-09T20:59:21Z"
+    },
+    {
+      "full_name": "METADIUM/MetaResolvers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T20:59:23Z"
+    },
+    {
+      "full_name": "METADIUM/VerifiableSwift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Swift",
+      "last_checked": "2026-03-09T20:59:25Z"
+    },
+    {
+      "full_name": "METADIUM/Web3Swift-iOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-09T20:59:27Z"
+    },
+    {
+      "full_name": "METADIUM/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-09T20:59:29Z"
+    },
+    {
+      "full_name": "METADIUM/cmet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:59:31Z"
+    },
+    {
+      "full_name": "METADIUM/did-method-registry",
+      "is_fork": true,
+      "parent": "w3c-ccg/did-method-registry",
+      "source": "w3c-ccg/did-method-registry",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T20:59:33Z"
+    },
+    {
+      "full_name": "METADIUM/did-resolver-java-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T20:59:37Z"
+    },
+    {
+      "full_name": "METADIUM/did-sdk-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T20:59:39Z"
+    },
+    {
+      "full_name": "METADIUM/did-sdk-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-09T20:59:41Z"
+    },
+    {
+      "full_name": "METADIUM/etcd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:59:47Z"
+    },
+    {
+      "full_name": "METADIUM/feedelegation-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:59:50Z"
+    },
+    {
+      "full_name": "METADIUM/go-delegator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:59:52Z"
+    },
+    {
+      "full_name": "METADIUM/go-metadium",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 17,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:59:55Z"
+    },
+    {
+      "full_name": "METADIUM/governance-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:59:57Z"
+    },
+    {
+      "full_name": "METADIUM/governance-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:59:59Z"
+    },
+    {
+      "full_name": "METADIUM/identity-hub-client-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:00:01Z"
+    },
+    {
+      "full_name": "METADIUM/iitp-verifiable-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:00:03Z"
+    },
+    {
+      "full_name": "METADIUM/ipfs-cluster",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:05Z"
+    },
+    {
+      "full_name": "METADIUM/keepin-verify-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:00:07Z"
+    },
+    {
+      "full_name": "METADIUM/keepin_android_sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:00:09Z"
+    },
+    {
+      "full_name": "METADIUM/keepin_iOS_SDK",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-09T21:00:11Z"
+    },
+    {
+      "full_name": "METADIUM/meta-DID",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:13Z"
+    },
+    {
+      "full_name": "METADIUM/meta-SP-Registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:16Z"
+    },
+    {
+      "full_name": "METADIUM/meta-attestation",
+      "is_fork": true,
+      "parent": "hexoul/meta-attestation",
+      "source": "hexoul/meta-attestation",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:18Z"
+    },
+    {
+      "full_name": "METADIUM/meta-authorities",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:21Z"
+    },
+    {
+      "full_name": "METADIUM/meta-did-resolver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:23Z"
+    },
+    {
+      "full_name": "METADIUM/meta-governance-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:25Z"
+    },
+    {
+      "full_name": "METADIUM/meta-web3",
+      "is_fork": true,
+      "parent": "hexoul/meta-web3",
+      "source": "hexoul/meta-web3",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:28Z"
+    },
+    {
+      "full_name": "METADIUM/meta-web3-abis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:30Z"
+    },
+    {
+      "full_name": "METADIUM/metabolics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:33Z"
+    },
+    {
+      "full_name": "METADIUM/metabolics-deprecated-",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:35Z"
+    },
+    {
+      "full_name": "METADIUM/metadium-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T21:00:38Z"
+    },
+    {
+      "full_name": "METADIUM/metadium-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T21:00:40Z"
+    },
+    {
+      "full_name": "METADIUM/metadium-token-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:42Z"
+    },
+    {
+      "full_name": "METADIUM/metagalaga",
+      "is_fork": true,
+      "parent": "JeongGoEun/metagalaga",
+      "source": "JeongGoEun/metagalaga",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-09T21:00:44Z"
+    },
+    {
+      "full_name": "METADIUM/metagate",
+      "is_fork": true,
+      "parent": "hexoul/metagate",
+      "source": "hexoul/metagate",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:46Z"
+    },
+    {
+      "full_name": "METADIUM/metasdk-react",
+      "is_fork": true,
+      "parent": "hexoul/metasdk-react",
+      "source": "hexoul/metasdk-react",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:49Z"
+    },
+    {
+      "full_name": "METADIUM/metastellar",
+      "is_fork": true,
+      "parent": "hexoul/metastellar",
+      "source": "astrocket/metastellar",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T21:00:52Z"
+    },
+    {
+      "full_name": "METADIUM/rosetta-metadium",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T21:00:54Z"
+    },
+    {
+      "full_name": "METADIUM/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T21:00:56Z"
+    },
+    {
+      "full_name": "METADIUM/static",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T21:00:58Z"
+    },
+    {
+      "full_name": "METADIUM/verifiable-credential-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:01:04Z"
+    },
+    {
+      "full_name": "METADIUM/web3j",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:01:06Z"
+    },
+    {
+      "full_name": "METADIUM/web3ja",
+      "is_fork": true,
+      "parent": "YoungBaeJeon/web3ja",
+      "source": "YoungBaeJeon/web3ja",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T21:01:08Z"
+    }
+  ]
+}

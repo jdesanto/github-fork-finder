@@ -1,0 +1,204 @@
+{
+  "owner": "llamapay",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LlamaPay/art",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:03:52Z"
+    },
+    {
+      "full_name": "LlamaPay/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T19:03:54Z"
+    },
+    {
+      "full_name": "LlamaPay/interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:03:56Z"
+    },
+    {
+      "full_name": "LlamaPay/interface-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:03:57Z"
+    },
+    {
+      "full_name": "LlamaPay/llamaSubs",
+      "is_fork": true,
+      "parent": "Nemusonaneko/llamaSubs",
+      "source": "Nemusonaneko/llamaSubs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:03:59Z"
+    },
+    {
+      "full_name": "LlamaPay/llamaSubs-subgraph",
+      "is_fork": true,
+      "parent": "Nemusonaneko/llamaSubs-subgraph",
+      "source": "Nemusonaneko/llamaSubs-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:01Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 188,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:04:04Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:04Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-bot-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:07Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:09Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:04:11Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-v2-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:11Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-vesting-reasons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:04:13Z"
+    },
+    {
+      "full_name": "LlamaPay/llamapay-vesting-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:18Z"
+    },
+    {
+      "full_name": "LlamaPay/oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:20Z"
+    },
+    {
+      "full_name": "LlamaPay/scheduled-transfers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:21Z"
+    },
+    {
+      "full_name": "LlamaPay/subscription-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:23Z"
+    },
+    {
+      "full_name": "LlamaPay/subscriptions-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:04:25Z"
+    },
+    {
+      "full_name": "LlamaPay/token-escrow",
+      "is_fork": true,
+      "parent": "Nemusonaneko/token-escrow",
+      "source": "Nemusonaneko/token-escrow",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:28Z"
+    },
+    {
+      "full_name": "LlamaPay/token-escrow-subgraph",
+      "is_fork": true,
+      "parent": "Nemusonaneko/token-escrow-subgraph",
+      "source": "Nemusonaneko/token-escrow-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:04:30Z"
+    },
+    {
+      "full_name": "LlamaPay/withdrawal-bot-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:04:33Z"
+    },
+    {
+      "full_name": "LlamaPay/yearn-vesting-escrow",
+      "is_fork": true,
+      "parent": "yearn/yearn-vesting-escrow",
+      "source": "yearn/yearn-vesting-escrow",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:04:35Z"
+    }
+  ]
+}

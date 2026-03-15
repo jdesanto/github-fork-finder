@@ -1,0 +1,609 @@
+{
+  "owner": "scopelift",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "ScopeLift/SuperWrapped",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:45:45Z"
+    },
+    {
+      "full_name": "ScopeLift/arbitrum-governance",
+      "is_fork": true,
+      "parent": "ArbitrumFoundation/governance",
+      "source": "ArbitrumFoundation/governance",
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:45:47Z"
+    },
+    {
+      "full_name": "ScopeLift/arbitrum-governor-upgrade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:45:49Z"
+    },
+    {
+      "full_name": "ScopeLift/code423n4.com",
+      "is_fork": true,
+      "parent": "code-423n4/code423n4.com",
+      "source": "code-423n4/code423n4.com",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T02:45:51Z"
+    },
+    {
+      "full_name": "ScopeLift/comet",
+      "is_fork": true,
+      "parent": "davidlaprade/comet",
+      "source": "compound-finance/comet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T02:45:53Z"
+    },
+    {
+      "full_name": "ScopeLift/compound-governance-upgrade",
+      "is_fork": true,
+      "parent": "compound-finance/compound-governance",
+      "source": "compound-finance/compound-governance",
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:45:56Z"
+    },
+    {
+      "full_name": "ScopeLift/cove-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Rust",
+      "last_checked": "2026-03-11T02:45:57Z"
+    },
+    {
+      "full_name": "ScopeLift/cove-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:45:59Z"
+    },
+    {
+      "full_name": "ScopeLift/cove-test-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:01Z"
+    },
+    {
+      "full_name": "ScopeLift/cozy-triggers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:03Z"
+    },
+    {
+      "full_name": "ScopeLift/cozy-triggers-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:05Z"
+    },
+    {
+      "full_name": "ScopeLift/dao-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:07Z"
+    },
+    {
+      "full_name": "ScopeLift/delegated-liquidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T02:46:08Z"
+    },
+    {
+      "full_name": "ScopeLift/docs",
+      "is_fork": true,
+      "parent": "Uniswap/docs",
+      "source": "Uniswap/docs",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:10Z"
+    },
+    {
+      "full_name": "ScopeLift/endaoment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:12Z"
+    },
+    {
+      "full_name": "ScopeLift/ens-resolvers",
+      "is_fork": true,
+      "parent": "ensdomains/resolvers",
+      "source": "ensdomains/resolvers",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T02:46:14Z"
+    },
+    {
+      "full_name": "ScopeLift/fakerdao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T02:46:16Z"
+    },
+    {
+      "full_name": "ScopeLift/flexible-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 92,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:18Z"
+    },
+    {
+      "full_name": "ScopeLift/flexible-voting-clients",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:20Z"
+    },
+    {
+      "full_name": "ScopeLift/forta-bot-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:22Z"
+    },
+    {
+      "full_name": "ScopeLift/foundry-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:24Z"
+    },
+    {
+      "full_name": "ScopeLift/franchiser-expiration",
+      "is_fork": true,
+      "parent": "uniswapfoundation/franchiser",
+      "source": "NoahZinsmeister/franchiser",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:26Z"
+    },
+    {
+      "full_name": "ScopeLift/franchiser-expiry",
+      "is_fork": true,
+      "parent": "uniswapfoundation/franchiser",
+      "source": "NoahZinsmeister/franchiser",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:29Z"
+    },
+    {
+      "full_name": "ScopeLift/gitcoin-web",
+      "is_fork": true,
+      "parent": "gitcoinco/web",
+      "source": "gitcoinco/web",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T02:46:31Z"
+    },
+    {
+      "full_name": "ScopeLift/governance-rollback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:33Z"
+    },
+    {
+      "full_name": "ScopeLift/governor-cross-chain-state-query-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:35Z"
+    },
+    {
+      "full_name": "ScopeLift/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-11T02:46:37Z"
+    },
+    {
+      "full_name": "ScopeLift/guinea-pig-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:39Z"
+    },
+    {
+      "full_name": "ScopeLift/heroku-buildpack-nodejs",
+      "is_fork": true,
+      "parent": "heroku/heroku-buildpack-nodejs",
+      "source": "heroku/heroku-buildpack-nodejs",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-11T02:46:41Z"
+    },
+    {
+      "full_name": "ScopeLift/kaspa-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T02:46:43Z"
+    },
+    {
+      "full_name": "ScopeLift/l2-flexible-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:45Z"
+    },
+    {
+      "full_name": "ScopeLift/l2-flexible-voting-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:46Z"
+    },
+    {
+      "full_name": "ScopeLift/l2-flexible-voting-governor-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:48Z"
+    },
+    {
+      "full_name": "ScopeLift/l2-optimizoooors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 116,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:46:50Z"
+    },
+    {
+      "full_name": "ScopeLift/l2-optimizoooors-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:46:52Z"
+    },
+    {
+      "full_name": "ScopeLift/openzeppelin-contracts",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T02:46:54Z"
+    },
+    {
+      "full_name": "ScopeLift/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-11T02:46:56Z"
+    },
+    {
+      "full_name": "ScopeLift/optimism-design-docs",
+      "is_fork": true,
+      "parent": "ethereum-optimism/design-docs",
+      "source": "ethereum-optimism/design-docs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-11T02:46:59Z"
+    },
+    {
+      "full_name": "ScopeLift/optimism-specs",
+      "is_fork": true,
+      "parent": "ethereum-optimism/specs",
+      "source": "ethereum-optimism/specs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-11T02:47:01Z"
+    },
+    {
+      "full_name": "ScopeLift/optimizoors-1inch-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:03Z"
+    },
+    {
+      "full_name": "ScopeLift/optimizoors-perpetual-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:05Z"
+    },
+    {
+      "full_name": "ScopeLift/ovm-og-multisigwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:07Z"
+    },
+    {
+      "full_name": "ScopeLift/ovm-uniswap-v2-core",
+      "is_fork": true,
+      "parent": "ethereum-optimism/uniswap-v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 25,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:09Z"
+    },
+    {
+      "full_name": "ScopeLift/pooltogether-governor-upgrade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:11Z"
+    },
+    {
+      "full_name": "ScopeLift/radworks-governor-upgrade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:13Z"
+    },
+    {
+      "full_name": "ScopeLift/reimbursement-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:15Z"
+    },
+    {
+      "full_name": "ScopeLift/scopelint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 83,
+      "language": "Rust",
+      "last_checked": "2026-03-11T02:47:17Z"
+    },
+    {
+      "full_name": "ScopeLift/scopelint-erc20-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:19Z"
+    },
+    {
+      "full_name": "ScopeLift/scorched-earth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:20Z"
+    },
+    {
+      "full_name": "ScopeLift/staker-bots",
+      "is_fork": true,
+      "parent": "withtally/staker-bots",
+      "source": "withtally/staker-bots",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:22Z"
+    },
+    {
+      "full_name": "ScopeLift/stealth-address-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "MDX",
+      "last_checked": "2026-03-11T02:47:24Z"
+    },
+    {
+      "full_name": "ScopeLift/stealth-address-erc-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:26Z"
+    },
+    {
+      "full_name": "ScopeLift/stealth-address-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:28Z"
+    },
+    {
+      "full_name": "ScopeLift/tenderly_example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:30Z"
+    },
+    {
+      "full_name": "ScopeLift/token-shielder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:32Z"
+    },
+    {
+      "full_name": "ScopeLift/trueblocks-plotter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:34Z"
+    },
+    {
+      "full_name": "ScopeLift/umbra-collectible",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:36Z"
+    },
+    {
+      "full_name": "ScopeLift/umbra-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 387,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:38Z"
+    },
+    {
+      "full_name": "ScopeLift/umbra-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:40Z"
+    },
+    {
+      "full_name": "ScopeLift/umbra-v2-experimental",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:42Z"
+    },
+    {
+      "full_name": "ScopeLift/uniswap-docs-fork",
+      "is_fork": true,
+      "parent": "Uniswap/docs",
+      "source": "Uniswap/docs",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:44Z"
+    },
+    {
+      "full_name": "ScopeLift/uniswap-v3-core-ovm",
+      "is_fork": true,
+      "parent": "gakonst/uniswap-v3-core-ovm",
+      "source": "Uniswap/v3-core",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-11T02:47:46Z"
+    },
+    {
+      "full_name": "ScopeLift/uniswap-v3-periphery-ovm",
+      "is_fork": true,
+      "parent": "Uniswap/v3-periphery",
+      "source": "Uniswap/v3-periphery",
+      "stars": 10,
+      "language": null,
+      "last_checked": "2026-03-11T02:47:48Z"
+    },
+    {
+      "full_name": "ScopeLift/vue-tailwind-ethereum-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:50Z"
+    },
+    {
+      "full_name": "ScopeLift/zeneth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 130,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:52Z"
+    },
+    {
+      "full_name": "ScopeLift/zk-governance",
+      "is_fork": true,
+      "parent": "zksync-association/zk-governance",
+      "source": "zksync-association/zk-governance",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T02:47:54Z"
+    },
+    {
+      "full_name": "ScopeLift/zksync-rss",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T02:47:56Z"
+    }
+  ]
+}

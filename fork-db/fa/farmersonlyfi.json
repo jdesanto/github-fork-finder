@@ -1,0 +1,258 @@
+{
+  "owner": "farmersonlyfi",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FarmersOnlyFi/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:14:27Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/assets",
+      "is_fork": true,
+      "parent": "sushiswap/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:29Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/contracts-1",
+      "is_fork": true,
+      "parent": "KingdomStudiosIO/contracts",
+      "source": "KingdomStudiosIO/contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:14:31Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/default-token-list",
+      "is_fork": true,
+      "parent": "Uniswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:14:33Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/defillama-sdk",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-sdk",
+      "source": "DefiLlama/defillama-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:14:35Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/farmersonlyfi-contracts",
+      "is_fork": true,
+      "parent": "polycatfi/polycat-contracts",
+      "source": "polycatfi/polycat-contracts",
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:14:37Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/fox-escrow-contracts",
+      "is_fork": true,
+      "parent": "bncyrbt/jewel-contracts",
+      "source": "bncyrbt/jewel-contracts",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:14:39Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/fox-escrow-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:14:40Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/fox-market-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:14:42Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/fox-uikit",
+      "is_fork": true,
+      "parent": "fiasco-yori/fox-uikit",
+      "source": "fiasco-yori/fox-uikit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:14:44Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-community-token-list",
+      "is_fork": true,
+      "parent": "jvalteren/venomswap-community-token-list",
+      "source": "jvalteren/venomswap-community-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:14:46Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:48Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:50Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-lib",
+      "is_fork": true,
+      "parent": "Uniswap/solidity-lib",
+      "source": "Uniswap/solidity-lib",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:52Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v2-periphery",
+      "source": "Uniswap/v2-periphery",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:14:54Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:56Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-sdk-extra",
+      "is_fork": true,
+      "parent": "0xknightswap/venomswap-sdk-extra",
+      "source": "0xknightswap/venomswap-sdk-extra",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:14:58Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:15:00Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/foxswap-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:15:02Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/goose-frontend-amm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:15:03Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/reverse-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:15:03Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/sdk-widget",
+      "is_fork": true,
+      "parent": "lifinance/sdk",
+      "source": "lifinance/sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:15:05Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/snapshot",
+      "is_fork": true,
+      "parent": "harmony-one/snapshot",
+      "source": "snapshot-labs/snapshot-v1",
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:15:07Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/snapshot-spaces",
+      "is_fork": true,
+      "parent": "harmony-one/snapshot-spaces",
+      "source": "harmony-one/snapshot-spaces",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:15:09Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/snapshot-strategies",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot-strategies",
+      "source": "snapshot-labs/snapshot-strategies",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:15:11Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/snapshot.js",
+      "is_fork": true,
+      "parent": "harmony-one/snapshot.js",
+      "source": "snapshot-labs/snapshot.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:15:13Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/subgraph-blocks",
+      "is_fork": true,
+      "parent": "blocklytics/ethereum-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:15:16Z"
+    },
+    {
+      "full_name": "FarmersOnlyFi/vfat-tools",
+      "is_fork": true,
+      "parent": "vfat-io/vfat-tools",
+      "source": "vfat-io/vfat-tools",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:15:18Z"
+    }
+  ]
+}

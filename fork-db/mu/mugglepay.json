@@ -1,0 +1,384 @@
+{
+  "owner": "mugglepay",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MugglePay/0x-monorepo",
+      "is_fork": true,
+      "parent": "0xProject/0x-monorepo",
+      "source": "0xProject/0x-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:08Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 235,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:53:10Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayBot-TelegramPaymentBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:12Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForDiscuz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-10T04:53:14Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForOpenCart",
+      "is_fork": true,
+      "parent": "hoythan/MugglePayForOpenCart",
+      "source": "hoythan/MugglePayForOpenCart",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:16Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForWHMCS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:53:18Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForWHMCS8",
+      "is_fork": true,
+      "parent": "hoythan/MugglePayForWHMCS8",
+      "source": "hoythan/MugglePayForWHMCS8",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:20Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForWooCommerce",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:53:22Z"
+    },
+    {
+      "full_name": "MugglePay/MugglePayForWordPress",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:53:24Z"
+    },
+    {
+      "full_name": "MugglePay/MugglepayForZfaka",
+      "is_fork": true,
+      "parent": "huangfengye/MugglepayForZfaka",
+      "source": "huangfengye/MugglepayForZfaka",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T04:53:26Z"
+    },
+    {
+      "full_name": "MugglePay/OIPs",
+      "is_fork": true,
+      "parent": "okx/KIPs",
+      "source": "okx/KIPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:28Z"
+    },
+    {
+      "full_name": "MugglePay/REST-Node.js-demo",
+      "is_fork": true,
+      "parent": "huobiapi/REST-Node.js-demo",
+      "source": "huobiapi/REST-Node.js-demo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:30Z"
+    },
+    {
+      "full_name": "MugglePay/binance-api-networks",
+      "is_fork": true,
+      "parent": "ccxt/binance-api-node",
+      "source": "ccxt/binance-api-node",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:53:32Z"
+    },
+    {
+      "full_name": "MugglePay/bip39",
+      "is_fork": true,
+      "parent": "iancoleman/bip39",
+      "source": "iancoleman/bip39",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:34Z"
+    },
+    {
+      "full_name": "MugglePay/bitpayx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:53:36Z"
+    },
+    {
+      "full_name": "MugglePay/celo-monorepo",
+      "is_fork": true,
+      "parent": "celo-org/celo-monorepo",
+      "source": "celo-org/celo-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:53:38Z"
+    },
+    {
+      "full_name": "MugglePay/celo-proposals",
+      "is_fork": true,
+      "parent": "celo-org/celo-proposals",
+      "source": "celo-org/celo-proposals",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:40Z"
+    },
+    {
+      "full_name": "MugglePay/celo-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:53:42Z"
+    },
+    {
+      "full_name": "MugglePay/crypto-domains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:44Z"
+    },
+    {
+      "full_name": "MugglePay/ecosystem-map",
+      "is_fork": true,
+      "parent": "ton-society/ecosystem-map",
+      "source": "ton-society/ecosystem-map",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:46Z"
+    },
+    {
+      "full_name": "MugglePay/icp-pay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T04:53:48Z"
+    },
+    {
+      "full_name": "MugglePay/icp-payment-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:48Z"
+    },
+    {
+      "full_name": "MugglePay/muggle-secure-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:53:50Z"
+    },
+    {
+      "full_name": "MugglePay/mugglelink",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:53:52Z"
+    },
+    {
+      "full_name": "MugglePay/mugglelink-com",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:53:54Z"
+    },
+    {
+      "full_name": "MugglePay/mugglelink-form",
+      "is_fork": true,
+      "parent": "Harshita0008/Merchant-Form",
+      "source": "Harshita0008/Merchant-Form",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:53:56Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepay-covid19",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T04:53:58Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepay-go-sdk",
+      "is_fork": true,
+      "parent": "du5/mugglepay",
+      "source": "du5/mugglepay",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:00Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepay-nodejs-sdk",
+      "is_fork": true,
+      "parent": "ruofeixu/mugglepay-nodejs-sdk",
+      "source": "ruofeixu/mugglepay-nodejs-sdk",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:02Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepay-php-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:54:04Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepay-python-sdk",
+      "is_fork": true,
+      "parent": "ruofeixu/mugglepay-python-sdk",
+      "source": "ruofeixu/mugglepay-python-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:06Z"
+    },
+    {
+      "full_name": "MugglePay/mugglepayment-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:54:08Z"
+    },
+    {
+      "full_name": "MugglePay/okchain-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T04:54:10Z"
+    },
+    {
+      "full_name": "MugglePay/opentonapi",
+      "is_fork": true,
+      "parent": "tonkeeper/opentonapi",
+      "source": "tonkeeper/opentonapi",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T04:54:12Z"
+    },
+    {
+      "full_name": "MugglePay/otplib",
+      "is_fork": true,
+      "parent": "yeojz/otplib",
+      "source": "yeojz/otplib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:14Z"
+    },
+    {
+      "full_name": "MugglePay/payment-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T04:54:16Z"
+    },
+    {
+      "full_name": "MugglePay/recurring-payments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:54:18Z"
+    },
+    {
+      "full_name": "MugglePay/recurring-payments-fe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:54:20Z"
+    },
+    {
+      "full_name": "MugglePay/recurring-payments-web3-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:20Z"
+    },
+    {
+      "full_name": "MugglePay/solana-agent-kit",
+      "is_fork": true,
+      "parent": "sendaifun/solana-agent-kit",
+      "source": "sendaifun/solana-agent-kit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:54:22Z"
+    },
+    {
+      "full_name": "MugglePay/stellar-pay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T04:54:24Z"
+    },
+    {
+      "full_name": "MugglePay/v2board",
+      "is_fork": true,
+      "parent": "v2board/v2board",
+      "source": "v2board/v2board",
+      "stars": 1,
+      "language": "PHP",
+      "last_checked": "2026-03-10T04:54:26Z"
+    }
+  ]
+}

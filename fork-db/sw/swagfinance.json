@@ -1,0 +1,42 @@
+{
+  "owner": "swagfinance",
+  "updated_at": "2026-03-12T02:55:29Z",
+  "repos": [
+    {
+      "full_name": "SWAGFinance/IPS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-11T01:12:48Z"
+    },
+    {
+      "full_name": "SWAGFinance/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T01:12:50Z"
+    },
+    {
+      "full_name": "SWAGFinance/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-11T01:12:52Z"
+    },
+    {
+      "full_name": "SWAGFinance/token-profile",
+      "is_fork": true,
+      "parent": "consenlabs/token-profile",
+      "source": "consenlabs/token-profile",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T01:12:54Z"
+    }
+  ]
+}

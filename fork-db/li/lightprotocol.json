@@ -1,0 +1,528 @@
+{
+  "owner": "lightprotocol",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Lightprotocol/1000x-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:15Z"
+    },
+    {
+      "full_name": "Lightprotocol/accounts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:17Z"
+    },
+    {
+      "full_name": "Lightprotocol/agave",
+      "is_fork": true,
+      "parent": "anza-xyz/agave",
+      "source": "solana-labs/solana",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:20Z"
+    },
+    {
+      "full_name": "Lightprotocol/algebra",
+      "is_fork": true,
+      "parent": "arkworks-rs/algebra",
+      "source": "arkworks-rs/algebra",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:22Z"
+    },
+    {
+      "full_name": "Lightprotocol/aligned-sized",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:24Z"
+    },
+    {
+      "full_name": "Lightprotocol/anchor",
+      "is_fork": true,
+      "parent": "solana-foundation/anchor",
+      "source": "solana-foundation/anchor",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:26Z"
+    },
+    {
+      "full_name": "Lightprotocol/ark-std",
+      "is_fork": true,
+      "parent": "arkworks-rs/std",
+      "source": "arkworks-rs/std",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:28Z"
+    },
+    {
+      "full_name": "Lightprotocol/arkworks-gadgets",
+      "is_fork": true,
+      "parent": "tangle-network/zero-knowledge-gadgets",
+      "source": "tangle-network/zero-knowledge-gadgets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:31Z"
+    },
+    {
+      "full_name": "Lightprotocol/auction-house",
+      "is_fork": true,
+      "parent": "armaniferrante/auction-house",
+      "source": "armaniferrante/auction-house",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:33Z"
+    },
+    {
+      "full_name": "Lightprotocol/binaries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:35Z"
+    },
+    {
+      "full_name": "Lightprotocol/breakpoint-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:37Z"
+    },
+    {
+      "full_name": "Lightprotocol/breakpoint24-slides",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:39Z"
+    },
+    {
+      "full_name": "Lightprotocol/circom",
+      "is_fork": true,
+      "parent": "iden3/circom",
+      "source": "iden3/circom",
+      "stars": 0,
+      "language": "WebAssembly",
+      "last_checked": "2026-03-09T18:25:43Z"
+    },
+    {
+      "full_name": "Lightprotocol/circom-anchor-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:25:45Z"
+    },
+    {
+      "full_name": "Lightprotocol/circom-compat",
+      "is_fork": true,
+      "parent": "Yiheng-Liu/circom-compat",
+      "source": "arkworks-rs/circom-compat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:48Z"
+    },
+    {
+      "full_name": "Lightprotocol/circom-highlighting-vscode",
+      "is_fork": true,
+      "parent": "iden3/circom-highlighting-vscode",
+      "source": "iden3/circom-highlighting-vscode",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:25:51Z"
+    },
+    {
+      "full_name": "Lightprotocol/circuit-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:25:53Z"
+    },
+    {
+      "full_name": "Lightprotocol/circuitlib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:25:55Z"
+    },
+    {
+      "full_name": "Lightprotocol/compressed-program-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:25:57Z"
+    },
+    {
+      "full_name": "Lightprotocol/cp-swap-reference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:00Z"
+    },
+    {
+      "full_name": "Lightprotocol/cu-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:02Z"
+    },
+    {
+      "full_name": "Lightprotocol/curves",
+      "is_fork": true,
+      "parent": "arkworks-rs/curves",
+      "source": "arkworks-rs/curves",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:04Z"
+    },
+    {
+      "full_name": "Lightprotocol/developer-content",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T18:26:06Z"
+    },
+    {
+      "full_name": "Lightprotocol/dockerfiles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T18:26:09Z"
+    },
+    {
+      "full_name": "Lightprotocol/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "MDX",
+      "last_checked": "2026-03-09T18:26:12Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-compressed-claim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:14Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-jupiter-swap-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:26:16Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-name-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:26:18Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-nodejs-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:26:22Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-token-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:26:24Z"
+    },
+    {
+      "full_name": "Lightprotocol/example-web-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "CSS",
+      "last_checked": "2026-03-09T18:26:26Z"
+    },
+    {
+      "full_name": "Lightprotocol/gnark-mt-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T18:26:28Z"
+    },
+    {
+      "full_name": "Lightprotocol/gnark-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-09T18:26:30Z"
+    },
+    {
+      "full_name": "Lightprotocol/groth16-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 60,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:32Z"
+    },
+    {
+      "full_name": "Lightprotocol/helius-rust-sdk",
+      "is_fork": true,
+      "parent": "helius-labs/helius-rust-sdk",
+      "source": "helius-labs/helius-rust-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T18:26:34Z"
+    },
+    {
+      "full_name": "Lightprotocol/install",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T18:26:36Z"
+    },
+    {
+      "full_name": "Lightprotocol/jup-api-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:26:38Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-macros",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:41Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:43Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-poseidon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:45Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-program-profiler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:47Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 321,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:50Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-protocol-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:55Z"
+    },
+    {
+      "full_name": "Lightprotocol/light-protocol-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:57Z"
+    },
+    {
+      "full_name": "Lightprotocol/macro-circom",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:26:59Z"
+    },
+    {
+      "full_name": "Lightprotocol/photon",
+      "is_fork": true,
+      "parent": "helius-labs/photon",
+      "source": "helius-labs/photon",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:01Z"
+    },
+    {
+      "full_name": "Lightprotocol/private-payments-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:27:03Z"
+    },
+    {
+      "full_name": "Lightprotocol/program-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:06Z"
+    },
+    {
+      "full_name": "Lightprotocol/program-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:08Z"
+    },
+    {
+      "full_name": "Lightprotocol/psp-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:13Z"
+    },
+    {
+      "full_name": "Lightprotocol/psp-streaming-payments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Circom",
+      "last_checked": "2026-03-09T18:27:15Z"
+    },
+    {
+      "full_name": "Lightprotocol/psp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:17Z"
+    },
+    {
+      "full_name": "Lightprotocol/semaphore-mtb",
+      "is_fork": true,
+      "parent": "worldcoin/semaphore-mtb",
+      "source": "worldcoin/semaphore-mtb",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T18:27:19Z"
+    },
+    {
+      "full_name": "Lightprotocol/solana",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:21Z"
+    },
+    {
+      "full_name": "Lightprotocol/solana-program-library",
+      "is_fork": true,
+      "parent": "solana-labs/solana-program-library",
+      "source": "solana-labs/solana-program-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T18:27:24Z"
+    },
+    {
+      "full_name": "Lightprotocol/solana-zero-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-09T18:27:26Z"
+    },
+    {
+      "full_name": "Lightprotocol/v1-history-checker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T18:27:28Z"
+    },
+    {
+      "full_name": "Lightprotocol/zk-compression-summer-hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-09T18:27:31Z"
+    }
+  ]
+}

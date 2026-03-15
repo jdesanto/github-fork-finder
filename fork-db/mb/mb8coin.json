@@ -1,0 +1,33 @@
+{
+  "owner": "mb8coin",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MB8Coin/explorer",
+      "is_fork": true,
+      "parent": "iquidus/explorer",
+      "source": "iquidus/explorer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:50:55Z"
+    },
+    {
+      "full_name": "MB8Coin/insight",
+      "is_fork": true,
+      "parent": "bitpay/insight",
+      "source": "bitpay/insight",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:50:58Z"
+    },
+    {
+      "full_name": "MB8Coin/mb8coin-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-09T20:51:01Z"
+    }
+  ]
+}

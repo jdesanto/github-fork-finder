@@ -1,0 +1,402 @@
+{
+  "owner": "oasisdex",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "OasisDEX/OasisTradeDigitalAssessmentFramework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:58:42Z"
+    },
+    {
+      "full_name": "OasisDEX/automation-smartcontracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:44Z"
+    },
+    {
+      "full_name": "OasisDEX/common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:46Z"
+    },
+    {
+      "full_name": "OasisDEX/defi-position-manager-smartcontracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:48Z"
+    },
+    {
+      "full_name": "OasisDEX/dma-library-automation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:50Z"
+    },
+    {
+      "full_name": "OasisDEX/dss",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss",
+      "source": "sky-ecosystem/dss",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:58:52Z"
+    },
+    {
+      "full_name": "OasisDEX/dss-deploy-scripts",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-deploy-scripts",
+      "source": "sky-ecosystem/dss-deploy-scripts",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:58:54Z"
+    },
+    {
+      "full_name": "OasisDEX/e2e-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:56Z"
+    },
+    {
+      "full_name": "OasisDEX/eth2dai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:58:58Z"
+    },
+    {
+      "full_name": "OasisDEX/f1rewall",
+      "is_fork": true,
+      "parent": "0xngmi/f1rewall",
+      "source": "0xngmi/f1rewall",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T09:59:00Z"
+    },
+    {
+      "full_name": "OasisDEX/lazy-summer-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:59:02Z"
+    },
+    {
+      "full_name": "OasisDEX/local-evm-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:04Z"
+    },
+    {
+      "full_name": "OasisDEX/mcd-cdp-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:06Z"
+    },
+    {
+      "full_name": "OasisDEX/multiply-proxy-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:08Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 167,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:10Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-blockchian-app",
+      "is_fork": true,
+      "parent": "George-field/oasis-blockchian-app",
+      "source": "George-field/oasis-blockchian-app",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:59:12Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-borrow",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:59:12Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-borrow-cache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:14Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-cdp-manager",
+      "is_fork": true,
+      "parent": "sky-ecosystem/dss-cdp-manager",
+      "source": "sky-ecosystem/dss-cdp-manager",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:59:16Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-dex-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:59:18Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-direct",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:20Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-direct-migrate-proxy-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:59:22Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-direct-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:24Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-earn-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:26Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-market",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:28Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:30Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-react-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T09:59:32Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-sai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:34Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-tax",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:59:36Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-trade-stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:59:36Z"
+    },
+    {
+      "full_name": "OasisDEX/oasis-workspace",
+      "is_fork": true,
+      "parent": "OasisDEX/oasis-earn-sc",
+      "source": "OasisDEX/oasis-earn-sc",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:38Z"
+    },
+    {
+      "full_name": "OasisDEX/oazo-configuration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:40Z"
+    },
+    {
+      "full_name": "OasisDEX/postgres-migrations",
+      "is_fork": true,
+      "parent": "ThomWright/postgres-migrations",
+      "source": "ThomWright/postgres-migrations",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:42Z"
+    },
+    {
+      "full_name": "OasisDEX/scd-mcd-migration",
+      "is_fork": true,
+      "parent": "sky-ecosystem/scd-mcd-migration",
+      "source": "sky-ecosystem/scd-mcd-migration",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:59:44Z"
+    },
+    {
+      "full_name": "OasisDEX/spock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:46Z"
+    },
+    {
+      "full_name": "OasisDEX/summer-earn-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:59:48Z"
+    },
+    {
+      "full_name": "OasisDEX/summer-rewards-redeemer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:50Z"
+    },
+    {
+      "full_name": "OasisDEX/summerfi-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:59:52Z"
+    },
+    {
+      "full_name": "OasisDEX/test-workflow-trigger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:59:54Z"
+    },
+    {
+      "full_name": "OasisDEX/tx-manager",
+      "is_fork": true,
+      "parent": "sky-ecosystem/tx-manager",
+      "source": "sky-ecosystem/tx-manager",
+      "stars": 1,
+      "language": "Makefile",
+      "last_checked": "2026-03-10T09:59:56Z"
+    },
+    {
+      "full_name": "OasisDEX/vulcan.spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:59:56Z"
+    },
+    {
+      "full_name": "OasisDEX/vulcan0x",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "PLpgSQL",
+      "last_checked": "2026-03-10T09:59:58Z"
+    },
+    {
+      "full_name": "OasisDEX/web3-react",
+      "is_fork": true,
+      "parent": "Uniswap/web3-react",
+      "source": "Uniswap/web3-react",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:00:00Z"
+    },
+    {
+      "full_name": "OasisDEX/xDex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:00:02Z"
+    }
+  ]
+}

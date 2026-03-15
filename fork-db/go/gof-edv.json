@@ -1,0 +1,51 @@
+{
+  "owner": "gof-edv",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "GOF-EDV/mine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:27:25Z"
+    },
+    {
+      "full_name": "GOF-EDV/mine-1",
+      "is_fork": true,
+      "parent": "GOF-EDV/mine",
+      "source": "GOF-EDV/mine",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:27:27Z"
+    },
+    {
+      "full_name": "GOF-EDV/mine-2",
+      "is_fork": true,
+      "parent": "GOF-EDV/mine",
+      "source": "GOF-EDV/mine",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:27:29Z"
+    },
+    {
+      "full_name": "GOF-EDV/mine-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:27:31Z"
+    },
+    {
+      "full_name": "GOF-EDV/mine-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:27:33Z"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "owner": "pierreleguen",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PierreLeGuen/core-contracts",
+      "is_fork": true,
+      "parent": "near/core-contracts",
+      "source": "near/core-contracts",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:19:36Z"
+    },
+    {
+      "full_name": "PierreLeGuen/deploy-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T16:19:38Z"
+    },
+    {
+      "full_name": "PierreLeGuen/metapool-bos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:19:40Z"
+    },
+    {
+      "full_name": "PierreLeGuen/near-finance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T16:19:42Z"
+    },
+    {
+      "full_name": "PierreLeGuen/near-payments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:19:44Z"
+    },
+    {
+      "full_name": "PierreLeGuen/nearvault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T16:19:46Z"
+    },
+    {
+      "full_name": "PierreLeGuen/wallet-selector",
+      "is_fork": true,
+      "parent": "near/wallet-selector",
+      "source": "near/wallet-selector",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T16:19:48Z"
+    }
+  ]
+}

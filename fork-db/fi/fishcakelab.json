@@ -1,0 +1,51 @@
+{
+  "owner": "fishcakelab",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FishcakeLab/Fishcake-Tokenomics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:56:52Z"
+    },
+    {
+      "full_name": "FishcakeLab/fishcake-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:56:54Z"
+    },
+    {
+      "full_name": "FishcakeLab/fishcake-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:56:56Z"
+    },
+    {
+      "full_name": "FishcakeLab/wallet-chain-node",
+      "is_fork": true,
+      "parent": "dapplink-labs/wallet-chain-node",
+      "source": "dapplink-labs/wallet-chain-node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:56:58Z"
+    },
+    {
+      "full_name": "FishcakeLab/wallet-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:57:00Z"
+    }
+  ]
+}

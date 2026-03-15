@@ -1,0 +1,789 @@
+{
+  "owner": "nexis-network",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Nexis-Network/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:18Z"
+    },
+    {
+      "full_name": "Nexis-Network/Bio",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:20Z"
+    },
+    {
+      "full_name": "Nexis-Network/Blockchain-NoSQL-DB",
+      "is_fork": true,
+      "parent": "petrosDemetrakopoulos/SmartViews",
+      "source": "petrosDemetrakopoulos/SmartViews",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:22Z"
+    },
+    {
+      "full_name": "Nexis-Network/Chain-and-token-logos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:24Z"
+    },
+    {
+      "full_name": "Nexis-Network/Charting-database",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:52:26Z"
+    },
+    {
+      "full_name": "Nexis-Network/Charting-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:52:27Z"
+    },
+    {
+      "full_name": "Nexis-Network/Component-library-for-dApps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:52:29Z"
+    },
+    {
+      "full_name": "Nexis-Network/Create-Nexis-dApp-Boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:52:31Z"
+    },
+    {
+      "full_name": "Nexis-Network/Discussions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:33Z"
+    },
+    {
+      "full_name": "Nexis-Network/Gshard-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:52:35Z"
+    },
+    {
+      "full_name": "Nexis-Network/NEXIS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:52:37Z"
+    },
+    {
+      "full_name": "Nexis-Network/NEXIS-Audit-Reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:39Z"
+    },
+    {
+      "full_name": "Nexis-Network/NEXIS-zkevm-development",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:52:41Z"
+    },
+    {
+      "full_name": "Nexis-Network/NexWallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:52:43Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Agents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:45Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Base",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:52:47Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Brand-Kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:52:49Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Bridge-Frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:52:51Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Claim-Dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:52:53Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Claim-Dapp-CSV-Importer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:52:55Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-10T07:52:57Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Developer-Docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-10T07:52:59Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-EVM-Faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:01Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-HomeBase-V2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:03Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Mobile-Wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:05Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Native-Explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:07Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Network-Dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:09Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:11Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexis-Token-Smart-Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:53:13Z"
+    },
+    {
+      "full_name": "Nexis-Network/NexisTaskBot-Telegram",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:15Z"
+    },
+    {
+      "full_name": "Nexis-Network/Nexscan-Block-Explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:15Z"
+    },
+    {
+      "full_name": "Nexis-Network/Smart-Contract-Quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:53:17Z"
+    },
+    {
+      "full_name": "Nexis-Network/Smart-Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:53:19Z"
+    },
+    {
+      "full_name": "Nexis-Network/Spark-Testnet-EVM-Explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:21Z"
+    },
+    {
+      "full_name": "Nexis-Network/Testnet-Faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:23Z"
+    },
+    {
+      "full_name": "Nexis-Network/Website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:25Z"
+    },
+    {
+      "full_name": "Nexis-Network/Wrap-and-Unwrap-Smart-Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:53:27Z"
+    },
+    {
+      "full_name": "Nexis-Network/airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:29Z"
+    },
+    {
+      "full_name": "Nexis-Network/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:53:31Z"
+    },
+    {
+      "full_name": "Nexis-Network/bridge-gasless-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:33Z"
+    },
+    {
+      "full_name": "Nexis-Network/buffer-layout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:34Z"
+    },
+    {
+      "full_name": "Nexis-Network/chainlist",
+      "is_fork": true,
+      "parent": "DefiLlama/chainlist",
+      "source": "DefiLlama/chainlist",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:37Z"
+    },
+    {
+      "full_name": "Nexis-Network/codebox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:39Z"
+    },
+    {
+      "full_name": "Nexis-Network/data-marketplace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:53:40Z"
+    },
+    {
+      "full_name": "Nexis-Network/default-token-list",
+      "is_fork": true,
+      "parent": "Uniswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:43Z"
+    },
+    {
+      "full_name": "Nexis-Network/developer-content",
+      "is_fork": true,
+      "parent": "solana-foundation/developer-content",
+      "source": "solana-foundation/developer-content",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:45Z"
+    },
+    {
+      "full_name": "Nexis-Network/developer-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:47Z"
+    },
+    {
+      "full_name": "Nexis-Network/devnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:53:49Z"
+    },
+    {
+      "full_name": "Nexis-Network/devnet-explorer",
+      "is_fork": true,
+      "parent": "Nexis-Network/zk-evm-explorer",
+      "source": "Nexis-Network/zk-evm-explorer",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T07:53:51Z"
+    },
+    {
+      "full_name": "Nexis-Network/evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:53:53Z"
+    },
+    {
+      "full_name": "Nexis-Network/evm-cli-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:53:55Z"
+    },
+    {
+      "full_name": "Nexis-Network/evm-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:53:56Z"
+    },
+    {
+      "full_name": "Nexis-Network/fastrlp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:53:58Z"
+    },
+    {
+      "full_name": "Nexis-Network/faucet-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:00Z"
+    },
+    {
+      "full_name": "Nexis-Network/foundry-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:54:02Z"
+    },
+    {
+      "full_name": "Nexis-Network/frontend-configs",
+      "is_fork": true,
+      "parent": "blockscout/frontend-configs",
+      "source": "blockscout/frontend-configs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:04Z"
+    },
+    {
+      "full_name": "Nexis-Network/internal-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-10T07:54:06Z"
+    },
+    {
+      "full_name": "Nexis-Network/launchpad-Smart-Contracts",
+      "is_fork": true,
+      "parent": "pinkyfinance/Smart-Contracts",
+      "source": "pinkyfinance/Smart-Contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:09Z"
+    },
+    {
+      "full_name": "Nexis-Network/mainnet-testnet-bridge",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/mainnet-testnet-bridge",
+      "source": "LayerZero-Labs/mainnet-testnet-bridge",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:11Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-console",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:54:12Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:14Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-domains-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:16Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-domains-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:19Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-file-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "EJS",
+      "last_checked": "2026-03-10T07:54:21Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-graph-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:23Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-logo-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:25Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-name-service-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:27Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:54:28Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-network-documentation",
+      "is_fork": true,
+      "parent": "0xdetonation/nexis-docs",
+      "source": "0xdetonation/nexis-docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:30Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-price-oracle",
+      "is_fork": true,
+      "parent": "0xdetonation/nexis-price-oracle",
+      "source": "0xdetonation/nexis-price-oracle",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:33Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-safe-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:54:34Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-snapshot-finder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:54:36Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexis-subgraphs",
+      "is_fork": true,
+      "parent": "raebeatrose4/nexis-subgraphs",
+      "source": "raebeatrose4/nexis-subgraphs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:39Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexisGPT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:54:40Z"
+    },
+    {
+      "full_name": "Nexis-Network/nexscan-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:54:42Z"
+    },
+    {
+      "full_name": "Nexis-Network/parity-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:44Z"
+    },
+    {
+      "full_name": "Nexis-Network/rust-rocksdb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:46Z"
+    },
+    {
+      "full_name": "Nexis-Network/safe-eth-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:54:48Z"
+    },
+    {
+      "full_name": "Nexis-Network/spl-memo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:50Z"
+    },
+    {
+      "full_name": "Nexis-Network/tokenlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:54:52Z"
+    },
+    {
+      "full_name": "Nexis-Network/transaction-pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:54Z"
+    },
+    {
+      "full_name": "Nexis-Network/triedb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:54:56Z"
+    },
+    {
+      "full_name": "Nexis-Network/twitter-faucet-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:54:58Z"
+    },
+    {
+      "full_name": "Nexis-Network/web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:55:00Z"
+    },
+    {
+      "full_name": "Nexis-Network/web3.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:55:02Z"
+    },
+    {
+      "full_name": "Nexis-Network/web3t",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:55:04Z"
+    },
+    {
+      "full_name": "Nexis-Network/zk-evm-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T07:55:06Z"
+    }
+  ]
+}

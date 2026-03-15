@@ -1,0 +1,510 @@
+{
+  "owner": "qitmeer",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "Qitmeer/0.9.1-invalid-utxo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:31:47Z"
+    },
+    {
+      "full_name": "Qitmeer/083testnet-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T19:31:49Z"
+    },
+    {
+      "full_name": "Qitmeer/084testnet-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T19:31:51Z"
+    },
+    {
+      "full_name": "Qitmeer/085testnet-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T19:31:53Z"
+    },
+    {
+      "full_name": "Qitmeer/Economic-model",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-10T19:31:55Z"
+    },
+    {
+      "full_name": "Qitmeer/HLC-Token-Contract-ERC20-",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:31:55Z"
+    },
+    {
+      "full_name": "Qitmeer/OpenCL-Headers",
+      "is_fork": true,
+      "parent": "KhronosGroup/OpenCL-Headers",
+      "source": "KhronosGroup/OpenCL-Headers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:31:57Z"
+    },
+    {
+      "full_name": "Qitmeer/OpenCL-ICD-Loader",
+      "is_fork": true,
+      "parent": "KhronosGroup/OpenCL-ICD-Loader",
+      "source": "KhronosGroup/OpenCL-ICD-Loader",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:31:59Z"
+    },
+    {
+      "full_name": "Qitmeer/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T19:32:02Z"
+    },
+    {
+      "full_name": "Qitmeer/bundler-test-executor",
+      "is_fork": true,
+      "parent": "eth-infinitism/bundler-test-executor",
+      "source": "eth-infinitism/bundler-test-executor",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:32:04Z"
+    },
+    {
+      "full_name": "Qitmeer/bundler-test-results",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:32:04Z"
+    },
+    {
+      "full_name": "Qitmeer/community_docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T19:32:06Z"
+    },
+    {
+      "full_name": "Qitmeer/crypto",
+      "is_fork": true,
+      "parent": "golang/crypto",
+      "source": "golang/crypto",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:08Z"
+    },
+    {
+      "full_name": "Qitmeer/cuckoo-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:32:10Z"
+    },
+    {
+      "full_name": "Qitmeer/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "CSS",
+      "last_checked": "2026-03-10T19:32:12Z"
+    },
+    {
+      "full_name": "Qitmeer/eip4337-account-abstraction",
+      "is_fork": true,
+      "parent": "eth-infinitism/account-abstraction",
+      "source": "eth-infinitism/account-abstraction",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:32:14Z"
+    },
+    {
+      "full_name": "Qitmeer/evm_frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:32:17Z"
+    },
+    {
+      "full_name": "Qitmeer/evm_frontend-configs",
+      "is_fork": true,
+      "parent": "blockscout/frontend-configs",
+      "source": "blockscout/frontend-configs",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:32:19Z"
+    },
+    {
+      "full_name": "Qitmeer/exchange-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:21Z"
+    },
+    {
+      "full_name": "Qitmeer/go-ethereum",
+      "is_fork": true,
+      "parent": "lochjin/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:23Z"
+    },
+    {
+      "full_name": "Qitmeer/go-opencl",
+      "is_fork": true,
+      "parent": "robvanmieghem/go-opencl",
+      "source": "samuel/go-opencl",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-10T19:32:25Z"
+    },
+    {
+      "full_name": "Qitmeer/go-secp256k1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T19:32:27Z"
+    },
+    {
+      "full_name": "Qitmeer/inclusive-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "R",
+      "last_checked": "2026-03-10T19:32:29Z"
+    },
+    {
+      "full_name": "Qitmeer/llama.cpp",
+      "is_fork": true,
+      "parent": "ggml-org/llama.cpp",
+      "source": "ggml-org/llama.cpp",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:32:31Z"
+    },
+    {
+      "full_name": "Qitmeer/llama.go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:33Z"
+    },
+    {
+      "full_name": "Qitmeer/meerbank-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:32:35Z"
+    },
+    {
+      "full_name": "Qitmeer/meerchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:32:37Z"
+    },
+    {
+      "full_name": "Qitmeer/meerevm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:39Z"
+    },
+    {
+      "full_name": "Qitmeer/meerscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T19:32:41Z"
+    },
+    {
+      "full_name": "Qitmeer/meerstats",
+      "is_fork": true,
+      "parent": "swarmpit/ethstats",
+      "source": "cubedro/eth-netstats",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:32:43Z"
+    },
+    {
+      "full_name": "Qitmeer/ollama",
+      "is_fork": true,
+      "parent": "ollama/ollama",
+      "source": "ollama/ollama",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:32:45Z"
+    },
+    {
+      "full_name": "Qitmeer/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:47Z"
+    },
+    {
+      "full_name": "Qitmeer/qips",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TeX",
+      "last_checked": "2026-03-10T19:32:49Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:51Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-atomicswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:32:53Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:55Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-docker-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:32:57Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-java-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T19:32:59Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:01Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-miner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:03Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-seeder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:05Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-utreexo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:07Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:09Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:33:11Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeer.ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:33:13Z"
+    },
+    {
+      "full_name": "Qitmeer/qitmeertalk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:33:15Z"
+    },
+    {
+      "full_name": "Qitmeer/qng",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:17Z"
+    },
+    {
+      "full_name": "Qitmeer/qng-bundler",
+      "is_fork": true,
+      "parent": "stackup-wallet/stackup-bundler",
+      "source": "stackup-wallet/stackup-bundler",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:33:19Z"
+    },
+    {
+      "full_name": "Qitmeer/qng-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:21Z"
+    },
+    {
+      "full_name": "Qitmeer/qng-intelligence-api",
+      "is_fork": true,
+      "parent": "cubedro/eth-net-intelligence-api",
+      "source": "cubedro/eth-net-intelligence-api",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:33:23Z"
+    },
+    {
+      "full_name": "Qitmeer/qng-mcp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:25Z"
+    },
+    {
+      "full_name": "Qitmeer/qng-snap",
+      "is_fork": true,
+      "parent": "MetaMask/template-snap-monorepo",
+      "source": "MetaMask/template-snap-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:33:27Z"
+    },
+    {
+      "full_name": "Qitmeer/qng_frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:33:29Z"
+    },
+    {
+      "full_name": "Qitmeer/qx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:33:31Z"
+    },
+    {
+      "full_name": "Qitmeer/spectre-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "R",
+      "last_checked": "2026-03-10T19:33:33Z"
+    },
+    {
+      "full_name": "Qitmeer/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TeX",
+      "last_checked": "2026-03-10T19:33:35Z"
+    }
+  ]
+}

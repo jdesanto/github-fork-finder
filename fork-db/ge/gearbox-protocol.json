@@ -1,0 +1,528 @@
+{
+  "owner": "gearbox-protocol",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "Gearbox-protocol/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T14:04:59Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/apy-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:01Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/awesome-gearbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T14:05:03Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/bots-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:05Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/brand-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:05:07Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/contracts-v2-dev-preview",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:09Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/core-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:11Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/core-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:13Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/credit-account-mining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:15Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/defillama",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:17Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:19Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/degen-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:21Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/dev-bots-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:23Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/dev-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "MDX",
+      "last_checked": "2026-03-09T14:05:25Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/dev-docs-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T14:05:27Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/dev-gitbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:29Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/devops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:31Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/discord-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:33Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/doc-gitbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T14:05:35Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/etherscan-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T14:05:37Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/gearbox-bot-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:05:39Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/gearbox-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 82,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:41Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/gearbox-ninja",
+      "is_fork": true,
+      "parent": "l3wi/gearbox-ninja",
+      "source": "l3wi/gearbox-ninja",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:05:43Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/gearbox-ops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:05:45Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/gearbox-protocol-description",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:47Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/goerli-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Vyper",
+      "last_checked": "2026-03-09T14:05:49Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:51Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/insights",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T14:05:53Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/integration-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:55Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/integrations-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:57Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/integrations-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:05:59Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/launch-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-09T14:06:01Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/liquidation-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 71,
+      "language": "Rust",
+      "last_checked": "2026-03-09T14:06:03Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/liquidator-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:05Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/liquidator-v2-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:07Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/multisig-ci",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:09Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/ninja-game",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:06:09Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/oracles-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:11Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/owners",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:13Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/periphery-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:15Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/permissionless",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:17Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/play-with-gearbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:19Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:21Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/risk-curators-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-09T14:06:23Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/risk-framework-2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:06:23Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/safe-reserve",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:25Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/safe-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:27Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:06:29Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/sdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T14:06:31Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/sdk-gov",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:33Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": null,
+      "last_checked": "2026-03-09T14:06:36Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/style-guide",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T14:06:38Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/template-repository",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:06:40Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/test-task",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:06:40Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/third-eye",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Go",
+      "last_checked": "2026-03-09T14:06:42Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/timelock",
+      "is_fork": true,
+      "parent": "Uniswap/governance",
+      "source": "Uniswap/governance",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:44Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/token-distributor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:06:46Z"
+    },
+    {
+      "full_name": "Gearbox-protocol/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T14:06:48Z"
+    }
+  ]
+}

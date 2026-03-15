@@ -1,0 +1,618 @@
+{
+  "owner": "metisprotocol",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MetisProtocol/DAC-NFT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:23:36Z"
+    },
+    {
+      "full_name": "MetisProtocol/Metis-MVP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:23:38Z"
+    },
+    {
+      "full_name": "MetisProtocol/Metis-Mining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:23:40Z"
+    },
+    {
+      "full_name": "MetisProtocol/Mips_to_Risc-v",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T02:23:42Z"
+    },
+    {
+      "full_name": "MetisProtocol/NFTServices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:23:46Z"
+    },
+    {
+      "full_name": "MetisProtocol/batch-submitter",
+      "is_fork": true,
+      "parent": "ethereum-optimism/batch-submitter",
+      "source": "ethereum-optimism/batch-submitter",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:23:48Z"
+    },
+    {
+      "full_name": "MetisProtocol/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T02:23:50Z"
+    },
+    {
+      "full_name": "MetisProtocol/bls-wallet",
+      "is_fork": true,
+      "parent": "getwax/bls-wallet",
+      "source": "getwax/bls-wallet",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:23:52Z"
+    },
+    {
+      "full_name": "MetisProtocol/brand-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:23:55Z"
+    },
+    {
+      "full_name": "MetisProtocol/cannon",
+      "is_fork": true,
+      "parent": "ethereum-optimism/cannon",
+      "source": "ethereum-optimism/cannon",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:23:57Z"
+    },
+    {
+      "full_name": "MetisProtocol/ceg.vote",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:23:59Z"
+    },
+    {
+      "full_name": "MetisProtocol/contracts-v2",
+      "is_fork": true,
+      "parent": "ethereum-optimism/contracts",
+      "source": "ethereum-optimism/contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:24:02Z"
+    },
+    {
+      "full_name": "MetisProtocol/core-utils",
+      "is_fork": true,
+      "parent": "ethereum-optimism/core-utils",
+      "source": "ethereum-optimism/core-utils",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:05Z"
+    },
+    {
+      "full_name": "MetisProtocol/data-transport-layer",
+      "is_fork": true,
+      "parent": "platocrat/data-transport-layer",
+      "source": "platocrat/data-transport-layer",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:07Z"
+    },
+    {
+      "full_name": "MetisProtocol/docker",
+      "is_fork": true,
+      "parent": "ethereum-optimism/docker",
+      "source": "ethereum-optimism/docker",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T02:24:10Z"
+    },
+    {
+      "full_name": "MetisProtocol/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "MDX",
+      "last_checked": "2026-03-10T02:24:12Z"
+    },
+    {
+      "full_name": "MetisProtocol/dogeswap-contracts",
+      "is_fork": true,
+      "parent": "Dogeswap-Fans/dogeswap-contracts",
+      "source": "Dogeswap-Fans/dogeswap-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:24:14Z"
+    },
+    {
+      "full_name": "MetisProtocol/frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:16Z"
+    },
+    {
+      "full_name": "MetisProtocol/frontend-configs",
+      "is_fork": true,
+      "parent": "blockscout/frontend-configs",
+      "source": "blockscout/frontend-configs",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:24:18Z"
+    },
+    {
+      "full_name": "MetisProtocol/gitbook-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:20Z"
+    },
+    {
+      "full_name": "MetisProtocol/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum-optimism/go-ethereum",
+      "source": "ethereum-optimism/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:24:23Z"
+    },
+    {
+      "full_name": "MetisProtocol/hardhat",
+      "is_fork": true,
+      "parent": "ethereum-optimism/hardhat",
+      "source": "ethereum-optimism/hardhat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:25Z"
+    },
+    {
+      "full_name": "MetisProtocol/integration-tests",
+      "is_fork": true,
+      "parent": "ethereum-optimism/integration-tests",
+      "source": "ethereum-optimism/integration-tests",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:27Z"
+    },
+    {
+      "full_name": "MetisProtocol/l2geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:24:29Z"
+    },
+    {
+      "full_name": "MetisProtocol/mcp-yield",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:31Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:24:33Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-ansible",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:35Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-bridge-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:37Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-10T02:24:39Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-contract-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:43Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-ct-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:45Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-geth-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:45Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-hardhat-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:47Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-mvp-prologue",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:49Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-networks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:24:51Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-replica-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:53Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:24:55Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-sequencer-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:24:57Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-sequencer-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:24:57Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-sequencer-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:24:59Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-standard-bridge-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:25:01Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-subgraph-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:03Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-testnet-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:05Z"
+    },
+    {
+      "full_name": "MetisProtocol/metis-verifier-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:25:07Z"
+    },
+    {
+      "full_name": "MetisProtocol/minio-js",
+      "is_fork": true,
+      "parent": "minio/minio-js",
+      "source": "minio/minio-js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:25:11Z"
+    },
+    {
+      "full_name": "MetisProtocol/mutisender-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:13Z"
+    },
+    {
+      "full_name": "MetisProtocol/mvm",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 41,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:25:15Z"
+    },
+    {
+      "full_name": "MetisProtocol/nftbridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:25:17Z"
+    },
+    {
+      "full_name": "MetisProtocol/officialWebsite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:19Z"
+    },
+    {
+      "full_name": "MetisProtocol/optimism-integration",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism-integration",
+      "source": "ethereum-optimism/optimism-integration",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T02:25:21Z"
+    },
+    {
+      "full_name": "MetisProtocol/optimism-ts-services",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism-ts-services",
+      "source": "ethereum-optimism/optimism-ts-services",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:24Z"
+    },
+    {
+      "full_name": "MetisProtocol/polis-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:26Z"
+    },
+    {
+      "full_name": "MetisProtocol/q",
+      "is_fork": true,
+      "parent": "cycfi/q",
+      "source": "cycfi/q",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:28Z"
+    },
+    {
+      "full_name": "MetisProtocol/rMetis-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:30Z"
+    },
+    {
+      "full_name": "MetisProtocol/reth",
+      "is_fork": true,
+      "parent": "paradigmxyz/reth",
+      "source": "paradigmxyz/reth",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:25:32Z"
+    },
+    {
+      "full_name": "MetisProtocol/revoke.cash",
+      "is_fork": true,
+      "parent": "RevokeCash/revoke.cash",
+      "source": "RevokeCash/revoke.cash",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:25:34Z"
+    },
+    {
+      "full_name": "MetisProtocol/sdkdemo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:37Z"
+    },
+    {
+      "full_name": "MetisProtocol/solc-bin",
+      "is_fork": true,
+      "parent": "ethereum-optimism/solc-bin",
+      "source": "argotorg/solc-bin",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:39Z"
+    },
+    {
+      "full_name": "MetisProtocol/solc-js",
+      "is_fork": true,
+      "parent": "ethereum-optimism/solc-js",
+      "source": "argotorg/solc-js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:42Z"
+    },
+    {
+      "full_name": "MetisProtocol/solidity",
+      "is_fork": true,
+      "parent": "ethereum-optimism/solidity",
+      "source": "ethereum-optimism/solidity",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T02:25:44Z"
+    },
+    {
+      "full_name": "MetisProtocol/themis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:25:46Z"
+    },
+    {
+      "full_name": "MetisProtocol/truffle-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:25:48Z"
+    },
+    {
+      "full_name": "MetisProtocol/tss-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:25:50Z"
+    },
+    {
+      "full_name": "MetisProtocol/vault-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:25:52Z"
+    },
+    {
+      "full_name": "MetisProtocol/verifier",
+      "is_fork": true,
+      "parent": "ethereum-optimism/verifier",
+      "source": "ethereum-optimism/verifier",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:54Z"
+    },
+    {
+      "full_name": "MetisProtocol/zkp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T02:25:56Z"
+    },
+    {
+      "full_name": "MetisProtocol/zkp_L3_prover_L1_verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T02:26:00Z"
+    },
+    {
+      "full_name": "MetisProtocol/zkp_fast_prover_verfier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:26:02Z"
+    }
+  ]
+}

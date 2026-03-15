@@ -1,0 +1,519 @@
+{
+  "owner": "orderlynetwork",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "OrderlyNetwork/Aggregator-SDK-Integration",
+      "is_fork": true,
+      "parent": "RageTrade/Aggregator-SDK-Integration",
+      "source": "RageTrade/Aggregator-SDK-Integration",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:47:48Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/Audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T11:47:50Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/Dev-Maxi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:47:52Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/LayerZero-v2",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/LayerZero-v2",
+      "source": "LayerZero-Labs/LayerZero-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:47:54Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/Strategy-Vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:47:56Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/aden",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:47:58Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/broker-registration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:00Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/broker-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:02Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/calldata-compressor-rs",
+      "is_fork": true,
+      "parent": "longcipher/calldata-compressor-rs",
+      "source": "longcipher/calldata-compressor-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T11:48:04Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/contract-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:48:06Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/contract-evm-abi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:08Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/cross-chain-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:10Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/cru-dex",
+      "is_fork": true,
+      "parent": "OrderlyNetwork/broker-template",
+      "source": "OrderlyNetwork/broker-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:12Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/cryptotraders-dex",
+      "is_fork": true,
+      "parent": "OrderlyNetwork/broker-template",
+      "source": "OrderlyNetwork/broker-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:14Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/default-token-list",
+      "is_fork": true,
+      "parent": "CamelotLabs/default-token-list",
+      "source": "CamelotLabs/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:48:16Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/defillama-adapter-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:18Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/delegate-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:20Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:22Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/dex-creator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:24Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/dex-creator-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:26Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/dex-test-123-efaf519c-587916",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:28Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:30Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/documentation-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "MDX",
+      "last_checked": "2026-03-10T11:48:32Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/eliza",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:34Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/ethers-rs",
+      "is_fork": true,
+      "parent": "akfork/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T11:48:36Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/evm-cross-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:48:38Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/example-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:40Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:42Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/interface-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:42Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/js-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:44Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/js-sdk-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:46Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/kyrr-io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:47Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/liquidation-searcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-10T11:48:48Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/near_integration_tests_tooling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T11:48:50Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/noot",
+      "is_fork": true,
+      "parent": "OrderlyNetwork/broker-template",
+      "source": "OrderlyNetwork/broker-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:53Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/oft-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:48:54Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/omnichain-ledger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:56Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/openAPI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:57Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/openAPI-EVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:48:57Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orbidex",
+      "is_fork": true,
+      "parent": "OrderlyNetwork/broker-template",
+      "source": "OrderlyNetwork/broker-template",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:48:59Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T11:49:01Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-evm-broker-fee-admin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T11:49:03Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-evm-connector-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Python",
+      "last_checked": "2026-03-10T11:49:05Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-js-sdk-cra-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:07Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-js-sdk-nextjs-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:09Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-js-sdk-remix-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:11Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:13Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderly-sdk-react-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:49:15Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/orderlynetwork.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T11:49:17Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/plugin-orderly",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:19Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/registry",
+      "is_fork": true,
+      "parent": "elizaos-plugins/registry",
+      "source": "elizaos-plugins/registry",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:21Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/sdk-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:23Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/set-user-fee",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:25Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/sol-cc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:49:27Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/solana-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:29Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/solana-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:49:31Z"
+    },
+    {
+      "full_name": "OrderlyNetwork/vesting-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:49:33Z"
+    }
+  ]
+}

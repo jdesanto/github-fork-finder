@@ -1,0 +1,87 @@
+{
+  "owner": "ln-zap",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LN-Zap/Lndmobile.framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:11:07Z"
+    },
+    {
+      "full_name": "LN-Zap/docker-lnd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:11:09Z"
+    },
+    {
+      "full_name": "LN-Zap/lnd",
+      "is_fork": true,
+      "parent": "lightningnetwork/lnd",
+      "source": "lightningnetwork/lnd",
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:11:13Z"
+    },
+    {
+      "full_name": "LN-Zap/lndconnect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 99,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:11:15Z"
+    },
+    {
+      "full_name": "LN-Zap/node-lnd-grpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:11:17Z"
+    },
+    {
+      "full_name": "LN-Zap/node-lndconnect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:11:20Z"
+    },
+    {
+      "full_name": "LN-Zap/zap-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 163,
+      "language": "Java",
+      "last_checked": "2026-03-09T16:11:22Z"
+    },
+    {
+      "full_name": "LN-Zap/zap-desktop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1260,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:11:24Z"
+    },
+    {
+      "full_name": "LN-Zap/zap-iOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 182,
+      "language": "Swift",
+      "last_checked": "2026-03-09T16:11:26Z"
+    }
+  ]
+}

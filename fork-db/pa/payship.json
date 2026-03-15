@@ -1,0 +1,42 @@
+{
+  "owner": "payship",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "Payship/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T13:39:40Z"
+    },
+    {
+      "full_name": "Payship/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T13:39:42Z"
+    },
+    {
+      "full_name": "Payship/frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T13:39:44Z"
+    },
+    {
+      "full_name": "Payship/monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T13:39:44Z"
+    }
+  ]
+}

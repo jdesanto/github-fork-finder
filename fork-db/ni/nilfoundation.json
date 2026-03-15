@@ -1,0 +1,1671 @@
+{
+  "owner": "nilfoundation",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NilFoundation/actions-boost-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CMake",
+      "last_checked": "2026-03-10T08:28:05Z"
+    },
+    {
+      "full_name": "NilFoundation/actor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CMake",
+      "last_checked": "2026-03-10T08:28:07Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-algebra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:09Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-blueprint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:11Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-cluster",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:13Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-containers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:15Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CMake",
+      "last_checked": "2026-03-10T08:28:17Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-cuda",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:19Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-math",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:21Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:23Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-opencl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:25Z"
+    },
+    {
+      "full_name": "NilFoundation/actor-zk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:26Z"
+    },
+    {
+      "full_name": "NilFoundation/amm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:28:28Z"
+    },
+    {
+      "full_name": "NilFoundation/application",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:30Z"
+    },
+    {
+      "full_name": "NilFoundation/arkworks-algebra",
+      "is_fork": true,
+      "parent": "arkworks-rs/algebra",
+      "source": "arkworks-rs/algebra",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:28:32Z"
+    },
+    {
+      "full_name": "NilFoundation/arkworks-curves",
+      "is_fork": true,
+      "parent": "arkworks-rs/curves",
+      "source": "arkworks-rs/curves",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:28:34Z"
+    },
+    {
+      "full_name": "NilFoundation/arkworks-std",
+      "is_fork": true,
+      "parent": "arkworks-rs/std",
+      "source": "arkworks-rs/std",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:36Z"
+    },
+    {
+      "full_name": "NilFoundation/awesome-nil",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:38Z"
+    },
+    {
+      "full_name": "NilFoundation/badger",
+      "is_fork": true,
+      "parent": "isergeyam/badger",
+      "source": "dgraph-io/badger",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:28:40Z"
+    },
+    {
+      "full_name": "NilFoundation/bitvm-placeholder-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:41Z"
+    },
+    {
+      "full_name": "NilFoundation/boost-crypto3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:43Z"
+    },
+    {
+      "full_name": "NilFoundation/boost-multiprecision",
+      "is_fork": true,
+      "parent": "boostorg/multiprecision",
+      "source": "boostorg/multiprecision",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:45Z"
+    },
+    {
+      "full_name": "NilFoundation/cairo-ed25519",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T08:28:47Z"
+    },
+    {
+      "full_name": "NilFoundation/cairo-placeholder-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T08:28:49Z"
+    },
+    {
+      "full_name": "NilFoundation/ci-cd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T08:28:51Z"
+    },
+    {
+      "full_name": "NilFoundation/cmake-modules",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:51Z"
+    },
+    {
+      "full_name": "NilFoundation/cmake-shared-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:51Z"
+    },
+    {
+      "full_name": "NilFoundation/cmake_modules",
+      "is_fork": true,
+      "parent": "BoostCMake/cmake_modules",
+      "source": "boost-cmake/bcm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:54Z"
+    },
+    {
+      "full_name": "NilFoundation/config",
+      "is_fork": true,
+      "parent": "boostorg/config",
+      "source": "boostorg/config",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:28:56Z"
+    },
+    {
+      "full_name": "NilFoundation/cpp-ton",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:56Z"
+    },
+    {
+      "full_name": "NilFoundation/crusty3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:28:58Z"
+    },
+    {
+      "full_name": "NilFoundation/crusty3-ff",
+      "is_fork": true,
+      "parent": "filecoin-project/fff",
+      "source": "zkcrypto/ff",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:00Z"
+    },
+    {
+      "full_name": "NilFoundation/crusty3-group",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:29:03Z"
+    },
+    {
+      "full_name": "NilFoundation/crusty3-pairing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:29:05Z"
+    },
+    {
+      "full_name": "NilFoundation/crusty3-zk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:29:08Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:09Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-algebra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:11Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-algebra-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:13Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-block",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:15Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-clone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CMake",
+      "last_checked": "2026-03-10T08:29:17Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-codec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:19Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-compression",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:21Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-containers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:23Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-containers-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:25Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-dkg",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:27Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-environment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-10T08:29:29Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-fhe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:31Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-fil-proofs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:34Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-hash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:36Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-homomorphic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:29:38Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-kdf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:40Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-mac",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:42Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:44Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-math",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:46Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-modes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:48Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-multiprecision",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:50Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-multiprecision-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:52Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-multiprecision-marshalling-clone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:54Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-passhash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:56Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-pbkdf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:29:58Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-pkmodes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:00Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-pkpad",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:02Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-profiling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T08:30:04Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-pubkey",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:06Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-random",
+      "is_fork": true,
+      "parent": "boostorg/random",
+      "source": "boostorg/random",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:08Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-scaffold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:11Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-stream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:13Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:15Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-testing-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:17Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-threshold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:19Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-vdf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:21Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-zk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:23Z"
+    },
+    {
+      "full_name": "NilFoundation/crypto3-zk-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:25Z"
+    },
+    {
+      "full_name": "NilFoundation/dbms-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:27Z"
+    },
+    {
+      "full_name": "NilFoundation/dbms-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T08:30:29Z"
+    },
+    {
+      "full_name": "NilFoundation/dbms-replication",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:31Z"
+    },
+    {
+      "full_name": "NilFoundation/docs.nil.foundation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "MDX",
+      "last_checked": "2026-03-10T08:30:33Z"
+    },
+    {
+      "full_name": "NilFoundation/doomretro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:34Z"
+    },
+    {
+      "full_name": "NilFoundation/doomretro-circuit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:34Z"
+    },
+    {
+      "full_name": "NilFoundation/dpdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T08:30:36Z"
+    },
+    {
+      "full_name": "NilFoundation/epoll-shim",
+      "is_fork": true,
+      "parent": "jiixyj/epoll-shim",
+      "source": "jiixyj/epoll-shim",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T08:30:38Z"
+    },
+    {
+      "full_name": "NilFoundation/ethereum-adapter",
+      "is_fork": true,
+      "parent": "erigontech/erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:40Z"
+    },
+    {
+      "full_name": "NilFoundation/ethereum-casper-ffg-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:42Z"
+    },
+    {
+      "full_name": "NilFoundation/ethereum-consensus-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:44Z"
+    },
+    {
+      "full_name": "NilFoundation/ethereum-state-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:47Z"
+    },
+    {
+      "full_name": "NilFoundation/ever-assembler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:47Z"
+    },
+    {
+      "full_name": "NilFoundation/everscale.nil.foundation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:30:48Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-assigner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:30:49Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-layerzero-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:30:51Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-lorem-ipsum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:30:53Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-placeholder-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:30:55Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-proof-market",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T08:30:57Z"
+    },
+    {
+      "full_name": "NilFoundation/evm-proof-market-relayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T08:30:59Z"
+    },
+    {
+      "full_name": "NilFoundation/evmc",
+      "is_fork": true,
+      "parent": "ipsilon/evmc",
+      "source": "ipsilon/evmc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:31:01Z"
+    },
+    {
+      "full_name": "NilFoundation/evmone",
+      "is_fork": true,
+      "parent": "ipsilon/evmone",
+      "source": "ipsilon/evmone",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:03Z"
+    },
+    {
+      "full_name": "NilFoundation/expressions_task",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:31:05Z"
+    },
+    {
+      "full_name": "NilFoundation/fastssz",
+      "is_fork": true,
+      "parent": "ferranbt/fastssz",
+      "source": "ferranbt/fastssz",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:31:08Z"
+    },
+    {
+      "full_name": "NilFoundation/forbid-merge-commits-action",
+      "is_fork": true,
+      "parent": "motlin/forbid-merge-commits-action",
+      "source": "motlin/forbid-merge-commits-action",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:31:10Z"
+    },
+    {
+      "full_name": "NilFoundation/fswatch",
+      "is_fork": true,
+      "parent": "emcrisostomo/fswatch",
+      "source": "emcrisostomo/fswatch",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:12Z"
+    },
+    {
+      "full_name": "NilFoundation/go-libp2p-kad-dht",
+      "is_fork": true,
+      "parent": "libp2p/go-libp2p-kad-dht",
+      "source": "libp2p/go-libp2p-kad-dht",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:31:14Z"
+    },
+    {
+      "full_name": "NilFoundation/goatcounter",
+      "is_fork": true,
+      "parent": "arp242/goatcounter",
+      "source": "arp242/goatcounter",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:31:16Z"
+    },
+    {
+      "full_name": "NilFoundation/hwloc2-rs",
+      "is_fork": true,
+      "parent": "Ichbinjoe/hwloc2-rs",
+      "source": "Ichbinjoe/hwloc2-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:31:18Z"
+    },
+    {
+      "full_name": "NilFoundation/js-crypto",
+      "is_fork": true,
+      "parent": "iden3/js-crypto",
+      "source": "iden3/js-crypto",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:31:21Z"
+    },
+    {
+      "full_name": "NilFoundation/l2beat",
+      "is_fork": true,
+      "parent": "l2beat/l2beat",
+      "source": "l2beat/l2beat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:31:23Z"
+    },
+    {
+      "full_name": "NilFoundation/lean-prover",
+      "is_fork": true,
+      "parent": "leanprover/lean3",
+      "source": "leanprover/lean3",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:31:25Z"
+    },
+    {
+      "full_name": "NilFoundation/libp2p-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:31:27Z"
+    },
+    {
+      "full_name": "NilFoundation/linenoise",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:29Z"
+    },
+    {
+      "full_name": "NilFoundation/lorem-ipsum-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T08:31:31Z"
+    },
+    {
+      "full_name": "NilFoundation/marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:33Z"
+    },
+    {
+      "full_name": "NilFoundation/marshalling-clone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:35Z"
+    },
+    {
+      "full_name": "NilFoundation/mina-add-zkapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:31:37Z"
+    },
+    {
+      "full_name": "NilFoundation/mina-state-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 81,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:31:39Z"
+    },
+    {
+      "full_name": "NilFoundation/module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:41Z"
+    },
+    {
+      "full_name": "NilFoundation/network-marshalling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:31:43Z"
+    },
+    {
+      "full_name": "NilFoundation/nil",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Go",
+      "last_checked": "2026-03-10T08:31:45Z"
+    },
+    {
+      "full_name": "NilFoundation/nil-by-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:31:47Z"
+    },
+    {
+      "full_name": "NilFoundation/nil-hardhat-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:31:49Z"
+    },
+    {
+      "full_name": "NilFoundation/nil-hardhat-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:31:51Z"
+    },
+    {
+      "full_name": "NilFoundation/nil.foundation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:31:53Z"
+    },
+    {
+      "full_name": "NilFoundation/nil.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:31:55Z"
+    },
+    {
+      "full_name": "NilFoundation/nil_cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T08:31:57Z"
+    },
+    {
+      "full_name": "NilFoundation/nix-3rdparty",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Nix",
+      "last_checked": "2026-03-10T08:31:59Z"
+    },
+    {
+      "full_name": "NilFoundation/parallel-crypto3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:01Z"
+    },
+    {
+      "full_name": "NilFoundation/placeholder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:03Z"
+    },
+    {
+      "full_name": "NilFoundation/pluggable-scaling-model",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T08:32:05Z"
+    },
+    {
+      "full_name": "NilFoundation/plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:07Z"
+    },
+    {
+      "full_name": "NilFoundation/podspec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:09Z"
+    },
+    {
+      "full_name": "NilFoundation/powers-of-tau",
+      "is_fork": true,
+      "parent": "NoamDev/powers-of-tau",
+      "source": "NoamDev/powers-of-tau",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:11Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-checker-public",
+      "is_fork": true,
+      "parent": "fastxyz/proof-checker-public",
+      "source": "fastxyz/proof-checker-public",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:13Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-market-circuit-json",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:15Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-market-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:32:17Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-market-toolchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:19Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-market-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:20Z"
+    },
+    {
+      "full_name": "NilFoundation/proof-producer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:21Z"
+    },
+    {
+      "full_name": "NilFoundation/proof.market.nil.foundation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:32:23Z"
+    },
+    {
+      "full_name": "NilFoundation/qna",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:25Z"
+    },
+    {
+      "full_name": "NilFoundation/react-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:32:28Z"
+    },
+    {
+      "full_name": "NilFoundation/research-excalibur-visualizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:30Z"
+    },
+    {
+      "full_name": "NilFoundation/rust-gpu-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:32:32Z"
+    },
+    {
+      "full_name": "NilFoundation/rust-ton",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:32Z"
+    },
+    {
+      "full_name": "NilFoundation/rust-tvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:33Z"
+    },
+    {
+      "full_name": "NilFoundation/solana-consensus-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:35Z"
+    },
+    {
+      "full_name": "NilFoundation/solana-state-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:37Z"
+    },
+    {
+      "full_name": "NilFoundation/sszpp",
+      "is_fork": true,
+      "parent": "OffchainLabs/sszpp",
+      "source": "OffchainLabs/sszpp",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:39Z"
+    },
+    {
+      "full_name": "NilFoundation/stakeavote",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:32:41Z"
+    },
+    {
+      "full_name": "NilFoundation/thread_binder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:32:44Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-TestSuite4",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:44Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-custler.uninode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:44Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-executor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:45Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-proof-verification-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:47Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:47Z"
+    },
+    {
+      "full_name": "NilFoundation/ton-tonos-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:47Z"
+    },
+    {
+      "full_name": "NilFoundation/tondev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:48Z"
+    },
+    {
+      "full_name": "NilFoundation/tonos-se",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:48Z"
+    },
+    {
+      "full_name": "NilFoundation/tvm-assembler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:48Z"
+    },
+    {
+      "full_name": "NilFoundation/tvm-linker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:49Z"
+    },
+    {
+      "full_name": "NilFoundation/tvm-llvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:49Z"
+    },
+    {
+      "full_name": "NilFoundation/tvm-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:49Z"
+    },
+    {
+      "full_name": "NilFoundation/ui-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:32:51Z"
+    },
+    {
+      "full_name": "NilFoundation/uniswap-v2-nil",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:32:53Z"
+    },
+    {
+      "full_name": "NilFoundation/vote-saver-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:55Z"
+    },
+    {
+      "full_name": "NilFoundation/vote-saver-protocol-mpc",
+      "is_fork": true,
+      "parent": "NoamDev/vote-saver-protocol-mpc",
+      "source": "NoamDev/vote-saver-protocol-mpc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:32:57Z"
+    },
+    {
+      "full_name": "NilFoundation/zkEVM-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:32:59Z"
+    },
+    {
+      "full_name": "NilFoundation/zkEVM1",
+      "is_fork": true,
+      "parent": "ipsilon/evmone",
+      "source": "ipsilon/evmone",
+      "stars": 16,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:02Z"
+    },
+    {
+      "full_name": "NilFoundation/zkLLVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 329,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:03Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 329,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:06Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-assigner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:07Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-blueprint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 42,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:09Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-cargo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:33:11Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-circifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:13Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-clang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:33:15Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-doom",
+      "is_fork": true,
+      "parent": "cloudflare/doom-wasm",
+      "source": "cloudflare/doom-wasm",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T08:33:18Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-examples-doom",
+      "is_fork": true,
+      "parent": "cloudflare/doom-wasm",
+      "source": "cloudflare/doom-wasm",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T08:33:20Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-knazarov-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Nix",
+      "last_checked": "2026-03-10T08:33:22Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-libcxx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:33:24Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-rslang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:33:26Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-rslang-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:33:28Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-rust-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:33:30Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-scaffold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:33:32Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-soll",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:34Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-stdlib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:36Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T08:33:38Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-transpiler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-10T08:33:40Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T08:33:40Z"
+    },
+    {
+      "full_name": "NilFoundation/zkllvm-unroll",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T08:33:42Z"
+    }
+  ]
+}

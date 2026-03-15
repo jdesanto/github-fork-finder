@@ -1,0 +1,33 @@
+{
+  "owner": "svet-rating",
+  "updated_at": "2026-03-12T02:55:29Z",
+  "repos": [
+    {
+      "full_name": "SVET-Rating/SvetIndex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T01:12:12Z"
+    },
+    {
+      "full_name": "SVET-Rating/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T01:12:14Z"
+    },
+    {
+      "full_name": "SVET-Rating/token-vesting-ui",
+      "is_fork": true,
+      "parent": "OpenZeppelin/token-vesting-ui",
+      "source": "OpenZeppelin/token-vesting-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T01:12:16Z"
+    }
+  ]
+}

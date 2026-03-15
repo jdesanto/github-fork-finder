@@ -1,0 +1,87 @@
+{
+  "owner": "modorilabs",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "ModoriLabs/TonWatchAds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:45:27Z"
+    },
+    {
+      "full_name": "ModoriLabs/gmx-contracts",
+      "is_fork": true,
+      "parent": "gmx-io/gmx-contracts",
+      "source": "gmx-io/gmx-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:45:29Z"
+    },
+    {
+      "full_name": "ModoriLabs/noir-web-prover-circuits",
+      "is_fork": true,
+      "parent": "pluto/noir-web-prover-circuits",
+      "source": "pluto/noir-web-prover-circuits",
+      "stars": 1,
+      "language": "Noir",
+      "last_checked": "2026-03-10T03:45:31Z"
+    },
+    {
+      "full_name": "ModoriLabs/oneclicksender-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T03:45:33Z"
+    },
+    {
+      "full_name": "ModoriLabs/pluto-legacy-web-prover",
+      "is_fork": true,
+      "parent": "pluto/legacy-web-prover",
+      "source": "pluto/web-prover",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:45:36Z"
+    },
+    {
+      "full_name": "ModoriLabs/ton-batch-sender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:45:36Z"
+    },
+    {
+      "full_name": "ModoriLabs/ton-bootcamp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T03:45:38Z"
+    },
+    {
+      "full_name": "ModoriLabs/twa-template",
+      "is_fork": true,
+      "parent": "ton-community/twa-template",
+      "source": "ton-community/twa-template",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:45:40Z"
+    },
+    {
+      "full_name": "ModoriLabs/zk-escrow",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T03:45:42Z"
+    }
+  ]
+}

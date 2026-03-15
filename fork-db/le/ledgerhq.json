@@ -1,0 +1,5703 @@
+{
+  "owner": "ledgerhq",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LedgerHQ/-deprecated-app-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/-deprecated-app-cardano",
+      "is_fork": true,
+      "parent": "cardano-foundation/ledger-app-cardano",
+      "source": "cardano-foundation/ledger-app-cardano",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:23:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/0d8cb93f-8a50-4070-9dcf-8030d7151040",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/6ltgzp1b3o",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/83ygazxwo8",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/893101b8-61d1-4242-9990-057ffff43787",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/ApduGenerator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:23:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/AppConnect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "CSS",
+      "last_checked": "2026-03-09T17:23:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/CTF",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:23:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/HDEd25519",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:23:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/JSONBigNumber",
+      "is_fork": true,
+      "parent": "wbuss/JSONBigNumber",
+      "source": "douglascrockford/JSON-js",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:23:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/Ledger-OS-third-party-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/LedgerHQ-app-boilerplate-test-fork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/LedgerHQ-app-boilerplate-test-fork2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/LedgerHQ-app-boilerplate-test-fork3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/LedgerHQ-app-partisiablockchain",
+      "is_fork": true,
+      "parent": "partisiablockchain/pbc-ledger-embedded-app",
+      "source": "partisiablockchain/pbc-ledger-embedded-app",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/LedgerHQ.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:23:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/MuSig2_app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/Musig2",
+      "is_fork": true,
+      "parent": "rdubois-crypto/MyCairoPlayground",
+      "source": "rdubois-crypto/MyCairoPlayground",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/OUTDATED_ledger-wallet-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:24:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/S3-Uploads",
+      "is_fork": true,
+      "parent": "humanmade/S3-Uploads",
+      "source": "humanmade/S3-Uploads",
+      "stars": 0,
+      "language": "PHP",
+      "last_checked": "2026-03-09T17:24:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/StarkCheck",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:24:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/Starknet-wallet-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/TzScan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "OCaml",
+      "last_checked": "2026-03-09T17:24:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:24:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/actions-security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:24:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/af7d7508-e721-4fd2-8bdb-5bc48e97a479",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/analytics-ios",
+      "is_fork": true,
+      "parent": "segmentio/analytics-ios",
+      "source": "segmentio/analytics-ios",
+      "stars": 1,
+      "language": "Objective-C",
+      "last_checked": "2026-03-09T17:24:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/analytics-react-native",
+      "is_fork": true,
+      "parent": "segmentio/analytics-react-native",
+      "source": "segmentio/analytics-react-native",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/android-u2f-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:24:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/ansible-sshd",
+      "is_fork": true,
+      "parent": "willshersystems/ansible-sshd",
+      "source": "willshersystems/ansible-sshd",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:24:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/apduboy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:24:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-acala",
+      "is_fork": true,
+      "parent": "Zondax/ledger-acala",
+      "source": "Zondax/ledger-acala",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-acre",
+      "is_fork": true,
+      "parent": "acre-btc/acre-ledger-app",
+      "source": "LedgerHQ/app-bitcoin-new",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-aergo",
+      "is_fork": true,
+      "parent": "aergoio/ledger-app-aergo",
+      "source": "aergoio/ledger-app-aergo",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-aeternity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-age",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:24:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-aion",
+      "is_fork": true,
+      "parent": "aionnetwork/aion_ledger",
+      "source": "aionnetwork/aion_ledger",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ajuna",
+      "is_fork": true,
+      "parent": "Zondax/ledger-ajuna",
+      "source": "Zondax/ledger-ajuna",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-alephium",
+      "is_fork": true,
+      "parent": "alephium/ledger-alephium",
+      "source": "alephium/ledger-alephium",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:24:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-alephzero",
+      "is_fork": true,
+      "parent": "Zondax/ledger-alephzero",
+      "source": "Zondax/ledger-alephzero",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-algorand",
+      "is_fork": true,
+      "parent": "algorand/ledger-app-algorand",
+      "source": "algorand/ledger-app-algorand",
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-aptos",
+      "is_fork": true,
+      "parent": "pontem-network/ledger-app-aptos",
+      "source": "aptos-labs/ledger-app-aptos",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:24:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ardor",
+      "is_fork": true,
+      "parent": "jelurida-dev/app-ledger-ardor-main",
+      "source": "jelurida-dev/app-ledger-ardor-main",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ark",
+      "is_fork": true,
+      "parent": "ArkEcosystem/ledger",
+      "source": "ArkEcosystem/ledger",
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-arweave",
+      "is_fork": true,
+      "parent": "Zondax/ledger-arweave",
+      "source": "Zondax/ledger-arweave",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-astar",
+      "is_fork": true,
+      "parent": "Zondax/ledger-astar",
+      "source": "Zondax/ledger-astar",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-avail",
+      "is_fork": true,
+      "parent": "Zondax/ledger-avail",
+      "source": "Zondax/ledger-avail",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-avalanche",
+      "is_fork": true,
+      "parent": "ava-labs/ledger-avalanche",
+      "source": "ava-labs/ledger-avalanche",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:25:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-avalanche-legacy",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-avalanche",
+      "source": "obsidiansystems/ledger-app-avalanche",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-axelar",
+      "is_fork": true,
+      "parent": "Zondax/ledger-axelar",
+      "source": "Zondax/ledger-axelar",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bifrost",
+      "is_fork": true,
+      "parent": "Zondax/ledger-bifrost",
+      "source": "Zondax/ledger-bifrost",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bifrost-kusama",
+      "is_fork": true,
+      "parent": "bifrost-io/ledger-bifrost-kusama",
+      "source": "bifrost-io/ledger-bifrost-kusama",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bifrost-new",
+      "is_fork": true,
+      "parent": "bifrost-io/ledger-bifrost",
+      "source": "bifrost-io/ledger-bifrost",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-binance",
+      "is_fork": true,
+      "parent": "bnb-chain/ledger-app-binance",
+      "source": "bnb-chain/ledger-app-binance",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 131,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:25:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bitcoin-clone-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:25:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bitcoin-new",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 103,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:25:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-bitsong",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-blockstack",
+      "is_fork": true,
+      "parent": "Zondax/ledger-stacks",
+      "source": "Zondax/ledger-stacks",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:25:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate-fuzz-storage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:25:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate-nvram",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:25:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:25:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate-test-clb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:25:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-boilerplate-vierzon",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-boilerplate",
+      "source": "LedgerHQ/app-boilerplate",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-btcext-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-btec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-cardano",
+      "is_fork": true,
+      "parent": "vacuumlabs/ledger-app-cardano-shelley",
+      "source": "vacuumlabs/ledger-app-cardano-shelley",
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T17:25:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-casper",
+      "is_fork": true,
+      "parent": "Zondax/ledger-casper",
+      "source": "Zondax/ledger-casper",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:02Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-celo-spender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-celo-validator-signer",
+      "is_fork": true,
+      "parent": "celo-org/celo-validator-signer-app",
+      "source": "celo-org/celo-validator-signer-app",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:26:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-centrifuge",
+      "is_fork": true,
+      "parent": "Zondax/ledger-centrifuge",
+      "source": "Zondax/ledger-centrifuge",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-concordium",
+      "is_fork": true,
+      "parent": "Concordium/concordium-ledger-app",
+      "source": "Concordium/concordium-ledger-app",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-conflux",
+      "is_fork": true,
+      "parent": "Conflux-Chain/app-conflux",
+      "source": "LedgerHQ/app-boilerplate-rust",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:26:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-conflux-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-constellation",
+      "is_fork": true,
+      "parent": "StardustCollective/constellation-ledger-native-app",
+      "source": "StardustCollective/constellation-ledger-native-app",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-core-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-cosmos",
+      "is_fork": true,
+      "parent": "cosmos/ledger-cosmos",
+      "source": "cosmos/ledger-cosmos",
+      "stars": 11,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-coti",
+      "is_fork": true,
+      "parent": "coti-io/coti-ledger",
+      "source": "coti-io/coti-ledger",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-cryptocom",
+      "is_fork": true,
+      "parent": "crypto-com/ledger-crypto",
+      "source": "crypto-com/ledger-crypto",
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-decimal",
+      "is_fork": true,
+      "parent": "decimalteam/ledger-decimal",
+      "source": "decimalteam/ledger-decimal",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-decred",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-desmos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-dgld",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-dock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-edgeware",
+      "is_fork": true,
+      "parent": "Zondax/ledger-edgeware",
+      "source": "Zondax/ledger-edgeware",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-elastos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-elrond",
+      "is_fork": true,
+      "parent": "multiversx/mx-ledger-nano",
+      "source": "multiversx/mx-ledger-nano",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-eos",
+      "is_fork": true,
+      "parent": "tarassh/eos-ledger",
+      "source": "tarassh/eos-ledger",
+      "stars": 16,
+      "language": "C",
+      "last_checked": "2026-03-09T17:26:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-equilibrium",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ergo",
+      "is_fork": true,
+      "parent": "ergoplatform/ledger-app-ergo",
+      "source": "ergoplatform/ledger-app-ergo",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 236,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-everscale",
+      "is_fork": true,
+      "parent": "broxus/ledger-app-everscale",
+      "source": "broxus/ledger-app-everscale",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:27:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-factom",
+      "is_fork": true,
+      "parent": "MyFactomWallet/ledger-app-factom",
+      "source": "MyFactomWallet/ledger-app-factom",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-fantom",
+      "is_fork": true,
+      "parent": "Fantom-foundation/fantom-ledger",
+      "source": "Fantom-foundation/fantom-ledger",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-fic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-filecoin",
+      "is_fork": true,
+      "parent": "Zondax/ledger-filecoin",
+      "source": "Zondax/ledger-filecoin",
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-fio",
+      "is_fork": true,
+      "parent": "vacuumlabs/ledger-fio",
+      "source": "vacuumlabs/ledger-fio",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:27:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-firmachain",
+      "is_fork": true,
+      "parent": "FirmaChain/ledger-firmachain",
+      "source": "FirmaChain/ledger-firmachain",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-flare",
+      "is_fork": true,
+      "parent": "Zondax/ledger-flare",
+      "source": "Zondax/ledger-flare",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-flow",
+      "is_fork": true,
+      "parent": "onflow/ledger-app-flow",
+      "source": "onflow/ledger-app-flow",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:27:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-freeton",
+      "is_fork": true,
+      "parent": "broxus/ledger-app-everscale-legacy",
+      "source": "Play-ton/ledger-app-freeton",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-genshiro",
+      "is_fork": true,
+      "parent": "equilibrium-eosdt/ledger-genshiro",
+      "source": "equilibrium-eosdt/ledger-genshiro",
+      "stars": 0,
+      "language": "CMake",
+      "last_checked": "2026-03-09T17:27:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-groestlcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-handshake",
+      "is_fork": true,
+      "parent": "handshake-org/ledger-app-hns",
+      "source": "handshake-org/ledger-app-hns",
+      "stars": 10,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-harmony-one",
+      "is_fork": true,
+      "parent": "harmony-one/ledger-app-one",
+      "source": "harmony-one/ledger-app-one",
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-hathor",
+      "is_fork": true,
+      "parent": "HathorNetwork/hathor-ledger-app",
+      "source": "HathorNetwork/hathor-ledger-app",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:27:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-hedera",
+      "is_fork": true,
+      "parent": "sreejithkaimal/hedera-ledger-app",
+      "source": "sreejithkaimal/hedera-ledger-app",
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-helium",
+      "is_fork": true,
+      "parent": "helium/helium-ledger-app",
+      "source": "helium/helium-ledger-app",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-helium-solana",
+      "is_fork": true,
+      "parent": "helium/app-helium-solana",
+      "source": "helium/app-helium-solana",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-hive",
+      "is_fork": true,
+      "parent": "bgornicki/app-hive",
+      "source": "bgornicki/app-hive",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-hodl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-hycon",
+      "is_fork": true,
+      "parent": "Team-Hycon/blue-app-hycon",
+      "source": "Team-Hycon/blue-app-hycon",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-icp",
+      "is_fork": true,
+      "parent": "Zondax/ledger-icp",
+      "source": "Zondax/ledger-icp",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-icx",
+      "is_fork": true,
+      "parent": "icon-project/ledger-app-icx",
+      "source": "icon-project/ledger-app-icx",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:28:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-insolar",
+      "is_fork": true,
+      "parent": "insolar/ledger-xns-app",
+      "source": "insolar/ledger-xns-app",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iota",
+      "is_fork": true,
+      "parent": "iotaledger/ledger-app-iota",
+      "source": "iotaledger/ledger-app-iota",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:28:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iota-legacy",
+      "is_fork": true,
+      "parent": "IOTA-Ledger/blue-app-iota",
+      "source": "IOTA-Ledger/blue-app-iota",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iota-legacy-2",
+      "is_fork": true,
+      "parent": "iotaledger/ledger-iota-app",
+      "source": "iotaledger/ledger-iota-app",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iota-rebased",
+      "is_fork": true,
+      "parent": "iotaledger/ledger-app-iota",
+      "source": "iotaledger/ledger-app-iota",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:28:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iotex",
+      "is_fork": true,
+      "parent": "iotexproject/ledger-app-iotex",
+      "source": "iotexproject/ledger-app-iotex",
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-iov",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ironfish",
+      "is_fork": true,
+      "parent": "Zondax/ledger-ironfish",
+      "source": "Zondax/ledger-ironfish",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ironfish-dkg",
+      "is_fork": true,
+      "parent": "Zondax/ledger-ironfish-dkg",
+      "source": "Zondax/ledger-ironfish-dkg",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:28:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kadena",
+      "is_fork": true,
+      "parent": "Zondax/ledger-kadena",
+      "source": "Zondax/ledger-kadena",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kadena-legacy",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-kadena",
+      "source": "obsidiansystems/ledger-app-kadena",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:28:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-karura",
+      "is_fork": true,
+      "parent": "Zondax/ledger-karura",
+      "source": "Zondax/ledger-karura",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kaspa",
+      "is_fork": true,
+      "parent": "coderofstuff/app-kaspa",
+      "source": "coderofstuff/app-kaspa",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-keepass",
+      "is_fork": true,
+      "parent": "aguinet/LedgerKeePass",
+      "source": "aguinet/LedgerKeePass",
+      "stars": 6,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:28:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-khala",
+      "is_fork": true,
+      "parent": "Zondax/ledger-khala",
+      "source": "Zondax/ledger-khala",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:28:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kin-spl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:02Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-kusama",
+      "is_fork": true,
+      "parent": "Zondax/ledger-kusama",
+      "source": "Zondax/ledger-kusama",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ledger-sync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-lisk",
+      "is_fork": true,
+      "parent": "vekexasia/ledger-dpos",
+      "source": "vekexasia/ledger-dpos",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-lisk-legacy",
+      "is_fork": true,
+      "parent": "Zondax/ledger-lisk",
+      "source": "Zondax/ledger-lisk",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-lisk-new",
+      "is_fork": true,
+      "parent": "Zondax/ledger-lisk",
+      "source": "Zondax/ledger-lisk",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-lto",
+      "is_fork": true,
+      "parent": "ltonetwork/ledger-app-lto",
+      "source": "ltonetwork/ledger-app-lto",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-medibloc",
+      "is_fork": true,
+      "parent": "medibloc/ledger-panacea",
+      "source": "medibloc/ledger-panacea",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-mimblewimblecoin",
+      "is_fork": true,
+      "parent": "NicolasFlamel1/Ledger-MimbleWimble-Coin",
+      "source": "NicolasFlamel1/Ledger-MimbleWimble-Coin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:29:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-mina",
+      "is_fork": true,
+      "parent": "jspada/ledger-app-mina",
+      "source": "jspada/ledger-app-mina",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-mobilecoin",
+      "is_fork": true,
+      "parent": "mobilecoinofficial/ledger-mob",
+      "source": "mobilecoinofficial/ledger-mob",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:29:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-monero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 288,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:29:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-multiversx",
+      "is_fork": true,
+      "parent": "multiversx/mx-ledger-nano",
+      "source": "multiversx/mx-ledger-nano",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-namada",
+      "is_fork": true,
+      "parent": "Zondax/ledger-namada",
+      "source": "Zondax/ledger-namada",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nano",
+      "is_fork": true,
+      "parent": "roosmaa/ledger-app-nano",
+      "source": "roosmaa/ledger-app-nano",
+      "stars": 8,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-navcoin",
+      "is_fork": true,
+      "parent": "navcoin/app-navcoin",
+      "source": "navcoin/app-navcoin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nbgl-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-near",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:29:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-near-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-near-new",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:29:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nem",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-neo",
+      "is_fork": true,
+      "parent": "mtrajano/blue-app-neo",
+      "source": "mtrajano/blue-app-neo",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:29:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-neo3",
+      "is_fork": true,
+      "parent": "CityOfZion/ledger-app-neo3",
+      "source": "CityOfZion/ledger-app-neo3",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nervos",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-nervos",
+      "source": "obsidiansystems/ledger-app-nervos",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nimiq",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-nodle",
+      "is_fork": true,
+      "parent": "Zondax/ledger-nodle",
+      "source": "Zondax/ledger-nodle",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-oasis",
+      "is_fork": true,
+      "parent": "Zondax/ledger-oasis",
+      "source": "Zondax/ledger-oasis",
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:30:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ont",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-openpgp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 142,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-oxen",
+      "is_fork": true,
+      "parent": "oxen-io/oxen-ledger-app",
+      "source": "oxen-io/oxen-ledger-app",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:30:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-panacea",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T16:01:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-parallel",
+      "is_fork": true,
+      "parent": "Zondax/ledger-parallel",
+      "source": "Zondax/ledger-parallel",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-particl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-partisiablockchain",
+      "is_fork": true,
+      "parent": "partisiablockchain/pbc-ledger-embedded-app",
+      "source": "partisiablockchain/pbc-ledger-embedded-app",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-passwords",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-peaq",
+      "is_fork": true,
+      "parent": "Zondax/ledger-peaq",
+      "source": "Zondax/ledger-peaq",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-pendulum",
+      "is_fork": true,
+      "parent": "Zondax/ledger-pendulum",
+      "source": "Zondax/ledger-pendulum",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-persistence",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-phala",
+      "is_fork": true,
+      "parent": "Zondax/ledger-phala",
+      "source": "Zondax/ledger-phala",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-platon",
+      "is_fork": true,
+      "parent": "PlatONnetwork/ledger-app-platon",
+      "source": "PlatONnetwork/ledger-app-platon",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-1inch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:30:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-alkemi",
+      "is_fork": true,
+      "parent": "AlkemiNetwork/alkemi-ledger-plugin",
+      "source": "AlkemiNetwork/alkemi-ledger-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-angle",
+      "is_fork": true,
+      "parent": "AngleProtocol/ledger-plugin",
+      "source": "AngleProtocol/ledger-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-apwine",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-apwine",
+      "source": "blooo-io/LedgerHQ-app-plugin-apwine",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:30:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-art-blocks",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-art-blocks",
+      "source": "blooo-io/LedgerHQ-app-plugin-art-blocks",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:30:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C",
+      "last_checked": "2026-03-09T17:30:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-bricktowers",
+      "is_fork": true,
+      "parent": "skisel-bt/app-plugin-bricktowers",
+      "source": "LedgerHQ/app-plugin-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-cbridge",
+      "is_fork": true,
+      "parent": "celer-network/nano-plugin-cbridge",
+      "source": "celer-network/nano-plugin-cbridge",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:31:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-chorus-one",
+      "is_fork": true,
+      "parent": "ChorusOne/app-plugin-chorus-one",
+      "source": "LedgerHQ/app-plugin-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-cian",
+      "is_fork": true,
+      "parent": "cian-ai/app-plugin-cian",
+      "source": "cian-ai/app-plugin-cian",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:31:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-coinbase",
+      "is_fork": true,
+      "parent": "coinbase/ledger-plugin-coinbase-staking",
+      "source": "coinbase/ledger-plugin-coinbase-staking",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-cometh",
+      "is_fork": true,
+      "parent": "cometh-hq/ledger-app-plugin",
+      "source": "cometh-hq/ledger-app-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-compound",
+      "is_fork": true,
+      "parent": "LinumLabs/ledger-compound-plugin",
+      "source": "LinumLabs/ledger-compound-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:31:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-eigenlayer",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-eigenlayer",
+      "source": "Zondax/ledger-plugin-eigenlayer",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-ens",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-ens",
+      "source": "Zondax/ledger-plugin-ens",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-figment",
+      "is_fork": true,
+      "parent": "figment-networks/ledger-app-plugin",
+      "source": "figment-networks/ledger-app-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-harvest",
+      "is_fork": true,
+      "parent": "bogdoslavik/harvest-ledger-plugin",
+      "source": "bogdoslavik/harvest-ledger-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-kelp",
+      "is_fork": true,
+      "parent": "Kelp-DAO/app-plugin-kelp",
+      "source": "Kelp-DAO/app-plugin-kelp",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-kiln",
+      "is_fork": true,
+      "parent": "kilnfi/app-plugin-kiln",
+      "source": "kilnfi/app-plugin-kiln",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-lens",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-lens",
+      "source": "Zondax/ledger-plugin-lens",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:31:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-libertify",
+      "is_fork": true,
+      "parent": "LibertyFi/app-plugin-libertify",
+      "source": "LedgerHQ/app-plugin-1inch",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:31:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-lido",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:31:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-midas",
+      "is_fork": true,
+      "parent": "midas-apps/ledger-app-plugin-midas",
+      "source": "LedgerHQ/app-plugin-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-morpho",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-morpho",
+      "source": "Zondax/ledger-plugin-morpho",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-morpho-legacy",
+      "is_fork": true,
+      "parent": "morpho-org/morpho-ledger-plugin",
+      "source": "gpiriou/morpho-ledger-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:31:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-nested",
+      "is_fork": true,
+      "parent": "MassDotMoney/nested-ledger-plugin",
+      "source": "MassDotMoney/nested-ledger-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-nft",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-nft",
+      "source": "blooo-io/LedgerHQ-app-plugin-nft",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-okx",
+      "is_fork": true,
+      "parent": "okx/ledger-app-plugin-okx",
+      "source": "okx/ledger-app-plugin-okx",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-opensea",
+      "is_fork": true,
+      "parent": "gpiriou/opensea-plugin",
+      "source": "gpiriou/opensea-plugin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-opensea-new",
+      "is_fork": true,
+      "parent": "Benjyskan/Seaport",
+      "source": "Benjyskan/Seaport",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:31:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-origin",
+      "is_fork": true,
+      "parent": "OriginProtocol/app-plugin-origin",
+      "source": "LedgerHQ/app-plugin-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-p2p",
+      "is_fork": true,
+      "parent": "p2p-org/eth-ledger-plugin",
+      "source": "p2p-org/eth-ledger-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:32:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-paraswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:32:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-poap",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-poap",
+      "source": "blooo-io/LedgerHQ-app-plugin-poap",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:32:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-quickswap",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-quickswap",
+      "source": "blooo-io/LedgerHQ-app-plugin-quickswap",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-rarible",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-rarible",
+      "source": "Zondax/ledger-plugin-rarible",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-ribbon",
+      "is_fork": true,
+      "parent": "ribbon-finance/ledger-eth-plugin",
+      "source": "ribbon-finance/ledger-eth-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:32:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-ricochet",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-ricochet",
+      "source": "blooo-io/LedgerHQ-app-plugin-ricochet",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-rocketpool",
+      "is_fork": true,
+      "parent": "rocket-pool/ledger-app-plugin-rocketpool",
+      "source": "LedgerHQ/app-plugin-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-spool",
+      "is_fork": true,
+      "parent": "YieldLayer/spool-ledger",
+      "source": "YieldLayer/spool-ledger",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:32:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-squid",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-squid",
+      "source": "blooo-io/LedgerHQ-app-plugin-squid",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-staderlabs",
+      "is_fork": true,
+      "parent": "stader-labs/app-plugin-staderlabs",
+      "source": "stader-labs/app-plugin-staderlabs",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-stakedao",
+      "is_fork": true,
+      "parent": "StakeDAO/sd-ledger",
+      "source": "StakeDAO/sd-ledger",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:32:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-stakekit",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-stakekit",
+      "source": "blooo-io/LedgerHQ-app-plugin-stakekit",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-swell",
+      "is_fork": true,
+      "parent": "Zondax/ledger-plugin-swell",
+      "source": "Zondax/ledger-plugin-swell",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-uniswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-uniswap-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:32:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-uniswap-test2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:32:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-velora",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:32:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-plugin-yearn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-pocket",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-pocket",
+      "source": "obsidiansystems/ledger-app-pocket",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:32:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-polkadex",
+      "is_fork": true,
+      "parent": "Zondax/ledger-polkadex",
+      "source": "Zondax/ledger-polkadex",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-polkadot",
+      "is_fork": true,
+      "parent": "Zondax/ledger-polkadot",
+      "source": "Zondax/ledger-polkadot",
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:32:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-polymesh",
+      "is_fork": true,
+      "parent": "Zondax/ledger-polymesh",
+      "source": "Zondax/ledger-polymesh",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-pro",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-cosmos",
+      "source": "cosmos/ledger-cosmos",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:33:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-provenance",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-provenance",
+      "source": "obsidiansystems/ledger-app-provenance",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:33:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-qrl",
+      "is_fork": true,
+      "parent": "theQRL/ledger-qrl-app",
+      "source": "Zondax/ledger-qrl-app",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-qtum",
+      "is_fork": true,
+      "parent": "qtumproject/app-qtum",
+      "source": "LedgerHQ/app-bitcoin-new",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-radix",
+      "is_fork": true,
+      "parent": "radixdlt/app-radix",
+      "source": "radixdlt/app-radix",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-radix-babylon",
+      "is_fork": true,
+      "parent": "radixdlt/babylon-ledger-app",
+      "source": "radixdlt/babylon-ledger-app",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:33:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ravencoin",
+      "is_fork": true,
+      "parent": "kralverde/app-ravencoin",
+      "source": "kralverde/app-ravencoin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-recovery-check",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-reef",
+      "is_fork": true,
+      "parent": "reef-defi/ledger-reef",
+      "source": "reef-defi/ledger-reef",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-revealer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:33:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-rise",
+      "is_fork": true,
+      "parent": "hirishh/app-rise",
+      "source": "hirishh/app-rise",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-safecoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-secret",
+      "is_fork": true,
+      "parent": "SecretSaturn/ledger-secret",
+      "source": "SecretSaturn/ledger-secret",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-security-key",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-seed-tool",
+      "is_fork": true,
+      "parent": "aido/app-seed-tool",
+      "source": "LedgerHQ/app-recovery-check",
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-sei",
+      "is_fork": true,
+      "parent": "Zondax/ledger-sei",
+      "source": "Zondax/ledger-sei",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-shimmer",
+      "is_fork": true,
+      "parent": "iotaledger/ledger-iota-app",
+      "source": "iotaledger/ledger-iota-app",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-sia",
+      "is_fork": true,
+      "parent": "SiaFoundation/app-sia-x",
+      "source": "SiaFoundation/app-sia-x",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-sia-legacy",
+      "is_fork": true,
+      "parent": "NebulousLabs/nanos-app-sia",
+      "source": "NebulousLabs/nanos-app-sia",
+      "stars": 19,
+      "language": "C",
+      "last_checked": "2026-03-09T17:33:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-sia-x",
+      "is_fork": true,
+      "parent": "SiaFoundation/app-sia-x",
+      "source": "SiaFoundation/app-sia-x",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-solana",
+      "is_fork": true,
+      "parent": "solana-labs/ledger-app-solana",
+      "source": "solana-labs/ledger-app-solana",
+      "stars": 43,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-solar",
+      "is_fork": true,
+      "parent": "Solar-network/ledger-app-solar",
+      "source": "Solar-network/ledger-app-solar",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-spacemesh",
+      "is_fork": true,
+      "parent": "Zondax/ledger-spacemesh",
+      "source": "Zondax/ledger-spacemesh",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ssh-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 83,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-stacks",
+      "is_fork": true,
+      "parent": "Zondax/ledger-stacks",
+      "source": "Zondax/ledger-stacks",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:34:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:34:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-starknet-zondax",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:34:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-statemine",
+      "is_fork": true,
+      "parent": "Zondax/ledger-statemine",
+      "source": "Zondax/ledger-statemine",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-statemint",
+      "is_fork": true,
+      "parent": "Zondax/ledger-statemint",
+      "source": "Zondax/ledger-statemint",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-stax-bip-wordle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-stellar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:34:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-streaming",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-sui",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-sui",
+      "source": "obsidiansystems/ledger-app-sui",
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:34:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-symbol",
+      "is_fork": true,
+      "parent": "FDS-Ledger/symbol-ledger-app",
+      "source": "FDS-Ledger/symbol-ledger-app",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tendermint",
+      "is_fork": true,
+      "parent": "tendermint/ledger-validator-app",
+      "source": "tendermint/ledger-validator-app",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-terra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tess-train",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-boilerplate",
+      "source": "LedgerHQ/app-boilerplate",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:34:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-test-tmp2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:34:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tezos",
+      "is_fork": true,
+      "parent": "trilitech/ledger-app-tezos-wallet",
+      "source": "trilitech/ledger-app-tezos-wallet",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tezos-baking",
+      "is_fork": true,
+      "parent": "trilitech/ledger-app-tezos-baking",
+      "source": "obsidiansystems/ledger-app-tezos",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tezos-legacy",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-tezos",
+      "source": "obsidiansystems/ledger-app-tezos",
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tezos-new",
+      "is_fork": true,
+      "parent": "trilitech/ledger-app-tezos-wallet",
+      "source": "trilitech/ledger-app-tezos-wallet",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-theta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:34:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-thorchain",
+      "is_fork": true,
+      "parent": "the-eridanus/app-thorchain",
+      "source": "LedgerHQ/app-thorchain-legacy",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-thorchain-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-thorchain-new",
+      "is_fork": true,
+      "parent": "the-eridanus/app-thorchain",
+      "source": "LedgerHQ/app-thorchain-legacy",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tmp-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:35:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ton",
+      "is_fork": true,
+      "parent": "ton-blockchain/ledger-app-ton",
+      "source": "ton-blockchain/ledger-app-ton",
+      "stars": 9,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ton-legacy",
+      "is_fork": true,
+      "parent": "ton-blockchain/ledger-app-ton-old",
+      "source": "ton-blockchain/ledger-app-ton-old",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-ton-new",
+      "is_fork": true,
+      "parent": "ton-blockchain/ledger-app-ton",
+      "source": "ton-blockchain/ledger-app-ton",
+      "stars": 9,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-tron",
+      "is_fork": true,
+      "parent": "klever-io/trx-ledger",
+      "source": "klever-io/trx-ledger",
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-trustchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-u2f",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-vechain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-velas",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-velas",
+      "source": "blooo-io/LedgerHQ-app-velas",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-waves",
+      "is_fork": true,
+      "parent": "wavesplatform/ledger-app-waves",
+      "source": "wavesplatform/ledger-app-waves",
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-west",
+      "is_fork": true,
+      "parent": "waves-enterprise/ledger-app-west",
+      "source": "waves-enterprise/ledger-app-west",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-windows-hello",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "PowerShell",
+      "last_checked": "2026-03-09T17:35:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-woleet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-xah",
+      "is_fork": true,
+      "parent": "Xahau/app-xah",
+      "source": "Xahau/app-xah",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-xinfin",
+      "is_fork": true,
+      "parent": "XinFinOrg/LedgerXDCApp",
+      "source": "XinFinOrg/LedgerXDCApp",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-xrp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-xxnetwork",
+      "is_fork": true,
+      "parent": "Zondax/ledger-xxnetwork",
+      "source": "Zondax/ledger-xxnetwork",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-zcash",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-bitcoin",
+      "source": "LedgerHQ/app-bitcoin",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-zcash-new",
+      "is_fork": true,
+      "parent": "Zondax/ledger-zcash",
+      "source": "Zondax/ledger-zcash",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/app-zilliqa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/apps-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:35:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/bigd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:35:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/bip39",
+      "is_fork": true,
+      "parent": "iancoleman/bip39",
+      "source": "iancoleman/bip39",
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:36:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcoin-abc",
+      "is_fork": true,
+      "parent": "Bitcoin-ABC/bitcoin-abc",
+      "source": "Bitcoin-ABC/bitcoin-abc",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:36:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcoin-keychain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcoin-lib-grpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:36:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcoind-rpc",
+      "is_fork": true,
+      "parent": "bitpay/bitcoind-rpc",
+      "source": "bitpay/bitcoind-rpc",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:36:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcoinjs-lib",
+      "is_fork": true,
+      "parent": "bitcoinjs/bitcoinjs-lib",
+      "source": "bitcoinjs/bitcoinjs-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/bitcore-wallet-client",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-wallet-client",
+      "source": "bitpay/bitcore-wallet-client",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:36:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-casing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-devenv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-loader-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:36:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-nonsecure-firmware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-nonsecure-firmware-releases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-schematics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-secure-firmware-releases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:36:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/blue-secure-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/bolos-enclave",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/bolos-enclave-catchme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/bolos-tee",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/breaking-bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/bst-app-aptos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/bst-app-exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-c-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T17:36:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:36:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-java-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:36:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-js-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:36:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-kryptokit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:36:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/btchip-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 67,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:36:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/btg-convert",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:36:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/buy-sell-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:36:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/c-helper-macros",
+      "is_fork": true,
+      "parent": "rhempel/c-helper-macros",
+      "source": "rhempel/c-helper-macros",
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:37:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/cScale",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/cargo-ledger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:37:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/categorizer_bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:37:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/cex-deposit-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/changeset-action-ledger",
+      "is_fork": true,
+      "parent": "changesets/action",
+      "source": "changesets/action",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef",
+      "is_fork": true,
+      "parent": "chef/chef",
+      "source": "chef/chef",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-chrony",
+      "is_fork": true,
+      "parent": "sous-chefs/chrony",
+      "source": "sous-chefs/chrony",
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T17:37:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-nginx",
+      "is_fork": true,
+      "parent": "sous-chefs/nginx",
+      "source": "sous-chefs/nginx",
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T17:37:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-pgbouncer-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-postgresql",
+      "is_fork": true,
+      "parent": "sous-chefs/postgresql",
+      "source": "sous-chefs/postgresql",
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T17:37:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-server",
+      "is_fork": true,
+      "parent": "chef/chef-server",
+      "source": "chef/chef-server",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/chef-squid",
+      "is_fork": true,
+      "parent": "sous-chefs/squid",
+      "source": "sous-chefs/squid",
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T17:37:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/chromeapp2electron",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/circleci-orbs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/clang",
+      "is_fork": true,
+      "parent": "llvm-mirror/clang",
+      "source": "llvm-mirror/clang",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:37:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/clear-signing-erc7730-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/clear-signing-erc7730-developer-tools",
+      "is_fork": true,
+      "parent": "LedgerHQ/clear-signing-erc7730-registry",
+      "source": "LedgerHQ/clear-signing-erc7730-registry",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/clear-signing-erc7730-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:37:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/clear-signing-erc7730-registry-hackathon",
+      "is_fork": true,
+      "parent": "LedgerHQ/clear-signing-erc7730-registry",
+      "source": "LedgerHQ/clear-signing-erc7730-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/clear-signing-format-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:37:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/compressjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:37:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/connect-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/contract-test-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Batchfile",
+      "last_checked": "2026-03-09T17:37:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/cra-template-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/cream-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:37:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/cream-workshop-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/cria",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:37:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/crosstool-ng",
+      "is_fork": true,
+      "parent": "crosstool-ng/crosstool-ng",
+      "source": "crosstool-ng/crosstool-ng",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:37:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/crypto-icons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:37:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/cylib",
+      "is_fork": true,
+      "parent": "rdubois-crypto/cylib",
+      "source": "rdubois-crypto/cylib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/dale",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:38:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/device-management-kit-ts-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/device-sdk-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/djinni",
+      "is_fork": true,
+      "parent": "dropbox/djinni",
+      "source": "dropbox/djinni",
+      "stars": 16,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:38:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/dockcross",
+      "is_fork": true,
+      "parent": "dockcross/dockcross",
+      "source": "steeve/cross-compiler",
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:38:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/dummy-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/ec2-github-runner",
+      "is_fork": true,
+      "parent": "machulav/ec2-github-runner",
+      "source": "machulav/ec2-github-runner",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:38:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/ecom_be_node_test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/ecom_be_php_test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/edev-front-end-take-home",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:38:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/electron-builder",
+      "is_fork": true,
+      "parent": "electron-userland/electron-builder",
+      "source": "electron-userland/electron-builder",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/electrum-ltc",
+      "is_fork": true,
+      "parent": "pooler/electrum-ltc",
+      "source": "spesmilo/electrum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/embedded-application-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:38:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/erc-7730-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/eth-dapp-browser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/eth-dapp-browser-test-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/eth-ledger-bridge-keyring",
+      "is_fork": true,
+      "parent": "MetaMask/eth-ledger-bridge-keyring",
+      "source": "MetaMask/eth-ledger-bridge-keyring",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:38:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/ethash",
+      "is_fork": true,
+      "parent": "ethereum/ethash",
+      "source": "ethereum/ethash",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:38:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/ethereum-plugin-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C",
+      "last_checked": "2026-03-09T17:38:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/exchange-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:38:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/exchange-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:38:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/exercises-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/flip-it",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/foresight",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:39:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/fuzzers-corpus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/ga-argocd-action",
+      "is_fork": true,
+      "parent": "inarix/ga-argocd-action",
+      "source": "inarix/ga-argocd-action",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:39:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/gaia",
+      "is_fork": true,
+      "parent": "cosmos/gaia",
+      "source": "cosmos/gaia",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/get-starknet",
+      "is_fork": true,
+      "parent": "starknet-io/get-starknet",
+      "source": "starknet-io/get-starknet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/gh-metadata-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/gitcoin-bounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/github-actions-live-vercel",
+      "is_fork": true,
+      "parent": "machard/github-action-artifact-redirect",
+      "source": "machard/github-action-artifact-redirect",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:39:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/hackathon-ledgerscan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:39:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/hvac-lam-integration-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:39:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/hw-app-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/hw-transport-android-ble",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T17:39:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/hw-transport-ios-ble",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:39:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/iframe-provider",
+      "is_fork": true,
+      "parent": "ethvault/iframe-provider",
+      "source": "ethvault/iframe-provider",
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:39:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/innovation-contracts-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:39:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/innovation-ens-resolver-L2",
+      "is_fork": true,
+      "parent": "imqdee/ens-offchain-resolver-for-l2",
+      "source": "imqdee/ens-offchain-resolver-for-l2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:39:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/innovation-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/innovation-voucher-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:39:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/inventory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/ios-ble-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:39:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/ios-ble-wrapper-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:39:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/ios-ble-wrapper-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:39:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/jcardsim",
+      "is_fork": true,
+      "parent": "licel/jcardsim",
+      "source": "licel/jcardsim",
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:39:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/jersey",
+      "is_fork": true,
+      "parent": "eclipse-ee4j/jersey",
+      "source": "eclipse-ee4j/jersey",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:39:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/jest-allure-circus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/k6-install-centos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:39:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/kata-containers",
+      "is_fork": true,
+      "parent": "kata-containers/kata-containers",
+      "source": "kata-containers/kata-containers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:39:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/keplr-wallet",
+      "is_fork": true,
+      "parent": "chainapsis/keplr-wallet",
+      "source": "chainapsis/keplr-wallet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/kudelski-cryptochallenge18",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:40:02Z"
+    },
+    {
+      "full_name": "LedgerHQ/lama",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/lama-scheduler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/lascar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:40:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-api-blockchain-events",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-api-meta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-api-mf2a",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T17:40:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-builder-clang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-cosmos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-09T17:40:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-database",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:40:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-nanopb-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:40:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-otherdime",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "C",
+      "last_checked": "2026-03-09T17:40:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-pocket",
+      "is_fork": true,
+      "parent": "obsidiansystems/ledger-app-pocket",
+      "source": "obsidiansystems/ledger-app-pocket",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:40:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-store-front",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:40:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-tester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-tester-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-app-workflows",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:40:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-asset-dapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:40:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-blue",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": null,
+      "last_checked": "2026-03-09T17:40:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-cairo-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:40:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-cosmos-js",
+      "is_fork": true,
+      "parent": "cosmos/ledger-cosmos-js",
+      "source": "Zondax/ledger-cosmos-js",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:40:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-dev-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:40:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-device-rust-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:40:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-dotnet-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "C#",
+      "last_checked": "2026-03-09T17:41:00Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-fresh-management",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-fresh-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-javacard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 153,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:41:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-javacard-eligibility",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:41:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-key-ring-protocol-whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 568,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:41:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 135,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:41:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-desktop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 954,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:41:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-desktop-beta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-desktop-nightly",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:41:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-mobile",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 385,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:41:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-platform-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:41:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-status-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:41:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:41:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-vault",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledger-live",
+      "source": "LedgerHQ/ledger-live",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:41:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-vault-tron",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledger-live-vault",
+      "source": "LedgerHQ/ledger-live",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-live-wagmi-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:41:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-manager-chrome",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:41:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-manager-hsm-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-nano-piv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-nano-s",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 281,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-nanopb",
+      "is_fork": true,
+      "parent": "nanopb/nanopb",
+      "source": "nanopb/nanopb",
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-09T17:41:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-nanos-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:41:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-nanos-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:41:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-repl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:41:58Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-rust",
+      "is_fork": true,
+      "parent": "ledger-community/rust-ledger",
+      "source": "ledger-community/rust-ledger",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:42:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-sample-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "C",
+      "last_checked": "2026-03-09T17:42:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-scala-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:42:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-secure-os",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "C",
+      "last_checked": "2026-03-09T17:42:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-secure-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "C",
+      "last_checked": "2026-03-09T17:42:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-starter-iso",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:42:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-u2f-javacard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 74,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:42:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-updater",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-vscode-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:42:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wagmi-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:42:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 81,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:42:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-chrome",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 161,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-chrome-alert-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-ethereum-chrome",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:42:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-ripple",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 65,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledger-wallet-webtool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgercomm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:42:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgerctl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:42:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgered",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:42:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgerjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 575,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:42:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgerjs-cardano-shelley",
+      "is_fork": true,
+      "parent": "vacuumlabs/ledgerjs-cardano-shelley",
+      "source": "vacuumlabs/ledgerjs-cardano-shelley",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:42:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgerjs-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/ledgerjs-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:42:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/leveldb",
+      "is_fork": true,
+      "parent": "bitcoin-core/leveldb-subtree",
+      "source": "google/leveldb",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:42:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/lib-app-bitcoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:42:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/lib-ledger-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 77,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:42:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/lib-ledger-core-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/lib-ledger-core-node-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:43:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/lib-ledger-core-react-native-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:43:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/live-app-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/live-app-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:43:11Z"
+    },
+    {
+      "full_name": "LedgerHQ/live-test-reports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/lld-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:43:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/llvm",
+      "is_fork": true,
+      "parent": "llvm-mirror/llvm",
+      "source": "llvm-mirror/llvm",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:43:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/login-with-metamask-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/marshmallow_dataclass",
+      "is_fork": true,
+      "parent": "lovasoa/marshmallow_dataclass",
+      "source": "lovasoa/marshmallow_dataclass",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:43:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/metamask-extension",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:22Z"
+    },
+    {
+      "full_name": "LedgerHQ/metamask-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:43:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/mew-wallet-ios-kit",
+      "is_fork": true,
+      "parent": "MyEtherWallet/mew-wallet-ios-kit",
+      "source": "MyEtherWallet/mew-wallet-ios-kit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/mew-wallet-ios-kit-ledger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/mkdocs-ledger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/moosig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:43:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/moxiebox",
+      "is_fork": true,
+      "parent": "jgarzik/moxiebox",
+      "source": "jgarzik/moxiebox",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:43:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/msgpack-c",
+      "is_fork": true,
+      "parent": "msgpack/msgpack-c",
+      "source": "msgpack/msgpack-c",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/multimerchant-python",
+      "is_fork": true,
+      "parent": "BlockIo/multimerchant-python",
+      "source": "BlockIo/multimerchant-python",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:43:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/nano-app-web-installer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:43:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/nano-app-web-installer-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:43:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/nano-capp-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:43:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/nano-rapp-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:43:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/nano-sniffer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:43:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanopass-chrome-ext",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:43:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanos-nonsecure-firmware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "C",
+      "last_checked": "2026-03-09T17:43:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanos-nonsecure-firmware-releases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": null,
+      "last_checked": "2026-03-09T17:43:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanos-secure-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "C",
+      "last_checked": "2026-03-09T17:43:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanos-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "C",
+      "last_checked": "2026-03-09T17:44:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanosplus-secure-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-09T17:44:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/nanox-secure-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "C",
+      "last_checked": "2026-03-09T17:44:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/nft-merkle-tree",
+      "is_fork": true,
+      "parent": "imqdee/merkle-tree",
+      "source": "imqdee/merkle-tree",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:44:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/noble-mac",
+      "is_fork": true,
+      "parent": "Timeular/noble-mac",
+      "source": "Timeular/noble-mac",
+      "stars": 1,
+      "language": "Objective-C++",
+      "last_checked": "2026-03-09T17:44:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/noble-secp256k1",
+      "is_fork": true,
+      "parent": "paulmillr/noble-secp256k1",
+      "source": "paulmillr/noble-secp256k1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:44:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/node-pre-gyp-github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:44:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/noise-c",
+      "is_fork": true,
+      "parent": "rweather/noise-c",
+      "source": "rweather/noise-c",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:44:17Z"
+    },
+    {
+      "full_name": "LedgerHQ/notification-center",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:44:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/npm-attest-lab",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:44:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/nuts",
+      "is_fork": true,
+      "parent": "GitbookIO/nuts",
+      "source": "GitbookIO/nuts",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:44:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/offchain-resolver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:44:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/open-keychain",
+      "is_fork": true,
+      "parent": "open-keychain/open-keychain",
+      "source": "open-keychain/open-keychain",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:44:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/openpgp-card-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 142,
+      "language": "C",
+      "last_checked": "2026-03-09T17:44:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/orakolo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:44:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/passwords-backup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:44:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/pbjson",
+      "is_fork": true,
+      "parent": "influxdata/pbjson",
+      "source": "influxdata/pbjson",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:44:41Z"
+    },
+    {
+      "full_name": "LedgerHQ/pillars",
+      "is_fork": true,
+      "parent": "FunktionalIO/pillars",
+      "source": "FunktionalIO/pillars",
+      "stars": 1,
+      "language": "Scala",
+      "last_checked": "2026-03-09T17:44:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/platform-app-coinify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:44:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/platform-app-debug",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:44:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/platform-app-test-exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:44:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/platform-app-web-browser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:44:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/platform-app-wyre",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:44:55Z"
+    },
+    {
+      "full_name": "LedgerHQ/plugin-bettermulticall",
+      "is_fork": true,
+      "parent": "Th0rgal/plugin-bmc",
+      "source": "Th0rgal/plugin-bmc",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:44:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/plugin-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:44:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/plugin-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:44:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/poise-archive",
+      "is_fork": true,
+      "parent": "poise/poise-archive",
+      "source": "poise/poise-archive",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:02Z"
+    },
+    {
+      "full_name": "LedgerHQ/poise-service",
+      "is_fork": true,
+      "parent": "poise/poise-service",
+      "source": "poise/poise-service",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/prezto",
+      "is_fork": true,
+      "parent": "sorin-ionescu/prezto",
+      "source": "sorin-ionescu/prezto",
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:45:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/proto-gendoc-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:45:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/ptx-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:45:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/pypdm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/python-base-images",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/python-bitcoin-utils-ledger",
+      "is_fork": true,
+      "parent": "karask/python-bitcoin-utils",
+      "source": "karask/python-bitcoin-utils",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/python-erc7730",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/python-etcd3",
+      "is_fork": true,
+      "parent": "kragniz/python-etcd3",
+      "source": "kragniz/python-etcd3",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/python-lib-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/qa-backend-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:24Z"
+    },
+    {
+      "full_name": "LedgerHQ/ragger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/rapp-plugin-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:45:28Z"
+    },
+    {
+      "full_name": "LedgerHQ/react-native-passcode-auth",
+      "is_fork": true,
+      "parent": "naoufal/react-native-passcode-auth",
+      "source": "naoufal/react-native-passcode-auth",
+      "stars": 3,
+      "language": "Objective-C",
+      "last_checked": "2026-03-09T17:45:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/react-native-secp256k1",
+      "is_fork": true,
+      "parent": "fingera/react-native-secp256k1",
+      "source": "fingera/react-native-secp256k1",
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-09T17:45:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/react-native-touch-id",
+      "is_fork": true,
+      "parent": "naoufal/react-native-touch-id",
+      "source": "naoufal/react-native-touch-id",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:45:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/recover-whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/resigner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:45:39Z"
+    },
+    {
+      "full_name": "LedgerHQ/ripple-lib",
+      "is_fork": true,
+      "parent": "XRPLF/xrpl.js",
+      "source": "XRPLF/xrpl.js",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:45:43Z"
+    },
+    {
+      "full_name": "LedgerHQ/runner-container-hooks",
+      "is_fork": true,
+      "parent": "actions/runner-container-hooks",
+      "source": "actions/runner-container-hooks",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:45:45Z"
+    },
+    {
+      "full_name": "LedgerHQ/rust-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:45:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/rust-app-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:45:50Z"
+    },
+    {
+      "full_name": "LedgerHQ/rust-app-password-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:45:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:45:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/samplewebwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:45:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/satstack",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 161,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:45:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/scaffold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "VHDL",
+      "last_checked": "2026-03-09T17:46:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/sdk_include_gif",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:46:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/secp256k1",
+      "is_fork": true,
+      "parent": "bitcoin-core/secp256k1",
+      "source": "bitcoin-core/secp256k1",
+      "stars": 4,
+      "language": "C",
+      "last_checked": "2026-03-09T17:46:06Z"
+    },
+    {
+      "full_name": "LedgerHQ/secure-sdk-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:46:08Z"
+    },
+    {
+      "full_name": "LedgerHQ/send-to-allure-server-action",
+      "is_fork": true,
+      "parent": "Xotabu4/send-to-allure-server-action",
+      "source": "Xotabu4/send-to-allure-server-action",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:46:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/shop-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:10Z"
+    },
+    {
+      "full_name": "LedgerHQ/slack-action",
+      "is_fork": true,
+      "parent": "Brymastr/slack-action",
+      "source": "Brymastr/slack-action",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:46:13Z"
+    },
+    {
+      "full_name": "LedgerHQ/solidity-exercise",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:46:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/solidity-exercise-wahtique",
+      "is_fork": true,
+      "parent": "LedgerHQ/solidity-exercise",
+      "source": "LedgerHQ/solidity-exercise",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:46:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/spdlog",
+      "is_fork": true,
+      "parent": "gabime/spdlog",
+      "source": "gabime/spdlog",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:46:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/speculos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 176,
+      "language": "C",
+      "last_checked": "2026-03-09T17:46:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/squid-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:46:26Z"
+    },
+    {
+      "full_name": "LedgerHQ/staking-deposit-cli",
+      "is_fork": true,
+      "parent": "ethereum/staking-deposit-cli",
+      "source": "ethereum/staking-deposit-cli",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:46:29Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-apdu-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:46:31Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-js-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:46:33Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-plugin-account",
+      "is_fork": true,
+      "parent": "argentlabs/starknet-plugin-account",
+      "source": "argentlabs/starknet-plugin-account",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:35Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-plugin-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:46:37Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:46:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/starknet-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:46:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/substrate-api-sidecar",
+      "is_fork": true,
+      "parent": "paritytech/substrate-api-sidecar",
+      "source": "paritytech/substrate-api-sidecar",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:46:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/swap-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:46Z"
+    },
+    {
+      "full_name": "LedgerHQ/temporary-ledger-live-issues-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:48Z"
+    },
+    {
+      "full_name": "LedgerHQ/test-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/test-app-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/tf8yswcd3b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:46:52Z"
+    },
+    {
+      "full_name": "LedgerHQ/thor-sync.electron-ldg-recovery",
+      "is_fork": true,
+      "parent": "vechain/thor-sync.electron",
+      "source": "vechain/thor-sync.electron",
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-09T17:46:54Z"
+    },
+    {
+      "full_name": "LedgerHQ/tmp-test-app-boilerplate",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-boilerplate",
+      "source": "LedgerHQ/app-boilerplate",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:46:56Z"
+    },
+    {
+      "full_name": "LedgerHQ/tzindex",
+      "is_fork": true,
+      "parent": "blockwatch-cc/tzindex",
+      "source": "blockwatch-cc/tzindex",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:46:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/tzindex-exporter",
+      "is_fork": true,
+      "parent": "rottenbytes/tzindex-exporter",
+      "source": "rottenbytes/tzindex-exporter",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:47:01Z"
+    },
+    {
+      "full_name": "LedgerHQ/tzstats-middleware",
+      "is_fork": true,
+      "parent": "hadronized/tzstats-middleware",
+      "source": "hadronized/tzstats-middleware",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:47:03Z"
+    },
+    {
+      "full_name": "LedgerHQ/u2f-ble-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-09T17:47:05Z"
+    },
+    {
+      "full_name": "LedgerHQ/u2f-ble-test-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Swift",
+      "last_checked": "2026-03-09T17:47:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/ubinder",
+      "is_fork": true,
+      "parent": "teams2ua/ubinder",
+      "source": "teams2ua/ubinder",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T17:47:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/udev-rules",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 142,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:47:14Z"
+    },
+    {
+      "full_name": "LedgerHQ/ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:16Z"
+    },
+    {
+      "full_name": "LedgerHQ/unos_",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T17:47:18Z"
+    },
+    {
+      "full_name": "LedgerHQ/vanadium",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:47:20Z"
+    },
+    {
+      "full_name": "LedgerHQ/vanadium-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "C",
+      "last_checked": "2026-03-09T17:47:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/vanadium-rust-bitcoin",
+      "is_fork": true,
+      "parent": "rust-bitcoin/rust-bitcoin",
+      "source": "rust-bitcoin/rust-bitcoin",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:47:25Z"
+    },
+    {
+      "full_name": "LedgerHQ/vanadium-rust-secp256k1",
+      "is_fork": true,
+      "parent": "rust-bitcoin/rust-secp256k1",
+      "source": "rust-bitcoin/rust-secp256k1",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T17:47:27Z"
+    },
+    {
+      "full_name": "LedgerHQ/vanadium-secp256kfun",
+      "is_fork": true,
+      "parent": "LLFourn/secp256kfun",
+      "source": "LLFourn/secp256kfun",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:47:30Z"
+    },
+    {
+      "full_name": "LedgerHQ/vault-cli-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:32Z"
+    },
+    {
+      "full_name": "LedgerHQ/vault-front-homework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:34Z"
+    },
+    {
+      "full_name": "LedgerHQ/vault_seed_recovery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:47:36Z"
+    },
+    {
+      "full_name": "LedgerHQ/vnd-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:47:38Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 71,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:40Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-api-eip1193-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:47:42Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-api-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:44Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-btc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:47Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-connect-live-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:49Z"
+    },
+    {
+      "full_name": "LedgerHQ/wallet-sync-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:51Z"
+    },
+    {
+      "full_name": "LedgerHQ/walletconnect-ll-universal-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:47:53Z"
+    },
+    {
+      "full_name": "LedgerHQ/web3-onboard-ledgerconnect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:57Z"
+    },
+    {
+      "full_name": "LedgerHQ/web3-react-ledgerconnect-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:47:59Z"
+    },
+    {
+      "full_name": "LedgerHQ/web3allowlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-09T17:48:02Z"
+    },
+    {
+      "full_name": "LedgerHQ/webauthn-experimation",
+      "is_fork": true,
+      "parent": "imqdee/webauthn",
+      "source": "imqdee/webauthn",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:04Z"
+    },
+    {
+      "full_name": "LedgerHQ/webpack-rtl-plugin",
+      "is_fork": true,
+      "parent": "delwiv/webpack-rtl-plugin",
+      "source": "romainberger/webpack-rtl-plugin",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:48:07Z"
+    },
+    {
+      "full_name": "LedgerHQ/workshop-connect-dapp-ll",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:09Z"
+    },
+    {
+      "full_name": "LedgerHQ/workshop-connect-dapp-ll-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:12Z"
+    },
+    {
+      "full_name": "LedgerHQ/workshop-connect-dapp-ll-solution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:15Z"
+    },
+    {
+      "full_name": "LedgerHQ/wp-plugin-s3-uploads",
+      "is_fork": true,
+      "parent": "LedgerHQ/S3-Uploads",
+      "source": "humanmade/S3-Uploads",
+      "stars": 0,
+      "language": "PHP",
+      "last_checked": "2026-03-09T17:48:19Z"
+    },
+    {
+      "full_name": "LedgerHQ/xpub-scan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:21Z"
+    },
+    {
+      "full_name": "LedgerHQ/xpub-scan-interpreter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:48:23Z"
+    },
+    {
+      "full_name": "LedgerHQ/zemu",
+      "is_fork": true,
+      "parent": "Zondax/zemu",
+      "source": "Zondax/zemu",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T17:48:25Z"
+    }
+  ]
+}

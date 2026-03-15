@@ -1,0 +1,132 @@
+{
+  "owner": "layer-edge",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Layer-Edge/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T16:51:57Z"
+    },
+    {
+      "full_name": "Layer-Edge/BitVM",
+      "is_fork": true,
+      "parent": "BitVM/BitVM",
+      "source": "BitVM/BitVM",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:51:59Z"
+    },
+    {
+      "full_name": "Layer-Edge/Whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": null,
+      "last_checked": "2026-03-09T16:52:01Z"
+    },
+    {
+      "full_name": "Layer-Edge/bitcoin-testing-tools",
+      "is_fork": true,
+      "parent": "BitPolito/bitcoin-testing-tools",
+      "source": "BitPolito/bitcoin-testing-tools",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:52:04Z"
+    },
+    {
+      "full_name": "Layer-Edge/btc-rpc-explorer",
+      "is_fork": true,
+      "parent": "janoside/btc-rpc-explorer",
+      "source": "janoside/btc-rpc-explorer",
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-09T16:52:06Z"
+    },
+    {
+      "full_name": "Layer-Edge/chainlist",
+      "is_fork": true,
+      "parent": "DefiLlama/chainlist",
+      "source": "DefiLlama/chainlist",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:52:09Z"
+    },
+    {
+      "full_name": "Layer-Edge/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 7,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T16:52:13Z"
+    },
+    {
+      "full_name": "Layer-Edge/da-connectivity-layer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:52:15Z"
+    },
+    {
+      "full_name": "Layer-Edge/edgen-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:52:18Z"
+    },
+    {
+      "full_name": "Layer-Edge/edgen-swap",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:52:20Z"
+    },
+    {
+      "full_name": "Layer-Edge/light-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 291,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:52:22Z"
+    },
+    {
+      "full_name": "Layer-Edge/mempool-explorer",
+      "is_fork": true,
+      "parent": "mempool/mempool",
+      "source": "mempool/mempool",
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:52:24Z"
+    },
+    {
+      "full_name": "Layer-Edge/swap-router-contracts",
+      "is_fork": true,
+      "parent": "Uniswap/swap-router-contracts",
+      "source": "Uniswap/swap-router-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:52:26Z"
+    },
+    {
+      "full_name": "Layer-Edge/verification-layer-tester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 386,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:52:29Z"
+    }
+  ]
+}

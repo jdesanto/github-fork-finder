@@ -1,0 +1,42 @@
+{
+  "owner": "prdtfinance",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PRDTfinance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:39:15Z"
+    },
+    {
+      "full_name": "PRDTfinance/SolanaProBalanceContracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T12:39:17Z"
+    },
+    {
+      "full_name": "PRDTfinance/contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T12:39:19Z"
+    },
+    {
+      "full_name": "PRDTfinance/defi-providers",
+      "is_fork": true,
+      "parent": "dappradar/defi-providers",
+      "source": "dappradar/defi-providers",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T12:39:21Z"
+    }
+  ]
+}

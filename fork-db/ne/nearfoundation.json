@@ -1,0 +1,312 @@
+{
+  "owner": "nearfoundation",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NEARFoundation/DevelopmentDashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:09Z"
+    },
+    {
+      "full_name": "NEARFoundation/NEAR-NDC-Trust-Instrument-OS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:11Z"
+    },
+    {
+      "full_name": "NEARFoundation/admin.grants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:13Z"
+    },
+    {
+      "full_name": "NEARFoundation/api.grants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:15Z"
+    },
+    {
+      "full_name": "NEARFoundation/api.smart-whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:17Z"
+    },
+    {
+      "full_name": "NEARFoundation/batch-seed-phrases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:19Z"
+    },
+    {
+      "full_name": "NEARFoundation/blogs-platform",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:21Z"
+    },
+    {
+      "full_name": "NEARFoundation/community-near-lockups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:23Z"
+    },
+    {
+      "full_name": "NEARFoundation/events-platform",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:24Z"
+    },
+    {
+      "full_name": "NEARFoundation/fund3r",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:25Z"
+    },
+    {
+      "full_name": "NEARFoundation/key-management-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:27Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-contract-parser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:29Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-finance",
+      "is_fork": true,
+      "parent": "PierreLeGuen/nearvault",
+      "source": "PierreLeGuen/nearvault",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:31Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-java-api",
+      "is_fork": true,
+      "parent": "syntifi/near-java-api",
+      "source": "syntifi/near-java-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:33Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-js-encryption-box",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:35Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-kyc-onfido",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:51:37Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-lockups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:39Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-prettier-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:41Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-sdk-contract-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:43Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-sdk-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T05:51:45Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-smart-contract-rust-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:47Z"
+    },
+    {
+      "full_name": "NEARFoundation/near-tta-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:49Z"
+    },
+    {
+      "full_name": "NEARFoundation/nearcon-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:51Z"
+    },
+    {
+      "full_name": "NEARFoundation/projects-board",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:53Z"
+    },
+    {
+      "full_name": "NEARFoundation/request-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:51:55Z"
+    },
+    {
+      "full_name": "NEARFoundation/sc.smart-whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:57Z"
+    },
+    {
+      "full_name": "NEARFoundation/sc.whitelist-payouts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T05:51:59Z"
+    },
+    {
+      "full_name": "NEARFoundation/stats.gallery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Vue",
+      "last_checked": "2026-03-10T05:52:01Z"
+    },
+    {
+      "full_name": "NEARFoundation/transaction-tracking-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:52:03Z"
+    },
+    {
+      "full_name": "NEARFoundation/transaction-tracking-app-original",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:52:05Z"
+    },
+    {
+      "full_name": "NEARFoundation/trulioo-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:52:07Z"
+    },
+    {
+      "full_name": "NEARFoundation/tta-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T05:52:07Z"
+    },
+    {
+      "full_name": "NEARFoundation/ui.grants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T05:52:09Z"
+    },
+    {
+      "full_name": "NEARFoundation/ui.smart-whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T05:52:11Z"
+    }
+  ]
+}

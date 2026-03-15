@@ -1,0 +1,663 @@
+{
+  "owner": "polymeshassociation",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PolymeshAssociation/CDD-Scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:56Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/Grants-Milestone-Delivery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:23:58Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/Grants-Program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-10T17:24:00Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/ModSecurity-nginx",
+      "is_fork": true,
+      "parent": "owasp-modsecurity/ModSecurity-nginx",
+      "source": "owasp-modsecurity/ModSecurity-nginx",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:24:03Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/PIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:24:05Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/Polymesh",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 169,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:07Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/Polymesh-Web3auth-Example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:09Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/Polymesh-private",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:11Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/PolymeshAssociation.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:24:13Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/approval-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:15Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/awesome-blockchain-rust",
+      "is_fork": true,
+      "parent": "rust-in-blockchain/awesome-blockchain-rust",
+      "source": "rust-in-blockchain/awesome-blockchain-rust",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:24:17Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/azure-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:19Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/bridge-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:21Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/browser-extension-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:24Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/browser-wallet-sdk-integration-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:26Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/bulletproofs",
+      "is_fork": true,
+      "parent": "fmiguelgarcia/bulletproofs",
+      "source": "dalek-cryptography/bulletproofs",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:28Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/cdd-onboarding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:30Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/changelog-compiler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:24:33Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/confidential_assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:35Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/crypto-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:37Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/cryptography",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:39Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/curve-trees",
+      "is_fork": true,
+      "parent": "simonkamp/curve-trees",
+      "source": "simonkamp/curve-trees",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:41Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/curve25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:43Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/dynamic-schema",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:24:45Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/ethereum-polymesh-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:24:47Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/fireblocks-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:49Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/hashes",
+      "is_fork": true,
+      "parent": "RustCrypto/hashes",
+      "source": "RustCrypto/hashes",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:24:51Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/hashicorp-vault-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:53Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/local-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:56Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/middleware-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:24:58Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/offline-signing-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:25:00Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polkadot-js-api",
+      "is_fork": true,
+      "parent": "polkadot-js/api",
+      "source": "polkadot-js/api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:25:02Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polkadot-sdk",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-sdk",
+      "source": "paritytech/polkadot-sdk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:05Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/poly-circulating",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:25:07Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:09Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:11Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-dev-env",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:13Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-documentation-site",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "MDX",
+      "last_checked": "2026-03-10T17:25:15Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:17Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-local",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:19Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-operators",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:25:21Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:23Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-private-dev-env",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-10T17:25:25Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-private-proof-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:27Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-private-rest-api",
+      "is_fork": true,
+      "parent": "PolymeshAssociation/polymesh-rest-api",
+      "source": "PolymeshAssociation/polymesh-rest-api",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:29Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-private-sdk",
+      "is_fork": true,
+      "parent": "PolymeshAssociation/polymesh-sdk",
+      "source": "PolymeshAssociation/polymesh-sdk",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:31Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-rest-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:33Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:35Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-sdk-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:37Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-staking-dashboard",
+      "is_fork": true,
+      "parent": "polkadot-cloud/polkadot-staking-dashboard",
+      "source": "polkadot-cloud/polkadot-staking-dashboard",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:25:39Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-subql",
+      "is_fork": true,
+      "parent": "subquery/subql",
+      "source": "subquery/subql",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:41Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-subquery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:43Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-subquery-dictionary",
+      "is_fork": true,
+      "parent": "subquery/subql-dictionary",
+      "source": "subquery/subql-dictionary",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:45Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-10T17:25:47Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:49Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:25:51Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/polymesh_api_example_gui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:53Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/schnorrkel",
+      "is_fork": true,
+      "parent": "paritytech/schnorrkel",
+      "source": "paritytech/schnorrkel",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:25:56Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/signing-manager-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:25:58Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/signing-managers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:00Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/sub-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:26:02Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/subql-dictionary",
+      "is_fork": true,
+      "parent": "subquery/subql-dictionary",
+      "source": "subquery/subql-dictionary",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:04Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:26:06Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/substrate-api-sidecar",
+      "is_fork": true,
+      "parent": "paritytech/substrate-api-sidecar",
+      "source": "paritytech/substrate-api-sidecar",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:08Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/substrate-telemetry",
+      "is_fork": true,
+      "parent": "paritytech/substrate-telemetry",
+      "source": "paritytech/substrate-telemetry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:11Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/substrate-validator-set",
+      "is_fork": true,
+      "parent": "gautamdhameja/substrate-validator-set",
+      "source": "gautamdhameja/substrate-validator-set",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:13Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/subwasm",
+      "is_fork": true,
+      "parent": "chevdor/subwasm",
+      "source": "chevdor/subwasm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:15Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/technical-content",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:26:17Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/technical-content-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:19Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/typedoc-theme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:21Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/typescript-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:26:23Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/wallet-core",
+      "is_fork": true,
+      "parent": "trustwallet/wallet-core",
+      "source": "trustwallet/wallet-core",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T17:26:25Z"
+    },
+    {
+      "full_name": "PolymeshAssociation/walletconnect-signing-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:27Z"
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "owner": "lagrange-labs",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Lagrange-Labs/AVS-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:22Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/Euclid-database",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:24:24Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/block-explorers",
+      "is_fork": true,
+      "parent": "foundry-rs/block-explorers",
+      "source": "foundry-rs/block-explorers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:26Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/bn254-hash-to-curve",
+      "is_fork": true,
+      "parent": "hashcloak/bn254-hash-to-curve",
+      "source": "hashcloak/bn254-hash-to-curve",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:24:29Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/client-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:29Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/deep-prove",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3348,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:24:31Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:24:33Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/eigenlayer-ecosystem-network",
+      "is_fork": true,
+      "parent": "eigenfoundation/eigenlayer-ecosystem-network",
+      "source": "eigenfoundation/eigenlayer-ecosystem-network",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:36Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/eliza-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:37Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/ethers-rs",
+      "is_fork": true,
+      "parent": "gakonst/ethers-rs",
+      "source": "gakonst/ethers-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:39Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/ezkl",
+      "is_fork": true,
+      "parent": "zkonduit/ezkl",
+      "source": "zkonduit/ezkl",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:41Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/forge-safe",
+      "is_fork": true,
+      "parent": "ind-igo/forge-safe",
+      "source": "ind-igo/forge-safe",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:24:43Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/gasolina-aws",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/gasolina-aws",
+      "source": "LayerZero-Labs/gasolina-aws",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:46Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/gitops-bridge-argocd-control-plane",
+      "is_fork": true,
+      "parent": "gitops-bridge-dev/gitops-bridge-argocd-control-plane-template",
+      "source": "gitops-bridge-dev/gitops-bridge-argocd-control-plane-template",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:48Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/gnark",
+      "is_fork": true,
+      "parent": "Consensys/gnark",
+      "source": "Consensys/gnark",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:50Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/gnark-plonky2-verifier",
+      "is_fork": true,
+      "parent": "succinctlabs/gnark-plonky2-verifier",
+      "source": "succinctlabs/gnark-plonky2-verifier",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:53Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/grpc-worker-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:24:55Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/halo2",
+      "is_fork": true,
+      "parent": "zkonduit/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:24:57Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/halo2-solidity-verifier",
+      "is_fork": true,
+      "parent": "alexander-camuto/halo2-solidity-verifier",
+      "source": "privacy-ethereum/halo2-solidity-verifier",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:00Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/halo2wrong",
+      "is_fork": true,
+      "parent": "zkonduit/halo2wrong",
+      "source": "privacy-ethereum/halo2wrong",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:03Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/kube-hpa-scale-to-zero",
+      "is_fork": true,
+      "parent": "machine424/kube-hpa-scale-to-zero",
+      "source": "machine424/kube-hpa-scale-to-zero",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:25:05Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lagrange-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:05Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lagrange-lpn-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:25:07Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lagrange-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:09Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lagrange-protobuf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:11Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lagrange-state-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:11Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lgn-coprocessor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:13Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lsc-client-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:14Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lsc-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:14Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lsc-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:15Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/lsc-state-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:15Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/mapreduce-plonky2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:17Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/monolith",
+      "is_fork": true,
+      "parent": "HorizenLabs/monolith",
+      "source": "HorizenLabs/monolith",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:19Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2",
+      "is_fork": true,
+      "parent": "0xPolygonZero/plonky2",
+      "source": "0xPolygonZero/plonky2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:22Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-bn254",
+      "is_fork": true,
+      "parent": "qope/plonky2-bn254",
+      "source": "qope/plonky2-bn254",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:24Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-bn254-pairing",
+      "is_fork": true,
+      "parent": "qope/plonky2-bn254-pairing",
+      "source": "qope/plonky2-bn254-pairing",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:26Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-crypto",
+      "is_fork": true,
+      "parent": "JumpCrypto/plonky2-crypto",
+      "source": "JumpCrypto/plonky2-crypto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:28Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-ecdsa",
+      "is_fork": true,
+      "parent": "0xPolygonZero/plonky2-ecdsa",
+      "source": "0xPolygonZero/plonky2-ecdsa",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:31Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-ecgfp5",
+      "is_fork": true,
+      "parent": "silathdiir/plonky2-ecgfp5",
+      "source": "Sladuca/plonky2-ecgfp5",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:33Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-recursion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:35Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/plonky2-sha256",
+      "is_fork": true,
+      "parent": "polymerdao/plonky2-sha256",
+      "source": "polymerdao/plonky2-sha256",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:37Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/reckle-trees",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:40Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/shared-github-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:25:42Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/snark-verifier",
+      "is_fork": true,
+      "parent": "zkonduit/snark-verifier",
+      "source": "privacy-ethereum/snark-verifier",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:44Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/starky-bn254",
+      "is_fork": true,
+      "parent": "qope/starky-bn254",
+      "source": "qope/starky-bn254",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:46Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/starkyx",
+      "is_fork": true,
+      "parent": "succinctlabs/starkyx",
+      "source": "succinctlabs/starkyx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:49Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/succinctx",
+      "is_fork": true,
+      "parent": "succinctlabs/succinctx",
+      "source": "succinctlabs/succinctx",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:51Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/svm-rs",
+      "is_fork": true,
+      "parent": "alloy-rs/svm-rs",
+      "source": "alloy-rs/svm-rs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:25:54Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/worker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:25:56Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/zkmr-avs-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:25:58Z"
+    },
+    {
+      "full_name": "Lagrange-Labs/zksync-era",
+      "is_fork": true,
+      "parent": "matter-labs/zksync-era",
+      "source": "matter-labs/zksync-era",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:26:03Z"
+    }
+  ]
+}

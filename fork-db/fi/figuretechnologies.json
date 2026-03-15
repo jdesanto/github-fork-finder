@@ -1,0 +1,681 @@
+{
+  "owner": "figuretechnologies",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FigureTechnologies/aggregate-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:03Z"
+    },
+    {
+      "full_name": "FigureTechnologies/asset-classification-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:39:05Z"
+    },
+    {
+      "full_name": "FigureTechnologies/asset-classification-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:39:07Z"
+    },
+    {
+      "full_name": "FigureTechnologies/asset-specifications",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:39:09Z"
+    },
+    {
+      "full_name": "FigureTechnologies/ats-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:39:11Z"
+    },
+    {
+      "full_name": "FigureTechnologies/backstage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:11Z"
+    },
+    {
+      "full_name": "FigureTechnologies/blockchain-explorer",
+      "is_fork": true,
+      "parent": "hyperledger-labs/blockchain-explorer",
+      "source": "hyperledger-labs/blockchain-explorer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:39:13Z"
+    },
+    {
+      "full_name": "FigureTechnologies/cac_calibrate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:39:15Z"
+    },
+    {
+      "full_name": "FigureTechnologies/cosmwasm",
+      "is_fork": true,
+      "parent": "CosmWasm/cosmwasm",
+      "source": "CosmWasm/cosmwasm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:17Z"
+    },
+    {
+      "full_name": "FigureTechnologies/devops-skills-assessment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:19Z"
+    },
+    {
+      "full_name": "FigureTechnologies/digital-currency-consortium",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:39:21Z"
+    },
+    {
+      "full_name": "FigureTechnologies/digital-currency-consortium-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:22Z"
+    },
+    {
+      "full_name": "FigureTechnologies/easy-peasy-slash-command-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:22Z"
+    },
+    {
+      "full_name": "FigureTechnologies/empty-smart-contract-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:39:24Z"
+    },
+    {
+      "full_name": "FigureTechnologies/eth-ecies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:24Z"
+    },
+    {
+      "full_name": "FigureTechnologies/event-stream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:39:26Z"
+    },
+    {
+      "full_name": "FigureTechnologies/extkey",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:39:28Z"
+    },
+    {
+      "full_name": "FigureTechnologies/fabric",
+      "is_fork": true,
+      "parent": "hyperledger/fabric",
+      "source": "hyperledger/fabric",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:39:30Z"
+    },
+    {
+      "full_name": "FigureTechnologies/fabric-gateway-java",
+      "is_fork": true,
+      "parent": "hyperledger/fabric-gateway-java",
+      "source": "hyperledger/fabric-gateway-java",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:39:32Z"
+    },
+    {
+      "full_name": "FigureTechnologies/fabric-sdk-java",
+      "is_fork": true,
+      "parent": "hyperledger/fabric-sdk-java",
+      "source": "hyperledger/fabric-sdk-java",
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-09T11:39:34Z"
+    },
+    {
+      "full_name": "FigureTechnologies/figure-wallet-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:35Z"
+    },
+    {
+      "full_name": "FigureTechnologies/flutter-cupertino-date-picker",
+      "is_fork": true,
+      "parent": "quanghd96/flutter-cupertino-date-picker",
+      "source": "dylanwuzh/flutter-cupertino-date-picker",
+      "stars": 0,
+      "language": "Dart",
+      "last_checked": "2026-03-09T11:39:37Z"
+    },
+    {
+      "full_name": "FigureTechnologies/flutter_fgbg",
+      "is_fork": true,
+      "parent": "ajinasokan/flutter_fgbg",
+      "source": "ajinasokan/flutter_fgbg",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:39Z"
+    },
+    {
+      "full_name": "FigureTechnologies/flutter_fullpdfview",
+      "is_fork": true,
+      "parent": "arnaudelub/flutter_fullpdfview",
+      "source": "arnaudelub/flutter_fullpdfview",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:41Z"
+    },
+    {
+      "full_name": "FigureTechnologies/forge.pb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:39:43Z"
+    },
+    {
+      "full_name": "FigureTechnologies/forward-market-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:39:45Z"
+    },
+    {
+      "full_name": "FigureTechnologies/frontend-asset-classification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:39:47Z"
+    },
+    {
+      "full_name": "FigureTechnologies/frontend-asset-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:47Z"
+    },
+    {
+      "full_name": "FigureTechnologies/frontend-interview-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T11:39:49Z"
+    },
+    {
+      "full_name": "FigureTechnologies/ft-coroutines",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:39:51Z"
+    },
+    {
+      "full_name": "FigureTechnologies/funding-trading-bridge-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:39:53Z"
+    },
+    {
+      "full_name": "FigureTechnologies/gas-price-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T11:39:55Z"
+    },
+    {
+      "full_name": "FigureTechnologies/gce-snapshot-retention",
+      "is_fork": true,
+      "parent": "andrea-armstrong/gce-snapshot-retention",
+      "source": "andrea-armstrong/gce-snapshot-retention",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:39:57Z"
+    },
+    {
+      "full_name": "FigureTechnologies/google-storage-plugin",
+      "is_fork": true,
+      "parent": "jenkinsci/google-storage-plugin",
+      "source": "jenkinsci/google-storage-plugin",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:00Z"
+    },
+    {
+      "full_name": "FigureTechnologies/gradle-semver-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:40:02Z"
+    },
+    {
+      "full_name": "FigureTechnologies/group-member-approval-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:04Z"
+    },
+    {
+      "full_name": "FigureTechnologies/hdwallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:40:06Z"
+    },
+    {
+      "full_name": "FigureTechnologies/hyperledger-fabric-node-chaincode-utils",
+      "is_fork": true,
+      "parent": "Kunstmaan/hyperledger-fabric-node-chaincode-utils",
+      "source": "Kunstmaan/hyperledger-fabric-node-chaincode-utils",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:40:08Z"
+    },
+    {
+      "full_name": "FigureTechnologies/ibc-rs",
+      "is_fork": true,
+      "parent": "informalsystems/hermes",
+      "source": "informalsystems/hermes",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T11:40:10Z"
+    },
+    {
+      "full_name": "FigureTechnologies/invoice-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:12Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kafka-connect-protobuf-converter",
+      "is_fork": true,
+      "parent": "blueapron/kafka-connect-protobuf-converter",
+      "source": "blueapron/kafka-connect-protobuf-converter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:14Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kafka-docker",
+      "is_fork": true,
+      "parent": "wurstmeister/kafka-docker",
+      "source": "wurstmeister/kafka-docker",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:16Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kafka-lag-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:16Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kong-jwt-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:40:18Z"
+    },
+    {
+      "full_name": "FigureTechnologies/konga",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:19Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kotlin-xml-builder",
+      "is_fork": true,
+      "parent": "redundent/kotlin-xml-builder",
+      "source": "redundent/kotlin-xml-builder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:21Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kubernetes-ingress-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:21Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kubernetes-kafka",
+      "is_fork": true,
+      "parent": "Yolean/kubernetes-kafka",
+      "source": "Yolean/kubernetes-kafka",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T11:40:23Z"
+    },
+    {
+      "full_name": "FigureTechnologies/kustomize",
+      "is_fork": true,
+      "parent": "kubernetes-sigs/kustomize",
+      "source": "kubernetes-sigs/kustomize",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:40:25Z"
+    },
+    {
+      "full_name": "FigureTechnologies/marketpalace-capital-call-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:27Z"
+    },
+    {
+      "full_name": "FigureTechnologies/marketpalace-raise-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:29Z"
+    },
+    {
+      "full_name": "FigureTechnologies/marketpalace-securitization-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:31Z"
+    },
+    {
+      "full_name": "FigureTechnologies/marketpalace-subscription-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:33Z"
+    },
+    {
+      "full_name": "FigureTechnologies/mobile-figure-pay-partner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Dart",
+      "last_checked": "2026-03-09T11:40:35Z"
+    },
+    {
+      "full_name": "FigureTechnologies/object-store-gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:40:37Z"
+    },
+    {
+      "full_name": "FigureTechnologies/one-off-chain-infra",
+      "is_fork": true,
+      "parent": "scirner22/provenance-infra",
+      "source": "scirner22/provenance-infra",
+      "stars": 0,
+      "language": "HCL",
+      "last_checked": "2026-03-09T11:40:39Z"
+    },
+    {
+      "full_name": "FigureTechnologies/os-gateway-contract-attributes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:41Z"
+    },
+    {
+      "full_name": "FigureTechnologies/p8e-docker-compose-1",
+      "is_fork": true,
+      "parent": "provenance-io/p8e-docker-compose",
+      "source": "provenance-io/p8e-docker-compose",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:43Z"
+    },
+    {
+      "full_name": "FigureTechnologies/plnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:44Z"
+    },
+    {
+      "full_name": "FigureTechnologies/plnet-af",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:44Z"
+    },
+    {
+      "full_name": "FigureTechnologies/plugin-image-zoom",
+      "is_fork": true,
+      "parent": "flexanalytics/plugin-image-zoom",
+      "source": "flexanalytics/plugin-image-zoom",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:40:46Z"
+    },
+    {
+      "full_name": "FigureTechnologies/processor-clear-capital",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:47Z"
+    },
+    {
+      "full_name": "FigureTechnologies/protobuf-gradle-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:47Z"
+    },
+    {
+      "full_name": "FigureTechnologies/provenance-code-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:40:49Z"
+    },
+    {
+      "full_name": "FigureTechnologies/provenance-eventstream-legacy-kotlin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:49Z"
+    },
+    {
+      "full_name": "FigureTechnologies/qpl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T11:40:51Z"
+    },
+    {
+      "full_name": "FigureTechnologies/qr_code_scanner",
+      "is_fork": true,
+      "parent": "juliuscanute/qr_code_scanner",
+      "source": "juliuscanute/qr_code_scanner",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:53Z"
+    },
+    {
+      "full_name": "FigureTechnologies/restricted-marker-transfer-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:40:55Z"
+    },
+    {
+      "full_name": "FigureTechnologies/riverpod_infinite_scroll",
+      "is_fork": true,
+      "parent": "ftognetto/riverpod_infinite_scroll",
+      "source": "ftognetto/riverpod_infinite_scroll",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:57Z"
+    },
+    {
+      "full_name": "FigureTechnologies/service-asset-onboarding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:40:58Z"
+    },
+    {
+      "full_name": "FigureTechnologies/terraform-aws-eks",
+      "is_fork": true,
+      "parent": "terraform-aws-modules/terraform-aws-eks",
+      "source": "terraform-aws-modules/terraform-aws-eks",
+      "stars": 0,
+      "language": "HCL",
+      "last_checked": "2026-03-09T11:41:00Z"
+    },
+    {
+      "full_name": "FigureTechnologies/validation-oracle-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T11:41:02Z"
+    },
+    {
+      "full_name": "FigureTechnologies/validation-oracle-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:41:04Z"
+    },
+    {
+      "full_name": "FigureTechnologies/vm-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:41:04Z"
+    },
+    {
+      "full_name": "FigureTechnologies/walletconnect-monorepo",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-monorepo",
+      "source": "WalletConnect/walletconnect-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:41:06Z"
+    }
+  ]
+}

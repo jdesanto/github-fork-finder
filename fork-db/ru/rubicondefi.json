@@ -1,0 +1,411 @@
+{
+  "owner": "rubicondefi",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "RubiconDeFi/DiscordGasBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T00:14:00Z"
+    },
+    {
+      "full_name": "RubiconDeFi/Rubicon-DefiLlama-Adapter",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T00:14:02Z"
+    },
+    {
+      "full_name": "RubiconDeFi/bond-contracts",
+      "is_fork": true,
+      "parent": "Bond-Protocol/bond-contracts",
+      "source": "Bond-Protocol/bond-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T00:14:04Z"
+    },
+    {
+      "full_name": "RubiconDeFi/brand-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:06Z"
+    },
+    {
+      "full_name": "RubiconDeFi/brand-assets-bathtokens",
+      "is_fork": true,
+      "parent": "RubiconDeFi/brand-assets",
+      "source": "RubiconDeFi/brand-assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:08Z"
+    },
+    {
+      "full_name": "RubiconDeFi/dimension-adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/dimension-adapters",
+      "source": "DefiLlama/dimension-adapters",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:10Z"
+    },
+    {
+      "full_name": "RubiconDeFi/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "MDX",
+      "last_checked": "2026-03-11T00:14:12Z"
+    },
+    {
+      "full_name": "RubiconDeFi/eslint-mdx-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:14Z"
+    },
+    {
+      "full_name": "RubiconDeFi/gateway",
+      "is_fork": true,
+      "parent": "hummingbot/gateway",
+      "source": "hummingbot/gateway",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:16Z"
+    },
+    {
+      "full_name": "RubiconDeFi/gladius-go-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-11T00:14:18Z"
+    },
+    {
+      "full_name": "RubiconDeFi/gladius-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T00:14:20Z"
+    },
+    {
+      "full_name": "RubiconDeFi/gladius-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:22Z"
+    },
+    {
+      "full_name": "RubiconDeFi/hummingbot",
+      "is_fork": true,
+      "parent": "hummingbot/hummingbot",
+      "source": "hummingbot/hummingbot",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-11T00:14:24Z"
+    },
+    {
+      "full_name": "RubiconDeFi/hummingbot-gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:24Z"
+    },
+    {
+      "full_name": "RubiconDeFi/kyberswap-dex-lib",
+      "is_fork": true,
+      "parent": "KyberNetwork/kyberswap-dex-lib",
+      "source": "KyberNetwork/kyberswap-dex-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:26Z"
+    },
+    {
+      "full_name": "RubiconDeFi/launchpad-starter",
+      "is_fork": true,
+      "parent": "graphops/launchpad-starter",
+      "source": "graphops/launchpad-starter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:28Z"
+    },
+    {
+      "full_name": "RubiconDeFi/market-pulse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-11T00:14:30Z"
+    },
+    {
+      "full_name": "RubiconDeFi/optimism-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:32Z"
+    },
+    {
+      "full_name": "RubiconDeFi/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:34Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rainbowkit",
+      "is_fork": true,
+      "parent": "rainbow-me/rainbowkit",
+      "source": "rainbow-me/rainbowkit",
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-11T00:14:36Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rfq-client-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:38Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-bots",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:40Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-bots-internalFork",
+      "is_fork": true,
+      "parent": "RubiconDeFi/rubi-bots",
+      "source": "RubiconDeFi/rubi-bots",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:42Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-bots-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:44Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-protocol-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T00:14:46Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-11T00:14:48Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-11T00:14:50Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-spellbook",
+      "is_fork": true,
+      "parent": "duneanalytics/spellbook",
+      "source": "duneanalytics/spellbook",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-11T00:14:52Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubi-subgraphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:14:52Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-bathdai-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-bathdai-subgraph",
+      "source": "platocrat/rubicon-bathdai-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:55Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-batheth-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-batheth-subgraph",
+      "source": "platocrat/rubicon-batheth-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:57Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-bathsnx-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-bathsnx-subgraph",
+      "source": "platocrat/rubicon-bathsnx-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:14:59Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-bathusdc-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-bathusdc-subgraph",
+      "source": "platocrat/rubicon-bathusdc-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:15:01Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-bathusdt-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-bathusdt-subgraph",
+      "source": "platocrat/rubicon-bathusdt-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:15:03Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-bathwbtc-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-bathwbtc-subgraph",
+      "source": "platocrat/rubicon-bathwbtc-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:15:05Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-op-summer-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-11T00:15:07Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-protocol-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T00:15:09Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-subgraph",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-subgraph",
+      "source": "platocrat/rubicon-subgraph",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:15:11Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon-subgraph-kovan",
+      "is_fork": true,
+      "parent": "platocrat/rubicon-subgraph-kovan",
+      "source": "platocrat/rubicon-subgraph-kovan",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:15:13Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon_protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T00:15:15Z"
+    },
+    {
+      "full_name": "RubiconDeFi/rubicon_quest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T00:15:15Z"
+    },
+    {
+      "full_name": "RubiconDeFi/v1-subgraphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:15:17Z"
+    },
+    {
+      "full_name": "RubiconDeFi/web3-react",
+      "is_fork": true,
+      "parent": "Uniswap/web3-react",
+      "source": "Uniswap/web3-react",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:15:19Z"
+    },
+    {
+      "full_name": "RubiconDeFi/web3modal-examples",
+      "is_fork": true,
+      "parent": "WalletConnect/web3modal-examples",
+      "source": "WalletConnect/web3modal-examples",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T00:15:21Z"
+    },
+    {
+      "full_name": "RubiconDeFi/zapper-studio",
+      "is_fork": true,
+      "parent": "Zapper-fi/studio",
+      "source": "Zapper-fi/studio",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T00:15:23Z"
+    }
+  ]
+}

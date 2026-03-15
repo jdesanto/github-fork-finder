@@ -1,6 +1,6 @@
 {
   "owner": "homebrew",
-  "updated_at": "2026-03-11T15:55:00Z",
+  "updated_at": "2026-03-12T02:55:22Z",
   "repos": [
     {
       "full_name": "Homebrew/brew-pip-audit",
@@ -19,6 +19,24 @@
       "stars": 21857,
       "language": "Ruby",
       "last_checked": "2026-03-04T03:35:57Z"
+    },
+    {
+      "full_name": "Homebrew/install",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2524,
+      "language": "Shell",
+      "last_checked": "2026-03-12T02:22:33Z"
+    },
+    {
+      "full_name": "Homebrew/legacy-homebrew",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26875,
+      "language": null,
+      "last_checked": "2026-03-11T16:12:46Z"
     }
   ]
 }

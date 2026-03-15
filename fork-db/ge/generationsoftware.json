@@ -1,0 +1,483 @@
+{
+  "owner": "generationsoftware",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "GenerationSoftware/ERC4626-token-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:08Z"
+    },
+    {
+      "full_name": "GenerationSoftware/ERC5164",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:10Z"
+    },
+    {
+      "full_name": "GenerationSoftware/erc2771-forwarder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:11Z"
+    },
+    {
+      "full_name": "GenerationSoftware/erc5164-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:14Z"
+    },
+    {
+      "full_name": "GenerationSoftware/ez-deposit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:16Z"
+    },
+    {
+      "full_name": "GenerationSoftware/foundry-winner-calc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:13:18Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pooltogether-client-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:13:20Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pooltogether-sveltekit-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Svelte",
+      "last_checked": "2026-03-09T14:13:22Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-classic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:13:24Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-owner-manager-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:13:26Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v3-to-v5-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:28Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-beta",
+      "is_fork": true,
+      "parent": "GenerationSoftware/pt-v5-mainnet",
+      "source": "GenerationSoftware/pt-v5-mainnet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:13:30Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-builder-code-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:32Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-cgda-liquidator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:34Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-chainlink-vrf-v2-direct",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:36Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-claimable-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:38Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-claimer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:40Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-draw-auction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:42Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-draw-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:44Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-fixed-price-liquidator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:46Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-flash-liquidator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:48Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-gp-boost-hooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:51Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-liquidator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:52Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-liquidator-interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:55Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-mainnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:57Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-prize-pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:13:59Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-prize-pool-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:14:01Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-prize-pool-twab-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:03Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-prize-vault-reward-handler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:05Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-reward-burner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:07Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-rng-blockhash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:09Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-rng-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:14:11Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-rng-witnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:13Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-simple-vault-booster",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:15Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:17Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-staking-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:19Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:14:21Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:23Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-tpda-liquidator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:25Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-twab-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:27Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-twab-controller-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:14:29Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-twab-delegator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:31Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-twab-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:33Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-user-faker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:35Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:37Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-vault-boost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:40Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-vault-boost-hook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:42Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-worldchain-prize-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:44Z"
+    },
+    {
+      "full_name": "GenerationSoftware/pt-v5-yield-daddy-liquidators",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:46Z"
+    },
+    {
+      "full_name": "GenerationSoftware/ready-aim-fire-relayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T14:14:48Z"
+    },
+    {
+      "full_name": "GenerationSoftware/remote-owner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:50Z"
+    },
+    {
+      "full_name": "GenerationSoftware/ring-buffer-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:52Z"
+    },
+    {
+      "full_name": "GenerationSoftware/uniform-random-number",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T14:14:54Z"
+    }
+  ]
+}

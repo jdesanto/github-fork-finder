@@ -1,0 +1,285 @@
+{
+  "owner": "ethichub",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "EthicHub/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:03Z"
+    },
+    {
+      "full_name": "EthicHub/address-metadata",
+      "is_fork": true,
+      "parent": "valora-xyz/address-metadata",
+      "source": "valora-xyz/address-metadata",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:05Z"
+    },
+    {
+      "full_name": "EthicHub/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:39:07Z"
+    },
+    {
+      "full_name": "EthicHub/celo-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:08Z"
+    },
+    {
+      "full_name": "EthicHub/chaindata",
+      "is_fork": true,
+      "parent": "connext/chaindata",
+      "source": "connext/chaindata",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:39:10Z"
+    },
+    {
+      "full_name": "EthicHub/connextscan-ui",
+      "is_fork": true,
+      "parent": "CoinHippo-Labs/connextscan-ui",
+      "source": "CoinHippo-Labs/connextscan-ui",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:12Z"
+    },
+    {
+      "full_name": "EthicHub/dapp-list",
+      "is_fork": true,
+      "parent": "valora-xyz/dapp-list",
+      "source": "valora-xyz/dapp-list",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:39:14Z"
+    },
+    {
+      "full_name": "EthicHub/default-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:14Z"
+    },
+    {
+      "full_name": "EthicHub/django",
+      "is_fork": true,
+      "parent": "django/django",
+      "source": "django/django",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:16Z"
+    },
+    {
+      "full_name": "EthicHub/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:17Z"
+    },
+    {
+      "full_name": "EthicHub/drf-excel",
+      "is_fork": true,
+      "parent": "django-commons/drf-excel",
+      "source": "django-commons/drf-excel",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:19Z"
+    },
+    {
+      "full_name": "EthicHub/drf-renderer-xlsx",
+      "is_fork": true,
+      "parent": "django-commons/drf-excel",
+      "source": "django-commons/drf-excel",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:21Z"
+    },
+    {
+      "full_name": "EthicHub/ethereum-optimism.github.io",
+      "is_fork": true,
+      "parent": "ethereum-optimism/ethereum-optimism.github.io",
+      "source": "ethereum-optimism/ethereum-optimism.github.io",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:39:23Z"
+    },
+    {
+      "full_name": "EthicHub/ethgasstation-api",
+      "is_fork": true,
+      "parent": "ethgasstation/ethgasstation-api",
+      "source": "ethgasstation/ethgasstation-api",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:25Z"
+    },
+    {
+      "full_name": "EthicHub/ethgasstation-backend",
+      "is_fork": true,
+      "parent": "ethgasstation/ethgasstation-backend",
+      "source": "ethgasstation/ethgasstation-backend",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:27Z"
+    },
+    {
+      "full_name": "EthicHub/evm-blocks",
+      "is_fork": true,
+      "parent": "blocklytics/ethereum-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:39:29Z"
+    },
+    {
+      "full_name": "EthicHub/fastapi-amis-admin",
+      "is_fork": true,
+      "parent": "amisadmin/fastapi-amis-admin",
+      "source": "amisadmin/fastapi-amis-admin",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:31Z"
+    },
+    {
+      "full_name": "EthicHub/gasstation-express-oracle",
+      "is_fork": true,
+      "parent": "ethgasstation/gasstation-express-oracle",
+      "source": "ethgasstation/gasstation-express-oracle",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:33Z"
+    },
+    {
+      "full_name": "EthicHub/geth-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:35Z"
+    },
+    {
+      "full_name": "EthicHub/hackmoney",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:37Z"
+    },
+    {
+      "full_name": "EthicHub/minime",
+      "is_fork": true,
+      "parent": "Giveth/minime",
+      "source": "Giveth/minime",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:39Z"
+    },
+    {
+      "full_name": "EthicHub/monorepo",
+      "is_fork": true,
+      "parent": "connext/monorepo",
+      "source": "connext/monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:39:41Z"
+    },
+    {
+      "full_name": "EthicHub/nft-list",
+      "is_fork": true,
+      "parent": "valora-xyz/nft-list",
+      "source": "valora-xyz/nft-list",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:39:43Z"
+    },
+    {
+      "full_name": "EthicHub/platform-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:45Z"
+    },
+    {
+      "full_name": "EthicHub/presale",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:47Z"
+    },
+    {
+      "full_name": "EthicHub/python-redsys",
+      "is_fork": true,
+      "parent": "ddiazpinto/python-redsys",
+      "source": "ddiazpinto/python-redsys",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:39:50Z"
+    },
+    {
+      "full_name": "EthicHub/trustwallet-assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:39:52Z"
+    },
+    {
+      "full_name": "EthicHub/uniswap-default-token-list",
+      "is_fork": true,
+      "parent": "Uniswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:54Z"
+    },
+    {
+      "full_name": "EthicHub/wormhole-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:39:54Z"
+    },
+    {
+      "full_name": "EthicHub/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:56Z"
+    },
+    {
+      "full_name": "EthicHub/zeppelin-solidity",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:39:58Z"
+    }
+  ]
+}

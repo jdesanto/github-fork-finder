@@ -1,0 +1,366 @@
+{
+  "owner": "exchangeunion",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "ExchangeUnion/Docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-09T09:57:44Z"
+    },
+    {
+      "full_name": "ExchangeUnion/ExchangeUnion.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:57:46Z"
+    },
+    {
+      "full_name": "ExchangeUnion/FastPriorityQueue.js",
+      "is_fork": true,
+      "parent": "lemire/FastPriorityQueue.js",
+      "source": "lemire/FastPriorityQueue.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:57:48Z"
+    },
+    {
+      "full_name": "ExchangeUnion/Lightning-Swap-PoC-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": null,
+      "last_checked": "2026-03-09T09:57:50Z"
+    },
+    {
+      "full_name": "ExchangeUnion/Lightning-Swap-PoC-v2",
+      "is_fork": true,
+      "parent": "kilrau/Lightning-Swap-PoC-v2",
+      "source": "kilrau/Lightning-Swap-PoC-v2",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T09:57:52Z"
+    },
+    {
+      "full_name": "ExchangeUnion/Raiden-ERC20-Swap-PoC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T09:57:54Z"
+    },
+    {
+      "full_name": "ExchangeUnion/SmartContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:57:56Z"
+    },
+    {
+      "full_name": "ExchangeUnion/btcd",
+      "is_fork": true,
+      "parent": "btcsuite/btcd",
+      "source": "btcsuite/btcd",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:57:58Z"
+    },
+    {
+      "full_name": "ExchangeUnion/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:00Z"
+    },
+    {
+      "full_name": "ExchangeUnion/grpc-dynamic-gateway",
+      "is_fork": true,
+      "parent": "konsumer/grpc-dynamic-gateway",
+      "source": "konsumer/grpc-dynamic-gateway",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:58:02Z"
+    },
+    {
+      "full_name": "ExchangeUnion/grpc-node-precompiled-binaries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T09:58:04Z"
+    },
+    {
+      "full_name": "ExchangeUnion/indra",
+      "is_fork": true,
+      "parent": "connext/indra",
+      "source": "connext/indra",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:06Z"
+    },
+    {
+      "full_name": "ExchangeUnion/lnd",
+      "is_fork": true,
+      "parent": "lightningnetwork/lnd",
+      "source": "lightningnetwork/lnd",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:08Z"
+    },
+    {
+      "full_name": "ExchangeUnion/macaroons.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:09Z"
+    },
+    {
+      "full_name": "ExchangeUnion/market-maker-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 105,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:58:11Z"
+    },
+    {
+      "full_name": "ExchangeUnion/raiden",
+      "is_fork": true,
+      "parent": "raiden-network/raiden",
+      "source": "raiden-network/raiden",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:58:13Z"
+    },
+    {
+      "full_name": "ExchangeUnion/raiden-contracts",
+      "is_fork": true,
+      "parent": "raiden-network/raiden-contracts",
+      "source": "raiden-network/raiden-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:58:15Z"
+    },
+    {
+      "full_name": "ExchangeUnion/raspiblitz",
+      "is_fork": true,
+      "parent": "raspiblitz/raspiblitz",
+      "source": "raspiblitz/raspiblitz",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:17Z"
+    },
+    {
+      "full_name": "ExchangeUnion/rest-api-client",
+      "is_fork": true,
+      "parent": "connext/rest-api-client",
+      "source": "connext/rest-api-client",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:19Z"
+    },
+    {
+      "full_name": "ExchangeUnion/simnet-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T09:58:21Z"
+    },
+    {
+      "full_name": "ExchangeUnion/slate",
+      "is_fork": true,
+      "parent": "ringcentral/slate",
+      "source": "ringcentral/slate",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:58:23Z"
+    },
+    {
+      "full_name": "ExchangeUnion/swap-resolver",
+      "is_fork": true,
+      "parent": "offerm/swap-resolver",
+      "source": "offerm/swap-resolver",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:25Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:58:27Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-box",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:58:29Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-box-digitalocean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:58:31Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:33Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-docker-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:35Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-docker-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:58:37Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-docker-exp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:58:39Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-exchange-integration-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T09:58:41Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-launcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:43Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-simnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:58:45Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-simnet-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T09:58:47Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:47Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-socketio",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:58:49Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-typedoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:58:51Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:58:53Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-ui-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:58:55Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-web-orderbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:58:57Z"
+    },
+    {
+      "full_name": "ExchangeUnion/xud-wiki",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:58:59Z"
+    }
+  ]
+}

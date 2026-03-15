@@ -1,0 +1,42 @@
+{
+  "owner": "psi-passive-income",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PSI-Passive-Income/DPEX-swap-core",
+      "is_fork": true,
+      "parent": "pancakeswap/pancake-swap-core",
+      "source": "pancakeswap/pancake-swap-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T12:40:35Z"
+    },
+    {
+      "full_name": "PSI-Passive-Income/DPEX-swap-periphery",
+      "is_fork": true,
+      "parent": "pancakeswap/pancake-swap-periphery",
+      "source": "pancakeswap/pancake-swap-periphery",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T12:40:37Z"
+    },
+    {
+      "full_name": "PSI-Passive-Income/Launchpad-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T12:40:39Z"
+    },
+    {
+      "full_name": "PSI-Passive-Income/PSI-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T12:40:41Z"
+    }
+  ]
+}

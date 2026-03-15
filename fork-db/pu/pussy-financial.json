@@ -1,0 +1,42 @@
+{
+  "owner": "pussy-financial",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "Pussy-Financial/pf-bsc-migration-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T19:20:15Z"
+    },
+    {
+      "full_name": "Pussy-Financial/pussy-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:20:17Z"
+    },
+    {
+      "full_name": "Pussy-Financial/sdk-core",
+      "is_fork": true,
+      "parent": "Uniswap/sdk-core",
+      "source": "Uniswap/sdk-core",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:20:19Z"
+    },
+    {
+      "full_name": "Pussy-Financial/smart-order-router",
+      "is_fork": true,
+      "parent": "Uniswap/smart-order-router",
+      "source": "Uniswap/smart-order-router",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:20:21Z"
+    }
+  ]
+}

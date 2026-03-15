@@ -1,0 +1,267 @@
+{
+  "owner": "near-one",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Near-One/aurora-eth-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:57:47Z"
+    },
+    {
+      "full_name": "Near-One/bitcoin-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T06:57:49Z"
+    },
+    {
+      "full_name": "Near-One/bridge-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:57:51Z"
+    },
+    {
+      "full_name": "Near-One/bridge-sdk-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:57:53Z"
+    },
+    {
+      "full_name": "Near-One/bridge-sdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:57:55Z"
+    },
+    {
+      "full_name": "Near-One/btc-light-client-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:57:57Z"
+    },
+    {
+      "full_name": "Near-One/cait-sith",
+      "is_fork": true,
+      "parent": "LIT-Protocol/cait-sith",
+      "source": "cronokirby/cait-sith",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:57:59Z"
+    },
+    {
+      "full_name": "Near-One/clusterfuzz",
+      "is_fork": true,
+      "parent": "google/clusterfuzz",
+      "source": "google/clusterfuzz",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T06:58:01Z"
+    },
+    {
+      "full_name": "Near-One/eth-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:58:03Z"
+    },
+    {
+      "full_name": "Near-One/eth-to-near-event-relayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:58:05Z"
+    },
+    {
+      "full_name": "Near-One/fast-bridge-common",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:07Z"
+    },
+    {
+      "full_name": "Near-One/fast-bridge-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:09Z"
+    },
+    {
+      "full_name": "Near-One/lighthouse",
+      "is_fork": true,
+      "parent": "sigp/lighthouse",
+      "source": "sigp/lighthouse",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:11Z"
+    },
+    {
+      "full_name": "Near-One/lodestar-quickstart",
+      "is_fork": true,
+      "parent": "ChainSafe/lodestar-quickstart",
+      "source": "ChainSafe/lodestar-quickstart",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T06:58:13Z"
+    },
+    {
+      "full_name": "Near-One/mpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:15Z"
+    },
+    {
+      "full_name": "Near-One/native-erc20-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:18Z"
+    },
+    {
+      "full_name": "Near-One/nayduck",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-10T06:58:19Z"
+    },
+    {
+      "full_name": "Near-One/near-erc20-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:21Z"
+    },
+    {
+      "full_name": "Near-One/near-lake-framework-rs",
+      "is_fork": true,
+      "parent": "near/near-lake-framework-rs",
+      "source": "near/near-lake-framework-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T06:58:23Z"
+    },
+    {
+      "full_name": "Near-One/near-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:25Z"
+    },
+    {
+      "full_name": "Near-One/old-mpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T06:58:26Z"
+    },
+    {
+      "full_name": "Near-One/omni-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:28Z"
+    },
+    {
+      "full_name": "Near-One/omni-bridge-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:30Z"
+    },
+    {
+      "full_name": "Near-One/rainbow-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 328,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:32Z"
+    },
+    {
+      "full_name": "Near-One/rainbow-bridge-sdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:34Z"
+    },
+    {
+      "full_name": "Near-One/rainbow-token-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:36Z"
+    },
+    {
+      "full_name": "Near-One/tee-solver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:38Z"
+    },
+    {
+      "full_name": "Near-One/telemetry-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:40Z"
+    },
+    {
+      "full_name": "Near-One/transaction-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:58:42Z"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "owner": "paccommunity",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "PACCommunity/PAC",
+      "is_fork": true,
+      "parent": "dashpay/dash",
+      "source": "bitcoin/bitcoin",
+      "stars": 49,
+      "language": "C++",
+      "last_checked": "2026-03-10T12:24:52Z"
+    },
+    {
+      "full_name": "PACCommunity/PACPaperWallet",
+      "is_fork": true,
+      "parent": "pointbiz/bitaddress.org",
+      "source": "pointbiz/bitaddress.org",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T12:24:54Z"
+    },
+    {
+      "full_name": "PACCommunity/PACman",
+      "is_fork": true,
+      "parent": "moocowmoo/dashman",
+      "source": "moocowmoo/dashman",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T12:24:57Z"
+    },
+    {
+      "full_name": "PACCommunity/PacPayments-for-WooCommerce",
+      "is_fork": true,
+      "parent": "nmarley/dashpayments-for-woocommerce",
+      "source": "nmarley/dashpayments-for-woocommerce",
+      "stars": 3,
+      "language": "PHP",
+      "last_checked": "2026-03-10T12:24:59Z"
+    },
+    {
+      "full_name": "PACCommunity/bitcore-build-pac",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-build",
+      "source": "bitpay/bitcore-build",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:01Z"
+    },
+    {
+      "full_name": "PACCommunity/bitcore-lib-pac",
+      "is_fork": true,
+      "parent": "dashpay/dashcore-lib",
+      "source": "bitpay/bitcore-lib",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:03Z"
+    },
+    {
+      "full_name": "PACCommunity/bitcore-message-pac",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-message",
+      "source": "bitpay/bitcore-message",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:05Z"
+    },
+    {
+      "full_name": "PACCommunity/bitcore-node-pac",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:07Z"
+    },
+    {
+      "full_name": "PACCommunity/bitcore-p2p-pac",
+      "is_fork": true,
+      "parent": "dashpay/dashcore-p2p",
+      "source": "bitpay/bitcore-p2p",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:09Z"
+    },
+    {
+      "full_name": "PACCommunity/electrum-PAC",
+      "is_fork": true,
+      "parent": "ibbtco/electrum-dash",
+      "source": "ibbtco/electrum-dash",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T12:25:11Z"
+    },
+    {
+      "full_name": "PACCommunity/electrumx",
+      "is_fork": true,
+      "parent": "kyuupichan/electrumx",
+      "source": "kyuupichan/electrumx",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T12:25:13Z"
+    },
+    {
+      "full_name": "PACCommunity/insight-pac-api",
+      "is_fork": true,
+      "parent": "chaincoin/insight-api-chaincoin",
+      "source": "chaincoin/insight-api-chaincoin",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:15Z"
+    },
+    {
+      "full_name": "PACCommunity/insight-pac-ui",
+      "is_fork": true,
+      "parent": "chaincoin/insight-ui-chaincoin",
+      "source": "chaincoin/insight-ui-chaincoin",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:17Z"
+    },
+    {
+      "full_name": "PACCommunity/masterPAC-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T12:25:19Z"
+    },
+    {
+      "full_name": "PACCommunity/pac-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T12:25:21Z"
+    },
+    {
+      "full_name": "PACCommunity/pac-ios",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T12:25:23Z"
+    },
+    {
+      "full_name": "PACCommunity/pac-seeder",
+      "is_fork": true,
+      "parent": "nightlydash/dash-seeder",
+      "source": "sipa/bitcoin-seeder",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T12:25:25Z"
+    },
+    {
+      "full_name": "PACCommunity/paccoind-rpc",
+      "is_fork": true,
+      "parent": "bitpay/bitcoind-rpc",
+      "source": "bitpay/bitcoind-rpc",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:27Z"
+    },
+    {
+      "full_name": "PACCommunity/pacj",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T12:25:29Z"
+    },
+    {
+      "full_name": "PACCommunity/proposal-generator",
+      "is_fork": true,
+      "parent": "dashpay/proposal-generator",
+      "source": "dashpay/proposal-generator",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T12:25:32Z"
+    },
+    {
+      "full_name": "PACCommunity/python-trezor",
+      "is_fork": true,
+      "parent": "electrum-dash/python-trezor",
+      "source": "trezor/python-trezor",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T12:25:34Z"
+    },
+    {
+      "full_name": "PACCommunity/sentinel",
+      "is_fork": true,
+      "parent": "dashpay/sentinel",
+      "source": "dashpay/sentinel",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T12:25:36Z"
+    },
+    {
+      "full_name": "PACCommunity/x11_hash",
+      "is_fork": true,
+      "parent": "akhavr/x11_hash",
+      "source": "dashdot/python-x11_hash",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-10T12:25:38Z"
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "owner": "nomicfoundation",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NomicFoundation/WebSocket-Node",
+      "is_fork": true,
+      "parent": "theturtle32/WebSocket-Node",
+      "source": "theturtle32/WebSocket-Node",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:08:44Z"
+    },
+    {
+      "full_name": "NomicFoundation/alloy",
+      "is_fork": true,
+      "parent": "alloy-rs/alloy",
+      "source": "alloy-rs/alloy",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:08:46Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-docker-solc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:08:48Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-ethers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T09:08:50Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-etherscan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:08:52Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-evm-demo",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:08:54Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-solhint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:08:56Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-solpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:08:58Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-truffle4",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:00Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-truffle5",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:02Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:04Z"
+    },
+    {
+      "full_name": "NomicFoundation/buidler-web3-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:06Z"
+    },
+    {
+      "full_name": "NomicFoundation/chai-earl-comparison",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:08Z"
+    },
+    {
+      "full_name": "NomicFoundation/chumsky",
+      "is_fork": true,
+      "parent": "zesterer/chumsky",
+      "source": "zesterer/chumsky",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:09:10Z"
+    },
+    {
+      "full_name": "NomicFoundation/convex-shutdown-simulation",
+      "is_fork": true,
+      "parent": "mds1/convex-shutdown-simulation",
+      "source": "mds1/convex-shutdown-simulation",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:12Z"
+    },
+    {
+      "full_name": "NomicFoundation/edr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:14Z"
+    },
+    {
+      "full_name": "NomicFoundation/edr-benchmark-results",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:16Z"
+    },
+    {
+      "full_name": "NomicFoundation/eth-sig-util",
+      "is_fork": true,
+      "parent": "MetaMask/eth-sig-util",
+      "source": "MetaMask/eth-sig-util",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:18Z"
+    },
+    {
+      "full_name": "NomicFoundation/ethereum-hackathon-setup-checker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:09:20Z"
+    },
+    {
+      "full_name": "NomicFoundation/ethereumjs-vm",
+      "is_fork": true,
+      "parent": "ethereumjs/ethereumjs-monorepo",
+      "source": "ethereumjs/ethereumjs-monorepo",
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:22Z"
+    },
+    {
+      "full_name": "NomicFoundation/evmodin",
+      "is_fork": true,
+      "parent": "vorot93/evmodin",
+      "source": "vorot93/evmodin",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:09:24Z"
+    },
+    {
+      "full_name": "NomicFoundation/forge-std",
+      "is_fork": true,
+      "parent": "foundry-rs/forge-std",
+      "source": "foundry-rs/forge-std",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:09:26Z"
+    },
+    {
+      "full_name": "NomicFoundation/github-actions-workflows",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:28Z"
+    },
+    {
+      "full_name": "NomicFoundation/github-linear-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:30Z"
+    },
+    {
+      "full_name": "NomicFoundation/github-linear-bridge-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:32Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8438,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:34Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1157,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:09:36Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-ignition",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:38Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-ignition-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:09:40Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-ts-plugin-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 89,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:42Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 206,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:44Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-vscode-feedback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T09:09:46Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-waffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:48Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "HTML",
+      "last_checked": "2026-03-10T09:09:50Z"
+    },
+    {
+      "full_name": "NomicFoundation/hardhat3-plugin-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:52Z"
+    },
+    {
+      "full_name": "NomicFoundation/ignition",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:09:54Z"
+    },
+    {
+      "full_name": "NomicFoundation/ignition-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:09:57Z"
+    },
+    {
+      "full_name": "NomicFoundation/jco",
+      "is_fork": true,
+      "parent": "bytecodealliance/jco",
+      "source": "bytecodealliance/jco",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:09:59Z"
+    },
+    {
+      "full_name": "NomicFoundation/nomic-repository-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:10:01Z"
+    },
+    {
+      "full_name": "NomicFoundation/rethnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:10:03Z"
+    },
+    {
+      "full_name": "NomicFoundation/revm",
+      "is_fork": true,
+      "parent": "bluealloy/revm",
+      "source": "bluealloy/revm",
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:10:05Z"
+    },
+    {
+      "full_name": "NomicFoundation/slang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 279,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:10:07Z"
+    },
+    {
+      "full_name": "NomicFoundation/smoke-tests-vscode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:10:09Z"
+    },
+    {
+      "full_name": "NomicFoundation/solidity-analyzer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:10:11Z"
+    },
+    {
+      "full_name": "NomicFoundation/solidity-coverage",
+      "is_fork": true,
+      "parent": "sc-forks/solidity-coverage",
+      "source": "sc-forks/solidity-coverage",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:10:13Z"
+    },
+    {
+      "full_name": "NomicFoundation/solidity-debugging-symbols-pocs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:10:15Z"
+    },
+    {
+      "full_name": "NomicFoundation/solidity-without-gitattributes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:10:17Z"
+    },
+    {
+      "full_name": "NomicFoundation/solx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 174,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:10:19Z"
+    },
+    {
+      "full_name": "NomicFoundation/stack-graphs",
+      "is_fork": true,
+      "parent": "github/stack-graphs",
+      "source": "github/stack-graphs",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:10:21Z"
+    },
+    {
+      "full_name": "NomicFoundation/tree-sitter-graph",
+      "is_fork": true,
+      "parent": "tree-sitter/tree-sitter-graph",
+      "source": "tree-sitter/tree-sitter-graph",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:10:23Z"
+    },
+    {
+      "full_name": "NomicFoundation/truffle",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle",
+      "source": "ConsenSys-archive/truffle",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:10:25Z"
+    },
+    {
+      "full_name": "NomicFoundation/truffle-flattener",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 370,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:10:27Z"
+    },
+    {
+      "full_name": "NomicFoundation/vyper-releases-mirror",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:10:29Z"
+    }
+  ]
+}

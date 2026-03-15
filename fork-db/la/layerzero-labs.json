@@ -1,0 +1,564 @@
+{
+  "owner": "layerzero-labs",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LayerZero-Labs/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:26Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/Audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:28Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/LayerZero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1957,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:55:30Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/LayerZero-Aptos-Contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Move",
+      "last_checked": "2026-03-09T16:55:32Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/LayerZero-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1957,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:55:34Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/LayerZero-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 761,
+      "language": "Move",
+      "last_checked": "2026-03-09T16:55:36Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/SyncPools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:55:38Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/TypeChain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:39Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/aptos-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:39Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/aptosup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:55:41Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/awesome-layerzero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:43Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/blockhash-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:44Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:44Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/btc-b",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:45Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/changesets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:45Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/dapp-radar-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:45Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/devtools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 210,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:55:48Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/endpoint-v1-solidity-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1022,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:55:50Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/es5-ext",
+      "is_fork": true,
+      "parent": "medikoo/es5-ext",
+      "source": "medikoo/es5-ext",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:55:53Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/ethers.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:53Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/example-oft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:54Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/fafo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:55:56Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/gasolina-aws",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:55:58Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/gasolina-gcp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:56:00Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/gnosis-safe-transaction-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:01Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/hardhat-deploy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:01Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/hippospace-aptos-wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:01Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/layerzero-solana-frontend-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:56:04Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/license",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Roff",
+      "last_checked": "2026-03-09T16:56:06Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/lif3-endpoint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:06Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/lil-pudgy-onft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:07Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/locking-cache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:07Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/logos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:07Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/lz_gauges",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:56:09Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/mainnet-testnet-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 363,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:56:12Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/metis-subgraph-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:12Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/move-to-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:12Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/oft-transfer-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:13Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/oft-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:13Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/omnichain-governance-executor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:56:16Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/onesig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:56:19Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/oracle-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:19Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/plugin-wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:20Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/prettier-plugin-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:20Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/qmdb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 316,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:56:22Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/request-oft-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:23Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/safe-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:24Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/safe-transaction-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:24Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:25Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/set-trusted-remotes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:25Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/snapshot-strategies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:25Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/solana-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:26Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/solidity-bytes-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:26Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/solidity-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1022,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:56:29Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/solidity-stringutils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:29Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/sybil-report",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:30Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/ua-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:56:32Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/usdt-native-mesh",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:56:34Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/walletconnect-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:35Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/walletconnect-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:56:35Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/wrapped-asset-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 333,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:56:37Z"
+    },
+    {
+      "full_name": "LayerZero-Labs/x-trader-joe-bridge-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:56:39Z"
+    }
+  ]
+}

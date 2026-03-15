@@ -1,0 +1,438 @@
+{
+  "owner": "g7dao",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "G7DAO/AutoTx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:15:44Z"
+    },
+    {
+      "full_name": "G7DAO/CredQuest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:15:46Z"
+    },
+    {
+      "full_name": "G7DAO/FISH-DAO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:15:48Z"
+    },
+    {
+      "full_name": "G7DAO/RoiSign",
+      "is_fork": true,
+      "parent": "OpenSignLabs/OpenSign",
+      "source": "OpenSignLabs/OpenSign",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:15:50Z"
+    },
+    {
+      "full_name": "G7DAO/SmartBet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:15:52Z"
+    },
+    {
+      "full_name": "G7DAO/TinyAcceleratedEVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:15:54Z"
+    },
+    {
+      "full_name": "G7DAO/account-abstraction-webauthn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:15:56Z"
+    },
+    {
+      "full_name": "G7DAO/achievements",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:15:58Z"
+    },
+    {
+      "full_name": "G7DAO/arbitrum-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-sdk",
+      "source": "OffchainLabs/arbitrum-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:00Z"
+    },
+    {
+      "full_name": "G7DAO/bifrost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:16:02Z"
+    },
+    {
+      "full_name": "G7DAO/blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:04Z"
+    },
+    {
+      "full_name": "G7DAO/brand-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:06Z"
+    },
+    {
+      "full_name": "G7DAO/camelot-default-token-list",
+      "is_fork": true,
+      "parent": "CamelotLabs/default-token-list",
+      "source": "CamelotLabs/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:08Z"
+    },
+    {
+      "full_name": "G7DAO/chainprof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:16:10Z"
+    },
+    {
+      "full_name": "G7DAO/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T13:16:12Z"
+    },
+    {
+      "full_name": "G7DAO/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:16:14Z"
+    },
+    {
+      "full_name": "G7DAO/diamond-blueprinter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:16Z"
+    },
+    {
+      "full_name": "G7DAO/discourse-governance-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:18Z"
+    },
+    {
+      "full_name": "G7DAO/ethdenver-three",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:20Z"
+    },
+    {
+      "full_name": "G7DAO/ethdenver-two",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:22Z"
+    },
+    {
+      "full_name": "G7DAO/g7-cloudflare-rest-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:16:24Z"
+    },
+    {
+      "full_name": "G7DAO/g7-github-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:16:26Z"
+    },
+    {
+      "full_name": "G7DAO/game7-open-positions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:28Z"
+    },
+    {
+      "full_name": "G7DAO/idea-submission-guidelines",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:30Z"
+    },
+    {
+      "full_name": "G7DAO/interoperability-project",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:32Z"
+    },
+    {
+      "full_name": "G7DAO/l1-l3-teleport-contracts",
+      "is_fork": true,
+      "parent": "OffchainLabs/l1-l3-teleport-contracts",
+      "source": "OffchainLabs/l1-l3-teleport-contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:34Z"
+    },
+    {
+      "full_name": "G7DAO/media-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:36Z"
+    },
+    {
+      "full_name": "G7DAO/multi-faceted-proxy-factory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:38Z"
+    },
+    {
+      "full_name": "G7DAO/nft-inventory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:16:40Z"
+    },
+    {
+      "full_name": "G7DAO/protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:16:40Z"
+    },
+    {
+      "full_name": "G7DAO/public-project-webhooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:16:42Z"
+    },
+    {
+      "full_name": "G7DAO/safe-client-gateway",
+      "is_fork": true,
+      "parent": "safe-global/safe-client-gateway",
+      "source": "safe-global/safe-client-gateway",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:44Z"
+    },
+    {
+      "full_name": "G7DAO/safe-config-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-config-service",
+      "source": "safe-global/safe-config-service",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:16:46Z"
+    },
+    {
+      "full_name": "G7DAO/safe-eth-py",
+      "is_fork": true,
+      "parent": "safe-global/safe-eth-py",
+      "source": "safe-global/safe-eth-py",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:16:49Z"
+    },
+    {
+      "full_name": "G7DAO/safe-events-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-events-service",
+      "source": "safe-global/safe-events-service",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:51Z"
+    },
+    {
+      "full_name": "G7DAO/safe-node-txs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:53Z"
+    },
+    {
+      "full_name": "G7DAO/safe-transaction-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-transaction-service",
+      "source": "safe-global/safe-transaction-service",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:16:56Z"
+    },
+    {
+      "full_name": "G7DAO/safe-wallet-web",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:16:58Z"
+    },
+    {
+      "full_name": "G7DAO/safes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:17:00Z"
+    },
+    {
+      "full_name": "G7DAO/seer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:17:02Z"
+    },
+    {
+      "full_name": "G7DAO/status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:17:04Z"
+    },
+    {
+      "full_name": "G7DAO/summon-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:17:06Z"
+    },
+    {
+      "full_name": "G7DAO/test-wowtlk",
+      "is_fork": true,
+      "parent": "azerothcore/azerothcore-wotlk",
+      "source": "azerothcore/azerothcore-wotlk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:17:08Z"
+    },
+    {
+      "full_name": "G7DAO/unreal-fps-demo",
+      "is_fork": true,
+      "parent": "G7DAO/web3.unreal",
+      "source": "G7DAO/web3.unreal",
+      "stars": 4,
+      "language": "C#",
+      "last_checked": "2026-03-09T13:17:10Z"
+    },
+    {
+      "full_name": "G7DAO/unreal-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-09T13:17:12Z"
+    },
+    {
+      "full_name": "G7DAO/w3sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:17:14Z"
+    },
+    {
+      "full_name": "G7DAO/waiting-list-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:17:16Z"
+    },
+    {
+      "full_name": "G7DAO/web3.unreal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "C++",
+      "last_checked": "2026-03-09T13:17:18Z"
+    }
+  ]
+}

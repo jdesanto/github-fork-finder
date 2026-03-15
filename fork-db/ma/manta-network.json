@@ -1,0 +1,1392 @@
+{
+  "owner": "manta-network",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Manta-Network/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:21Z"
+    },
+    {
+      "full_name": "Manta-Network/Acala",
+      "is_fork": true,
+      "parent": "AcalaNetwork/Acala",
+      "source": "AcalaNetwork/Acala",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:23Z"
+    },
+    {
+      "full_name": "Manta-Network/Atlantic-Audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:26Z"
+    },
+    {
+      "full_name": "Manta-Network/CMC-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:28Z"
+    },
+    {
+      "full_name": "Manta-Network/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:47:30Z"
+    },
+    {
+      "full_name": "Manta-Network/Dev-Tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:47:32Z"
+    },
+    {
+      "full_name": "Manta-Network/EthereumDappDevelopmentCourse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:34Z"
+    },
+    {
+      "full_name": "Manta-Network/General-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:36Z"
+    },
+    {
+      "full_name": "Manta-Network/Grant-Milestone-Delivery",
+      "is_fork": true,
+      "parent": "w3f/Grant-Milestone-Delivery",
+      "source": "w3f/Grant-Milestone-Delivery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:38Z"
+    },
+    {
+      "full_name": "Manta-Network/Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:47:41Z"
+    },
+    {
+      "full_name": "Manta-Network/Logos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:43Z"
+    },
+    {
+      "full_name": "Manta-Network/MIPS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:45Z"
+    },
+    {
+      "full_name": "Manta-Network/Manta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 237,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:47:47Z"
+    },
+    {
+      "full_name": "Manta-Network/Manta-Benchmark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:47Z"
+    },
+    {
+      "full_name": "Manta-Network/Manta-Tech-Doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T23:47:49Z"
+    },
+    {
+      "full_name": "Manta-Network/Plonk-Prototype",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:47:51Z"
+    },
+    {
+      "full_name": "Manta-Network/ZKSummitHackingChallenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:47:53Z"
+    },
+    {
+      "full_name": "Manta-Network/Zenlink",
+      "is_fork": true,
+      "parent": "zenlinkpro/Zenlink-DEX-Module",
+      "source": "zenlinkpro/Zenlink-DEX-Module",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:47:55Z"
+    },
+    {
+      "full_name": "Manta-Network/ansible",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T23:47:57Z"
+    },
+    {
+      "full_name": "Manta-Network/app-substrate-common",
+      "is_fork": true,
+      "parent": "eq-lab/app-substrate-common",
+      "source": "eq-lab/app-substrate-common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:00Z"
+    },
+    {
+      "full_name": "Manta-Network/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:03Z"
+    },
+    {
+      "full_name": "Manta-Network/ark-algebra",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:03Z"
+    },
+    {
+      "full_name": "Manta-Network/ark-crypto-primitives",
+      "is_fork": true,
+      "parent": "arkworks-rs/crypto-primitives",
+      "source": "arkworks-rs/crypto-primitives",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:48:05Z"
+    },
+    {
+      "full_name": "Manta-Network/ark-curves",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:06Z"
+    },
+    {
+      "full_name": "Manta-Network/ark-r1cs-std",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:06Z"
+    },
+    {
+      "full_name": "Manta-Network/ark-snark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:07Z"
+    },
+    {
+      "full_name": "Manta-Network/awesome-manta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:10Z"
+    },
+    {
+      "full_name": "Manta-Network/bobtail",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:12Z"
+    },
+    {
+      "full_name": "Manta-Network/bridge",
+      "is_fork": true,
+      "parent": "polkawallet-io/bridge",
+      "source": "polkawallet-io/bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:14Z"
+    },
+    {
+      "full_name": "Manta-Network/bridge_deploy",
+      "is_fork": true,
+      "parent": "meterio/bridge_deploy",
+      "source": "meterio/bridge_deploy",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:16Z"
+    },
+    {
+      "full_name": "Manta-Network/bridging-tutorial",
+      "is_fork": true,
+      "parent": "ConstellationCrypto/bridging-tutorial",
+      "source": "ConstellationCrypto/bridging-tutorial",
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:48:18Z"
+    },
+    {
+      "full_name": "Manta-Network/calamari-crowdloan-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:20Z"
+    },
+    {
+      "full_name": "Manta-Network/calamari-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:22Z"
+    },
+    {
+      "full_name": "Manta-Network/calamari.network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:24Z"
+    },
+    {
+      "full_name": "Manta-Network/celestia-bedrock-manta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T23:48:26Z"
+    },
+    {
+      "full_name": "Manta-Network/chainbridge-solidity-v1.0.0-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:27Z"
+    },
+    {
+      "full_name": "Manta-Network/cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:48:29Z"
+    },
+    {
+      "full_name": "Manta-Network/crypto-benchmark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:29Z"
+    },
+    {
+      "full_name": "Manta-Network/cumulus",
+      "is_fork": true,
+      "parent": "paritytech/cumulus",
+      "source": "paritytech/cumulus",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:31Z"
+    },
+    {
+      "full_name": "Manta-Network/cumulus-collator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:32Z"
+    },
+    {
+      "full_name": "Manta-Network/deb.manta.systems",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:34Z"
+    },
+    {
+      "full_name": "Manta-Network/dev-stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:36Z"
+    },
+    {
+      "full_name": "Manta-Network/dev-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:38Z"
+    },
+    {
+      "full_name": "Manta-Network/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:40Z"
+    },
+    {
+      "full_name": "Manta-Network/evm",
+      "is_fork": true,
+      "parent": "rust-ethereum/evm",
+      "source": "rust-ethereum/evm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:42Z"
+    },
+    {
+      "full_name": "Manta-Network/explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:48:44Z"
+    },
+    {
+      "full_name": "Manta-Network/faucet-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:46Z"
+    },
+    {
+      "full_name": "Manta-Network/fork-off-substrate",
+      "is_fork": true,
+      "parent": "maxsam4/fork-off-substrate",
+      "source": "maxsam4/fork-off-substrate",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:48:48Z"
+    },
+    {
+      "full_name": "Manta-Network/frontier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:49Z"
+    },
+    {
+      "full_name": "Manta-Network/governance-crosschain-bridges",
+      "is_fork": true,
+      "parent": "lidofinance/governance-crosschain-bridges",
+      "source": "aave/governance-crosschain-bridges",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:51Z"
+    },
+    {
+      "full_name": "Manta-Network/hackathon-2021-spring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:51Z"
+    },
+    {
+      "full_name": "Manta-Network/homebrew-manta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:48:53Z"
+    },
+    {
+      "full_name": "Manta-Network/indonesia_hacker_house",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:55Z"
+    },
+    {
+      "full_name": "Manta-Network/jsonrpsee",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:48:57Z"
+    },
+    {
+      "full_name": "Manta-Network/l2beat",
+      "is_fork": true,
+      "parent": "l2beat/l2beat",
+      "source": "l2beat/l2beat",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:48:59Z"
+    },
+    {
+      "full_name": "Manta-Network/lido-l2",
+      "is_fork": true,
+      "parent": "lidofinance/lido-l2",
+      "source": "lidofinance/lido-l2",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:02Z"
+    },
+    {
+      "full_name": "Manta-Network/magic-world",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:04Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:04Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-asset",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:05Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-bridge",
+      "is_fork": true,
+      "parent": "polkawallet-io/bridge",
+      "source": "polkawallet-io/bridge",
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:07Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-chaindata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:11Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:12Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-client-gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:14Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-config-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T23:49:16Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:16Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-dex",
+      "is_fork": true,
+      "parent": "zenlinkpro/zenlink-interface",
+      "source": "zenlinkpro/zenlink-interface",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:19Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-dex-squid",
+      "is_fork": true,
+      "parent": "zenlinkpro/bifrost-kusama-squid",
+      "source": "zenlinkpro/bifrost-kusama-squid",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:21Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-erc721-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:23Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-error",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:24Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-events-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:26Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-explorer",
+      "is_fork": true,
+      "parent": "subscan-explorer/subscan-essentials",
+      "source": "subscan-explorer/subscan-essentials",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T23:49:28Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-fp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Go",
+      "last_checked": "2026-03-09T23:49:30Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-fp-aggregator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T23:49:32Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-fp-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:49:34Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-front-end",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:34Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-front-end-design",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:35Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-front-end-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:35Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:49:37Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:38Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-pacific-squid",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:40Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-pacific-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:49:42Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-pacific-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:44Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-pc-launch",
+      "is_fork": true,
+      "parent": "paritytech/polkadot-launch",
+      "source": "paritytech/polkadot-launch",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:46Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 81,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:49:48Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 92,
+      "language": "CSS",
+      "last_checked": "2026-03-09T23:49:50Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-signer-install",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:51Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-signer-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:51Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-squid",
+      "is_fork": true,
+      "parent": "subsquid-labs/squid-substrate-template",
+      "source": "subsquid-labs/squid-substrate-template",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:53Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-staker-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:49:55Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-subxt-integrated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:56Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-transaction-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T23:49:58Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:49:58Z"
+    },
+    {
+      "full_name": "Manta-Network/manta-xt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:00Z"
+    },
+    {
+      "full_name": "Manta-Network/manta.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:01Z"
+    },
+    {
+      "full_name": "Manta-Network/memory-lru",
+      "is_fork": true,
+      "parent": "paritytech/memory-lru",
+      "source": "paritytech/memory-lru",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:03Z"
+    },
+    {
+      "full_name": "Manta-Network/moonkit",
+      "is_fork": true,
+      "parent": "Moonsong-Labs/moonkit",
+      "source": "Moonsong-Labs/moonkit",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:05Z"
+    },
+    {
+      "full_name": "Manta-Network/msig-util",
+      "is_fork": true,
+      "parent": "stechu/msig-util",
+      "source": "lsaether/msig-util",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:08Z"
+    },
+    {
+      "full_name": "Manta-Network/nimbus",
+      "is_fork": true,
+      "parent": "moonbeam-foundation/nimbus",
+      "source": "moonbeam-foundation/nimbus",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:10Z"
+    },
+    {
+      "full_name": "Manta-Network/octopus-garden",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:50:12Z"
+    },
+    {
+      "full_name": "Manta-Network/open-runtime-module-library",
+      "is_fork": true,
+      "parent": "open-web3-stack/open-runtime-module-library",
+      "source": "open-web3-stack/open-runtime-module-library",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:14Z"
+    },
+    {
+      "full_name": "Manta-Network/optimism",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:15Z"
+    },
+    {
+      "full_name": "Manta-Network/p0xlabs.xyz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:17Z"
+    },
+    {
+      "full_name": "Manta-Network/pallet-manta-pay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:19Z"
+    },
+    {
+      "full_name": "Manta-Network/perp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:19Z"
+    },
+    {
+      "full_name": "Manta-Network/placeholder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:21Z"
+    },
+    {
+      "full_name": "Manta-Network/plonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:22Z"
+    },
+    {
+      "full_name": "Manta-Network/polkadot-fork",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:24Z"
+    },
+    {
+      "full_name": "Manta-Network/polkadot-js-api",
+      "is_fork": true,
+      "parent": "polkadot-js/api",
+      "source": "polkadot-js/api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:26Z"
+    },
+    {
+      "full_name": "Manta-Network/polkadot-official",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:28Z"
+    },
+    {
+      "full_name": "Manta-Network/polkadot-secure-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:29Z"
+    },
+    {
+      "full_name": "Manta-Network/ppot-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:50:31Z"
+    },
+    {
+      "full_name": "Manta-Network/profitBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:32Z"
+    },
+    {
+      "full_name": "Manta-Network/pulse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-09T23:50:34Z"
+    },
+    {
+      "full_name": "Manta-Network/react-dapp-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:36Z"
+    },
+    {
+      "full_name": "Manta-Network/realperp-token-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:38Z"
+    },
+    {
+      "full_name": "Manta-Network/rpm.manta.systems",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:50:40Z"
+    },
+    {
+      "full_name": "Manta-Network/rubberneck",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:50:42Z"
+    },
+    {
+      "full_name": "Manta-Network/scale-ts",
+      "is_fork": true,
+      "parent": "tjjfvi/subshape",
+      "source": "tjjfvi/subshape",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:45Z"
+    },
+    {
+      "full_name": "Manta-Network/scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:46Z"
+    },
+    {
+      "full_name": "Manta-Network/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:48Z"
+    },
+    {
+      "full_name": "Manta-Network/security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:50Z"
+    },
+    {
+      "full_name": "Manta-Network/solana-pool-info-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:50:52Z"
+    },
+    {
+      "full_name": "Manta-Network/solarbeam-tokenlist",
+      "is_fork": true,
+      "parent": "solarbeamio/solarbeam-tokenlist",
+      "source": "solarbeamio/solarbeam-tokenlist",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:50:57Z"
+    },
+    {
+      "full_name": "Manta-Network/sparta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:51:00Z"
+    },
+    {
+      "full_name": "Manta-Network/spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2026-03-09T23:51:02Z"
+    },
+    {
+      "full_name": "Manta-Network/squid-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:51:05Z"
+    },
+    {
+      "full_name": "Manta-Network/srtool",
+      "is_fork": true,
+      "parent": "paritytech/srtool",
+      "source": "paritytech/srtool",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:07Z"
+    },
+    {
+      "full_name": "Manta-Network/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:11Z"
+    },
+    {
+      "full_name": "Manta-Network/status.manta.network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:51:13Z"
+    },
+    {
+      "full_name": "Manta-Network/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:15Z"
+    },
+    {
+      "full_name": "Manta-Network/substrate-api-sidecar",
+      "is_fork": true,
+      "parent": "paritytech/substrate-api-sidecar",
+      "source": "paritytech/substrate-api-sidecar",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:17Z"
+    },
+    {
+      "full_name": "Manta-Network/substrate-archive-setup",
+      "is_fork": true,
+      "parent": "subsquid/substrate-archive-setup",
+      "source": "subsquid/substrate-archive-setup",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:20Z"
+    },
+    {
+      "full_name": "Manta-Network/substrate-fixed",
+      "is_fork": true,
+      "parent": "encointer/substrate-fixed",
+      "source": "encointer/substrate-fixed",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:22Z"
+    },
+    {
+      "full_name": "Manta-Network/substrate-node-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:22Z"
+    },
+    {
+      "full_name": "Manta-Network/subtornado",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:24Z"
+    },
+    {
+      "full_name": "Manta-Network/subway",
+      "is_fork": true,
+      "parent": "AcalaNetwork/subway",
+      "source": "AcalaNetwork/subway",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:27Z"
+    },
+    {
+      "full_name": "Manta-Network/telemetry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:51:29Z"
+    },
+    {
+      "full_name": "Manta-Network/telemetry.manta.systems",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:51:31Z"
+    },
+    {
+      "full_name": "Manta-Network/telemetry.pelagos.systems",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:51:33Z"
+    },
+    {
+      "full_name": "Manta-Network/terraform-aws-polkadot-deployer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:33Z"
+    },
+    {
+      "full_name": "Manta-Network/testnet-v3-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:51:35Z"
+    },
+    {
+      "full_name": "Manta-Network/tiny-hderive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:36Z"
+    },
+    {
+      "full_name": "Manta-Network/token-resources",
+      "is_fork": true,
+      "parent": "AcalaNetwork/token-resources",
+      "source": "AcalaNetwork/token-resources",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:38Z"
+    },
+    {
+      "full_name": "Manta-Network/upstream-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:40Z"
+    },
+    {
+      "full_name": "Manta-Network/wasm-zkp-challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:43Z"
+    },
+    {
+      "full_name": "Manta-Network/x25519-dalek",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T23:51:43Z"
+    },
+    {
+      "full_name": "Manta-Network/zenlink-dapp",
+      "is_fork": true,
+      "parent": "zenlinkpro/zenlink-interface",
+      "source": "zenlinkpro/zenlink-interface",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:51:46Z"
+    },
+    {
+      "full_name": "Manta-Network/zk-garage-plonk",
+      "is_fork": true,
+      "parent": "ZK-Garage/plonk",
+      "source": "ZK-Garage/plonk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T23:51:48Z"
+    },
+    {
+      "full_name": "Manta-Network/zkShuffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T23:51:50Z"
+    },
+    {
+      "full_name": "Manta-Network/zkShuffle-blog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:51:53Z"
+    },
+    {
+      "full_name": "Manta-Network/zkShuffle-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "MDX",
+      "last_checked": "2026-03-09T23:51:55Z"
+    },
+    {
+      "full_name": "Manta-Network/zkday-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T23:51:57Z"
+    },
+    {
+      "full_name": "Manta-Network/zombienet",
+      "is_fork": true,
+      "parent": "paritytech/zombienet",
+      "source": "paritytech/zombienet",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T23:52:00Z"
+    },
+    {
+      "full_name": "Manta-Network/zprize-wasm-msm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T23:52:02Z"
+    }
+  ]
+}

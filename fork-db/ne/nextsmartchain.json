@@ -1,0 +1,33 @@
+{
+  "owner": "nextsmartchain",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NextSmartChain/go-ethereum",
+      "is_fork": true,
+      "parent": "Fantom-foundation/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:56:49Z"
+    },
+    {
+      "full_name": "NextSmartChain/go-next-base",
+      "is_fork": true,
+      "parent": "Fantom-foundation/lachesis-base",
+      "source": "Fantom-foundation/lachesis-base",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:56:51Z"
+    },
+    {
+      "full_name": "NextSmartChain/next-hardhat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:56:53Z"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "owner": "easedefi",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "EaseDeFi/Audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T07:18:31Z"
+    },
+    {
+      "full_name": "EaseDeFi/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:18:33Z"
+    },
+    {
+      "full_name": "EaseDeFi/addon-whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:18:35Z"
+    },
+    {
+      "full_name": "EaseDeFi/arCore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:18:37Z"
+    },
+    {
+      "full_name": "EaseDeFi/arNFT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T07:18:39Z"
+    },
+    {
+      "full_name": "EaseDeFi/arNXM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T07:18:41Z"
+    },
+    {
+      "full_name": "EaseDeFi/arNXMV2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T07:18:43Z"
+    },
+    {
+      "full_name": "EaseDeFi/arShield",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T07:18:45Z"
+    },
+    {
+      "full_name": "EaseDeFi/armor-governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:18:47Z"
+    },
+    {
+      "full_name": "EaseDeFi/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T07:18:49Z"
+    },
+    {
+      "full_name": "EaseDeFi/ease-rca",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:18:51Z"
+    },
+    {
+      "full_name": "EaseDeFi/ease-zapper-integration",
+      "is_fork": true,
+      "parent": "Zapper-fi/studio",
+      "source": "Zapper-fi/studio",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:18:53Z"
+    },
+    {
+      "full_name": "EaseDeFi/gvToken",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T07:18:55Z"
+    },
+    {
+      "full_name": "EaseDeFi/inedible-assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T07:18:57Z"
+    },
+    {
+      "full_name": "EaseDeFi/smart-contracts",
+      "is_fork": true,
+      "parent": "NexusMutual/smart-contracts",
+      "source": "NexusMutual/smart-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:18:59Z"
+    },
+    {
+      "full_name": "EaseDeFi/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-09T07:19:01Z"
+    },
+    {
+      "full_name": "EaseDeFi/synthetix-faq-bot",
+      "is_fork": true,
+      "parent": "danijelthales/synthetix-faq-bot",
+      "source": "danijelthales/synthetix-faq-bot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T07:19:03Z"
+    },
+    {
+      "full_name": "EaseDeFi/yield-server",
+      "is_fork": true,
+      "parent": "DefiLlama/yield-server",
+      "source": "DefiLlama/yield-server",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T07:19:05Z"
+    },
+    {
+      "full_name": "EaseDeFi/yinsure-finance",
+      "is_fork": true,
+      "parent": "yearn/yinsure-finance",
+      "source": "yearn/yinsure-finance",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T07:19:07Z"
+    }
+  ]
+}

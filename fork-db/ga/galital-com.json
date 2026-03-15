@@ -1,0 +1,60 @@
+{
+  "owner": "galital-com",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "Galital-com/galital",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:42:13Z"
+    },
+    {
+      "full_name": "Galital-com/galital-parachain",
+      "is_fork": true,
+      "parent": "starkleytech/galital-parachain",
+      "source": "starkleytech/galital-parachain",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:15Z"
+    },
+    {
+      "full_name": "Galital-com/ipfs-pallets",
+      "is_fork": true,
+      "parent": "starkleytech/ipfs-pallets",
+      "source": "starkleytech/ipfs-pallets",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:18Z"
+    },
+    {
+      "full_name": "Galital-com/marketplace-chain",
+      "is_fork": true,
+      "parent": "starkleytech/marketplace-chain",
+      "source": "starkleytech/marketplace-chain",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:20Z"
+    },
+    {
+      "full_name": "Galital-com/substrate-node-template-full",
+      "is_fork": true,
+      "parent": "starkleytech/substrate-node-template-full",
+      "source": "starkleytech/substrate-node-template-full",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:22Z"
+    },
+    {
+      "full_name": "Galital-com/substrate-pallet-template",
+      "is_fork": true,
+      "parent": "starkleytech/substrate-pallet-template",
+      "source": "riusricardo/substrate-pallet-template",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:42:24Z"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "owner": "matrixainetwork",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MatrixAINetwork/ABC-Applications",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cuda",
+      "last_checked": "2026-03-10T00:38:45Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/ABC-Tool-Chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Java",
+      "last_checked": "2026-03-10T00:38:47Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/AdversarialNetsPapers",
+      "is_fork": true,
+      "parent": "zhangqianhui/AdversarialNetsPapers",
+      "source": "zhangqianhui/AdversarialNetsPapers",
+      "stars": 34,
+      "language": null,
+      "last_checked": "2026-03-10T00:38:49Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/CNN_RUL",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": null,
+      "last_checked": "2026-03-10T00:38:51Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Deep-Learning-Tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": null,
+      "last_checked": "2026-03-10T00:38:53Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Flowise_",
+      "is_fork": true,
+      "parent": "FlowiseAI/Flowise",
+      "source": "FlowiseAI/Flowise",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T00:38:55Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/GMAN_CLIENT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-10T00:38:57Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/GO-MATRIX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 201,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:00Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Hello-World",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:02Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/LOGOs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:04Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Libraries",
+      "is_fork": true,
+      "parent": "MatrixAINetworkMan/Libraries",
+      "source": "bitpay/bitcore-lib",
+      "stars": 29,
+      "language": "C++",
+      "last_checked": "2026-03-10T00:39:06Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIXAIPOC_GO",
+      "is_fork": true,
+      "parent": "MatrixAINetworkMan/MatrixAIPOC_GO",
+      "source": "MatrixAINetworkMan/MatrixAIPOC_GO",
+      "stars": 182,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:08Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIXHowTo",
+      "is_fork": true,
+      "parent": "MatrixAINetworkMan/MatrixHowTo",
+      "source": "MatrixAINetworkMan/MatrixHowTo",
+      "stars": 69,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:10Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_AI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 133,
+      "language": "C",
+      "last_checked": "2026-03-10T00:39:12Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_CRYPTO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:14Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_Diary",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 197,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:16Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_EXPLORER",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:39:18Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_Etherscan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "HTML",
+      "last_checked": "2026-03-10T00:39:20Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_GENESISEDITOR",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-10T00:39:23Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_RANDOMNUMTEST",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "Python",
+      "last_checked": "2026-03-10T00:39:25Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_Tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 192,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:28Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_WEBWALLET",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Vue",
+      "last_checked": "2026-03-10T00:39:30Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_WEEKLY-Q-As",
+      "is_fork": true,
+      "parent": "MatrixAINetworkMan/WEEKLY-Q-As",
+      "source": "MatrixAINetworkMan/WEEKLY-Q-As",
+      "stars": 158,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:32Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MATRIX_docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 84,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:34Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MatrixAIPOC_GO-CRYPTO",
+      "is_fork": true,
+      "parent": "MatrixAINetworkMan/MatrixAIPOC_GO-CRYPTO",
+      "source": "MatrixAINetworkMan/MatrixAIPOC_GO-CRYPTO",
+      "stars": 47,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:36Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MatrixAIPoC_PY",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 152,
+      "language": "Python",
+      "last_checked": "2026-03-10T00:39:38Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/MatrixSmartContractDemo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:39:40Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Matrix_GPU_Mining_jerry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:39:42Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/OFFLINE_WALLET",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:43Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/OSSRH-51158",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:45Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Research-Papers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:47Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/SIMD-architecture",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Verilog",
+      "last_checked": "2026-03-10T00:39:51Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/SMARTCONTRACT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 199,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:53Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Sampling-Model",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "SystemVerilog",
+      "last_checked": "2026-03-10T00:39:55Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/SmartContractFormalVerification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T00:39:57Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/Talks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-10T00:39:59Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/TimeSeries-Prediction-Work",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "R",
+      "last_checked": "2026-03-10T00:40:01Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/TxSend-Sign-Demos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:03Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/WhitePaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": null,
+      "last_checked": "2026-03-10T00:40:05Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/aiman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:07Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/aimanj",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T00:40:09Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/chaindate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T00:40:11Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/crosschain_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:13Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/detetection_utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Python",
+      "last_checked": "2026-03-10T00:40:15Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/early_warning_detection",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "R",
+      "last_checked": "2026-03-10T00:40:17Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/generative-models",
+      "is_fork": true,
+      "parent": "wiseodd/generative-models",
+      "source": "wiseodd/generative-models",
+      "stars": 33,
+      "language": "Python",
+      "last_checked": "2026-03-10T00:40:20Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/go-AIMan",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:40:22Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/go-matrix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 201,
+      "language": "Go",
+      "last_checked": "2026-03-10T00:40:24Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/manbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:27Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/matrixdemo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:29Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/timeseries_mining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T00:40:31Z"
+    },
+    {
+      "full_name": "MatrixAINetwork/truffle_MAN",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T00:40:33Z"
+    }
+  ]
+}

@@ -1,0 +1,1563 @@
+{
+  "owner": "offchainlabs",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "OffchainLabs/Arb-Burner-Wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:14:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/Arbiswap_V2_mono",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:14:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/Blobwatcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:14:47Z"
+    },
+    {
+      "full_name": "OffchainLabs/ERCs",
+      "is_fork": true,
+      "parent": "ethereum/ERCs",
+      "source": "ethereum/ERCs",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:14:49Z"
+    },
+    {
+      "full_name": "OffchainLabs/Orbit-retryable-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:14:51Z"
+    },
+    {
+      "full_name": "OffchainLabs/RescuETH",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:14:53Z"
+    },
+    {
+      "full_name": "OffchainLabs/SoftFloat",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C",
+      "last_checked": "2026-03-10T10:14:55Z"
+    },
+    {
+      "full_name": "OffchainLabs/Telegram-Slack-Bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T10:14:57Z"
+    },
+    {
+      "full_name": "OffchainLabs/actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-10T10:14:59Z"
+    },
+    {
+      "full_name": "OffchainLabs/aragonOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:14:59Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-avm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:00Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-avm-cpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:00Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-compiler-evm-archive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-10T10:15:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-ethbridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-ethers-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:03Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-ethers-web3-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:15:05Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-os",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 94,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:15:07Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-peripheral-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:15:09Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-provider-ethers-deprecated-",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:11Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-retryables-monitoring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-token-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 181,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:15Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-token-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:18Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-truffle-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:18Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-util",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:18Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb-web3-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/arb_reddit_community_points",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbc-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 76,
+      "language": null,
+      "last_checked": "2026-03-10T10:15:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-chain-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:25Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-classic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2006,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:15:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-cli-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:29Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-deployment-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:31Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 238,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:15:33Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-funds-recovery-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:35Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-interop-quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:15:37Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-monitoring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:39Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-orbit-deployment-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:41Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-orbit-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:43Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 274,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:47Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-subgraphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:49Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-token-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 181,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:51Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-token-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:53Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:55Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbitrum-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 503,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:15:57Z"
+    },
+    {
+      "full_name": "OffchainLabs/arbtoken_twitter_faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:15:59Z"
+    },
+    {
+      "full_name": "OffchainLabs/augur",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:00Z"
+    },
+    {
+      "full_name": "OffchainLabs/awesome-stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 96,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/balancer-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/balancer-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/balancer-pool-management",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:03Z"
+    },
+    {
+      "full_name": "OffchainLabs/balancer-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:03Z"
+    },
+    {
+      "full_name": "OffchainLabs/benchmarking-stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:05Z"
+    },
+    {
+      "full_name": "OffchainLabs/block-hash-pusher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:07Z"
+    },
+    {
+      "full_name": "OffchainLabs/blockscout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 58,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T10:16:09Z"
+    },
+    {
+      "full_name": "OffchainLabs/bold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 118,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:16:11Z"
+    },
+    {
+      "full_name": "OffchainLabs/bold-private",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:11Z"
+    },
+    {
+      "full_name": "OffchainLabs/bold-validator-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Shell",
+      "last_checked": "2026-03-10T10:16:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/broadcast-erc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:15Z"
+    },
+    {
+      "full_name": "OffchainLabs/cargo-stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 74,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:16:17Z"
+    },
+    {
+      "full_name": "OffchainLabs/community-helm-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go Template",
+      "last_checked": "2026-03-10T10:16:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/config-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:16:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/configurable-rights-pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/crosschain-oracle-workshop-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/crosschain-tools-chrome-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:16:25Z"
+    },
+    {
+      "full_name": "OffchainLabs/cuckoocache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:16:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/dac-rewards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:30Z"
+    },
+    {
+      "full_name": "OffchainLabs/decentralized-timeboost-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:32Z"
+    },
+    {
+      "full_name": "OffchainLabs/demo-dapp-election",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:16:34Z"
+    },
+    {
+      "full_name": "OffchainLabs/demo-dapp-pet-shop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:16:35Z"
+    },
+    {
+      "full_name": "OffchainLabs/deposits_tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:16:37Z"
+    },
+    {
+      "full_name": "OffchainLabs/encode-workshop-crosschain-messaging",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:16:39Z"
+    },
+    {
+      "full_name": "OffchainLabs/eslint-plugin-zustand-rules",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:16:41Z"
+    },
+    {
+      "full_name": "OffchainLabs/eth-pos-devnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 134,
+      "language": "Shell",
+      "last_checked": "2026-03-10T10:16:43Z"
+    },
+    {
+      "full_name": "OffchainLabs/ethers-bls-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:16:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/external-initiator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:46Z"
+    },
+    {
+      "full_name": "OffchainLabs/fakerdao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:16:46Z"
+    },
+    {
+      "full_name": "OffchainLabs/fastcache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:16:48Z"
+    },
+    {
+      "full_name": "OffchainLabs/fastssz",
+      "is_fork": true,
+      "parent": "ferranbt/fastssz",
+      "source": "ferranbt/fastssz",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:16:50Z"
+    },
+    {
+      "full_name": "OffchainLabs/fetch-logs-with-cache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:16:52Z"
+    },
+    {
+      "full_name": "OffchainLabs/fund-distribution-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:54Z"
+    },
+    {
+      "full_name": "OffchainLabs/genesis-file-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:16:56Z"
+    },
+    {
+      "full_name": "OffchainLabs/gh-action-changed-files",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:16:58Z"
+    },
+    {
+      "full_name": "OffchainLabs/gnosis-safe-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:00Z"
+    },
+    {
+      "full_name": "OffchainLabs/go-batchhandler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:02Z"
+    },
+    {
+      "full_name": "OffchainLabs/go-bitfield",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:04Z"
+    },
+    {
+      "full_name": "OffchainLabs/go-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 76,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:06Z"
+    },
+    {
+      "full_name": "OffchainLabs/go-ethereum-hdwallet",
+      "is_fork": true,
+      "parent": "miguelmota/go-ethereum-hdwallet",
+      "source": "miguelmota/go-ethereum-hdwallet",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:08Z"
+    },
+    {
+      "full_name": "OffchainLabs/go-solidity-sha3",
+      "is_fork": true,
+      "parent": "miguelmota/go-solidity-sha3",
+      "source": "miguelmota/go-solidity-sha3",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:10Z"
+    },
+    {
+      "full_name": "OffchainLabs/goarbitrum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:17:10Z"
+    },
+    {
+      "full_name": "OffchainLabs/governance",
+      "is_fork": true,
+      "parent": "ArbitrumFoundation/governance",
+      "source": "ArbitrumFoundation/governance",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:17:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/hashtree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 42,
+      "language": "Assembly",
+      "last_checked": "2026-03-10T10:17:14Z"
+    },
+    {
+      "full_name": "OffchainLabs/keccak-const",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:17:16Z"
+    },
+    {
+      "full_name": "OffchainLabs/l1-l3-teleport-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:17:18Z"
+    },
+    {
+      "full_name": "OffchainLabs/l3tx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T10:17:20Z"
+    },
+    {
+      "full_name": "OffchainLabs/methodical-ssz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:22Z"
+    },
+    {
+      "full_name": "OffchainLabs/mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:17:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/monocypher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T10:17:25Z"
+    },
+    {
+      "full_name": "OffchainLabs/multicall",
+      "is_fork": true,
+      "parent": "sky-ecosystem/multicall",
+      "source": "sky-ecosystem/multicall",
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:17:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/navigator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T10:17:29Z"
+    },
+    {
+      "full_name": "OffchainLabs/nft-bridge-workshop-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:31Z"
+    },
+    {
+      "full_name": "OffchainLabs/nitro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 905,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:33Z"
+    },
+    {
+      "full_name": "OffchainLabs/nitro-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:17:33Z"
+    },
+    {
+      "full_name": "OffchainLabs/nitro-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 151,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:17:35Z"
+    },
+    {
+      "full_name": "OffchainLabs/nitro-devnode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-10T10:17:37Z"
+    },
+    {
+      "full_name": "OffchainLabs/nitro-testnode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:39Z"
+    },
+    {
+      "full_name": "OffchainLabs/notion-docs-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:41Z"
+    },
+    {
+      "full_name": "OffchainLabs/openzeppelin-contracts",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:17:43Z"
+    },
+    {
+      "full_name": "OffchainLabs/orbit-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:17:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/orbit-cli-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:47Z"
+    },
+    {
+      "full_name": "OffchainLabs/orbit-deployment-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:49Z"
+    },
+    {
+      "full_name": "OffchainLabs/orbit-monitoring-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:51Z"
+    },
+    {
+      "full_name": "OffchainLabs/orbit-setup-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:17:53Z"
+    },
+    {
+      "full_name": "OffchainLabs/paired-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:17:54Z"
+    },
+    {
+      "full_name": "OffchainLabs/prysm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3734,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:17:56Z"
+    },
+    {
+      "full_name": "OffchainLabs/prysm-documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:17:57Z"
+    },
+    {
+      "full_name": "OffchainLabs/prysm-web-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "SCSS",
+      "last_checked": "2026-03-10T10:17:59Z"
+    },
+    {
+      "full_name": "OffchainLabs/retryable-tx-panel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:18:01Z"
+    },
+    {
+      "full_name": "OffchainLabs/retryables-risk-analysis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:18:03Z"
+    },
+    {
+      "full_name": "OffchainLabs/retryables_tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:18:05Z"
+    },
+    {
+      "full_name": "OffchainLabs/rollup-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 151,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:18:08Z"
+    },
+    {
+      "full_name": "OffchainLabs/safe-contracts",
+      "is_fork": true,
+      "parent": "safe-fndn/safe-smart-account",
+      "source": "safe-fndn/safe-smart-account",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T10:18:10Z"
+    },
+    {
+      "full_name": "OffchainLabs/sneks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:11Z"
+    },
+    {
+      "full_name": "OffchainLabs/sszpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "C++",
+      "last_checked": "2026-03-10T10:18:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/stablecoin-evm-orbit",
+      "is_fork": true,
+      "parent": "circlefin/stablecoin-evm",
+      "source": "circlefin/stablecoin-evm",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:18:15Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 119,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:18:17Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-as-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:18:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-by-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "MDX",
+      "last_checked": "2026-03-10T10:18:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-chess",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:18:25Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-english-auction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-erc20",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:18:29Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-erc20-oz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T10:18:31Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-erc20-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:18:33Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-erc721",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:18:35Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:18:37Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-hello-world",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:39Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-hello-world-minimal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:41Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-quickstart-vending-machine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:43Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-sdk-bf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "WebAssembly",
+      "last_checked": "2026-03-10T10:18:45Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-sdk-c",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "C",
+      "last_checked": "2026-03-10T10:18:47Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-sdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 320,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:49Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-tutorials",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:18:51Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-vending-machine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:53Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-workshop-basic-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:55Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-workshop-counter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:57Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-workshop-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:18:59Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-workshop-proxy-update",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:19:01Z"
+    },
+    {
+      "full_name": "OffchainLabs/stylus-workshop-rust-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:19:03Z"
+    },
+    {
+      "full_name": "OffchainLabs/sys-asm",
+      "is_fork": true,
+      "parent": "ethereum/sys-asm",
+      "source": "ethereum/sys-asm",
+      "stars": 0,
+      "language": "Assembly",
+      "last_checked": "2026-03-10T10:19:05Z"
+    },
+    {
+      "full_name": "OffchainLabs/timeboost-design",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:19:07Z"
+    },
+    {
+      "full_name": "OffchainLabs/timeboost-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:19:09Z"
+    },
+    {
+      "full_name": "OffchainLabs/token-bridge-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 190,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:19:11Z"
+    },
+    {
+      "full_name": "OffchainLabs/token-bridge-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:19:13Z"
+    },
+    {
+      "full_name": "OffchainLabs/token-bridge-sdk-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T10:19:14Z"
+    },
+    {
+      "full_name": "OffchainLabs/token-bridge-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:15Z"
+    },
+    {
+      "full_name": "OffchainLabs/token-mock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T10:19:17Z"
+    },
+    {
+      "full_name": "OffchainLabs/tornado-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:17Z"
+    },
+    {
+      "full_name": "OffchainLabs/unclog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T10:19:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:19Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:20Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:20Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:20Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-v2-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/uniswap-v2-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:21Z"
+    },
+    {
+      "full_name": "OffchainLabs/upgrade-executor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T10:19:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/vector-modal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:23Z"
+    },
+    {
+      "full_name": "OffchainLabs/wasm-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:19:25Z"
+    },
+    {
+      "full_name": "OffchainLabs/wasmer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-10T10:19:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/wyvern-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T10:19:27Z"
+    },
+    {
+      "full_name": "OffchainLabs/zig-on-stylus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Zig",
+      "last_checked": "2026-03-10T10:19:29Z"
+    }
+  ]
+}

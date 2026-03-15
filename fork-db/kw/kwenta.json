@@ -1,0 +1,483 @@
+{
+  "owner": "kwenta",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Kwenta/Documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:29:39Z"
+    },
+    {
+      "full_name": "Kwenta/KIPs",
+      "is_fork": true,
+      "parent": "Synthetixio/SIPs",
+      "source": "Synthetixio/SIPs",
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:29:41Z"
+    },
+    {
+      "full_name": "Kwenta/KSX",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:29:43Z"
+    },
+    {
+      "full_name": "Kwenta/LICENSE",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:29:45Z"
+    },
+    {
+      "full_name": "Kwenta/SIPs",
+      "is_fork": true,
+      "parent": "Synthetixio/SIPs",
+      "source": "Synthetixio/SIPs",
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T15:29:47Z"
+    },
+    {
+      "full_name": "Kwenta/aggregation-terminal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:29:50Z"
+    },
+    {
+      "full_name": "Kwenta/blog-redirect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:29:52Z"
+    },
+    {
+      "full_name": "Kwenta/brand-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:29:55Z"
+    },
+    {
+      "full_name": "Kwenta/cannon-std",
+      "is_fork": true,
+      "parent": "usecannon/cannon-std",
+      "source": "usecannon/cannon-std",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:29:58Z"
+    },
+    {
+      "full_name": "Kwenta/code-challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-09T15:30:00Z"
+    },
+    {
+      "full_name": "Kwenta/curve-subgraph",
+      "is_fork": true,
+      "parent": "curvefi/curve-subgraph",
+      "source": "curvefi/curve-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:02Z"
+    },
+    {
+      "full_name": "Kwenta/default-token-list",
+      "is_fork": true,
+      "parent": "CamelotLabs/default-token-list",
+      "source": "CamelotLabs/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:04Z"
+    },
+    {
+      "full_name": "Kwenta/foundry-scaffold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:06Z"
+    },
+    {
+      "full_name": "Kwenta/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:10Z"
+    },
+    {
+      "full_name": "Kwenta/hype",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:10Z"
+    },
+    {
+      "full_name": "Kwenta/issues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:11Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 149,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:13Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:13Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T15:30:15Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-python-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:30:18Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:21Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-snx-conversion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:23Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-solcurity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:25Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-state-log",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:28Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-subgraph",
+      "is_fork": true,
+      "parent": "Synthetixio/synthetix-subgraph",
+      "source": "Synthetixio/synthetix-subgraph",
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:30Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-synthetix-deployments",
+      "is_fork": true,
+      "parent": "Synthetixio/synthetix-deployments",
+      "source": "Synthetixio/synthetix-deployments",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:30:33Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:30:33Z"
+    },
+    {
+      "full_name": "Kwenta/kwenta-tui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:30:35Z"
+    },
+    {
+      "full_name": "Kwenta/lyra-interface",
+      "is_fork": true,
+      "parent": "derivexyz/interface",
+      "source": "derivexyz/interface",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:37Z"
+    },
+    {
+      "full_name": "Kwenta/lyra-scripts",
+      "is_fork": true,
+      "parent": "derivexyz/lyra-scripts",
+      "source": "derivexyz/lyra-scripts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:40Z"
+    },
+    {
+      "full_name": "Kwenta/margin-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:42Z"
+    },
+    {
+      "full_name": "Kwenta/next-price-keeper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:44Z"
+    },
+    {
+      "full_name": "Kwenta/optimized-images-loader",
+      "is_fork": true,
+      "parent": "0xclem/optimized-images-loader",
+      "source": "cyrilwanner/optimized-images-loader",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:30:46Z"
+    },
+    {
+      "full_name": "Kwenta/orderbook-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:30:48Z"
+    },
+    {
+      "full_name": "Kwenta/paymaster",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:50Z"
+    },
+    {
+      "full_name": "Kwenta/quanto-dimensions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:30:53Z"
+    },
+    {
+      "full_name": "Kwenta/quanto-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T15:30:56Z"
+    },
+    {
+      "full_name": "Kwenta/radicle-interface",
+      "is_fork": true,
+      "parent": "radicle-dev/radicle-explorer",
+      "source": "radicle-dev/radicle-explorer",
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-09T15:30:58Z"
+    },
+    {
+      "full_name": "Kwenta/raise-NFT",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:01Z"
+    },
+    {
+      "full_name": "Kwenta/referral-nfts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:31:02Z"
+    },
+    {
+      "full_name": "Kwenta/reward-distributor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:04Z"
+    },
+    {
+      "full_name": "Kwenta/scw-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:06Z"
+    },
+    {
+      "full_name": "Kwenta/smart-margin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:08Z"
+    },
+    {
+      "full_name": "Kwenta/smart-margin-integrations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:12Z"
+    },
+    {
+      "full_name": "Kwenta/smart-margin-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:14Z"
+    },
+    {
+      "full_name": "Kwenta/smart-margin-v3-arbitrum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:16Z"
+    },
+    {
+      "full_name": "Kwenta/synthetix-deployments",
+      "is_fork": true,
+      "parent": "Synthetixio/synthetix-deployments",
+      "source": "Synthetixio/synthetix-deployments",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:31:19Z"
+    },
+    {
+      "full_name": "Kwenta/synthetix-v3",
+      "is_fork": true,
+      "parent": "Synthetixio/synthetix-v3",
+      "source": "Synthetixio/synthetix-v3",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:21Z"
+    },
+    {
+      "full_name": "Kwenta/synthswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:24Z"
+    },
+    {
+      "full_name": "Kwenta/token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:26Z"
+    },
+    {
+      "full_name": "Kwenta/veKWENTA",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:31:28Z"
+    },
+    {
+      "full_name": "Kwenta/wei",
+      "is_fork": true,
+      "parent": "Synthetixio/wei",
+      "source": "Synthetixio/wei",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:30Z"
+    },
+    {
+      "full_name": "Kwenta/zkVIP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:31:32Z"
+    }
+  ]
+}

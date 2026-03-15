@@ -1,0 +1,195 @@
+{
+  "owner": "merlinlayer2",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MerlinLayer2/BTCLayer2BridgeContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:33:59Z"
+    },
+    {
+      "full_name": "MerlinLayer2/LumozStakeContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:34:01Z"
+    },
+    {
+      "full_name": "MerlinLayer2/MultiSigWallet-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:34:03Z"
+    },
+    {
+      "full_name": "MerlinLayer2/blockscout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T01:34:05Z"
+    },
+    {
+      "full_name": "MerlinLayer2/blockscout-backend",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:07Z"
+    },
+    {
+      "full_name": "MerlinLayer2/blockscout-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:09Z"
+    },
+    {
+      "full_name": "MerlinLayer2/cdk",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk",
+      "source": "0xPolygon/cdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:11Z"
+    },
+    {
+      "full_name": "MerlinLayer2/cdk-erigon",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-erigon",
+      "source": "erigontech/erigon",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:34:13Z"
+    },
+    {
+      "full_name": "MerlinLayer2/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:15Z"
+    },
+    {
+      "full_name": "MerlinLayer2/generalInfo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:34:17Z"
+    },
+    {
+      "full_name": "MerlinLayer2/mbtc-oft-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:34:19Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:21Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:24Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-blockscout-rs",
+      "is_fork": true,
+      "parent": "blockscout/blockscout-rs",
+      "source": "blockscout/blockscout-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:26Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-cdk-validium-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:34:28Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-cdk-validium-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:34:30Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-zkevm-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:34:32Z"
+    },
+    {
+      "full_name": "MerlinLayer2/merlin-zkproof-verify-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:34:34Z"
+    },
+    {
+      "full_name": "MerlinLayer2/new-blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:36Z"
+    },
+    {
+      "full_name": "MerlinLayer2/oft-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:38Z"
+    },
+    {
+      "full_name": "MerlinLayer2/zkevm-synchronizer-l1",
+      "is_fork": true,
+      "parent": "0xPolygon/zkevm-synchronizer-l1",
+      "source": "0xPolygon/zkevm-synchronizer-l1",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:34:40Z"
+    }
+  ]
+}

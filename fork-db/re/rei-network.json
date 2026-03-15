@@ -1,0 +1,69 @@
+{
+  "owner": "rei-network",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "REI-Network/discv5",
+      "is_fork": true,
+      "parent": "ChainSafe/discv5",
+      "source": "ChainSafe/discv5",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:04:27Z"
+    },
+    {
+      "full_name": "REI-Network/evmc-js",
+      "is_fork": true,
+      "parent": "RainBlock/evmc-js",
+      "source": "RainBlock/evmc-js",
+      "stars": 2,
+      "language": "C",
+      "last_checked": "2026-03-10T21:04:29Z"
+    },
+    {
+      "full_name": "REI-Network/rei",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:04:31Z"
+    },
+    {
+      "full_name": "REI-Network/rei-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Vue",
+      "last_checked": "2026-03-10T21:04:33Z"
+    },
+    {
+      "full_name": "REI-Network/rei-dao-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:04:35Z"
+    },
+    {
+      "full_name": "REI-Network/rei-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T21:04:37Z"
+    },
+    {
+      "full_name": "REI-Network/rei-scan",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 13,
+      "language": "Elixir",
+      "last_checked": "2026-03-10T21:04:39Z"
+    }
+  ]
+}

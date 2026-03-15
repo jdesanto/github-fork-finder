@@ -1,0 +1,285 @@
+{
+  "owner": "samourai-wallet",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "Samourai-Wallet/Afterburner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:57:54Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/Backup-Reader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:57:56Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/BitcoinKit",
+      "is_fork": true,
+      "parent": "yenom/BitcoinKit",
+      "source": "yenom/BitcoinKit",
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2026-03-11T01:57:58Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/ExtLibJ",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:00Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/HDWalletKit",
+      "is_fork": true,
+      "parent": "SamouraiDev/HDWalletKit",
+      "source": "yuzushioh/HDWalletKit",
+      "stars": 8,
+      "language": "Swift",
+      "last_checked": "2026-03-11T01:58:03Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/RecoveryWorksheetStrings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-11T01:58:04Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/Sentinel-iOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Swift",
+      "last_checked": "2026-03-11T01:58:07Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/TOPL-Android-TorBinary",
+      "is_fork": true,
+      "parent": "05nelsonm/TOPL-Android-TorBinary",
+      "source": "05nelsonm/TOPL-Android-TorBinary",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-11T01:58:09Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/Tor-Onion-Proxy-Library",
+      "is_fork": true,
+      "parent": "jehy/Tor-Onion-Proxy-Library",
+      "source": "thaliproject/Tor_Onion_Proxy_Library",
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:11Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/Whirlpool",
+      "is_fork": true,
+      "parent": "SamouraiDev/AnonWork",
+      "source": "nopara73/ZeroLink",
+      "stars": 133,
+      "language": null,
+      "last_checked": "2026-03-11T01:58:13Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/addrindexrs",
+      "is_fork": true,
+      "parent": "romanz/electrs",
+      "source": "romanz/electrs",
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-11T01:58:15Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/android-torbinary",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Kotlin",
+      "last_checked": "2026-03-11T01:58:17Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/bitcoinj",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:19Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/bitcoinjs-lib",
+      "is_fork": true,
+      "parent": "bitcoinjs/bitcoinjs-lib",
+      "source": "bitcoinjs/bitcoinjs-lib",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T01:58:21Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/boltzmann",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "Python",
+      "last_checked": "2026-03-11T01:58:23Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/boltzmann-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:25Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/hexadecimal-die",
+      "is_fork": true,
+      "parent": "chr15m/hexadecimal-die",
+      "source": "chr15m/hexadecimal-die",
+      "stars": 14,
+      "language": "OpenSCAD",
+      "last_checked": "2026-03-11T01:58:27Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/java-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:29Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/jtorctl",
+      "is_fork": true,
+      "parent": "guardianproject/jtorctl",
+      "source": "guardianproject/jtorctl",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-11T01:58:31Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/samourai-dojo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 183,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T01:58:33Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/samourai-wallet-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 691,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:35Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/sentinel-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 119,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:37Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/sovereign.ly",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-11T01:58:38Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:40Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-client-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:42Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-gui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 57,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T01:58:44Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:46Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-runtimes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-11T01:58:48Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:50Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/whirlpool_stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-11T01:58:52Z"
+    },
+    {
+      "full_name": "Samourai-Wallet/xmanager-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-11T01:58:54Z"
+    }
+  ]
+}

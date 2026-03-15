@@ -1,0 +1,213 @@
+{
+  "owner": "loterra",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LoTerra/Terrand-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:12Z"
+    },
+    {
+      "full_name": "LoTerra/altered-home-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:12Z"
+    },
+    {
+      "full_name": "LoTerra/altered-telegram-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:14Z"
+    },
+    {
+      "full_name": "LoTerra/archive-loterra-staking-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:14Z"
+    },
+    {
+      "full_name": "LoTerra/assets",
+      "is_fork": true,
+      "parent": "terra-money/assets",
+      "source": "terra-money/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:17Z"
+    },
+    {
+      "full_name": "LoTerra/curio-marketplace-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:19Z"
+    },
+    {
+      "full_name": "LoTerra/dogether-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:21Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-automated-worker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:21Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:23Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:24Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-flex-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:26Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-group-for-multisig",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:28Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-09T19:06:30Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-interface-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:32Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-staking-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:34Z"
+    },
+    {
+      "full_name": "LoTerra/loterra-telegram-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:36Z"
+    },
+    {
+      "full_name": "LoTerra/raffle-nft-s-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:39Z"
+    },
+    {
+      "full_name": "LoTerra/shuttle",
+      "is_fork": true,
+      "parent": "terra-money/shuttle",
+      "source": "terra-money/shuttle",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:06:41Z"
+    },
+    {
+      "full_name": "LoTerra/terrand-contract-step1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:43Z"
+    },
+    {
+      "full_name": "LoTerra/terrand-contract-step2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T19:06:45Z"
+    },
+    {
+      "full_name": "LoTerra/terraswap-web-app",
+      "is_fork": true,
+      "parent": "terraswap/classic-terraswap-web-app",
+      "source": "Mirror-Protocol/terra-web-app",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:06:47Z"
+    },
+    {
+      "full_name": "LoTerra/twitter-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:06:49Z"
+    },
+    {
+      "full_name": "LoTerra/waffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:06:50Z"
+    }
+  ]
+}

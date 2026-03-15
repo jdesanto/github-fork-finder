@@ -1,0 +1,438 @@
+{
+  "owner": "opiumprotocol",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "OpiumProtocol/1inch-liquidity-protocol",
+      "is_fork": true,
+      "parent": "1inch/liquidity-protocol",
+      "source": "1inch/liquidity-protocol",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:41Z"
+    },
+    {
+      "full_name": "OpiumProtocol/BarnBridge-YieldFarming",
+      "is_fork": true,
+      "parent": "BarnBridge/BarnBridge-YieldFarming",
+      "source": "BarnBridge/BarnBridge-YieldFarming",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:43Z"
+    },
+    {
+      "full_name": "OpiumProtocol/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:38:45Z"
+    },
+    {
+      "full_name": "OpiumProtocol/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:38:47Z"
+    },
+    {
+      "full_name": "OpiumProtocol/Unipool",
+      "is_fork": true,
+      "parent": "k06a/Unipool",
+      "source": "k06a/Unipool",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:38:49Z"
+    },
+    {
+      "full_name": "OpiumProtocol/branding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:51Z"
+    },
+    {
+      "full_name": "OpiumProtocol/client",
+      "is_fork": true,
+      "parent": "aragon/client",
+      "source": "aragon/client",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:53Z"
+    },
+    {
+      "full_name": "OpiumProtocol/crv.finance",
+      "is_fork": true,
+      "parent": "andrecronje/crv.finance",
+      "source": "andrecronje/crv.finance",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:38:55Z"
+    },
+    {
+      "full_name": "OpiumProtocol/defi-derivatives",
+      "is_fork": true,
+      "parent": "0xperp/defi-derivatives",
+      "source": "0xperp/defi-derivatives",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:57Z"
+    },
+    {
+      "full_name": "OpiumProtocol/defi-sdk",
+      "is_fork": true,
+      "parent": "zeriontech/defi-sdk",
+      "source": "zeriontech/defi-sdk",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T11:38:59Z"
+    },
+    {
+      "full_name": "OpiumProtocol/docs-opium-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:01Z"
+    },
+    {
+      "full_name": "OpiumProtocol/erc721o",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:39:03Z"
+    },
+    {
+      "full_name": "OpiumProtocol/gas-price-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:05Z"
+    },
+    {
+      "full_name": "OpiumProtocol/hummingbot",
+      "is_fork": true,
+      "parent": "hummingbot/hummingbot",
+      "source": "hummingbot/hummingbot",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:07Z"
+    },
+    {
+      "full_name": "OpiumProtocol/merkle-distributor",
+      "is_fork": true,
+      "parent": "Uniswap/merkle-distributor",
+      "source": "Uniswap/merkle-distributor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:09Z"
+    },
+    {
+      "full_name": "OpiumProtocol/metasign-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:11Z"
+    },
+    {
+      "full_name": "OpiumProtocol/metasign-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:13Z"
+    },
+    {
+      "full_name": "OpiumProtocol/mobx-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:15Z"
+    },
+    {
+      "full_name": "OpiumProtocol/oex-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T11:39:17Z"
+    },
+    {
+      "full_name": "OpiumProtocol/oex-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:19Z"
+    },
+    {
+      "full_name": "OpiumProtocol/oex-python",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T11:39:21Z"
+    },
+    {
+      "full_name": "OpiumProtocol/ofi-deposits-scheduler-web3-function",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:23Z"
+    },
+    {
+      "full_name": "OpiumProtocol/ofi-pools-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:25Z"
+    },
+    {
+      "full_name": "OpiumProtocol/ofi-scheduled-deposits-resolver",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:27Z"
+    },
+    {
+      "full_name": "OpiumProtocol/ofi-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:29Z"
+    },
+    {
+      "full_name": "OpiumProtocol/oip",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:31Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-auction-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:33Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-auction-v2-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:35Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-call-option-example",
+      "is_fork": true,
+      "parent": "RiccardoBiosas/opium-call-option-example",
+      "source": "RiccardoBiosas/opium-call-option-example",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:39:37Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:39:39Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-finance",
+      "is_fork": true,
+      "parent": "Uniswap/org-v1",
+      "source": "Uniswap/org-v1",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:39:41Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-oneinch-liquidity-mining",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:41Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-pools-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:43Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-protocol-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:45Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-staking-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:46Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:47Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-v2-products",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:49Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-v2-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:51Z"
+    },
+    {
+      "full_name": "OpiumProtocol/opium-v2-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:53Z"
+    },
+    {
+      "full_name": "OpiumProtocol/react-opium-components",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:39:55Z"
+    },
+    {
+      "full_name": "OpiumProtocol/react-slack-feedback",
+      "is_fork": true,
+      "parent": "mkunak/react-slack-feedback",
+      "source": "markmur/react-slack-feedback",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:39:57Z"
+    },
+    {
+      "full_name": "OpiumProtocol/snapshot-spaces",
+      "is_fork": true,
+      "parent": "snapshot-labs-archived/snapshot-spaces",
+      "source": "snapshot-labs-archived/snapshot-spaces",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:39:59Z"
+    },
+    {
+      "full_name": "OpiumProtocol/snapshot.js",
+      "is_fork": true,
+      "parent": "snapshot-labs/snapshot.js",
+      "source": "snapshot-labs/snapshot.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:40:01Z"
+    },
+    {
+      "full_name": "OpiumProtocol/swaprate-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-10T11:40:03Z"
+    },
+    {
+      "full_name": "OpiumProtocol/swaprate-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:40:05Z"
+    },
+    {
+      "full_name": "OpiumProtocol/token-request-app",
+      "is_fork": true,
+      "parent": "1Hive/token-request-app",
+      "source": "1Hive/token-request-app",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:40:07Z"
+    },
+    {
+      "full_name": "OpiumProtocol/tokenlist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:40:09Z"
+    },
+    {
+      "full_name": "OpiumProtocol/web3modal",
+      "is_fork": true,
+      "parent": "reown-com/appkit",
+      "source": "reown-com/appkit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T11:40:11Z"
+    }
+  ]
+}

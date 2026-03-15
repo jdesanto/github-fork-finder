@@ -1,6 +1,6 @@
 {
   "owner": "0xmatt1",
-  "updated_at": "2026-03-04T03:37:26Z",
+  "updated_at": "2026-03-12T02:55:15Z",
   "repos": [
     {
       "full_name": "0xmatt1/magic-internet-money",
@@ -10,6 +10,15 @@
       "stars": 0,
       "language": null,
       "last_checked": "2025-12-30T08:04:20.924995Z"
+    },
+    {
+      "full_name": "0xmatt1/zcash-android-wallet-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-11T16:03:04Z"
     }
   ]
 }

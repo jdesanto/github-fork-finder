@@ -1,7 +1,16 @@
 {
   "owner": "dynamicswap",
-  "updated_at": "2026-03-05T07:32:36Z",
+  "updated_at": "2026-03-12T02:55:20Z",
   "repos": [
+    {
+      "full_name": "DynamicSwap/bsc-blocks",
+      "is_fork": true,
+      "parent": "blocklytics/ethereum-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:09:53Z"
+    },
     {
       "full_name": "DynamicSwap/bscswap-interface",
       "is_fork": true,

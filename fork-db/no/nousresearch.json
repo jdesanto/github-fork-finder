@@ -1,0 +1,330 @@
+{
+  "owner": "nousresearch",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NousResearch/DisTrO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 980,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:28Z"
+    },
+    {
+      "full_name": "NousResearch/Hermes-Function-Calling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1207,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T09:28:30Z"
+    },
+    {
+      "full_name": "NousResearch/Obsidian",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 173,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:32Z"
+    },
+    {
+      "full_name": "NousResearch/Open-Reasoning-Tasks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 461,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:28:34Z"
+    },
+    {
+      "full_name": "NousResearch/StripedHyenaTrainer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 62,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:36Z"
+    },
+    {
+      "full_name": "NousResearch/TextArena",
+      "is_fork": true,
+      "parent": "TextArena/TextArena",
+      "source": "TextArena/TextArena",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:38Z"
+    },
+    {
+      "full_name": "NousResearch/atropos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 887,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:40Z"
+    },
+    {
+      "full_name": "NousResearch/axolotl-func-calling",
+      "is_fork": true,
+      "parent": "axolotl-ai-cloud/axolotl",
+      "source": "axolotl-ai-cloud/axolotl",
+      "stars": 5,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:42Z"
+    },
+    {
+      "full_name": "NousResearch/curve25519-dalek",
+      "is_fork": true,
+      "parent": "dalek-cryptography/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:44Z"
+    },
+    {
+      "full_name": "NousResearch/datatrove",
+      "is_fork": true,
+      "parent": "huggingface/datatrove",
+      "source": "huggingface/datatrove",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:46Z"
+    },
+    {
+      "full_name": "NousResearch/finetuning-subnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 122,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:48Z"
+    },
+    {
+      "full_name": "NousResearch/forge-api-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:50Z"
+    },
+    {
+      "full_name": "NousResearch/forge-feedback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:52Z"
+    },
+    {
+      "full_name": "NousResearch/funcchain",
+      "is_fork": true,
+      "parent": "shroominic/funcchain",
+      "source": "shroominic/funcchain",
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:54Z"
+    },
+    {
+      "full_name": "NousResearch/hf-hub",
+      "is_fork": true,
+      "parent": "huggingface/hf-hub",
+      "source": "huggingface/hf-hub",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:28:56Z"
+    },
+    {
+      "full_name": "NousResearch/infini-attention",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:28:58Z"
+    },
+    {
+      "full_name": "NousResearch/iroh",
+      "is_fork": true,
+      "parent": "n0-computer/iroh",
+      "source": "n0-computer/iroh",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:29:00Z"
+    },
+    {
+      "full_name": "NousResearch/iroh-blobs",
+      "is_fork": true,
+      "parent": "n0-computer/iroh-blobs",
+      "source": "n0-computer/iroh-blobs",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:29:02Z"
+    },
+    {
+      "full_name": "NousResearch/iroh-gossip",
+      "is_fork": true,
+      "parent": "n0-computer/iroh-gossip",
+      "source": "n0-computer/iroh-gossip",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:29:04Z"
+    },
+    {
+      "full_name": "NousResearch/jedi",
+      "is_fork": true,
+      "parent": "davidhalter/jedi",
+      "source": "davidhalter/jedi",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:29:06Z"
+    },
+    {
+      "full_name": "NousResearch/kaida",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T09:29:08Z"
+    },
+    {
+      "full_name": "NousResearch/kaida-gencritique",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T09:29:10Z"
+    },
+    {
+      "full_name": "NousResearch/llama.cpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T09:29:12Z"
+    },
+    {
+      "full_name": "NousResearch/llm-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:29:14Z"
+    },
+    {
+      "full_name": "NousResearch/lm-eval-harness",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:29:16Z"
+    },
+    {
+      "full_name": "NousResearch/local_generative_agents",
+      "is_fork": true,
+      "parent": "joonspk-research/generative_agents",
+      "source": "joonspk-research/generative_agents",
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-10T09:29:18Z"
+    },
+    {
+      "full_name": "NousResearch/logfire-rust",
+      "is_fork": true,
+      "parent": "pydantic/logfire-rust",
+      "source": "pydantic/logfire-rust",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:29:20Z"
+    },
+    {
+      "full_name": "NousResearch/nanotron",
+      "is_fork": true,
+      "parent": "huggingface/nanotron",
+      "source": "huggingface/nanotron",
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:29:22Z"
+    },
+    {
+      "full_name": "NousResearch/nous-llama.cpp",
+      "is_fork": true,
+      "parent": "ggml-org/llama.cpp",
+      "source": "ggml-org/llama.cpp",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T09:29:24Z"
+    },
+    {
+      "full_name": "NousResearch/nousflash-agents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 73,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:29:26Z"
+    },
+    {
+      "full_name": "NousResearch/ollama",
+      "is_fork": true,
+      "parent": "ollama/ollama",
+      "source": "ollama/ollama",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:29:28Z"
+    },
+    {
+      "full_name": "NousResearch/storywriter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T09:29:30Z"
+    },
+    {
+      "full_name": "NousResearch/storywriter-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:29:32Z"
+    },
+    {
+      "full_name": "NousResearch/torchtitan",
+      "is_fork": true,
+      "parent": "pytorch/torchtitan",
+      "source": "pytorch/torchtitan",
+      "stars": 19,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:29:34Z"
+    },
+    {
+      "full_name": "NousResearch/wandb-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:29:36Z"
+    },
+    {
+      "full_name": "NousResearch/yellowstone-grpc",
+      "is_fork": true,
+      "parent": "rpcpool/yellowstone-grpc",
+      "source": "rpcpool/yellowstone-grpc",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T09:29:38Z"
+    }
+  ]
+}

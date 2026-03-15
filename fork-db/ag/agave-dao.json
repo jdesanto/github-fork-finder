@@ -1,7 +1,16 @@
 {
   "owner": "agave-dao",
-  "updated_at": "2026-03-04T03:37:27Z",
+  "updated_at": "2026-03-12T02:55:16Z",
   "repos": [
+    {
+      "full_name": "Agave-DAO/aave-stake-v2",
+      "is_fork": true,
+      "parent": "aave/aave-stake-v2",
+      "source": "aave/aave-stake-v2",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:04:02Z"
+    },
     {
       "full_name": "Agave-DAO/incentives-bulk-claiming",
       "is_fork": false,

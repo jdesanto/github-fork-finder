@@ -1,0 +1,636 @@
+{
+  "owner": "ethworks",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "EthWorks/0xstudents-homework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:04Z"
+    },
+    {
+      "full_name": "EthWorks/AllSporter-TGE",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:06Z"
+    },
+    {
+      "full_name": "EthWorks/Bitcoin-Wallet",
+      "is_fork": true,
+      "parent": "bitcoin-dot-org/Bitcoin-Wallet",
+      "source": "bitcoin-dot-org/Bitcoin-Wallet",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:08Z"
+    },
+    {
+      "full_name": "EthWorks/CryptoLife",
+      "is_fork": true,
+      "parent": "status-im/CryptoLife",
+      "source": "status-im/CryptoLife",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:10Z"
+    },
+    {
+      "full_name": "EthWorks/Doppelganger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 59,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:12Z"
+    },
+    {
+      "full_name": "EthWorks/ENSBuilder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:14Z"
+    },
+    {
+      "full_name": "EthWorks/Grant-Milestone-Delivery",
+      "is_fork": true,
+      "parent": "w3f/Grant-Milestone-Delivery",
+      "source": "w3f/Grant-Milestone-Delivery",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:21:16Z"
+    },
+    {
+      "full_name": "EthWorks/LiveCoding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:18Z"
+    },
+    {
+      "full_name": "EthWorks/Open-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T09:21:20Z"
+    },
+    {
+      "full_name": "EthWorks/PingPongPairProgrammingDojo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:22Z"
+    },
+    {
+      "full_name": "EthWorks/ThinkCoinCrowdsaleContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:24Z"
+    },
+    {
+      "full_name": "EthWorks/Web3-collaboration",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:26Z"
+    },
+    {
+      "full_name": "EthWorks/api-documentation",
+      "is_fork": true,
+      "parent": "rhinofi/api-documentation",
+      "source": "rhinofi/api-documentation",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:28Z"
+    },
+    {
+      "full_name": "EthWorks/bem-components-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:30Z"
+    },
+    {
+      "full_name": "EthWorks/bitcoin.org",
+      "is_fork": true,
+      "parent": "bitcoin-dot-org/Bitcoin.org",
+      "source": "bitcoin-dot-org/Bitcoin.org",
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-09T09:21:32Z"
+    },
+    {
+      "full_name": "EthWorks/bn-chai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:35Z"
+    },
+    {
+      "full_name": "EthWorks/bootcamp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:36Z"
+    },
+    {
+      "full_name": "EthWorks/buidler",
+      "is_fork": true,
+      "parent": "NomicFoundation/hardhat",
+      "source": "NomicFoundation/hardhat",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:39Z"
+    },
+    {
+      "full_name": "EthWorks/bunyan-middleware",
+      "is_fork": true,
+      "parent": "tellnes/bunyan-middleware",
+      "source": "tellnes/bunyan-middleware",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:41Z"
+    },
+    {
+      "full_name": "EthWorks/circom-hello-world",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:43Z"
+    },
+    {
+      "full_name": "EthWorks/dapp-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:45Z"
+    },
+    {
+      "full_name": "EthWorks/dev",
+      "is_fork": true,
+      "parent": "polkadot-js/dev",
+      "source": "polkadot-js/dev",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:47Z"
+    },
+    {
+      "full_name": "EthWorks/developer.bitcoin.org",
+      "is_fork": true,
+      "parent": "bitcoin-dot-org/developer.bitcoin.org",
+      "source": "bitcoin-dot-org/developer.bitcoin.org",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:49Z"
+    },
+    {
+      "full_name": "EthWorks/discovery-swarm-webrtc",
+      "is_fork": true,
+      "parent": "geut/discovery-swarm-webrtc",
+      "source": "geut/discovery-swarm-webrtc",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:21:51Z"
+    },
+    {
+      "full_name": "EthWorks/dxswap-dapp",
+      "is_fork": true,
+      "parent": "SwaprHQ/swapr-dapp",
+      "source": "SwaprHQ/swapr-dapp",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:53Z"
+    },
+    {
+      "full_name": "EthWorks/eth2dai",
+      "is_fork": true,
+      "parent": "OasisDEX/eth2dai",
+      "source": "OasisDEX/eth2dai",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:21:55Z"
+    },
+    {
+      "full_name": "EthWorks/ethereum.rb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 733,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T09:21:57Z"
+    },
+    {
+      "full_name": "EthWorks/ethereumjs-vm",
+      "is_fork": true,
+      "parent": "ethereumjs/ethereumjs-monorepo",
+      "source": "ethereumjs/ethereumjs-monorepo",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:21:59Z"
+    },
+    {
+      "full_name": "EthWorks/ethereumjs-vm-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:01Z"
+    },
+    {
+      "full_name": "EthWorks/ethworks-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:03Z"
+    },
+    {
+      "full_name": "EthWorks/extension",
+      "is_fork": true,
+      "parent": "polkadot-js/extension",
+      "source": "polkadot-js/extension",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:05Z"
+    },
+    {
+      "full_name": "EthWorks/external_call_bug_hunt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:07Z"
+    },
+    {
+      "full_name": "EthWorks/hackathons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:09Z"
+    },
+    {
+      "full_name": "EthWorks/html-css-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Sass",
+      "last_checked": "2026-03-09T09:22:11Z"
+    },
+    {
+      "full_name": "EthWorks/hubble-commander",
+      "is_fork": true,
+      "parent": "thehubbleproject/hubble-commander",
+      "source": "thehubbleproject/hubble-commander",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:13Z"
+    },
+    {
+      "full_name": "EthWorks/hubble-contracts",
+      "is_fork": true,
+      "parent": "thehubbleproject/hubble-contracts",
+      "source": "thehubbleproject/hubble-contracts",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:16Z"
+    },
+    {
+      "full_name": "EthWorks/merkle-patricia-tree",
+      "is_fork": true,
+      "parent": "ethereumjs/merkle-patricia-tree",
+      "source": "ethereumjs/merkle-patricia-tree",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:18Z"
+    },
+    {
+      "full_name": "EthWorks/mimuw-zajecia",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:20Z"
+    },
+    {
+      "full_name": "EthWorks/mini2018Z_workshop2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:22Z"
+    },
+    {
+      "full_name": "EthWorks/moonbeam-waffle-mars-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:24Z"
+    },
+    {
+      "full_name": "EthWorks/pair-programming",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:26Z"
+    },
+    {
+      "full_name": "EthWorks/pair-programming-dojo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:28Z"
+    },
+    {
+      "full_name": "EthWorks/phala-blockchain",
+      "is_fork": true,
+      "parent": "Phala-Network/phala-blockchain",
+      "source": "Phala-Network/phala-blockchain",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T09:22:30Z"
+    },
+    {
+      "full_name": "EthWorks/phala-docker",
+      "is_fork": true,
+      "parent": "Phala-Network/phala-docker",
+      "source": "Phala-Network/phala-docker",
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T09:22:32Z"
+    },
+    {
+      "full_name": "EthWorks/pioneer",
+      "is_fork": true,
+      "parent": "Joystream/pioneer",
+      "source": "Joystream/pioneer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:34Z"
+    },
+    {
+      "full_name": "EthWorks/polkadot-wiki",
+      "is_fork": true,
+      "parent": "w3f/polkadot-wiki",
+      "source": "w3f/polkadot-wiki",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:36Z"
+    },
+    {
+      "full_name": "EthWorks/react-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:38Z"
+    },
+    {
+      "full_name": "EthWorks/react-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:40Z"
+    },
+    {
+      "full_name": "EthWorks/reactive-properties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:42Z"
+    },
+    {
+      "full_name": "EthWorks/remix-ide",
+      "is_fork": true,
+      "parent": "remix-project-org/remix-ide",
+      "source": "remix-project-org/remix-ide",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:44Z"
+    },
+    {
+      "full_name": "EthWorks/restless-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:22:46Z"
+    },
+    {
+      "full_name": "EthWorks/scaffold-eth",
+      "is_fork": true,
+      "parent": "scaffold-eth/scaffold-eth",
+      "source": "scaffold-eth/scaffold-eth",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:22:48Z"
+    },
+    {
+      "full_name": "EthWorks/shell-protocol-cms",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Nunjucks",
+      "last_checked": "2026-03-09T09:22:50Z"
+    },
+    {
+      "full_name": "EthWorks/signal",
+      "is_fork": true,
+      "parent": "dxos-deprecated/signal",
+      "source": "dxos-deprecated/signal",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:22:52Z"
+    },
+    {
+      "full_name": "EthWorks/statemine-asset-creator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:22:54Z"
+    },
+    {
+      "full_name": "EthWorks/status-DApp-connect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:22:56Z"
+    },
+    {
+      "full_name": "EthWorks/status-vac",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:22:58Z"
+    },
+    {
+      "full_name": "EthWorks/status-waku",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:23:00Z"
+    },
+    {
+      "full_name": "EthWorks/status-waku-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:02Z"
+    },
+    {
+      "full_name": "EthWorks/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:23:04Z"
+    },
+    {
+      "full_name": "EthWorks/tech-talk-10",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:06Z"
+    },
+    {
+      "full_name": "EthWorks/true-currencies",
+      "is_fork": true,
+      "parent": "trusttoken/contracts-pre22",
+      "source": "trusttoken/contracts-pre22",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:23:08Z"
+    },
+    {
+      "full_name": "EthWorks/truffle-zeppelin-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T09:23:10Z"
+    },
+    {
+      "full_name": "EthWorks/ts-esnure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:12Z"
+    },
+    {
+      "full_name": "EthWorks/uniswap-v1",
+      "is_fork": true,
+      "parent": "Uniswap/v1-contracts",
+      "source": "Uniswap/v1-contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:23:14Z"
+    },
+    {
+      "full_name": "EthWorks/useDot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:16Z"
+    },
+    {
+      "full_name": "EthWorks/vac.dev",
+      "is_fork": true,
+      "parent": "vacp2p/vac.dev-experimental-old",
+      "source": "vacp2p/vac.dev-experimental-old",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T09:23:18Z"
+    },
+    {
+      "full_name": "EthWorks/vacp2p.github.io",
+      "is_fork": true,
+      "parent": "vacp2p/research.logos.co",
+      "source": "vacp2p/research.logos.co",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T09:23:20Z"
+    },
+    {
+      "full_name": "EthWorks/xshape-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:22Z"
+    },
+    {
+      "full_name": "EthWorks/zksync-spike",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T09:23:24Z"
+    }
+  ]
+}

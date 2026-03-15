@@ -1,0 +1,501 @@
+{
+  "owner": "fhenixprotocol",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FhenixProtocol/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:34:11Z"
+    },
+    {
+      "full_name": "FhenixProtocol/ACM-CCS-2025-Threshold-FHE-Decryption",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:34:13Z"
+    },
+    {
+      "full_name": "FhenixProtocol/BlindAuction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:15Z"
+    },
+    {
+      "full_name": "FhenixProtocol/actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T11:34:17Z"
+    },
+    {
+      "full_name": "FhenixProtocol/apollo",
+      "is_fork": true,
+      "parent": "celestiaorg/apollo",
+      "source": "celestiaorg/apollo",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:34:20Z"
+    },
+    {
+      "full_name": "FhenixProtocol/blind-auction-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:22Z"
+    },
+    {
+      "full_name": "FhenixProtocol/blockscout-compose",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T11:34:24Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:25Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-09T11:34:27Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-foundry-mocks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:29Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-hardhat-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:31Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-hardhat-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:33Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-miniapp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:35Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-mock-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:37Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-scaffold-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:39Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe-tooling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:34:41Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhe.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:43Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhejs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:45Z"
+    },
+    {
+      "full_name": "FhenixProtocol/cofhejs-permit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:34:47Z"
+    },
+    {
+      "full_name": "FhenixProtocol/confidential-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:49Z"
+    },
+    {
+      "full_name": "FhenixProtocol/contracts-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:51Z"
+    },
+    {
+      "full_name": "FhenixProtocol/decryption-oracle-proto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:34:53Z"
+    },
+    {
+      "full_name": "FhenixProtocol/encrypto-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:55Z"
+    },
+    {
+      "full_name": "FhenixProtocol/erc20-tutorial-code",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:34:57Z"
+    },
+    {
+      "full_name": "FhenixProtocol/example-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:34:59Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhe-kuhn-poker-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:00Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhe-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:02Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-confidential-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:05Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 84,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:35:07Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-demo-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:35:09Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "MDX",
+      "last_checked": "2026-03-09T11:35:11Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-foundry-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T11:35:13Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-hardhat-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:35:15Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-hardhat-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:17Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-nuxt3-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:19Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-rust-logger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:35:21Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix-status",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Markdown",
+      "last_checked": "2026-03-09T11:35:23Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhenix.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T11:35:25Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fheos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:25Z"
+    },
+    {
+      "full_name": "FhenixProtocol/fhevmjs-vue-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:35:27Z"
+    },
+    {
+      "full_name": "FhenixProtocol/go-tfhe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T11:35:29Z"
+    },
+    {
+      "full_name": "FhenixProtocol/localcofhe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:30Z"
+    },
+    {
+      "full_name": "FhenixProtocol/nitro-das-celestia",
+      "is_fork": true,
+      "parent": "celestiaorg/nitro-das-celestia",
+      "source": "celestiaorg/nitro-das-celestia",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:32Z"
+    },
+    {
+      "full_name": "FhenixProtocol/orbit-setup-script",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-setup-script",
+      "source": "OffchainLabs/orbit-setup-script",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:34Z"
+    },
+    {
+      "full_name": "FhenixProtocol/redact",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:36Z"
+    },
+    {
+      "full_name": "FhenixProtocol/rng-binary-guessing-game-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:38Z"
+    },
+    {
+      "full_name": "FhenixProtocol/rps-cofhe-scaffold-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:40Z"
+    },
+    {
+      "full_name": "FhenixProtocol/smart-wallet-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:42Z"
+    },
+    {
+      "full_name": "FhenixProtocol/tfhe-rs",
+      "is_fork": true,
+      "parent": "zama-ai/tfhe-rs",
+      "source": "zama-ai/tfhe-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:44Z"
+    },
+    {
+      "full_name": "FhenixProtocol/tfhe-rs-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:35:46Z"
+    },
+    {
+      "full_name": "FhenixProtocol/tfhewasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:35:48Z"
+    },
+    {
+      "full_name": "FhenixProtocol/ticket-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-09T11:35:50Z"
+    },
+    {
+      "full_name": "FhenixProtocol/ticketing-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:35:52Z"
+    },
+    {
+      "full_name": "FhenixProtocol/token-bridge-contracts",
+      "is_fork": true,
+      "parent": "OffchainLabs/token-bridge-contracts",
+      "source": "OffchainLabs/token-bridge-contracts",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:54Z"
+    },
+    {
+      "full_name": "FhenixProtocol/tx-sender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:35:55Z"
+    }
+  ]
+}

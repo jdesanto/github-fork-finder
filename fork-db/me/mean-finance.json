@@ -1,0 +1,339 @@
+{
+  "owner": "mean-finance",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "Mean-Finance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:07:26Z"
+    },
+    {
+      "full_name": "Mean-Finance/airdrop-campaigns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:29Z"
+    },
+    {
+      "full_name": "Mean-Finance/aztec-connect-bridges",
+      "is_fork": true,
+      "parent": "AztecProtocol/aztec-connect-bridges",
+      "source": "AztecProtocol/aztec-connect-bridges",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:07:32Z"
+    },
+    {
+      "full_name": "Mean-Finance/aztec-dca-fe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:34Z"
+    },
+    {
+      "full_name": "Mean-Finance/be-challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:07:35Z"
+    },
+    {
+      "full_name": "Mean-Finance/call-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:07:37Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-fe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:42Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:45Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:49Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:51Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-core-beta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:07:54Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:07:54Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T01:07:58Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:00Z"
+    },
+    {
+      "full_name": "Mean-Finance/dca-v2-yieldless-subgraph",
+      "is_fork": true,
+      "parent": "Balmy-protocol/dca-subgraph",
+      "source": "Balmy-protocol/dca-subgraph",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:03Z"
+    },
+    {
+      "full_name": "Mean-Finance/defender-client",
+      "is_fork": true,
+      "parent": "OpenZeppelin/defender-client",
+      "source": "OpenZeppelin/defender-client",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:05Z"
+    },
+    {
+      "full_name": "Mean-Finance/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:08Z"
+    },
+    {
+      "full_name": "Mean-Finance/deterministic-factory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:11Z"
+    },
+    {
+      "full_name": "Mean-Finance/hardhat-deploy-ethers",
+      "is_fork": true,
+      "parent": "wighawag/hardhat-deploy-ethers",
+      "source": "wighawag/hardhat-deploy-ethers",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:08:14Z"
+    },
+    {
+      "full_name": "Mean-Finance/keep3r-cli-jobs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:17Z"
+    },
+    {
+      "full_name": "Mean-Finance/keep3r-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:08:20Z"
+    },
+    {
+      "full_name": "Mean-Finance/nft-descriptors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:08:24Z"
+    },
+    {
+      "full_name": "Mean-Finance/nft-permissions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:08:28Z"
+    },
+    {
+      "full_name": "Mean-Finance/op-expirable-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:30Z"
+    },
+    {
+      "full_name": "Mean-Finance/openzeppelin-contracts",
+      "is_fork": true,
+      "parent": "OpenZeppelin/openzeppelin-contracts",
+      "source": "OpenZeppelin/openzeppelin-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:08:33Z"
+    },
+    {
+      "full_name": "Mean-Finance/oracles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:36Z"
+    },
+    {
+      "full_name": "Mean-Finance/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:08:38Z"
+    },
+    {
+      "full_name": "Mean-Finance/permit2-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:08:41Z"
+    },
+    {
+      "full_name": "Mean-Finance/sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:43Z"
+    },
+    {
+      "full_name": "Mean-Finance/swappers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:08:46Z"
+    },
+    {
+      "full_name": "Mean-Finance/token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:08:48Z"
+    },
+    {
+      "full_name": "Mean-Finance/token-lister",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:51Z"
+    },
+    {
+      "full_name": "Mean-Finance/tokenLists",
+      "is_fork": true,
+      "parent": "SmolDapp/tokenLists",
+      "source": "SmolDapp/tokenLists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:08:53Z"
+    },
+    {
+      "full_name": "Mean-Finance/transformers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:56Z"
+    },
+    {
+      "full_name": "Mean-Finance/uniswap-v3-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:08:58Z"
+    },
+    {
+      "full_name": "Mean-Finance/v3-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v3-periphery",
+      "source": "Uniswap/v3-periphery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:09:01Z"
+    },
+    {
+      "full_name": "Mean-Finance/yield-daddy",
+      "is_fork": true,
+      "parent": "timeless-fi/yield-daddy",
+      "source": "timeless-fi/yield-daddy",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:09:04Z"
+    }
+  ]
+}

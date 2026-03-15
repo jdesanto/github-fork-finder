@@ -1,0 +1,204 @@
+{
+  "owner": "ricochet-exchange",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "Ricochet-Exchange/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:10Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/LedgerHQ-app-plugin-ricochet",
+      "is_fork": true,
+      "parent": "blooo-io/LedgerHQ-app-plugin-ricochet",
+      "source": "blooo-io/LedgerHQ-app-plugin-ricochet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:12Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/app-plugin-ricochet",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-plugin-ricochet",
+      "source": "blooo-io/LedgerHQ-app-plugin-ricochet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:14Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/business-development",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:16Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:18Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/protocol-monorepo",
+      "is_fork": true,
+      "parent": "superfluid-org/protocol-monorepo",
+      "source": "superfluid-org/protocol-monorepo",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:05:20Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/rex-bank",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:22Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/rex-bank-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:05:24Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/rex-liquidity-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:26Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/rex-lite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:28Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/rexforce",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:30Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ric-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:32Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:34Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:35Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-exchange.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:05:37Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:39Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-keeper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-10T23:05:41Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-pro-app",
+      "is_fork": true,
+      "parent": "nitegeist/ricochet-app",
+      "source": "nitegeist/ricochet-app",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:05:43Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:45Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:05:47Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-super-swap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:49Z"
+    },
+    {
+      "full_name": "Ricochet-Exchange/ricochet-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:05:51Z"
+    }
+  ]
+}

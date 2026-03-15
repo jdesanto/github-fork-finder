@@ -1,7 +1,16 @@
 {
   "owner": "clickhouse",
-  "updated_at": "2026-03-04T03:37:30Z",
+  "updated_at": "2026-03-12T02:55:18Z",
   "repos": [
+    {
+      "full_name": "ClickHouse/clickhouse_exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 401,
+      "language": "Go",
+      "last_checked": "2026-03-11T16:06:49Z"
+    },
     {
       "full_name": "ClickHouse/spark-clickhouse-connector",
       "is_fork": false,

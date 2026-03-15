@@ -1,0 +1,546 @@
+{
+  "owner": "rigoblock",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "RigoBlock/0x-gov-scripts",
+      "is_fork": true,
+      "parent": "ZRX-Pathways/0x-gov-scripts",
+      "source": "ZRX-Pathways/0x-gov-scripts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:11:13Z"
+    },
+    {
+      "full_name": "RigoBlock/0x-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:15Z"
+    },
+    {
+      "full_name": "RigoBlock/0x-protocol",
+      "is_fork": true,
+      "parent": "0xProject/protocol",
+      "source": "0xProject/protocol",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:17Z"
+    },
+    {
+      "full_name": "RigoBlock/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:19Z"
+    },
+    {
+      "full_name": "RigoBlock/ERC20Exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:21Z"
+    },
+    {
+      "full_name": "RigoBlock/ExternalOracles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:23Z"
+    },
+    {
+      "full_name": "RigoBlock/PR",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:25Z"
+    },
+    {
+      "full_name": "RigoBlock/RBIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:27Z"
+    },
+    {
+      "full_name": "RigoBlock/RigoBlockPaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2026-03-10T23:11:29Z"
+    },
+    {
+      "full_name": "RigoBlock/RigoBlockRegistry.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:31Z"
+    },
+    {
+      "full_name": "RigoBlock/SolidityCasper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:33Z"
+    },
+    {
+      "full_name": "RigoBlock/V3-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:35Z"
+    },
+    {
+      "full_name": "RigoBlock/Videos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:37Z"
+    },
+    {
+      "full_name": "RigoBlock/ZEIPs",
+      "is_fork": true,
+      "parent": "0xProject/ZEIPs",
+      "source": "0xProject/ZEIPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:39Z"
+    },
+    {
+      "full_name": "RigoBlock/api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:41Z"
+    },
+    {
+      "full_name": "RigoBlock/api-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:11:43Z"
+    },
+    {
+      "full_name": "RigoBlock/back-geo-oracle",
+      "is_fork": true,
+      "parent": "uniswapfoundation/v4-template",
+      "source": "uniswapfoundation/v4-template",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:11:45Z"
+    },
+    {
+      "full_name": "RigoBlock/balancer-exchange",
+      "is_fork": true,
+      "parent": "balancer/balancer-exchange",
+      "source": "balancer/balancer-exchange",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:47Z"
+    },
+    {
+      "full_name": "RigoBlock/beta-rigoblock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:11:49Z"
+    },
+    {
+      "full_name": "RigoBlock/bytes-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:51Z"
+    },
+    {
+      "full_name": "RigoBlock/cloudflare-update-web3-gateway",
+      "is_fork": true,
+      "parent": "Uniswap/cloudflare-update-web3-gateway",
+      "source": "textileio/cloudflare-update-dnslink",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:53Z"
+    },
+    {
+      "full_name": "RigoBlock/contract-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:11:55Z"
+    },
+    {
+      "full_name": "RigoBlock/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:11:56Z"
+    },
+    {
+      "full_name": "RigoBlock/contracts-abis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:11:58Z"
+    },
+    {
+      "full_name": "RigoBlock/default-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:00Z"
+    },
+    {
+      "full_name": "RigoBlock/dehfold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:02Z"
+    },
+    {
+      "full_name": "RigoBlock/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:04Z"
+    },
+    {
+      "full_name": "RigoBlock/dragooold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:06Z"
+    },
+    {
+      "full_name": "RigoBlock/efx-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:08Z"
+    },
+    {
+      "full_name": "RigoBlock/exchange-refactor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:10Z"
+    },
+    {
+      "full_name": "RigoBlock/help-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:12Z"
+    },
+    {
+      "full_name": "RigoBlock/interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:12:14Z"
+    },
+    {
+      "full_name": "RigoBlock/interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:16Z"
+    },
+    {
+      "full_name": "RigoBlock/masterstaker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:18Z"
+    },
+    {
+      "full_name": "RigoBlock/network-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:20Z"
+    },
+    {
+      "full_name": "RigoBlock/new-design",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-10T23:12:22Z"
+    },
+    {
+      "full_name": "RigoBlock/permit2",
+      "is_fork": true,
+      "parent": "Uniswap/permit2",
+      "source": "Uniswap/permit2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:24Z"
+    },
+    {
+      "full_name": "RigoBlock/pool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:26Z"
+    },
+    {
+      "full_name": "RigoBlock/pool-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:28Z"
+    },
+    {
+      "full_name": "RigoBlock/pool-list",
+      "is_fork": true,
+      "parent": "Uniswap/default-token-list",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:30Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-local",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:32Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-mannequin-sources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:32Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:12:34Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-output-files",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:36Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-parity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:38Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:40Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-static",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:42Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "SCSS",
+      "last_checked": "2026-03-10T23:12:44Z"
+    },
+    {
+      "full_name": "RigoBlock/rigoblock-website-sources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:12:46Z"
+    },
+    {
+      "full_name": "RigoBlock/routing-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:46Z"
+    },
+    {
+      "full_name": "RigoBlock/sampleContracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:48Z"
+    },
+    {
+      "full_name": "RigoBlock/staging",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T23:12:50Z"
+    },
+    {
+      "full_name": "RigoBlock/studio",
+      "is_fork": true,
+      "parent": "Zapper-fi/studio",
+      "source": "Zapper-fi/studio",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T23:12:52Z"
+    },
+    {
+      "full_name": "RigoBlock/token-whitelists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:54Z"
+    },
+    {
+      "full_name": "RigoBlock/v3-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T23:12:56Z"
+    },
+    {
+      "full_name": "RigoBlock/v3-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T23:12:58Z"
+    },
+    {
+      "full_name": "RigoBlock/web",
+      "is_fork": true,
+      "parent": "base/web",
+      "source": "base/web",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:13:00Z"
+    },
+    {
+      "full_name": "RigoBlock/webapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T23:13:02Z"
+    },
+    {
+      "full_name": "RigoBlock/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:13:04Z"
+    },
+    {
+      "full_name": "RigoBlock/workers-unsplash-api",
+      "is_fork": true,
+      "parent": "kristianfreeman/workers-unsplash-api",
+      "source": "kristianfreeman/workers-unsplash-api",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T23:13:06Z"
+    }
+  ]
+}

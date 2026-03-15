@@ -1,6 +1,6 @@
 {
   "owner": "agglayer",
-  "updated_at": "2026-03-04T03:37:27Z",
+  "updated_at": "2026-03-12T02:55:16Z",
   "repos": [
     {
       "full_name": "AggLayer/lxly-bridge-and-call",
@@ -10,6 +10,42 @@
       "stars": 19,
       "language": "Solidity",
       "last_checked": "2026-03-01T05:16:39Z"
+    },
+    {
+      "full_name": "agglayer/aggkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Go",
+      "last_checked": "2026-03-12T02:42:28Z"
+    },
+    {
+      "full_name": "agglayer/agglayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "Rust",
+      "last_checked": "2026-03-12T02:42:30Z"
+    },
+    {
+      "full_name": "agglayer/agglayer-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 311,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:42:32Z"
+    },
+    {
+      "full_name": "agglayer/code-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:42:34Z"
     }
   ]
 }

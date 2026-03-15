@@ -1,0 +1,42 @@
+{
+  "owner": "federerkk",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FedererKK/Bootcamp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T11:23:48Z"
+    },
+    {
+      "full_name": "FedererKK/vyper-core",
+      "is_fork": true,
+      "parent": "vyper-protocol/vyper-core",
+      "source": "vyper-protocol/vyper-core",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:23:50Z"
+    },
+    {
+      "full_name": "FedererKK/vyper-otc",
+      "is_fork": true,
+      "parent": "vyper-protocol/vyper-otc",
+      "source": "vyper-protocol/vyper-otc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T11:23:52Z"
+    },
+    {
+      "full_name": "FedererKK/vyper-otc-ui",
+      "is_fork": true,
+      "parent": "Shikhar15606/vyper-otc-ui",
+      "source": "Shikhar15606/vyper-otc-ui",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T11:23:54Z"
+    }
+  ]
+}

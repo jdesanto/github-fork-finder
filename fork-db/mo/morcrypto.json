@@ -1,0 +1,51 @@
+{
+  "owner": "morcrypto",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "Morcrypto/Exchange",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T04:19:04Z"
+    },
+    {
+      "full_name": "Morcrypto/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:19:06Z"
+    },
+    {
+      "full_name": "Morcrypto/eth-phishing-detect",
+      "is_fork": true,
+      "parent": "MetaMask/eth-phishing-detect",
+      "source": "MetaMask/eth-phishing-detect",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T04:19:09Z"
+    },
+    {
+      "full_name": "Morcrypto/tokens",
+      "is_fork": true,
+      "parent": "trustwallet/tokens",
+      "source": "trustwallet/tokens",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:19:11Z"
+    },
+    {
+      "full_name": "Morcrypto/whitelist",
+      "is_fork": true,
+      "parent": "CryptoScamDB/whitelist",
+      "source": "CryptoScamDB/whitelist",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T04:19:13Z"
+    }
+  ]
+}

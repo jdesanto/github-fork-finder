@@ -1,0 +1,483 @@
+{
+  "owner": "neardefi",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NearDeFi/ChainsigSDK",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:08Z"
+    },
+    {
+      "full_name": "NearDeFi/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:10Z"
+    },
+    {
+      "full_name": "NearDeFi/aurora.js",
+      "is_fork": true,
+      "parent": "aurora-is-near/aurora.js",
+      "source": "aurora-is-near/aurora.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T06:59:12Z"
+    },
+    {
+      "full_name": "NearDeFi/bear",
+      "is_fork": true,
+      "parent": "burrowHQ/burrow-cash",
+      "source": "NearDeFi/burrow-cash",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:15Z"
+    },
+    {
+      "full_name": "NearDeFi/bos-apps-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T06:59:16Z"
+    },
+    {
+      "full_name": "NearDeFi/bos-docs",
+      "is_fork": true,
+      "parent": "near/discovery-docs",
+      "source": "near/discovery-docs",
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:19Z"
+    },
+    {
+      "full_name": "NearDeFi/bos-gateway-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:20Z"
+    },
+    {
+      "full_name": "NearDeFi/bos-viewer",
+      "is_fork": true,
+      "parent": "NearSocial/viewer",
+      "source": "NearSocial/viewer",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T06:59:23Z"
+    },
+    {
+      "full_name": "NearDeFi/bridge-assets",
+      "is_fork": true,
+      "parent": "aurora-is-near/bridge-assets",
+      "source": "aurora-is-near/bridge-assets",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T06:59:25Z"
+    },
+    {
+      "full_name": "NearDeFi/brrr-marketcap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:27Z"
+    },
+    {
+      "full_name": "NearDeFi/burrow-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:29Z"
+    },
+    {
+      "full_name": "NearDeFi/burrow-cash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:31Z"
+    },
+    {
+      "full_name": "NearDeFi/burrow-landing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:33Z"
+    },
+    {
+      "full_name": "NearDeFi/burrow-live-feed",
+      "is_fork": true,
+      "parent": "evgenykuzyakov/nft-mints",
+      "source": "evgenykuzyakov/nft-mints",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:35Z"
+    },
+    {
+      "full_name": "NearDeFi/burrowland",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:59:37Z"
+    },
+    {
+      "full_name": "NearDeFi/burrowland-liquidation-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:39Z"
+    },
+    {
+      "full_name": "NearDeFi/chainsig-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:41Z"
+    },
+    {
+      "full_name": "NearDeFi/chainsig.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:42Z"
+    },
+    {
+      "full_name": "NearDeFi/convert-cash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:59:44Z"
+    },
+    {
+      "full_name": "NearDeFi/ft-lockup-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:59:46Z"
+    },
+    {
+      "full_name": "NearDeFi/ft-with-updatable-meta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:59:48Z"
+    },
+    {
+      "full_name": "NearDeFi/guest-book-wallet-selector",
+      "is_fork": true,
+      "parent": "olonho/guest-book",
+      "source": "olonho/guest-book",
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T06:59:50Z"
+    },
+    {
+      "full_name": "NearDeFi/hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T06:59:52Z"
+    },
+    {
+      "full_name": "NearDeFi/locked-ft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-10T06:59:54Z"
+    },
+    {
+      "full_name": "NearDeFi/mantle-bos-gateway",
+      "is_fork": true,
+      "parent": "NearDeFi/bos-gateway-template",
+      "source": "NearDeFi/bos-gateway-template",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:56Z"
+    },
+    {
+      "full_name": "NearDeFi/mantle-gateway-template",
+      "is_fork": true,
+      "parent": "NearDeFi/bos-gateway-template",
+      "source": "NearDeFi/bos-gateway-template",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T06:59:59Z"
+    },
+    {
+      "full_name": "NearDeFi/metamask-extension",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:00:01Z"
+    },
+    {
+      "full_name": "NearDeFi/misc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:03Z"
+    },
+    {
+      "full_name": "NearDeFi/near-discovery",
+      "is_fork": true,
+      "parent": "near/near-discovery",
+      "source": "near/near-discovery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:00:05Z"
+    },
+    {
+      "full_name": "NearDeFi/near-is-aurora",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:07Z"
+    },
+    {
+      "full_name": "NearDeFi/near-mpc-rng",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:09Z"
+    },
+    {
+      "full_name": "NearDeFi/near-price-oracle-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:11Z"
+    },
+    {
+      "full_name": "NearDeFi/near-staking-pool-owner",
+      "is_fork": true,
+      "parent": "zavodil/near-staking-pool-owner",
+      "source": "zavodil/near-staking-pool-owner",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:13Z"
+    },
+    {
+      "full_name": "NearDeFi/neth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:15Z"
+    },
+    {
+      "full_name": "NearDeFi/polygon-bos-gateway",
+      "is_fork": true,
+      "parent": "NearDeFi/bos-gateway-template",
+      "source": "NearDeFi/bos-gateway-template",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:00:17Z"
+    },
+    {
+      "full_name": "NearDeFi/polygon-bos-gateway__deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:00:18Z"
+    },
+    {
+      "full_name": "NearDeFi/price-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:20Z"
+    },
+    {
+      "full_name": "NearDeFi/priceoracle-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:22Z"
+    },
+    {
+      "full_name": "NearDeFi/rainbow-bridge-frontend",
+      "is_fork": true,
+      "parent": "aurora-is-near/rainbow-bridge-frontend",
+      "source": "aurora-is-near/rainbow-bridge-frontend",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:00:24Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-api-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:00:25Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-basednames",
+      "is_fork": true,
+      "parent": "NearDeFi/shade-agent-twitter",
+      "source": "NearDeFi/shade-agent-twitter",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:27Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:29Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:31Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-marketer",
+      "is_fork": true,
+      "parent": "NearDeFi/shade-agent-twitter",
+      "source": "NearDeFi/shade-agent-twitter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:00:33Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-no-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:00:33Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:35Z"
+    },
+    {
+      "full_name": "NearDeFi/shade-agent-twitter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:37Z"
+    },
+    {
+      "full_name": "NearDeFi/staking-farm",
+      "is_fork": true,
+      "parent": "referencedev/staking-farm",
+      "source": "referencedev/staking-farm",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:39Z"
+    },
+    {
+      "full_name": "NearDeFi/token-prices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:41Z"
+    },
+    {
+      "full_name": "NearDeFi/treasury-dao",
+      "is_fork": true,
+      "parent": "near/treasury-dao",
+      "source": "near/treasury-dao",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:00:43Z"
+    },
+    {
+      "full_name": "NearDeFi/verifiable-ai-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:45Z"
+    },
+    {
+      "full_name": "NearDeFi/wallet-selector",
+      "is_fork": true,
+      "parent": "near/wallet-selector",
+      "source": "near/wallet-selector",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:00:47Z"
+    },
+    {
+      "full_name": "NearDeFi/wrapped-ft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:00:49Z"
+    }
+  ]
+}

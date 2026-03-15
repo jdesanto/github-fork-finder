@@ -1,0 +1,4173 @@
+{
+  "owner": "nethermindeth",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "NethermindEth/0to1CairoDemo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:31:17Z"
+    },
+    {
+      "full_name": "NethermindEth/AA_bundler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:17Z"
+    },
+    {
+      "full_name": "NethermindEth/Agent4rena-agent-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:31:19Z"
+    },
+    {
+      "full_name": "NethermindEth/AgentArena-agent-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:31:21Z"
+    },
+    {
+      "full_name": "NethermindEth/AgenticROS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:31:23Z"
+    },
+    {
+      "full_name": "NethermindEth/ArbiterAgent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:25Z"
+    },
+    {
+      "full_name": "NethermindEth/ArbiterAgent-staging",
+      "is_fork": true,
+      "parent": "NethermindEth/ArbiterAgent",
+      "source": "NethermindEth/ArbiterAgent",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:28Z"
+    },
+    {
+      "full_name": "NethermindEth/ArkLibFri",
+      "is_fork": true,
+      "parent": "Verified-zkEVM/ArkLib",
+      "source": "Verified-zkEVM/ArkLib",
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:31:30Z"
+    },
+    {
+      "full_name": "NethermindEth/Art-Verse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:30Z"
+    },
+    {
+      "full_name": "NethermindEth/Atlantis-Repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:31Z"
+    },
+    {
+      "full_name": "NethermindEth/Cairo-SafeMath",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:31:33Z"
+    },
+    {
+      "full_name": "NethermindEth/CairoByExample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 150,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:31:35Z"
+    },
+    {
+      "full_name": "NethermindEth/Catalyst",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:31:37Z"
+    },
+    {
+      "full_name": "NethermindEth/CertiPlonk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:31:39Z"
+    },
+    {
+      "full_name": "NethermindEth/Clear",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:31:41Z"
+    },
+    {
+      "full_name": "NethermindEth/CommitEd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:31:43Z"
+    },
+    {
+      "full_name": "NethermindEth/DAppNodePackage-nethermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:43Z"
+    },
+    {
+      "full_name": "NethermindEth/DAppNodePackage-nethermind-dev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:43Z"
+    },
+    {
+      "full_name": "NethermindEth/DevOps_Microservices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:44Z"
+    },
+    {
+      "full_name": "NethermindEth/Dirichlet",
+      "is_fork": true,
+      "parent": "ricksladkey/Dirichlet",
+      "source": "ricksladkey/Dirichlet",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:31:46Z"
+    },
+    {
+      "full_name": "NethermindEth/DotNetty",
+      "is_fork": true,
+      "parent": "Azure/DotNetty",
+      "source": "Azure/DotNetty",
+      "stars": 4,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:31:48Z"
+    },
+    {
+      "full_name": "NethermindEth/EOF-Header-Parser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:31:50Z"
+    },
+    {
+      "full_name": "NethermindEth/EVMYulLean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:31:52Z"
+    },
+    {
+      "full_name": "NethermindEth/ElizaROS",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:54Z"
+    },
+    {
+      "full_name": "NethermindEth/EthereumDiscordGuidebook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:31:54Z"
+    },
+    {
+      "full_name": "NethermindEth/EventsSubscriptorPoC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:31:56Z"
+    },
+    {
+      "full_name": "NethermindEth/FF_CVC5_Lean",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:31:58Z"
+    },
+    {
+      "full_name": "NethermindEth/FFaCiL.lean",
+      "is_fork": true,
+      "parent": "argumentcomputer/FFaCiL.lean",
+      "source": "argumentcomputer/FFaCiL.lean",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:00Z"
+    },
+    {
+      "full_name": "NethermindEth/FVIntmax",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:32:02Z"
+    },
+    {
+      "full_name": "NethermindEth/Forta-Agents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 122,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:32:04Z"
+    },
+    {
+      "full_name": "NethermindEth/GigaCrew",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:32:06Z"
+    },
+    {
+      "full_name": "NethermindEth/Halva",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:32:08Z"
+    },
+    {
+      "full_name": "NethermindEth/IL-EVM",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:10Z"
+    },
+    {
+      "full_name": "NethermindEth/Intern-Drop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:11Z"
+    },
+    {
+      "full_name": "NethermindEth/LaBRADOR-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:32:13Z"
+    },
+    {
+      "full_name": "NethermindEth/Lantern.Discv5",
+      "is_fork": true,
+      "parent": "Pier-Two/Lantern.Discv5",
+      "source": "Pier-Two/Lantern.Discv5",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:32:15Z"
+    },
+    {
+      "full_name": "NethermindEth/LargeZKML",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:16Z"
+    },
+    {
+      "full_name": "NethermindEth/Lean4UtilMemset",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:32:18Z"
+    },
+    {
+      "full_name": "NethermindEth/Math.Gmp.Native",
+      "is_fork": true,
+      "parent": "MachineCognitis/Math.Gmp.Native",
+      "source": "MachineCognitis/Math.Gmp.Native",
+      "stars": 3,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:32:20Z"
+    },
+    {
+      "full_name": "NethermindEth/Mev-Searcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:32:22Z"
+    },
+    {
+      "full_name": "NethermindEth/Mpt-Instruct-DotNet-S",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:32:24Z"
+    },
+    {
+      "full_name": "NethermindEth/NDM-consumer-samples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:24Z"
+    },
+    {
+      "full_name": "NethermindEth/NethermindEthereumClientTermsandConditions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:26Z"
+    },
+    {
+      "full_name": "NethermindEth/Paprika",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 99,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:32:28Z"
+    },
+    {
+      "full_name": "NethermindEth/PublicAuditReports",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:30Z"
+    },
+    {
+      "full_name": "NethermindEth/RAG",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:31Z"
+    },
+    {
+      "full_name": "NethermindEth/RIPs",
+      "is_fork": true,
+      "parent": "ethereum/RIPs",
+      "source": "ethereum/RIPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:33Z"
+    },
+    {
+      "full_name": "NethermindEth/StarknetByExample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 150,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:32:35Z"
+    },
+    {
+      "full_name": "NethermindEth/Surge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:37Z"
+    },
+    {
+      "full_name": "NethermindEth/Surveyor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Haskell",
+      "last_checked": "2026-03-10T07:32:39Z"
+    },
+    {
+      "full_name": "NethermindEth/Taiko-Preconf-AVS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:32:41Z"
+    },
+    {
+      "full_name": "NethermindEth/TruthTok",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:32:43Z"
+    },
+    {
+      "full_name": "NethermindEth/UniStark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:32:45Z"
+    },
+    {
+      "full_name": "NethermindEth/Validator-Block-Production-Tracking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:45Z"
+    },
+    {
+      "full_name": "NethermindEth/WarpTemplates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:45Z"
+    },
+    {
+      "full_name": "NethermindEth/Yul-Specification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:32:47Z"
+    },
+    {
+      "full_name": "NethermindEth/ZKLib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:48Z"
+    },
+    {
+      "full_name": "NethermindEth/ZKLibFri",
+      "is_fork": true,
+      "parent": "Verified-zkEVM/ArkLib",
+      "source": "Verified-zkEVM/ArkLib",
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:32:50Z"
+    },
+    {
+      "full_name": "NethermindEth/abm1559",
+      "is_fork": true,
+      "parent": "ethereum/abm1559",
+      "source": "ethereum/abm1559",
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T07:32:52Z"
+    },
+    {
+      "full_name": "NethermindEth/account-abstraction-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:53Z"
+    },
+    {
+      "full_name": "NethermindEth/agent-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:32:55Z"
+    },
+    {
+      "full_name": "NethermindEth/agentarena-arbiter",
+      "is_fork": true,
+      "parent": "NethermindEth/ArbiterAgent",
+      "source": "NethermindEth/ArbiterAgent",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:32:57Z"
+    },
+    {
+      "full_name": "NethermindEth/agentic.city",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:32:59Z"
+    },
+    {
+      "full_name": "NethermindEth/aggsandbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:01Z"
+    },
+    {
+      "full_name": "NethermindEth/ansible-collection-general",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:01Z"
+    },
+    {
+      "full_name": "NethermindEth/ansible-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:02Z"
+    },
+    {
+      "full_name": "NethermindEth/ansible-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:02Z"
+    },
+    {
+      "full_name": "NethermindEth/arbitrum-orbit-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-chain-sdk",
+      "source": "OffchainLabs/arbitrum-chain-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:33:04Z"
+    },
+    {
+      "full_name": "NethermindEth/aura-validators-monitoring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:04Z"
+    },
+    {
+      "full_name": "NethermindEth/auto-generate-changelog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:05Z"
+    },
+    {
+      "full_name": "NethermindEth/awesome-preconfirmations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:07Z"
+    },
+    {
+      "full_name": "NethermindEth/awesome-starknet",
+      "is_fork": true,
+      "parent": "keep-starknet-strange/awesome-starknet",
+      "source": "keep-starknet-strange/awesome-starknet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:09Z"
+    },
+    {
+      "full_name": "NethermindEth/bandersnatch-sharp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:33:11Z"
+    },
+    {
+      "full_name": "NethermindEth/baseline",
+      "is_fork": true,
+      "parent": "ethereum-oasis-op/baseline",
+      "source": "ethereum-oasis-op/baseline",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:33:13Z"
+    },
+    {
+      "full_name": "NethermindEth/beacon-health-check",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:13Z"
+    },
+    {
+      "full_name": "NethermindEth/bench_precompiles",
+      "is_fork": true,
+      "parent": "shamatar/bench_precompiles",
+      "source": "shamatar/bench_precompiles",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:15Z"
+    },
+    {
+      "full_name": "NethermindEth/blink-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:16Z"
+    },
+    {
+      "full_name": "NethermindEth/blob-sharing-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:33:18Z"
+    },
+    {
+      "full_name": "NethermindEth/blockifier",
+      "is_fork": true,
+      "parent": "starkware-libs/blockifier",
+      "source": "starkware-libs/blockifier",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:20Z"
+    },
+    {
+      "full_name": "NethermindEth/blockifier-tester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:22Z"
+    },
+    {
+      "full_name": "NethermindEth/blockscout-helm-charts",
+      "is_fork": true,
+      "parent": "blockscout/helm-charts",
+      "source": "blockscout/helm-charts",
+      "stars": 0,
+      "language": "Smarty",
+      "last_checked": "2026-03-10T07:33:24Z"
+    },
+    {
+      "full_name": "NethermindEth/bls",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:24Z"
+    },
+    {
+      "full_name": "NethermindEth/bls-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:33:27Z"
+    },
+    {
+      "full_name": "NethermindEth/blst-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:33:29Z"
+    },
+    {
+      "full_name": "NethermindEth/boost-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:33:31Z"
+    },
+    {
+      "full_name": "NethermindEth/bor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:31Z"
+    },
+    {
+      "full_name": "NethermindEth/broadcaster",
+      "is_fork": true,
+      "parent": "piwonskp/broadcaster",
+      "source": "piwonskp/broadcaster",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:33Z"
+    },
+    {
+      "full_name": "NethermindEth/builder",
+      "is_fork": true,
+      "parent": "flashbots/builder",
+      "source": "flashbots/builder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:35Z"
+    },
+    {
+      "full_name": "NethermindEth/c2pa-onchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:33:37Z"
+    },
+    {
+      "full_name": "NethermindEth/caigo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 177,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:33:39Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo-lang",
+      "is_fork": true,
+      "parent": "starkware-libs/cairo-lang",
+      "source": "starkware-libs/cairo-lang",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:41Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo-plonk-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:33:43Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo-property-tester",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:33:44Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo-vm-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 88,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:33:46Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:33:48Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo_native",
+      "is_fork": true,
+      "parent": "lambdaclass/cairo_native",
+      "source": "lambdaclass/cairo_native",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:50Z"
+    },
+    {
+      "full_name": "NethermindEth/cairo_zstd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:33:52Z"
+    },
+    {
+      "full_name": "NethermindEth/cartesian-merkle-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:33:54Z"
+    },
+    {
+      "full_name": "NethermindEth/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T07:33:56Z"
+    },
+    {
+      "full_name": "NethermindEth/chaoschain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:33:58Z"
+    },
+    {
+      "full_name": "NethermindEth/chaoschain-launchpad",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:01Z"
+    },
+    {
+      "full_name": "NethermindEth/charts",
+      "is_fork": true,
+      "parent": "stakewise/helm-charts",
+      "source": "stakewise/helm-charts",
+      "stars": 2,
+      "language": "Mustache",
+      "last_checked": "2026-03-10T07:34:03Z"
+    },
+    {
+      "full_name": "NethermindEth/circomlibjs",
+      "is_fork": true,
+      "parent": "iden3/circomlibjs",
+      "source": "iden3/circomlibjs",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:34:05Z"
+    },
+    {
+      "full_name": "NethermindEth/client-nodes-reporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:07Z"
+    },
+    {
+      "full_name": "NethermindEth/community-avs-playbooks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:34:09Z"
+    },
+    {
+      "full_name": "NethermindEth/condor-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:34:11Z"
+    },
+    {
+      "full_name": "NethermindEth/consensus-deployment-ansible",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:11Z"
+    },
+    {
+      "full_name": "NethermindEth/core-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "jq",
+      "last_checked": "2026-03-10T07:34:13Z"
+    },
+    {
+      "full_name": "NethermindEth/corert",
+      "is_fork": true,
+      "parent": "dotnet/corert",
+      "source": "dotnet/corert",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:15Z"
+    },
+    {
+      "full_name": "NethermindEth/cortex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:17Z"
+    },
+    {
+      "full_name": "NethermindEth/cortex-cryptography-bls",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:19Z"
+    },
+    {
+      "full_name": "NethermindEth/cortex-ssz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:21Z"
+    },
+    {
+      "full_name": "NethermindEth/courtney",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:21Z"
+    },
+    {
+      "full_name": "NethermindEth/crypto-cpp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:22Z"
+    },
+    {
+      "full_name": "NethermindEth/crypto-fv-companies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:34:24Z"
+    },
+    {
+      "full_name": "NethermindEth/cs-multiaddress",
+      "is_fork": true,
+      "parent": "multiformats/cs-multiaddress",
+      "source": "multiformats/cs-multiaddress",
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:26Z"
+    },
+    {
+      "full_name": "NethermindEth/cs-multibase",
+      "is_fork": true,
+      "parent": "multiformats/cs-multibase",
+      "source": "multiformats/cs-multibase",
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:28Z"
+    },
+    {
+      "full_name": "NethermindEth/cs-multihash",
+      "is_fork": true,
+      "parent": "multiformats/cs-multihash",
+      "source": "multiformats/cs-multihash",
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:30Z"
+    },
+    {
+      "full_name": "NethermindEth/cvc5",
+      "is_fork": true,
+      "parent": "cvc5/cvc5",
+      "source": "cvc5/cvc5",
+      "stars": 0,
+      "language": "SMT",
+      "last_checked": "2026-03-10T07:34:33Z"
+    },
+    {
+      "full_name": "NethermindEth/cvc5_smff_lean",
+      "is_fork": true,
+      "parent": "cvc5/cvc5",
+      "source": "cvc5/cvc5",
+      "stars": 0,
+      "language": "SMT",
+      "last_checked": "2026-03-10T07:34:35Z"
+    },
+    {
+      "full_name": "NethermindEth/dispute-resolution-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:35Z"
+    },
+    {
+      "full_name": "NethermindEth/doc.linea",
+      "is_fork": true,
+      "parent": "Consensys/doc.linea",
+      "source": "Consensys/doc.linea",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:37Z"
+    },
+    {
+      "full_name": "NethermindEth/docker-volumes-snapshotter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:39Z"
+    },
+    {
+      "full_name": "NethermindEth/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:34:41Z"
+    },
+    {
+      "full_name": "NethermindEth/dotnet-libp2p",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 112,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:34:43Z"
+    },
+    {
+      "full_name": "NethermindEth/drill",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:44Z"
+    },
+    {
+      "full_name": "NethermindEth/dydx-documentation",
+      "is_fork": true,
+      "parent": "dydxprotocol/v4-documentation",
+      "source": "dydxprotocol/v4-documentation",
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-10T07:34:46Z"
+    },
+    {
+      "full_name": "NethermindEth/eigen-layer-flask",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:46Z"
+    },
+    {
+      "full_name": "NethermindEth/eigen-layer-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:46Z"
+    },
+    {
+      "full_name": "NethermindEth/eigen-minter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:48Z"
+    },
+    {
+      "full_name": "NethermindEth/eigenda-blob-scrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:51Z"
+    },
+    {
+      "full_name": "NethermindEth/eigenda-operator-setup",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenda-operator-setup",
+      "source": "Layr-Labs/eigenda-operator-setup",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:34:53Z"
+    },
+    {
+      "full_name": "NethermindEth/eigendata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:55Z"
+    },
+    {
+      "full_name": "NethermindEth/eigenlayer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:57Z"
+    },
+    {
+      "full_name": "NethermindEth/eigenlayer-onchain-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:34:59Z"
+    },
+    {
+      "full_name": "NethermindEth/eigenlayer-operator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:34:59Z"
+    },
+    {
+      "full_name": "NethermindEth/eip1962",
+      "is_fork": true,
+      "parent": "matter-labs/eip1962",
+      "source": "matter-labs/eip1962",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:35:01Z"
+    },
+    {
+      "full_name": "NethermindEth/eip2537rustwrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:02Z"
+    },
+    {
+      "full_name": "NethermindEth/eip4844-interop",
+      "is_fork": true,
+      "parent": "Inphi/eip4844-interop",
+      "source": "Inphi/eip4844-interop",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:04Z"
+    },
+    {
+      "full_name": "NethermindEth/eks-nvme-ssd-provisioner",
+      "is_fork": true,
+      "parent": "brunsgaard/eks-nvme-ssd-provisioner",
+      "source": "brunsgaard/eks-nvme-ssd-provisioner",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:35:06Z"
+    },
+    {
+      "full_name": "NethermindEth/el-node-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:08Z"
+    },
+    {
+      "full_name": "NethermindEth/eliza",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:10Z"
+    },
+    {
+      "full_name": "NethermindEth/eliza-chaoschain-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:10Z"
+    },
+    {
+      "full_name": "NethermindEth/elizaos-plugin-registry",
+      "is_fork": true,
+      "parent": "elizaos-plugins/registry",
+      "source": "elizaos-plugins/registry",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:35:13Z"
+    },
+    {
+      "full_name": "NethermindEth/entro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:35:15Z"
+    },
+    {
+      "full_name": "NethermindEth/erc3643_starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:15Z"
+    },
+    {
+      "full_name": "NethermindEth/espresso-keystore-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:17Z"
+    },
+    {
+      "full_name": "NethermindEth/eth-docker-compose",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:17Z"
+    },
+    {
+      "full_name": "NethermindEth/eth-net-intelligence-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:17Z"
+    },
+    {
+      "full_name": "NethermindEth/eth-network-package",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:18Z"
+    },
+    {
+      "full_name": "NethermindEth/eth-pairings-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:35:20Z"
+    },
+    {
+      "full_name": "NethermindEth/eth-rlp-verify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:35:22Z"
+    },
+    {
+      "full_name": "NethermindEth/eth1.0-specs",
+      "is_fork": true,
+      "parent": "ethereum/execution-specs",
+      "source": "ethereum/execution-specs",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:35:24Z"
+    },
+    {
+      "full_name": "NethermindEth/eth2-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:24Z"
+    },
+    {
+      "full_name": "NethermindEth/eth2-package",
+      "is_fork": true,
+      "parent": "ethpandaops/ethereum-package",
+      "source": "ethpandaops/ethereum-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-10T07:35:26Z"
+    },
+    {
+      "full_name": "NethermindEth/eth2.0-specs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:27Z"
+    },
+    {
+      "full_name": "NethermindEth/ethdont",
+      "is_fork": true,
+      "parent": "poupas/ethdont",
+      "source": "poupas/ethdont",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:29Z"
+    },
+    {
+      "full_name": "NethermindEth/ethereum-consensus",
+      "is_fork": true,
+      "parent": "ralexstokes/ethereum-consensus",
+      "source": "ralexstokes/ethereum-consensus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:31Z"
+    },
+    {
+      "full_name": "NethermindEth/ethereum-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:31Z"
+    },
+    {
+      "full_name": "NethermindEth/ethernodes-reporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:31Z"
+    },
+    {
+      "full_name": "NethermindEth/ethglobal-singapore-cairo-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:35:33Z"
+    },
+    {
+      "full_name": "NethermindEth/ethnode-sidecar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:34Z"
+    },
+    {
+      "full_name": "NethermindEth/ethtaipei-cairo1-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:36Z"
+    },
+    {
+      "full_name": "NethermindEth/evmone",
+      "is_fork": true,
+      "parent": "ipsilon/evmone",
+      "source": "ipsilon/evmone",
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T07:35:38Z"
+    },
+    {
+      "full_name": "NethermindEth/ewc-validator-node-install-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:38Z"
+    },
+    {
+      "full_name": "NethermindEth/execution-balance-analysis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:40Z"
+    },
+    {
+      "full_name": "NethermindEth/exit-format",
+      "is_fork": true,
+      "parent": "statechannels/exit-format",
+      "source": "statechannels/exit-format",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:42Z"
+    },
+    {
+      "full_name": "NethermindEth/extraData-scanner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:44Z"
+    },
+    {
+      "full_name": "NethermindEth/fb-builder",
+      "is_fork": true,
+      "parent": "flashbots/builder",
+      "source": "flashbots/builder",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:35:46Z"
+    },
+    {
+      "full_name": "NethermindEth/fetch-cookie",
+      "is_fork": true,
+      "parent": "valeriangalliat/fetch-cookie",
+      "source": "valeriangalliat/fetch-cookie",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:35:48Z"
+    },
+    {
+      "full_name": "NethermindEth/folded-falcon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:35:50Z"
+    },
+    {
+      "full_name": "NethermindEth/formalverification.xyz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:35:52Z"
+    },
+    {
+      "full_name": "NethermindEth/forta-staking-vault",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:35:54Z"
+    },
+    {
+      "full_name": "NethermindEth/forta-starter-kits",
+      "is_fork": true,
+      "parent": "LimeChain/forta-starter-kits",
+      "source": "LimeChain/forta-starter-kits",
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:35:56Z"
+    },
+    {
+      "full_name": "NethermindEth/fossil-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:35:58Z"
+    },
+    {
+      "full_name": "NethermindEth/fremen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:36:00Z"
+    },
+    {
+      "full_name": "NethermindEth/fri-fv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:36:02Z"
+    },
+    {
+      "full_name": "NethermindEth/gas-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:36:04Z"
+    },
+    {
+      "full_name": "NethermindEth/general-agents-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:36:06Z"
+    },
+    {
+      "full_name": "NethermindEth/gitwise",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:36:08Z"
+    },
+    {
+      "full_name": "NethermindEth/gnosis-testnets-configs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:08Z"
+    },
+    {
+      "full_name": "NethermindEth/gnosischain-deposit-contract",
+      "is_fork": true,
+      "parent": "gnosischain/deposit-contract",
+      "source": "gnosischain/deposit-contract",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:36:11Z"
+    },
+    {
+      "full_name": "NethermindEth/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:13Z"
+    },
+    {
+      "full_name": "NethermindEth/go-ethereum-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:13Z"
+    },
+    {
+      "full_name": "NethermindEth/go-libp2p",
+      "is_fork": true,
+      "parent": "libp2p/go-libp2p",
+      "source": "libp2p/go-libp2p",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:15Z"
+    },
+    {
+      "full_name": "NethermindEth/go-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:15Z"
+    },
+    {
+      "full_name": "NethermindEth/go-utils",
+      "is_fork": true,
+      "parent": "flashbots/go-utils",
+      "source": "flashbots/go-utils",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:17Z"
+    },
+    {
+      "full_name": "NethermindEth/halo2",
+      "is_fork": true,
+      "parent": "zcash/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:36:20Z"
+    },
+    {
+      "full_name": "NethermindEth/halo2-extractor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:36:22Z"
+    },
+    {
+      "full_name": "NethermindEth/halo2-fv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:36:24Z"
+    },
+    {
+      "full_name": "NethermindEth/hardhat-warp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:36:26Z"
+    },
+    {
+      "full_name": "NethermindEth/hardhat-warp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:26Z"
+    },
+    {
+      "full_name": "NethermindEth/helm-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go Template",
+      "last_checked": "2026-03-10T07:36:29Z"
+    },
+    {
+      "full_name": "NethermindEth/hive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:29Z"
+    },
+    {
+      "full_name": "NethermindEth/holesky",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:29Z"
+    },
+    {
+      "full_name": "NethermindEth/homebrew-nethermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T07:36:31Z"
+    },
+    {
+      "full_name": "NethermindEth/homebrew-sedge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T07:36:33Z"
+    },
+    {
+      "full_name": "NethermindEth/horus-checker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "Haskell",
+      "last_checked": "2026-03-10T07:36:35Z"
+    },
+    {
+      "full_name": "NethermindEth/horus-compile",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:36:37Z"
+    },
+    {
+      "full_name": "NethermindEth/hummingboss",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:36:39Z"
+    },
+    {
+      "full_name": "NethermindEth/ice-nine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:36:42Z"
+    },
+    {
+      "full_name": "NethermindEth/idealis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:36:44Z"
+    },
+    {
+      "full_name": "NethermindEth/int256",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 50,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:36:46Z"
+    },
+    {
+      "full_name": "NethermindEth/jrpc-interceptor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:48Z"
+    },
+    {
+      "full_name": "NethermindEth/json-bench",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:49Z"
+    },
+    {
+      "full_name": "NethermindEth/juno",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 448,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:51Z"
+    },
+    {
+      "full_name": "NethermindEth/juno-fork",
+      "is_fork": true,
+      "parent": "NethermindEth/juno",
+      "source": "NethermindEth/juno",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:36:54Z"
+    },
+    {
+      "full_name": "NethermindEth/juno-starknet-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:54Z"
+    },
+    {
+      "full_name": "NethermindEth/juno-sync-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:54Z"
+    },
+    {
+      "full_name": "NethermindEth/kona",
+      "is_fork": true,
+      "parent": "op-rs/kona",
+      "source": "op-rs/kona",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:36:56Z"
+    },
+    {
+      "full_name": "NethermindEth/kong",
+      "is_fork": true,
+      "parent": "Kong/kong",
+      "source": "Kong/kong",
+      "stars": 0,
+      "language": "Lua",
+      "last_checked": "2026-03-10T07:36:58Z"
+    },
+    {
+      "full_name": "NethermindEth/kudu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T07:37:01Z"
+    },
+    {
+      "full_name": "NethermindEth/kzg-ceremony-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:37:03Z"
+    },
+    {
+      "full_name": "NethermindEth/l2-finality",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:37:04Z"
+    },
+    {
+      "full_name": "NethermindEth/lagrange-labs-worker",
+      "is_fork": true,
+      "parent": "Lagrange-Labs/worker",
+      "source": "Lagrange-Labs/worker",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:07Z"
+    },
+    {
+      "full_name": "NethermindEth/latticefold",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 126,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:37:09Z"
+    },
+    {
+      "full_name": "NethermindEth/layerzero-gasolina-aws",
+      "is_fork": true,
+      "parent": "LayerZero-Labs/gasolina-aws",
+      "source": "LayerZero-Labs/gasolina-aws",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:37:11Z"
+    },
+    {
+      "full_name": "NethermindEth/lean4-alloy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:37:13Z"
+    },
+    {
+      "full_name": "NethermindEth/licenses-everywhere",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:37:15Z"
+    },
+    {
+      "full_name": "NethermindEth/lido_phase_1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:37:17Z"
+    },
+    {
+      "full_name": "NethermindEth/lighthouse-init-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:37:19Z"
+    },
+    {
+      "full_name": "NethermindEth/linea-besu",
+      "is_fork": true,
+      "parent": "Consensys/linea-besu",
+      "source": "hyperledger/besu",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:21Z"
+    },
+    {
+      "full_name": "NethermindEth/linea-monorepo",
+      "is_fork": true,
+      "parent": "Consensys/linea-monorepo",
+      "source": "Consensys/linea-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:23Z"
+    },
+    {
+      "full_name": "NethermindEth/lm-watermarking",
+      "is_fork": true,
+      "parent": "jwkirchenbauer/lm-watermarking",
+      "source": "jwkirchenbauer/lm-watermarking",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:25Z"
+    },
+    {
+      "full_name": "NethermindEth/mcl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:25Z"
+    },
+    {
+      "full_name": "NethermindEth/merge-fuzz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:25Z"
+    },
+    {
+      "full_name": "NethermindEth/metrics-infrastructure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:37:27Z"
+    },
+    {
+      "full_name": "NethermindEth/mev-aa-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:28Z"
+    },
+    {
+      "full_name": "NethermindEth/mev-boost",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:28Z"
+    },
+    {
+      "full_name": "NethermindEth/mev-boost-relay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:28Z"
+    },
+    {
+      "full_name": "NethermindEth/mev-compose",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:37:30Z"
+    },
+    {
+      "full_name": "NethermindEth/mev-relay-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:31Z"
+    },
+    {
+      "full_name": "NethermindEth/middleware-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:37:33Z"
+    },
+    {
+      "full_name": "NethermindEth/mina-state-proof-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:33Z"
+    },
+    {
+      "full_name": "NethermindEth/miners-register",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:34Z"
+    },
+    {
+      "full_name": "NethermindEth/mmr-risc0-prover",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:37:36Z"
+    },
+    {
+      "full_name": "NethermindEth/mock-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:37:38Z"
+    },
+    {
+      "full_name": "NethermindEth/mock-avs-pkg",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:39Z"
+    },
+    {
+      "full_name": "NethermindEth/mock-avs-src",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:37:42Z"
+    },
+    {
+      "full_name": "NethermindEth/monitor-qa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:42Z"
+    },
+    {
+      "full_name": "NethermindEth/n-time-model-teaclave-trustzone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T07:37:44Z"
+    },
+    {
+      "full_name": "NethermindEth/n-time-model-teclave-trustzone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T07:37:47Z"
+    },
+    {
+      "full_name": "NethermindEth/ndm-releases",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:47Z"
+    },
+    {
+      "full_name": "NethermindEth/near-prometheus-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:47Z"
+    },
+    {
+      "full_name": "NethermindEth/near-sffl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:37:49Z"
+    },
+    {
+      "full_name": "NethermindEth/nebula",
+      "is_fork": true,
+      "parent": "dennis-tra/nebula",
+      "source": "dennis-tra/nebula",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:37:51Z"
+    },
+    {
+      "full_name": "NethermindEth/nether_solc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:52Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1530,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:37:54Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-demerzel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:37:54Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-devnets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HCL",
+      "last_checked": "2026-03-10T07:37:56Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-encode-bootcamp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:37:58Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-node-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:38:00Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-plugins-guide",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:38:02Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind-telemetry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:02Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind.launcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:38:04Z"
+    },
+    {
+      "full_name": "NethermindEth/nethermind.packager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:05Z"
+    },
+    {
+      "full_name": "NethermindEth/nethersolc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T07:38:07Z"
+    },
+    {
+      "full_name": "NethermindEth/nethersolc-archive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:07Z"
+    },
+    {
+      "full_name": "NethermindEth/netherverse",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:07Z"
+    },
+    {
+      "full_name": "NethermindEth/nft-sleep-mint-forta-agent",
+      "is_fork": true,
+      "parent": "a16z/nft-sleep-mint-forta-agent",
+      "source": "a16z/nft-sleep-mint-forta-agent",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:38:09Z"
+    },
+    {
+      "full_name": "NethermindEth/nine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:38:11Z"
+    },
+    {
+      "full_name": "NethermindEth/node",
+      "is_fork": true,
+      "parent": "base/node",
+      "source": "base/node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:38:13Z"
+    },
+    {
+      "full_name": "NethermindEth/node-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:14Z"
+    },
+    {
+      "full_name": "NethermindEth/noir-abi-forms",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:38:16Z"
+    },
+    {
+      "full_name": "NethermindEth/nsec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:16Z"
+    },
+    {
+      "full_name": "NethermindEth/obol-charts",
+      "is_fork": true,
+      "parent": "ObolNetwork/helm-charts",
+      "source": "ObolNetwork/helm-charts",
+      "stars": 0,
+      "language": "Smarty",
+      "last_checked": "2026-03-10T07:38:18Z"
+    },
+    {
+      "full_name": "NethermindEth/onchain_id_starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:38:20Z"
+    },
+    {
+      "full_name": "NethermindEth/op-alloy",
+      "is_fork": true,
+      "parent": "alloy-rs/op-alloy",
+      "source": "alloy-rs/op-alloy",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:22Z"
+    },
+    {
+      "full_name": "NethermindEth/op-builder",
+      "is_fork": true,
+      "parent": "flashbots/builder",
+      "source": "flashbots/builder",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:38:24Z"
+    },
+    {
+      "full_name": "NethermindEth/op-docs",
+      "is_fork": true,
+      "parent": "ethereum-optimism/docs",
+      "source": "ethereum-optimism/docs",
+      "stars": 0,
+      "language": "MDX",
+      "last_checked": "2026-03-10T07:38:26Z"
+    },
+    {
+      "full_name": "NethermindEth/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:28Z"
+    },
+    {
+      "full_name": "NethermindEth/op-stack-diff",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:38:30Z"
+    },
+    {
+      "full_name": "NethermindEth/operator-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:31Z"
+    },
+    {
+      "full_name": "NethermindEth/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:38:33Z"
+    },
+    {
+      "full_name": "NethermindEth/optimism-package",
+      "is_fork": true,
+      "parent": "ethpandaops/optimism-package",
+      "source": "ethpandaops/optimism-package",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:35Z"
+    },
+    {
+      "full_name": "NethermindEth/optimistic-zk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:38:37Z"
+    },
+    {
+      "full_name": "NethermindEth/optimized_ecc_cairo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:38:39Z"
+    },
+    {
+      "full_name": "NethermindEth/oz-cairo-contracts",
+      "is_fork": true,
+      "parent": "OpenZeppelin/cairo-contracts",
+      "source": "OpenZeppelin/cairo-contracts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:41Z"
+    },
+    {
+      "full_name": "NethermindEth/pbs-on-bor",
+      "is_fork": true,
+      "parent": "0xPolygon/bor",
+      "source": "0xPolygon/bor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:43Z"
+    },
+    {
+      "full_name": "NethermindEth/pedersen-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:43Z"
+    },
+    {
+      "full_name": "NethermindEth/permit2-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:38:45Z"
+    },
+    {
+      "full_name": "NethermindEth/pipeline-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:46Z"
+    },
+    {
+      "full_name": "NethermindEth/pitchlake-coprocessor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:38:48Z"
+    },
+    {
+      "full_name": "NethermindEth/plugin-chaoschain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:48Z"
+    },
+    {
+      "full_name": "NethermindEth/plugin-gigacrew",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:38:50Z"
+    },
+    {
+      "full_name": "NethermindEth/polybft-cl-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:50Z"
+    },
+    {
+      "full_name": "NethermindEth/polygon-builder",
+      "is_fork": true,
+      "parent": "flashbots/builder",
+      "source": "flashbots/builder",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:52Z"
+    },
+    {
+      "full_name": "NethermindEth/polygon-edge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:52Z"
+    },
+    {
+      "full_name": "NethermindEth/polygon-zkevm-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:53Z"
+    },
+    {
+      "full_name": "NethermindEth/posdao-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:53Z"
+    },
+    {
+      "full_name": "NethermindEth/posdao-test-setup",
+      "is_fork": true,
+      "parent": "gnosischain/posdao-test-setup",
+      "source": "gnosischain/posdao-test-setup",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:38:55Z"
+    },
+    {
+      "full_name": "NethermindEth/posmoni",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:38:57Z"
+    },
+    {
+      "full_name": "NethermindEth/post-merge-smoke-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:58Z"
+    },
+    {
+      "full_name": "NethermindEth/ppa-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:38:58Z"
+    },
+    {
+      "full_name": "NethermindEth/preconf-taiko-geth",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-geth",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:39:00Z"
+    },
+    {
+      "full_name": "NethermindEth/preconf-taiko-mono",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T07:39:02Z"
+    },
+    {
+      "full_name": "NethermindEth/preconfirm-devnet-package",
+      "is_fork": true,
+      "parent": "ethpandaops/ethereum-package",
+      "source": "ethpandaops/ethereum-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-10T07:39:04Z"
+    },
+    {
+      "full_name": "NethermindEth/preconfirmations-economic-viability",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:39:06Z"
+    },
+    {
+      "full_name": "NethermindEth/public-inference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:39:08Z"
+    },
+    {
+      "full_name": "NethermindEth/pwn-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:39:10Z"
+    },
+    {
+      "full_name": "NethermindEth/python-eth-amm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:39:12Z"
+    },
+    {
+      "full_name": "NethermindEth/raiko",
+      "is_fork": true,
+      "parent": "taikoxyz/raiko",
+      "source": "taikoxyz/raiko",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:39:14Z"
+    },
+    {
+      "full_name": "NethermindEth/raiko-proof-aggregation",
+      "is_fork": true,
+      "parent": "NethermindEth/raiko",
+      "source": "taikoxyz/raiko",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:39:17Z"
+    },
+    {
+      "full_name": "NethermindEth/ray-tracing-bundles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:17Z"
+    },
+    {
+      "full_name": "NethermindEth/rbuilder",
+      "is_fork": true,
+      "parent": "flashbots/rbuilder",
+      "source": "flashbots/rbuilder",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:39:19Z"
+    },
+    {
+      "full_name": "NethermindEth/reipc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:39:21Z"
+    },
+    {
+      "full_name": "NethermindEth/remix-plugins-directory",
+      "is_fork": true,
+      "parent": "remix-project-org/remix-plugins-directory",
+      "source": "remix-project-org/remix-plugins-directory",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:39:23Z"
+    },
+    {
+      "full_name": "NethermindEth/research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T07:39:25Z"
+    },
+    {
+      "full_name": "NethermindEth/research-basic-Cairo-operations-big-integers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:39:27Z"
+    },
+    {
+      "full_name": "NethermindEth/research-mnemonic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:39:29Z"
+    },
+    {
+      "full_name": "NethermindEth/research-mnemonic-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:30Z"
+    },
+    {
+      "full_name": "NethermindEth/research-uint384-cairo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:30Z"
+    },
+    {
+      "full_name": "NethermindEth/restaking-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:30Z"
+    },
+    {
+      "full_name": "NethermindEth/restaking-dashboard-old",
+      "is_fork": true,
+      "parent": "EdgarBarrantes/restaking-dashboard",
+      "source": "EdgarBarrantes/restaking-dashboard",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:32Z"
+    },
+    {
+      "full_name": "NethermindEth/reth",
+      "is_fork": true,
+      "parent": "paradigmxyz/reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:34Z"
+    },
+    {
+      "full_name": "NethermindEth/revm",
+      "is_fork": true,
+      "parent": "bluealloy/revm",
+      "source": "bluealloy/revm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:37Z"
+    },
+    {
+      "full_name": "NethermindEth/risc0-starkpack",
+      "is_fork": true,
+      "parent": "risc0/risc0",
+      "source": "risc0/risc0",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:39Z"
+    },
+    {
+      "full_name": "NethermindEth/risczero-fv",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Lean",
+      "last_checked": "2026-03-10T07:39:41Z"
+    },
+    {
+      "full_name": "NethermindEth/risczero-fv-extractor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:39:43Z"
+    },
+    {
+      "full_name": "NethermindEth/rocksdb-sharp",
+      "is_fork": true,
+      "parent": "warrenfalk/rocksdb-sharp",
+      "source": "warrenfalk/rocksdb-sharp",
+      "stars": 2,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:39:45Z"
+    },
+    {
+      "full_name": "NethermindEth/rocksdb-sharp-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:45Z"
+    },
+    {
+      "full_name": "NethermindEth/rollup-boost",
+      "is_fork": true,
+      "parent": "flashbots/rollup-boost",
+      "source": "flashbots/rollup-boost",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:47Z"
+    },
+    {
+      "full_name": "NethermindEth/rollup-geth",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 29,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:39:50Z"
+    },
+    {
+      "full_name": "NethermindEth/rpc-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:39:52Z"
+    },
+    {
+      "full_name": "NethermindEth/rpc-request-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:39:54Z"
+    },
+    {
+      "full_name": "NethermindEth/rundler",
+      "is_fork": true,
+      "parent": "alchemyplatform/rundler",
+      "source": "alchemyplatform/rundler",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:39:56Z"
+    },
+    {
+      "full_name": "NethermindEth/rust-verkle",
+      "is_fork": true,
+      "parent": "crate-crypto/rust-verkle",
+      "source": "crate-crypto/rust-verkle",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:39:58Z"
+    },
+    {
+      "full_name": "NethermindEth/rust-verkle-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:00Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-client-gateway",
+      "is_fork": true,
+      "parent": "safe-global/safe-client-gateway",
+      "source": "safe-global/safe-client-gateway",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:02Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-core-sdk",
+      "is_fork": true,
+      "parent": "safe-global/safe-core-sdk",
+      "source": "safe-global/safe-core-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:04Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-deployments",
+      "is_fork": true,
+      "parent": "safe-global/safe-deployments",
+      "source": "safe-global/safe-deployments",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:40:06Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-gateway-typescript-sdk",
+      "is_fork": true,
+      "parent": "safe-global/safe-gateway-typescript-sdk",
+      "source": "safe-global/safe-gateway-typescript-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:08Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-infrastructure",
+      "is_fork": true,
+      "parent": "safe-global/safe-infrastructure",
+      "source": "safe-global/safe-infrastructure",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:40:10Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-transaction-service",
+      "is_fork": true,
+      "parent": "safe-global/safe-transaction-service",
+      "source": "safe-global/safe-transaction-service",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:13Z"
+    },
+    {
+      "full_name": "NethermindEth/safe-wallet-monorepo",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:40:15Z"
+    },
+    {
+      "full_name": "NethermindEth/satoshis-razor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:17Z"
+    },
+    {
+      "full_name": "NethermindEth/scroll-keccak256-PoC",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:19Z"
+    },
+    {
+      "full_name": "NethermindEth/scrypt",
+      "is_fork": true,
+      "parent": "Tarsnap/scrypt",
+      "source": "Tarsnap/scrypt",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T07:40:21Z"
+    },
+    {
+      "full_name": "NethermindEth/secp256k1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:21Z"
+    },
+    {
+      "full_name": "NethermindEth/secp256k1-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:40:23Z"
+    },
+    {
+      "full_name": "NethermindEth/secp256r1-bindings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:40:25Z"
+    },
+    {
+      "full_name": "NethermindEth/sedge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 191,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:40:27Z"
+    },
+    {
+      "full_name": "NethermindEth/sequencer",
+      "is_fork": true,
+      "parent": "starkware-libs/sequencer",
+      "source": "starkware-libs/sequencer",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:29Z"
+    },
+    {
+      "full_name": "NethermindEth/shenlong",
+      "is_fork": true,
+      "parent": "keep-starknet-strange/shenlong",
+      "source": "keep-starknet-strange/shenlong",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:31Z"
+    },
+    {
+      "full_name": "NethermindEth/shutter-validator-registration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:40:33Z"
+    },
+    {
+      "full_name": "NethermindEth/sidecar",
+      "is_fork": true,
+      "parent": "Layr-Labs/sidecar",
+      "source": "Layr-Labs/sidecar",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:40:35Z"
+    },
+    {
+      "full_name": "NethermindEth/sign-in-with-starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:40:37Z"
+    },
+    {
+      "full_name": "NethermindEth/silkworm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:37Z"
+    },
+    {
+      "full_name": "NethermindEth/silkworm-demerzel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:38Z"
+    },
+    {
+      "full_name": "NethermindEth/simple-optimism-node",
+      "is_fork": true,
+      "parent": "smartcontracts/simple-optimism-node",
+      "source": "smartcontracts/simple-optimism-node",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:40:40Z"
+    },
+    {
+      "full_name": "NethermindEth/simple-surge-node",
+      "is_fork": true,
+      "parent": "taikoxyz/simple-taiko-node",
+      "source": "taikoxyz/simple-taiko-node",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:40:42Z"
+    },
+    {
+      "full_name": "NethermindEth/simple-taiko-node",
+      "is_fork": true,
+      "parent": "taikoxyz/simple-taiko-node",
+      "source": "taikoxyz/simple-taiko-node",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:40:44Z"
+    },
+    {
+      "full_name": "NethermindEth/simple-taiko-node-nethermind",
+      "is_fork": true,
+      "parent": "taikoxyz/simple-taiko-node",
+      "source": "taikoxyz/simple-taiko-node",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:40:46Z"
+    },
+    {
+      "full_name": "NethermindEth/slashing-analysis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:48Z"
+    },
+    {
+      "full_name": "NethermindEth/smartnode",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:49Z"
+    },
+    {
+      "full_name": "NethermindEth/smartnode-install",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:49Z"
+    },
+    {
+      "full_name": "NethermindEth/sonobe",
+      "is_fork": true,
+      "parent": "privacy-ethereum/sonobe",
+      "source": "privacy-ethereum/sonobe",
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:51Z"
+    },
+    {
+      "full_name": "NethermindEth/sp1",
+      "is_fork": true,
+      "parent": "succinctlabs/sp1",
+      "source": "succinctlabs/sp1",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:53Z"
+    },
+    {
+      "full_name": "NethermindEth/sp1-constraint-extractor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:40:55Z"
+    },
+    {
+      "full_name": "NethermindEth/ssz-codegen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:55Z"
+    },
+    {
+      "full_name": "NethermindEth/staging",
+      "is_fork": true,
+      "parent": "NethermindEth/ArbiterAgent",
+      "source": "NethermindEth/ArbiterAgent",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:40:58Z"
+    },
+    {
+      "full_name": "NethermindEth/stark-rings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:00Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-abi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:41:02Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-abi-form",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:41:04Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-contract-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:06Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-foundry",
+      "is_fork": true,
+      "parent": "foundry-rs/starknet-foundry",
+      "source": "foundry-rs/starknet-foundry",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:08Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-node-data-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:10Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-p2p-specs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:11Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-p2p-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:41:13Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-proposals-whisperer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HCL",
+      "last_checked": "2026-03-10T07:41:15Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-remix-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 48,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:41:17Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-rpc-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:17Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:41:19Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-staking-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:41:21Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-state-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:41:23Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-sync-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:25Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet-worldcoin-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:41:27Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet.go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 177,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:41:29Z"
+    },
+    {
+      "full_name": "NethermindEth/starknet.unity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "C#",
+      "last_checked": "2026-03-10T07:41:31Z"
+    },
+    {
+      "full_name": "NethermindEth/starkpack-risc0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T07:41:33Z"
+    },
+    {
+      "full_name": "NethermindEth/starkpack-winterfell",
+      "is_fork": true,
+      "parent": "facebook/winterfell",
+      "source": "facebook/winterfell",
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:35Z"
+    },
+    {
+      "full_name": "NethermindEth/starkweb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:41:37Z"
+    },
+    {
+      "full_name": "NethermindEth/starkwebkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:41:39Z"
+    },
+    {
+      "full_name": "NethermindEth/startnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:39Z"
+    },
+    {
+      "full_name": "NethermindEth/stwo-circle-stir",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:41Z"
+    },
+    {
+      "full_name": "NethermindEth/stwo-gpu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:43Z"
+    },
+    {
+      "full_name": "NethermindEth/stwo-stir",
+      "is_fork": true,
+      "parent": "starkware-libs/stwo",
+      "source": "starkware-libs/stwo",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:45Z"
+    },
+    {
+      "full_name": "NethermindEth/suapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:41:47Z"
+    },
+    {
+      "full_name": "NethermindEth/suave-block-building",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:41:50Z"
+    },
+    {
+      "full_name": "NethermindEth/suave-geth",
+      "is_fork": true,
+      "parent": "flashbots/suave-geth",
+      "source": "flashbots/suave-geth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:52Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-alloy",
+      "is_fork": true,
+      "parent": "alloy-rs/alloy",
+      "source": "alloy-rs/alloy",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:41:54Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:56Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-blockscout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:41:58Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-devnet-package",
+      "is_fork": true,
+      "parent": "ethpandaops/ethereum-package",
+      "source": "ethpandaops/ethereum-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-10T07:42:00Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:42:02Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-geth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:42:04Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-reth",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:42:06Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-reth-proof-aggregation",
+      "is_fork": true,
+      "parent": "NethermindEth/surge-reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:42:08Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-reth-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:09Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-revm",
+      "is_fork": true,
+      "parent": "taikoxyz/revm",
+      "source": "bluealloy/revm",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:42:11Z"
+    },
+    {
+      "full_name": "NethermindEth/surge-taiko-mono",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-mono",
+      "source": "taikoxyz/taiko-mono",
+      "stars": 25,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T07:42:13Z"
+    },
+    {
+      "full_name": "NethermindEth/symbioticfi-metadata-holesky",
+      "is_fork": true,
+      "parent": "symbioticfi/metadata-holesky",
+      "source": "symbioticfi/metadata-holesky",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:15Z"
+    },
+    {
+      "full_name": "NethermindEth/symbioticfi-metadata-mainnet",
+      "is_fork": true,
+      "parent": "symbioticfi/metadata-mainnet",
+      "source": "symbioticfi/metadata-mainnet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:17Z"
+    },
+    {
+      "full_name": "NethermindEth/taiko-helm-charts",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-helm-charts",
+      "source": "ethpandaops/ethereum-helm-charts",
+      "stars": 0,
+      "language": "Go Template",
+      "last_checked": "2026-03-10T07:42:19Z"
+    },
+    {
+      "full_name": "NethermindEth/taiko-mono",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T07:42:22Z"
+    },
+    {
+      "full_name": "NethermindEth/taiko-mono-core-rollup",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-mono",
+      "source": "taikoxyz/taiko-mono",
+      "stars": 25,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T07:42:24Z"
+    },
+    {
+      "full_name": "NethermindEth/teeception",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:42:26Z"
+    },
+    {
+      "full_name": "NethermindEth/teku-init-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:42:28Z"
+    },
+    {
+      "full_name": "NethermindEth/terraform-aws-polygon-technology-edge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:28Z"
+    },
+    {
+      "full_name": "NethermindEth/terraform-aws-wafv2",
+      "is_fork": true,
+      "parent": "aws-ss/terraform-aws-wafv2",
+      "source": "aws-ss/terraform-aws-wafv2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:30Z"
+    },
+    {
+      "full_name": "NethermindEth/terraform-google-kubernetes-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:31Z"
+    },
+    {
+      "full_name": "NethermindEth/terraform-nethermind",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:31Z"
+    },
+    {
+      "full_name": "NethermindEth/terraform-polygon-supernets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:31Z"
+    },
+    {
+      "full_name": "NethermindEth/the-merge-scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:32Z"
+    },
+    {
+      "full_name": "NethermindEth/timber",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:32Z"
+    },
+    {
+      "full_name": "NethermindEth/truffleTest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:32Z"
+    },
+    {
+      "full_name": "NethermindEth/truffleTest-demerzel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:33Z"
+    },
+    {
+      "full_name": "NethermindEth/tsim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:42:35Z"
+    },
+    {
+      "full_name": "NethermindEth/tx-fuzz",
+      "is_fork": true,
+      "parent": "MariusVanDerWijden/tx-fuzz",
+      "source": "MariusVanDerWijden/tx-fuzz",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:42:37Z"
+    },
+    {
+      "full_name": "NethermindEth/txfuzz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:37Z"
+    },
+    {
+      "full_name": "NethermindEth/underhanded-cairo-contest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:37Z"
+    },
+    {
+      "full_name": "NethermindEth/unistark-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:38Z"
+    },
+    {
+      "full_name": "NethermindEth/unistark-swap-router-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:42:40Z"
+    },
+    {
+      "full_name": "NethermindEth/unistark-v3-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:42:42Z"
+    },
+    {
+      "full_name": "NethermindEth/v3-periphery-archive",
+      "is_fork": true,
+      "parent": "Uniswap/v3-periphery",
+      "source": "Uniswap/v3-periphery",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:44Z"
+    },
+    {
+      "full_name": "NethermindEth/validators-alerting-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:44Z"
+    },
+    {
+      "full_name": "NethermindEth/validators-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:44Z"
+    },
+    {
+      "full_name": "NethermindEth/verification-preconfirmation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:42:47Z"
+    },
+    {
+      "full_name": "NethermindEth/verify-everything",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:42:49Z"
+    },
+    {
+      "full_name": "NethermindEth/vm-request-slack-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:49Z"
+    },
+    {
+      "full_name": "NethermindEth/vmsToNotion",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:50Z"
+    },
+    {
+      "full_name": "NethermindEth/voyager-cli-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:42:51Z"
+    },
+    {
+      "full_name": "NethermindEth/voyager-translations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:42:53Z"
+    },
+    {
+      "full_name": "NethermindEth/voyager-verifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:42:56Z"
+    },
+    {
+      "full_name": "NethermindEth/voyager-verify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:42:57Z"
+    },
+    {
+      "full_name": "NethermindEth/w-sedge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:42:58Z"
+    },
+    {
+      "full_name": "NethermindEth/warp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 748,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:43:00Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-benchmark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:00Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-build-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:00Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-packager",
+      "is_fork": true,
+      "parent": "dgiagio/warp",
+      "source": "dgiagio/warp",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:43:02Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T07:43:04Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-test-box",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:43:06Z"
+    },
+    {
+      "full_name": "NethermindEth/warp-ts-benchmark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:07Z"
+    },
+    {
+      "full_name": "NethermindEth/warping-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:09Z"
+    },
+    {
+      "full_name": "NethermindEth/wash-trade-detection-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:43:11Z"
+    },
+    {
+      "full_name": "NethermindEth/weierstrass",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:11Z"
+    },
+    {
+      "full_name": "NethermindEth/wildlings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:13Z"
+    },
+    {
+      "full_name": "NethermindEth/winget-pkgs",
+      "is_fork": true,
+      "parent": "microsoft/winget-pkgs",
+      "source": "microsoft/winget-pkgs",
+      "stars": 0,
+      "language": "PowerShell",
+      "last_checked": "2026-03-10T07:43:15Z"
+    },
+    {
+      "full_name": "NethermindEth/withdrawals-testnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:15Z"
+    },
+    {
+      "full_name": "NethermindEth/workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:16Z"
+    },
+    {
+      "full_name": "NethermindEth/worldcoin-private-social-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:43:18Z"
+    },
+    {
+      "full_name": "NethermindEth/worldcoin-social-graph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:43:20Z"
+    },
+    {
+      "full_name": "NethermindEth/wormhole",
+      "is_fork": true,
+      "parent": "wormhole-foundation/wormhole",
+      "source": "wormhole-foundation/wormhole",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:43:22Z"
+    },
+    {
+      "full_name": "NethermindEth/xdomain",
+      "is_fork": true,
+      "parent": "sky-ecosystem/xdomain",
+      "source": "sky-ecosystem/xdomain",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:24Z"
+    },
+    {
+      "full_name": "NethermindEth/xerc20_starknet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:24Z"
+    },
+    {
+      "full_name": "NethermindEth/yayois-garden",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-10T07:43:26Z"
+    },
+    {
+      "full_name": "NethermindEth/yoda-research",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:27Z"
+    },
+    {
+      "full_name": "NethermindEth/zkhpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:27Z"
+    },
+    {
+      "full_name": "NethermindEth/zksync-remix-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:43:29Z"
+    },
+    {
+      "full_name": "NethermindEth/zksync-upgrade-verify",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:43:29Z"
+    },
+    {
+      "full_name": "NethermindEth/zksync-verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "eC",
+      "last_checked": "2026-03-10T07:43:31Z"
+    },
+    {
+      "full_name": "NethermindEth/zkvm-benchmarks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:43:33Z"
+    },
+    {
+      "full_name": "NethermindEth/zkvm-benchmarks-raiko",
+      "is_fork": true,
+      "parent": "NethermindEth/zkvm-benchmarks",
+      "source": "NethermindEth/zkvm-benchmarks",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:43:35Z"
+    }
+  ]
+}

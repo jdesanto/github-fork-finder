@@ -1,0 +1,1194 @@
+{
+  "owner": "layr-labs",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Layr-Labs/EigenHopper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:57:14Z"
+    },
+    {
+      "full_name": "Layr-Labs/MEGAPhone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:57:17Z"
+    },
+    {
+      "full_name": "Layr-Labs/ai-quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:57:19Z"
+    },
+    {
+      "full_name": "Layr-Labs/alpha-playground-avs-using-nethermind-spec",
+      "is_fork": true,
+      "parent": "NethermindEth/mock-avs-pkg",
+      "source": "NethermindEth/mock-avs-pkg",
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:57:22Z"
+    },
+    {
+      "full_name": "Layr-Labs/apis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:57:24Z"
+    },
+    {
+      "full_name": "Layr-Labs/arbitrum-actions",
+      "is_fork": true,
+      "parent": "OffchainLabs/actions",
+      "source": "OffchainLabs/actions",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:57:26Z"
+    },
+    {
+      "full_name": "Layr-Labs/arbitrum-orbit-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-chain-sdk",
+      "source": "OffchainLabs/arbitrum-chain-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:29Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-devnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:57:31Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-idea-to-design",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:34Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-ideas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:37Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-prompt-library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:39Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-sync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:57:44Z"
+    },
+    {
+      "full_name": "Layr-Labs/avs-vibe-developer-guide",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:46Z"
+    },
+    {
+      "full_name": "Layr-Labs/awesome-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 177,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:48Z"
+    },
+    {
+      "full_name": "Layr-Labs/bn254-bls-keystore-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:57:50Z"
+    },
+    {
+      "full_name": "Layr-Labs/bn254-keystore-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:57:52Z"
+    },
+    {
+      "full_name": "Layr-Labs/bold",
+      "is_fork": true,
+      "parent": "OffchainLabs/bold",
+      "source": "OffchainLabs/bold",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:55Z"
+    },
+    {
+      "full_name": "Layr-Labs/cdk-data-availability",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-data-availability",
+      "source": "0xPolygon/cdk-data-availability",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:57:57Z"
+    },
+    {
+      "full_name": "Layr-Labs/cdk-validium-node",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:57:59Z"
+    },
+    {
+      "full_name": "Layr-Labs/cerberus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:02Z"
+    },
+    {
+      "full_name": "Layr-Labs/cerberus-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:58:05Z"
+    },
+    {
+      "full_name": "Layr-Labs/chaind",
+      "is_fork": true,
+      "parent": "wealdtech/chaind",
+      "source": "wealdtech/chaind",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:07Z"
+    },
+    {
+      "full_name": "Layr-Labs/compute-escrow-privy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:58:09Z"
+    },
+    {
+      "full_name": "Layr-Labs/da-stunt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:58:11Z"
+    },
+    {
+      "full_name": "Layr-Labs/determinal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:58:14Z"
+    },
+    {
+      "full_name": "Layr-Labs/devQuickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T16:58:19Z"
+    },
+    {
+      "full_name": "Layr-Labs/devkit-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:24Z"
+    },
+    {
+      "full_name": "Layr-Labs/dirk",
+      "is_fork": true,
+      "parent": "attestantio/dirk",
+      "source": "attestantio/dirk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:58:27Z"
+    },
+    {
+      "full_name": "Layr-Labs/docusaurus",
+      "is_fork": true,
+      "parent": "facebook/docusaurus",
+      "source": "facebook/docusaurus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:58:30Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigen-agentkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:58:32Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigen-agentkit-v2",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigen-agentkit",
+      "source": "Layr-Labs/eigen-agentkit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:58:34Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenauts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:58:36Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 261,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:38Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-client-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:58:40Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:58:43Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:58:45Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:58:47Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-operator-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:58:49Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-operator-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 81,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:58:51Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-orbit-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:58:53Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-orbit-setup-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:58:55Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:57Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-registration-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:58:59Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-rollups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:01Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:59:03Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:59:05Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:59:08Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenda-v1-sdk",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenda-sdk",
+      "source": "Layr-Labs/eigenda-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:10Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigendata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:12Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-avs-playgrounds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:59:14Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 84,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:16Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 713,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:59:19Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-contracts-zeus-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:21Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "HTML",
+      "last_checked": "2026-03-09T16:59:23Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-mcp-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:59:25Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-middleware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 115,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:59:27Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-payment-proofs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:30Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-rewards-proofs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:33Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenlayer-rewards-updater",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:35Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenpod-proofs-generation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:37Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenpod-proofs-generation-prepectra",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenpod-proofs-generation",
+      "source": "Layr-Labs/eigenpod-proofs-generation",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:39Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigensdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:41Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigensdk-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 94,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:59:43Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenx-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:46Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenx-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:59:48Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenx-kms",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:50Z"
+    },
+    {
+      "full_name": "Layr-Labs/eigenx-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:59:52Z"
+    },
+    {
+      "full_name": "Layr-Labs/ethdo",
+      "is_fork": true,
+      "parent": "wealdtech/ethdo",
+      "source": "wealdtech/ethdo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:54Z"
+    },
+    {
+      "full_name": "Layr-Labs/event-guidelines",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:55Z"
+    },
+    {
+      "full_name": "Layr-Labs/evm-tx-load-gen",
+      "is_fork": true,
+      "parent": "ethenotethan/tx-traffic-poc",
+      "source": "ethenotethan/tx-traffic-poc",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:59:57Z"
+    },
+    {
+      "full_name": "Layr-Labs/foundry",
+      "is_fork": true,
+      "parent": "foundry-rs/foundry",
+      "source": "foundry-rs/foundry",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:59:59Z"
+    },
+    {
+      "full_name": "Layr-Labs/go-eth2-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:59:59Z"
+    },
+    {
+      "full_name": "Layr-Labs/go-eth2-util",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:00:00Z"
+    },
+    {
+      "full_name": "Layr-Labs/go-eth2-wallet-hd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:00:00Z"
+    },
+    {
+      "full_name": "Layr-Labs/go-sidecar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:03Z"
+    },
+    {
+      "full_name": "Layr-Labs/hello-world-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 101,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:05Z"
+    },
+    {
+      "full_name": "Layr-Labs/hokulea",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:08Z"
+    },
+    {
+      "full_name": "Layr-Labs/hotdog-havoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:00:11Z"
+    },
+    {
+      "full_name": "Layr-Labs/hotdog-havoc-rc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:00:13Z"
+    },
+    {
+      "full_name": "Layr-Labs/hourglass-avs-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Shell",
+      "last_checked": "2026-03-09T17:00:15Z"
+    },
+    {
+      "full_name": "Layr-Labs/hourglass-contracts-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:00:19Z"
+    },
+    {
+      "full_name": "Layr-Labs/hourglass-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:21Z"
+    },
+    {
+      "full_name": "Layr-Labs/hypesignal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:00:23Z"
+    },
+    {
+      "full_name": "Layr-Labs/incredible-squaring-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 186,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:25Z"
+    },
+    {
+      "full_name": "Layr-Labs/incredible-squaring-avs-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:27Z"
+    },
+    {
+      "full_name": "Layr-Labs/kailua",
+      "is_fork": true,
+      "parent": "boundless-xyz/kailua",
+      "source": "boundless-xyz/kailua",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:30Z"
+    },
+    {
+      "full_name": "Layr-Labs/kona",
+      "is_fork": true,
+      "parent": "op-rs/kona",
+      "source": "op-rs/kona",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:33Z"
+    },
+    {
+      "full_name": "Layr-Labs/kzgpad-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:00:36Z"
+    },
+    {
+      "full_name": "Layr-Labs/layr-devnet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T17:00:38Z"
+    },
+    {
+      "full_name": "Layr-Labs/media-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:00:40Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:42Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-archived",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:45Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:00:47Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-contracts-archive",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-contracts",
+      "source": "OffchainLabs/nitro-contracts",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:00:49Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-go-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:51Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-go-ethereum-private",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:00:54Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-testnode",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-testnode",
+      "source": "OffchainLabs/nitro-testnode",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:00:56Z"
+    },
+    {
+      "full_name": "Layr-Labs/nitro-testnode-archive",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-testnode",
+      "source": "OffchainLabs/nitro-testnode",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:00:58Z"
+    },
+    {
+      "full_name": "Layr-Labs/op-plasma-eigenda",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:01Z"
+    },
+    {
+      "full_name": "Layr-Labs/op-succinct",
+      "is_fork": true,
+      "parent": "succinctlabs/op-succinct",
+      "source": "succinctlabs/op-succinct",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:01:03Z"
+    },
+    {
+      "full_name": "Layr-Labs/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:05Z"
+    },
+    {
+      "full_name": "Layr-Labs/optimism-archived",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 13,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:07Z"
+    },
+    {
+      "full_name": "Layr-Labs/optimism-exp",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:12Z"
+    },
+    {
+      "full_name": "Layr-Labs/optimism-package",
+      "is_fork": true,
+      "parent": "ethpandaops/optimism-package",
+      "source": "ethpandaops/optimism-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-09T17:01:14Z"
+    },
+    {
+      "full_name": "Layr-Labs/orbit-actions",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-actions",
+      "source": "OffchainLabs/orbit-actions",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:01:18Z"
+    },
+    {
+      "full_name": "Layr-Labs/orbit-setup-script",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-setup-script",
+      "source": "OffchainLabs/orbit-setup-script",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:21Z"
+    },
+    {
+      "full_name": "Layr-Labs/ponder",
+      "is_fork": true,
+      "parent": "ponder-sh/ponder",
+      "source": "ponder-sh/ponder",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:01:23Z"
+    },
+    {
+      "full_name": "Layr-Labs/protobuf-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-09T17:01:25Z"
+    },
+    {
+      "full_name": "Layr-Labs/protocol-apis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:27Z"
+    },
+    {
+      "full_name": "Layr-Labs/pulse-agent",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:30Z"
+    },
+    {
+      "full_name": "Layr-Labs/release-management-service-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:32Z"
+    },
+    {
+      "full_name": "Layr-Labs/rust-bls-bn254",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:01:34Z"
+    },
+    {
+      "full_name": "Layr-Labs/rust-kzg-bn254",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:01:36Z"
+    },
+    {
+      "full_name": "Layr-Labs/sealedshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:38Z"
+    },
+    {
+      "full_name": "Layr-Labs/sealedshot-private",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:41Z"
+    },
+    {
+      "full_name": "Layr-Labs/security-shared-workflows",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T17:01:43Z"
+    },
+    {
+      "full_name": "Layr-Labs/self-slashing-avs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:01:45Z"
+    },
+    {
+      "full_name": "Layr-Labs/sidecar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:49Z"
+    },
+    {
+      "full_name": "Layr-Labs/sidecar-apis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:01:52Z"
+    },
+    {
+      "full_name": "Layr-Labs/sidecar-calculations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:01:54Z"
+    },
+    {
+      "full_name": "Layr-Labs/teal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T17:01:56Z"
+    },
+    {
+      "full_name": "Layr-Labs/temp-test-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T17:01:57Z"
+    },
+    {
+      "full_name": "Layr-Labs/tendermint",
+      "is_fork": true,
+      "parent": "tendermint/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T17:01:59Z"
+    },
+    {
+      "full_name": "Layr-Labs/test-security",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:02:01Z"
+    },
+    {
+      "full_name": "Layr-Labs/troubleshooting-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:02:03Z"
+    },
+    {
+      "full_name": "Layr-Labs/trust-task",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:02:06Z"
+    },
+    {
+      "full_name": "Layr-Labs/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": null,
+      "last_checked": "2026-03-09T17:02:08Z"
+    },
+    {
+      "full_name": "Layr-Labs/zeus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:02:11Z"
+    },
+    {
+      "full_name": "Layr-Labs/zeus-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T17:02:14Z"
+    },
+    {
+      "full_name": "Layr-Labs/zkevm-contracts",
+      "is_fork": true,
+      "parent": "agglayer/agglayer-contracts",
+      "source": "agglayer/agglayer-contracts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:02:19Z"
+    },
+    {
+      "full_name": "Layr-Labs/zksync-eigenda-m1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T17:02:21Z"
+    },
+    {
+      "full_name": "Layr-Labs/zugzwang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T17:02:23Z"
+    }
+  ]
+}

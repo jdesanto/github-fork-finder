@@ -1,0 +1,1149 @@
+{
+  "owner": "fair-exchange",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "Fair-Exchange/Commercium",
+      "is_fork": true,
+      "parent": "CommerciumBlockchain/Commercium_Deprecated",
+      "source": "CommerciumBlockchain/Commercium_Deprecated",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T10:50:46Z"
+    },
+    {
+      "full_name": "Fair-Exchange/MySafeCoinWallet",
+      "is_fork": true,
+      "parent": "OleksandrBlack/MySafeCoinWallet",
+      "source": "TheTrunk/myzelcash",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:50:48Z"
+    },
+    {
+      "full_name": "Fair-Exchange/Ravencoin",
+      "is_fork": true,
+      "parent": "RavenProject/Ravencoin",
+      "source": "RavenProject/Ravencoin",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T10:50:50Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafeCoin-Paperwallet-Generator",
+      "is_fork": true,
+      "parent": "stamanuel/SafeCoin-Paperwallet-Generator",
+      "source": "walletgeneratornet/WalletGenerator.net",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:50:52Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafeCoinEasyMiner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C#",
+      "last_checked": "2026-03-09T10:50:54Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafeCoinWebWallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:50:56Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafePrice-applet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:50:58Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafeTradeBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T10:51:00Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafeWalletnew",
+      "is_fork": true,
+      "parent": "trustwallet/wallet-core",
+      "source": "trustwallet/wallet-core",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T10:51:02Z"
+    },
+    {
+      "full_name": "Fair-Exchange/Safecoin",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 19,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:51:04Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SafecoinClassic",
+      "is_fork": true,
+      "parent": "jl777/komodo",
+      "source": "zcash/zcash",
+      "stars": 33,
+      "language": "C++",
+      "last_checked": "2026-03-09T10:51:06Z"
+    },
+    {
+      "full_name": "Fair-Exchange/Safenode-Install",
+      "is_fork": true,
+      "parent": "zzzpotato/Safenode-Install",
+      "source": "zzzpotato/Safenode-Install",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T10:51:08Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SolarweaveBridge",
+      "is_fork": true,
+      "parent": "TheLoneRonin/SolarweaveBridge",
+      "source": "TheLoneRonin/SolarweaveBridge",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:51:10Z"
+    },
+    {
+      "full_name": "Fair-Exchange/SuperNET",
+      "is_fork": true,
+      "parent": "jl777/SuperNET",
+      "source": "jl777/SuperNET",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T10:51:12Z"
+    },
+    {
+      "full_name": "Fair-Exchange/UraniumX",
+      "is_fork": true,
+      "parent": "barrystyle/UraniumX",
+      "source": "UraniumX/UraniumX",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T10:51:14Z"
+    },
+    {
+      "full_name": "Fair-Exchange/amman",
+      "is_fork": true,
+      "parent": "j0nnyboi/amman",
+      "source": "metaplex-foundation/amman",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:51:16Z"
+    },
+    {
+      "full_name": "Fair-Exchange/anchor",
+      "is_fork": true,
+      "parent": "solana-foundation/anchor",
+      "source": "solana-foundation/anchor",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:51:18Z"
+    },
+    {
+      "full_name": "Fair-Exchange/app-safecoin",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-solana",
+      "source": "solana-labs/ledger-app-solana",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T10:51:20Z"
+    },
+    {
+      "full_name": "Fair-Exchange/arbundles",
+      "is_fork": true,
+      "parent": "j0nnyboi/arbundles",
+      "source": "j0nnyboi/arbundles",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:51:23Z"
+    },
+    {
+      "full_name": "Fair-Exchange/beet",
+      "is_fork": true,
+      "parent": "j0nnyboi/beet",
+      "source": "metaplex-foundation/beet",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:51:25Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bip39",
+      "is_fork": true,
+      "parent": "iancoleman/bip39",
+      "source": "iancoleman/bip39",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:51:27Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitauth",
+      "is_fork": true,
+      "parent": "EternityTula/bitauth",
+      "source": "bitpay/bitauth",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:29Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcoind-rpc",
+      "is_fork": true,
+      "parent": "OleksandrBlack/bitcoind-rpc",
+      "source": "bitpay/bitcoind-rpc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:51:31Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcoinforkjs-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:33Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcoinforksjs-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:35Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcoinjs-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:37Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcoinjs-lib-pos",
+      "is_fork": true,
+      "parent": "KomodoPlatform/bitcoinjs-lib-pos",
+      "source": "bitcoinjs/bitcoinjs-lib",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:39Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-build-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/bitcore-build-komodo",
+      "source": "SuperNETorg/bitcore-build-komodo",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:41Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-anon-mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:43Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-btcz-mini",
+      "is_fork": true,
+      "parent": "bitcoinz-dev-tools/bitcore-lib-btcz",
+      "source": "bitcoinz-dev-tools/bitcore-lib-btcz",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:45Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-ltc-mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:47Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-rvn-mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:49Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-safe-mini",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-lib",
+      "source": "bitpay/bitcore-lib",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:51Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/bitcore-lib-komodo",
+      "source": "SuperNETorg/bitcore-lib-komodo",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:53Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-zcl-mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:55Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-lib-zel-mini",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:57Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-message-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/bitcore-message-komodo",
+      "source": "SuperNETorg/bitcore-message-komodo",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:51:59Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-mnemonic-safecoin",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-mnemonic",
+      "source": "bitpay/bitcore-mnemonic",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:01Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-node-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/bitcore-node-komodo",
+      "source": "SuperNETorg/bitcore-node-komodo",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:03Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-wallet-client-safecoin",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-wallet-client",
+      "source": "bitpay/bitcore-wallet-client",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:05Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-wallet-service-old",
+      "is_fork": true,
+      "parent": "OleksandrBlack/bitcore-wallet-service",
+      "source": "OleksandrBlack/bitcore-wallet-service",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:07Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitcore-wallet-service-safecoin",
+      "is_fork": true,
+      "parent": "bitpay/bitcore-wallet-service",
+      "source": "bitpay/bitcore-wallet-service",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:09Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitgo-utxo-lib",
+      "is_fork": true,
+      "parent": "pbca26/bitgo-utxo-lib",
+      "source": "BitGo/bitgo-utxo-lib",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:12Z"
+    },
+    {
+      "full_name": "Fair-Exchange/bitgo-utxo-lib-safecoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:14Z"
+    },
+    {
+      "full_name": "Fair-Exchange/buffer-layout",
+      "is_fork": true,
+      "parent": "solana-labs/buffer-layout",
+      "source": "pabigot/buffer-layout",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:16Z"
+    },
+    {
+      "full_name": "Fair-Exchange/buffer-layout-utils",
+      "is_fork": true,
+      "parent": "solana-labs/buffer-layout-utils",
+      "source": "solana-labs/buffer-layout-utils",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:18Z"
+    },
+    {
+      "full_name": "Fair-Exchange/coding-standards",
+      "is_fork": true,
+      "parent": "openware/coding-standards",
+      "source": "openware/coding-standards",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:52:20Z"
+    },
+    {
+      "full_name": "Fair-Exchange/config-generator",
+      "is_fork": true,
+      "parent": "OleksandrBlack/config-generator",
+      "source": "MyHush/config-generator",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:52:22Z"
+    },
+    {
+      "full_name": "Fair-Exchange/copay-safecoin",
+      "is_fork": true,
+      "parent": "bitpay/wallet",
+      "source": "bitpay/wallet",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:24Z"
+    },
+    {
+      "full_name": "Fair-Exchange/cryptocurrency-icons",
+      "is_fork": true,
+      "parent": "spothq/cryptocurrency-icons",
+      "source": "spothq/cryptocurrency-icons",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:52:26Z"
+    },
+    {
+      "full_name": "Fair-Exchange/currency-flags",
+      "is_fork": true,
+      "parent": "vivekimsit/currency-flags",
+      "source": "vivekimsit/currency-flags",
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-09T10:52:28Z"
+    },
+    {
+      "full_name": "Fair-Exchange/cusper",
+      "is_fork": true,
+      "parent": "j0nnyboi/cusper",
+      "source": "metaplex-foundation/cusper",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:30Z"
+    },
+    {
+      "full_name": "Fair-Exchange/delete",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:32Z"
+    },
+    {
+      "full_name": "Fair-Exchange/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:52:34Z"
+    },
+    {
+      "full_name": "Fair-Exchange/ecosystem",
+      "is_fork": true,
+      "parent": "solana-labs/ecosystem",
+      "source": "solana-labs/ecosystem",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:52:36Z"
+    },
+    {
+      "full_name": "Fair-Exchange/electrumx",
+      "is_fork": true,
+      "parent": "ZclassicCommunity/electrumx",
+      "source": "kyuupichan/electrumx",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T10:52:39Z"
+    },
+    {
+      "full_name": "Fair-Exchange/example-helloworld",
+      "is_fork": true,
+      "parent": "solana-labs/example-helloworld",
+      "source": "solana-labs/example-helloworld",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:41Z"
+    },
+    {
+      "full_name": "Fair-Exchange/explorer",
+      "is_fork": true,
+      "parent": "solana-foundation/explorer",
+      "source": "solana-foundation/explorer",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:43Z"
+    },
+    {
+      "full_name": "Fair-Exchange/gateway",
+      "is_fork": true,
+      "parent": "ArweaveTeam/gateway",
+      "source": "ArweaveTeam/gateway",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:52:45Z"
+    },
+    {
+      "full_name": "Fair-Exchange/insight-api",
+      "is_fork": true,
+      "parent": "bitpay/insight-api",
+      "source": "bitpay/insight-api",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:47Z"
+    },
+    {
+      "full_name": "Fair-Exchange/insight-api-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:49Z"
+    },
+    {
+      "full_name": "Fair-Exchange/insight-api-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/insight-api-komodo",
+      "source": "SuperNETorg/insight-api-komodo",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:51Z"
+    },
+    {
+      "full_name": "Fair-Exchange/insight-ui-safecoin",
+      "is_fork": true,
+      "parent": "SuperNETorg/insight-ui-komodo",
+      "source": "SuperNETorg/insight-ui-komodo",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:52:53Z"
+    },
+    {
+      "full_name": "Fair-Exchange/js",
+      "is_fork": true,
+      "parent": "ledamint-IO/js",
+      "source": "metaplex-foundation/js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:55Z"
+    },
+    {
+      "full_name": "Fair-Exchange/js-client",
+      "is_fork": true,
+      "parent": "j0nnyboi/js-client",
+      "source": "Irys-xyz/arweave-js-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:57Z"
+    },
+    {
+      "full_name": "Fair-Exchange/ledamint",
+      "is_fork": true,
+      "parent": "ledamint-IO/ledamint",
+      "source": "metaplex-foundation/metaplex",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:52:59Z"
+    },
+    {
+      "full_name": "Fair-Exchange/ledamint-program-library",
+      "is_fork": true,
+      "parent": "ledamint-IO/ledamint-program-library",
+      "source": "metaplex-foundation/metaplex-program-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:53:01Z"
+    },
+    {
+      "full_name": "Fair-Exchange/libsodium",
+      "is_fork": true,
+      "parent": "jedisct1/libsodium",
+      "source": "jedisct1/libsodium",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:03Z"
+    },
+    {
+      "full_name": "Fair-Exchange/lpl-token-auth-rules",
+      "is_fork": true,
+      "parent": "metaplex-foundation/mpl-token-auth-rules",
+      "source": "metaplex-foundation/mpl-token-auth-rules",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:53:05Z"
+    },
+    {
+      "full_name": "Fair-Exchange/ngind",
+      "is_fork": true,
+      "parent": "NginProject/ngind",
+      "source": "NginProject/ngind",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:53:07Z"
+    },
+    {
+      "full_name": "Fair-Exchange/nihao-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:09Z"
+    },
+    {
+      "full_name": "Fair-Exchange/on-chain-identity-gateway",
+      "is_fork": true,
+      "parent": "identity-com/on-chain-identity-gateway",
+      "source": "identity-com/on-chain-identity-gateway",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:53:11Z"
+    },
+    {
+      "full_name": "Fair-Exchange/oyster-swap",
+      "is_fork": true,
+      "parent": "araviel-io/oyster-swap",
+      "source": "solana-labs/oyster-swap",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:13Z"
+    },
+    {
+      "full_name": "Fair-Exchange/peatio-1",
+      "is_fork": true,
+      "parent": "openware/peatio",
+      "source": "hpyhacking/peatio",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:15Z"
+    },
+    {
+      "full_name": "Fair-Exchange/prove-safecoin-wallet",
+      "is_fork": true,
+      "parent": "jeffowy/prove-safecoin-wallet",
+      "source": "identity-com/prove-solana-wallet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:18Z"
+    },
+    {
+      "full_name": "Fair-Exchange/pywallet",
+      "is_fork": true,
+      "parent": "jackjack-jj/pywallet",
+      "source": "brendio/convertphrase",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:20Z"
+    },
+    {
+      "full_name": "Fair-Exchange/rails",
+      "is_fork": true,
+      "parent": "rails/rails",
+      "source": "rails/rails",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T10:53:22Z"
+    },
+    {
+      "full_name": "Fair-Exchange/rates-api",
+      "is_fork": true,
+      "parent": "lvasseur/rates-api",
+      "source": "lvasseur/rates-api",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-09T10:53:24Z"
+    },
+    {
+      "full_name": "Fair-Exchange/rooster",
+      "is_fork": true,
+      "parent": "metaplex-foundation/rooster",
+      "source": "metaplex-foundation/rooster",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:53:26Z"
+    },
+    {
+      "full_name": "Fair-Exchange/rust-speedb",
+      "is_fork": true,
+      "parent": "rust-rocksdb/rust-rocksdb",
+      "source": "rust-rocksdb/rust-rocksdb",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:53:28Z"
+    },
+    {
+      "full_name": "Fair-Exchange/rustbin",
+      "is_fork": true,
+      "parent": "metaplex-foundation/rustbin",
+      "source": "metaplex-foundation/rustbin",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:30Z"
+    },
+    {
+      "full_name": "Fair-Exchange/s-nomp",
+      "is_fork": true,
+      "parent": "s-nomp/s-nomp",
+      "source": "s-nomp/s-nomp",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:32Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safe-wallet-adapter",
+      "is_fork": true,
+      "parent": "araviel-io/safe-wallet-adapter",
+      "source": "project-serum/sol-wallet-adapter",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:53:34Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safeaddress",
+      "is_fork": true,
+      "parent": "OleksandrBlack/safeaddress",
+      "source": "HorizenOfficial/zenaddress",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:36Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safebot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T10:53:38Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:40Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safechat",
+      "is_fork": true,
+      "parent": "jitsi/jitsi-meet",
+      "source": "jitsi/jitsi-meet",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:42Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safechat-server",
+      "is_fork": true,
+      "parent": "jitsi/jitsi-videobridge",
+      "source": "jitsi/jitsi-videobridge",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:44Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-bitcore-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T10:53:46Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-block-explorer",
+      "is_fork": true,
+      "parent": "SuperNETorg/komodo-block-explorer",
+      "source": "SuperNETorg/komodo-block-explorer",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T10:53:48Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-copay-wallet",
+      "is_fork": true,
+      "parent": "OleksandrBlack/safecoin-copay-wallet",
+      "source": "bitcoinz-wallets/bitcoinz-copay-wallet",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:51Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T10:53:52Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-gateway-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:53:54Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-mobile",
+      "is_fork": true,
+      "parent": "OleksandrBlack/safecoin-mobile",
+      "source": "HorizenOfficial/zencash-mobile",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:57Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-omni-explorer",
+      "is_fork": true,
+      "parent": "pbca26/komodo-omni-explorer",
+      "source": "pbca26/komodo-omni-explorer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:53:59Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-perf-libs",
+      "is_fork": true,
+      "parent": "solana-labs/solana-perf-libs",
+      "source": "solana-labs/solana-perf-libs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:01Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-program-library",
+      "is_fork": true,
+      "parent": "solana-labs/solana-program-library",
+      "source": "solana-labs/solana-program-library",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:54:03Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-seeder",
+      "is_fork": true,
+      "parent": "btcz/bitcoinz-seeder",
+      "source": "sipa/bitcoin-seeder",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T10:54:05Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-web3.js",
+      "is_fork": true,
+      "parent": "solana-foundation/solana-web3.js",
+      "source": "solana-foundation/solana-web3.js",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:07Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin-webinterface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T10:54:09Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoin_tools",
+      "is_fork": true,
+      "parent": "safegw/safecoin_tools",
+      "source": "bji/solana_tools",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:11Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoinbot_old",
+      "is_fork": true,
+      "parent": "baenimus/safecoinbot",
+      "source": "baenimus/safecoinbot",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:54:13Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoinjs",
+      "is_fork": true,
+      "parent": "OleksandrBlack/safecoinjs",
+      "source": "TheTrunk/komodojs",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:54:15Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safecoinwiki",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:17Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safejs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:54:19Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safenode-docker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T10:54:21Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safenodes.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:23Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safepay.safecoin.org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-09T10:54:25Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safepaypubkeys",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:27Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safeprice",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-09T10:54:29Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safestake",
+      "is_fork": true,
+      "parent": "araviel-io/safestake",
+      "source": "rooware-io/solstake",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:31Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safewallet",
+      "is_fork": true,
+      "parent": "OleksandrBlack/safecoinwallet",
+      "source": "ZcashFoundation/zecwallet",
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-09T10:54:33Z"
+    },
+    {
+      "full_name": "Fair-Exchange/safewallet_old",
+      "is_fork": true,
+      "parent": "SuperNETorg/Agama",
+      "source": "SuperNETorg/Agama",
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:54:35Z"
+    },
+    {
+      "full_name": "Fair-Exchange/sc-simple-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:37Z"
+    },
+    {
+      "full_name": "Fair-Exchange/serum-vial",
+      "is_fork": true,
+      "parent": "jeffowy/serum-vial",
+      "source": "tardis-dev/serum-vial",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:39Z"
+    },
+    {
+      "full_name": "Fair-Exchange/silentarmy",
+      "is_fork": true,
+      "parent": "mbevand/silentarmy",
+      "source": "mbevand/silentarmy",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-09T10:54:41Z"
+    },
+    {
+      "full_name": "Fair-Exchange/solana-deployer",
+      "is_fork": true,
+      "parent": "acheroncrypto/solana-deployer",
+      "source": "acheroncrypto/solana-deployer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:43Z"
+    },
+    {
+      "full_name": "Fair-Exchange/solita",
+      "is_fork": true,
+      "parent": "j0nnyboi/solita",
+      "source": "metaplex-foundation/solita",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:45Z"
+    },
+    {
+      "full_name": "Fair-Exchange/spl-token-wallet",
+      "is_fork": true,
+      "parent": "project-serum/spl-token-wallet",
+      "source": "project-serum/spl-token-wallet",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T10:54:47Z"
+    },
+    {
+      "full_name": "Fair-Exchange/squads-mpl",
+      "is_fork": true,
+      "parent": "Squads-Protocol/squads-mpl",
+      "source": "Squads-Protocol/squads-mpl",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:49Z"
+    },
+    {
+      "full_name": "Fair-Exchange/stable-swap",
+      "is_fork": true,
+      "parent": "saber-hq/stable-swap",
+      "source": "saber-hq/stable-swap",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:54:52Z"
+    },
+    {
+      "full_name": "Fair-Exchange/token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:53Z"
+    },
+    {
+      "full_name": "Fair-Exchange/token-list-solana",
+      "is_fork": true,
+      "parent": "solana-labs/token-list",
+      "source": "solana-labs/token-list",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T10:54:56Z"
+    },
+    {
+      "full_name": "Fair-Exchange/tower",
+      "is_fork": true,
+      "parent": "rubykube/tower",
+      "source": "rubykube/tower",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T10:54:58Z"
+    },
+    {
+      "full_name": "Fair-Exchange/vault-rails",
+      "is_fork": true,
+      "parent": "rubykube/vault-rails",
+      "source": "hashicorp/vault-rails",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-09T10:55:00Z"
+    },
+    {
+      "full_name": "Fair-Exchange/wallet-adapter",
+      "is_fork": true,
+      "parent": "victorshevtsov/wallet-adapter",
+      "source": "anza-xyz/wallet-adapter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T10:55:02Z"
+    },
+    {
+      "full_name": "Fair-Exchange/wormhole",
+      "is_fork": true,
+      "parent": "wormhole-foundation/wormhole",
+      "source": "wormhole-foundation/wormhole",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T10:55:04Z"
+    }
+  ]
+}

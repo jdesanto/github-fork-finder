@@ -1,0 +1,375 @@
+{
+  "owner": "piratenetwork",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PirateNetwork/Agama",
+      "is_fork": true,
+      "parent": "KomodoPlatform/Agama",
+      "source": "SuperNETorg/Agama",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:39:50Z"
+    },
+    {
+      "full_name": "PirateNetwork/Dependencies",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T16:39:52Z"
+    },
+    {
+      "full_name": "PirateNetwork/Pirate-Mobile-Wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T16:39:54Z"
+    },
+    {
+      "full_name": "PirateNetwork/PirateLightClientKit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T16:39:56Z"
+    },
+    {
+      "full_name": "PirateNetwork/PirateOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:39:58Z"
+    },
+    {
+      "full_name": "PirateNetwork/PirateOcean",
+      "is_fork": true,
+      "parent": "MrMLynch/PirateOcean",
+      "source": "MrMLynch/PirateOcean",
+      "stars": 8,
+      "language": "C++",
+      "last_checked": "2026-03-10T16:40:00Z"
+    },
+    {
+      "full_name": "PirateNetwork/PirateWallet-Lite",
+      "is_fork": true,
+      "parent": "MrMLynch/PirateWallet-Lite",
+      "source": "adityapk00/zecwallet-lite",
+      "stars": 14,
+      "language": "C++",
+      "last_checked": "2026-03-10T16:40:02Z"
+    },
+    {
+      "full_name": "PirateNetwork/PirateWalletManagement",
+      "is_fork": true,
+      "parent": "MrMLynch/PirateWalletManagement",
+      "source": "MrMLynch/PirateWalletManagement",
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:05Z"
+    },
+    {
+      "full_name": "PirateNetwork/SevenSeas",
+      "is_fork": true,
+      "parent": "radix42/SevenSeas",
+      "source": "ZcashFoundation/zecwallet",
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-10T16:40:07Z"
+    },
+    {
+      "full_name": "PirateNetwork/Skull-Island",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:09Z"
+    },
+    {
+      "full_name": "PirateNetwork/SubatomicSetup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:11Z"
+    },
+    {
+      "full_name": "PirateNetwork/ZcashLightClientKit",
+      "is_fork": true,
+      "parent": "zcash/zcash-swift-wallet-sdk",
+      "source": "zcash/zcash-swift-wallet-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:13Z"
+    },
+    {
+      "full_name": "PirateNetwork/bitcore-build-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:15Z"
+    },
+    {
+      "full_name": "PirateNetwork/bitcore-lib-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:17Z"
+    },
+    {
+      "full_name": "PirateNetwork/bitcore-message-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:19Z"
+    },
+    {
+      "full_name": "PirateNetwork/bitcore-node-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:21Z"
+    },
+    {
+      "full_name": "PirateNetwork/btcpayserver",
+      "is_fork": true,
+      "parent": "btcpayserver/btcpayserver",
+      "source": "btcpayserver/btcpayserver",
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-10T16:40:23Z"
+    },
+    {
+      "full_name": "PirateNetwork/btcpayserver-docker",
+      "is_fork": true,
+      "parent": "btcpayserver/btcpayserver-docker",
+      "source": "btcpayserver/btcpayserver-docker",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T16:40:25Z"
+    },
+    {
+      "full_name": "PirateNetwork/cordova-plugin-litewallet",
+      "is_fork": true,
+      "parent": "zerocurrencycoin/cordova-plugin-litewallet",
+      "source": "zerocurrencycoin/cordova-plugin-litewallet",
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T16:40:27Z"
+    },
+    {
+      "full_name": "PirateNetwork/docker-engine-builds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-10T16:40:29Z"
+    },
+    {
+      "full_name": "PirateNetwork/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-10T16:40:31Z"
+    },
+    {
+      "full_name": "PirateNetwork/insight-api-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:33Z"
+    },
+    {
+      "full_name": "PirateNetwork/insight-ui-pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T16:40:35Z"
+    },
+    {
+      "full_name": "PirateNetwork/librustzcash",
+      "is_fork": true,
+      "parent": "zerocurrencycoin/librustzcash",
+      "source": "zcash/librustzcash",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:37Z"
+    },
+    {
+      "full_name": "PirateNetwork/librustzcash-multicoin-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:40:40Z"
+    },
+    {
+      "full_name": "PirateNetwork/lightwalletd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-10T16:40:42Z"
+    },
+    {
+      "full_name": "PirateNetwork/mediakit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:44Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 125,
+      "language": "C++",
+      "last_checked": "2026-03-10T16:40:46Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-android-wallet-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T16:40:48Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-archive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "C++",
+      "last_checked": "2026-03-10T16:40:50Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-btcpay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:40:52Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T16:40:53Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-light-client-ffi",
+      "is_fork": true,
+      "parent": "zcash/zcash-light-client-ffi",
+      "source": "zcash/zcash-light-client-ffi",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T16:40:56Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate-walletd",
+      "is_fork": true,
+      "parent": "hhanh00/zcash-walletd",
+      "source": "hhanh00/zcash-walletd",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:40:58Z"
+    },
+    {
+      "full_name": "PirateNetwork/pirate_black_website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T16:41:00Z"
+    },
+    {
+      "full_name": "PirateNetwork/piratepaperwallet",
+      "is_fork": true,
+      "parent": "MrMLynch/piratepaperwallet",
+      "source": "adityapk00/zecpaperwallet",
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:41:02Z"
+    },
+    {
+      "full_name": "PirateNetwork/piratewallet-light-cli",
+      "is_fork": true,
+      "parent": "zerocurrencycoin/zerowallet-light-cli",
+      "source": "adityapk00/zecwallet-light-cli",
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T16:41:04Z"
+    },
+    {
+      "full_name": "PirateNetwork/react-native-piratechain",
+      "is_fork": true,
+      "parent": "EdgeApp/react-native-piratechain",
+      "source": "EdgeApp/react-native-piratechain",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T16:41:06Z"
+    },
+    {
+      "full_name": "PirateNetwork/reddsa",
+      "is_fork": true,
+      "parent": "ZcashFoundation/reddsa",
+      "source": "ZcashFoundation/reddsa",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T16:41:08Z"
+    },
+    {
+      "full_name": "PirateNetwork/zcash-android-wallet-sdk",
+      "is_fork": true,
+      "parent": "0xmatt1/zcash-android-wallet-sdk",
+      "source": "0xmatt1/zcash-android-wallet-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T16:41:10Z"
+    },
+    {
+      "full_name": "PirateNetwork/zcash_params",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T16:41:12Z"
+    }
+  ]
+}

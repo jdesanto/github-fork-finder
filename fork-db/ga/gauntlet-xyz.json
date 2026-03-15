@@ -1,0 +1,42 @@
+{
+  "owner": "gauntlet-xyz",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "Gauntlet-xyz/aave-gauntlet-renewal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:58:32Z"
+    },
+    {
+      "full_name": "Gauntlet-xyz/aave-proposals",
+      "is_fork": true,
+      "parent": "bgd-labs/aave-proposals",
+      "source": "bgd-labs/aave-proposals",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:58:35Z"
+    },
+    {
+      "full_name": "Gauntlet-xyz/aave-risk-stewards",
+      "is_fork": true,
+      "parent": "aave-dao/aave-risk-stewards",
+      "source": "aave-dao/aave-risk-stewards",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:58:37Z"
+    },
+    {
+      "full_name": "Gauntlet-xyz/aave-v3-listing-stewards",
+      "is_fork": true,
+      "parent": "bgd-labs/aave-v3-listing-stewards",
+      "source": "bgd-labs/aave-v3-listing-stewards",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:58:39Z"
+    }
+  ]
+}

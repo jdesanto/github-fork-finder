@@ -1,0 +1,285 @@
+{
+  "owner": "r3-archive",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "R3-Archive/avian",
+      "is_fork": true,
+      "parent": "ReadyTalk/avian",
+      "source": "ReadyTalk/avian",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T20:58:26Z"
+    },
+    {
+      "full_name": "R3-Archive/blacklist",
+      "is_fork": true,
+      "parent": "roger-that-dev/attachments",
+      "source": "roger-that-dev/attachments",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:28Z"
+    },
+    {
+      "full_name": "R3-Archive/contract-upgrades",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:30Z"
+    },
+    {
+      "full_name": "R3-Archive/corda-nodeinfo",
+      "is_fork": true,
+      "parent": "ragmondo/corda-nodeinfo",
+      "source": "ragmondo/corda-nodeinfo",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:32Z"
+    },
+    {
+      "full_name": "R3-Archive/corda-publish-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:34Z"
+    },
+    {
+      "full_name": "R3-Archive/cordaftp",
+      "is_fork": true,
+      "parent": "ragmondo/cordaftp",
+      "source": "ragmondo/cordaftp",
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:36Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 76,
+      "language": "Java",
+      "last_checked": "2026-03-10T20:58:38Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-example-deterministic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:40Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-offline-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T20:58:42Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-offline-template-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T20:58:44Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-offline-template-kotlin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:46Z"
+    },
+    {
+      "full_name": "R3-Archive/cordapp-option",
+      "is_fork": true,
+      "parent": "CaisR3/cordapp-option",
+      "source": "CaisR3/cordapp-option",
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:48Z"
+    },
+    {
+      "full_name": "R3-Archive/cordman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T20:58:50Z"
+    },
+    {
+      "full_name": "R3-Archive/docker-compose-rule",
+      "is_fork": true,
+      "parent": "palantir/docker-compose-rule",
+      "source": "palantir/docker-compose-rule",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T20:58:53Z"
+    },
+    {
+      "full_name": "R3-Archive/extendable-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:55Z"
+    },
+    {
+      "full_name": "R3-Archive/flow-db",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:57Z"
+    },
+    {
+      "full_name": "R3-Archive/flow-http",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:58:59Z"
+    },
+    {
+      "full_name": "R3-Archive/heartbeat",
+      "is_fork": true,
+      "parent": "roger-that-dev/heartbeat",
+      "source": "roger-that-dev/heartbeat",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:01Z"
+    },
+    {
+      "full_name": "R3-Archive/infrastructure-profiles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T20:59:03Z"
+    },
+    {
+      "full_name": "R3-Archive/kafkasnoop",
+      "is_fork": true,
+      "parent": "driessamyn/kafkasnoop",
+      "source": "driessamyn/kafkasnoop",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:05Z"
+    },
+    {
+      "full_name": "R3-Archive/linux-sgx",
+      "is_fork": true,
+      "parent": "intel/confidential-computing.sgx",
+      "source": "intel/confidential-computing.sgx",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T20:59:07Z"
+    },
+    {
+      "full_name": "R3-Archive/negotiation-cordapp",
+      "is_fork": true,
+      "parent": "rajkbess/negotiation-cordapp",
+      "source": "rajkbess/negotiation-cordapp",
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:09Z"
+    },
+    {
+      "full_name": "R3-Archive/obligation-cordapp",
+      "is_fork": true,
+      "parent": "roger-that-dev/obligation-cordapp",
+      "source": "roger-that-dev/obligation-cordapp",
+      "stars": 5,
+      "language": "Java",
+      "last_checked": "2026-03-10T20:59:12Z"
+    },
+    {
+      "full_name": "R3-Archive/observable-states",
+      "is_fork": true,
+      "parent": "roger-that-dev/observable-states",
+      "source": "roger-that-dev/observable-states",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:14Z"
+    },
+    {
+      "full_name": "R3-Archive/observer-cordapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:16Z"
+    },
+    {
+      "full_name": "R3-Archive/oracle-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:18Z"
+    },
+    {
+      "full_name": "R3-Archive/ping-pong",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:20Z"
+    },
+    {
+      "full_name": "R3-Archive/spring-observable-stream",
+      "is_fork": true,
+      "parent": "StefanMaff/spring-observable-stream",
+      "source": "StefanMaff/spring-observable-stream",
+      "stars": 1,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:22Z"
+    },
+    {
+      "full_name": "R3-Archive/spring-webserver",
+      "is_fork": true,
+      "parent": "luizflor/spring-webserver",
+      "source": "luizflor/spring-webserver",
+      "stars": 6,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:24Z"
+    },
+    {
+      "full_name": "R3-Archive/whistleblower",
+      "is_fork": true,
+      "parent": "roger-that-dev/whistleblower",
+      "source": "roger-that-dev/whistleblower",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:26Z"
+    },
+    {
+      "full_name": "R3-Archive/yo-cordapp",
+      "is_fork": true,
+      "parent": "roger-that-dev/yo-cordapp",
+      "source": "roger-that-dev/yo-cordapp",
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T20:59:28Z"
+    }
+  ]
+}

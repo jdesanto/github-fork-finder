@@ -1,0 +1,465 @@
+{
+  "owner": "minafoundation",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MinaFoundation/Core-Grants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": null,
+      "last_checked": "2026-03-10T03:03:27Z"
+    },
+    {
+      "full_name": "MinaFoundation/Hazook-Fast-Zk-Rollup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:03:28Z"
+    },
+    {
+      "full_name": "MinaFoundation/Liminal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:03:30Z"
+    },
+    {
+      "full_name": "MinaFoundation/MinaCon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:03:32Z"
+    },
+    {
+      "full_name": "MinaFoundation/MinaMesh",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:03:34Z"
+    },
+    {
+      "full_name": "MinaFoundation/MinaMetrix",
+      "is_fork": true,
+      "parent": "yunus433/snarkyjs-tracker",
+      "source": "yunus433/snarkyjs-tracker",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T03:03:36Z"
+    },
+    {
+      "full_name": "MinaFoundation/PGT_LeaderBot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:03:38Z"
+    },
+    {
+      "full_name": "MinaFoundation/PGT_govbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:03:40Z"
+    },
+    {
+      "full_name": "MinaFoundation/PGT_govbotOCVFrontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Astro",
+      "last_checked": "2026-03-10T03:03:42Z"
+    },
+    {
+      "full_name": "MinaFoundation/PGT_gptSurveySummarizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:03:44Z"
+    },
+    {
+      "full_name": "MinaFoundation/coinbase-mesh",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:03:46Z"
+    },
+    {
+      "full_name": "MinaFoundation/delegation-program-leaderboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T03:03:48Z"
+    },
+    {
+      "full_name": "MinaFoundation/dhall-haskell",
+      "is_fork": true,
+      "parent": "dhall-lang/dhall-haskell",
+      "source": "dhall-lang/dhall-haskell",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:03:50Z"
+    },
+    {
+      "full_name": "MinaFoundation/docs",
+      "is_fork": true,
+      "parent": "MinaProtocol/docs2",
+      "source": "MinaProtocol/docs2",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T03:03:52Z"
+    },
+    {
+      "full_name": "MinaFoundation/ecosystem-ideas",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T03:03:55Z"
+    },
+    {
+      "full_name": "MinaFoundation/go-libp2p-kad-dht-patcher",
+      "is_fork": true,
+      "parent": "o1-labs/go-libp2p-kad-dht-patcher",
+      "source": "hanabi1224/go-libp2p-kad-dht-patcher",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T03:03:58Z"
+    },
+    {
+      "full_name": "MinaFoundation/govbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:00Z"
+    },
+    {
+      "full_name": "MinaFoundation/gptSurveySummarizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:03Z"
+    },
+    {
+      "full_name": "MinaFoundation/grafana-dashboards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:03Z"
+    },
+    {
+      "full_name": "MinaFoundation/helm-charts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Smarty",
+      "last_checked": "2026-03-10T03:04:05Z"
+    },
+    {
+      "full_name": "MinaFoundation/install-minimina-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:07Z"
+    },
+    {
+      "full_name": "MinaFoundation/it-ops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:10Z"
+    },
+    {
+      "full_name": "MinaFoundation/list-of-projects",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:12Z"
+    },
+    {
+      "full_name": "MinaFoundation/lucy-keypairs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:14Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina",
+      "is_fork": true,
+      "parent": "MinaProtocol/mina",
+      "source": "MinaProtocol/mina",
+      "stars": 1,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:04:16Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-archive-nonces-diff",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:04:18Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-delegation-program-tech",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T03:04:20Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-fungible-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:22Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-nft-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:24Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-on-chain-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:27Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-pool-payout",
+      "is_fork": true,
+      "parent": "jrwashburn/mina-pool-payout",
+      "source": "jrwashburn/mina-pool-payout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:29Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-transaction-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:31Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-transactions-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:33Z"
+    },
+    {
+      "full_name": "MinaFoundation/mina-upgradable",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:35Z"
+    },
+    {
+      "full_name": "MinaFoundation/minimina",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:04:37Z"
+    },
+    {
+      "full_name": "MinaFoundation/mip-token-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:39Z"
+    },
+    {
+      "full_name": "MinaFoundation/mock-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:04:42Z"
+    },
+    {
+      "full_name": "MinaFoundation/pgt-gov-bot-web-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:45Z"
+    },
+    {
+      "full_name": "MinaFoundation/pgt-web-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:47Z"
+    },
+    {
+      "full_name": "MinaFoundation/protocol-upgrade-mechanism",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:49Z"
+    },
+    {
+      "full_name": "MinaFoundation/rfcs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:51Z"
+    },
+    {
+      "full_name": "MinaFoundation/rosetta-integration-test-zkapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:53Z"
+    },
+    {
+      "full_name": "MinaFoundation/seeds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T03:04:55Z"
+    },
+    {
+      "full_name": "MinaFoundation/soulbound-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:04:57Z"
+    },
+    {
+      "full_name": "MinaFoundation/spikes",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:04:57Z"
+    },
+    {
+      "full_name": "MinaFoundation/submission-report",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:04:59Z"
+    },
+    {
+      "full_name": "MinaFoundation/submission-updater",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T03:05:02Z"
+    },
+    {
+      "full_name": "MinaFoundation/test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:05:03Z"
+    },
+    {
+      "full_name": "MinaFoundation/uptime-service-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T03:05:05Z"
+    },
+    {
+      "full_name": "MinaFoundation/uptime-service-payloads-scrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:05:07Z"
+    },
+    {
+      "full_name": "MinaFoundation/uptime-service-validation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:05:11Z"
+    }
+  ]
+}

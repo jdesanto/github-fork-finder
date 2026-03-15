@@ -1,0 +1,1563 @@
+{
+  "owner": "kybernetwork",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "KyberNetwork/Andromeda-AMM-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:32:30Z"
+    },
+    {
+      "full_name": "KyberNetwork/ERC20-contract-classification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:32:32Z"
+    },
+    {
+      "full_name": "KyberNetwork/KIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T15:32:35Z"
+    },
+    {
+      "full_name": "KyberNetwork/KyberNetwork.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:32:35Z"
+    },
+    {
+      "full_name": "KyberNetwork/KyberSwap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 441,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:32:37Z"
+    },
+    {
+      "full_name": "KyberNetwork/KyberSwap-iOS",
+      "is_fork": true,
+      "parent": "trustwallet/trust-wallet-ios",
+      "source": "trustwallet/trust-wallet-ios",
+      "stars": 9,
+      "language": "Swift",
+      "last_checked": "2026-03-09T15:32:41Z"
+    },
+    {
+      "full_name": "KyberNetwork/KyberSwapElasticLM-Subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:32:43Z"
+    },
+    {
+      "full_name": "KyberNetwork/KyberWidget",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:32:45Z"
+    },
+    {
+      "full_name": "KyberNetwork/TokenDistributionContracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:32:47Z"
+    },
+    {
+      "full_name": "KyberNetwork/actions-image-updater",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:32:49Z"
+    },
+    {
+      "full_name": "KyberNetwork/aggregator-sor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:32:52Z"
+    },
+    {
+      "full_name": "KyberNetwork/aggregator-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:32:54Z"
+    },
+    {
+      "full_name": "KyberNetwork/airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:32:56Z"
+    },
+    {
+      "full_name": "KyberNetwork/api-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:32:57Z"
+    },
+    {
+      "full_name": "KyberNetwork/asynq",
+      "is_fork": true,
+      "parent": "hibiken/asynq",
+      "source": "hibiken/asynq",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:32:59Z"
+    },
+    {
+      "full_name": "KyberNetwork/ava-coreth",
+      "is_fork": true,
+      "parent": "ava-labs/coreth",
+      "source": "ava-labs/coreth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:01Z"
+    },
+    {
+      "full_name": "KyberNetwork/avax-trading-contest-reward-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:02Z"
+    },
+    {
+      "full_name": "KyberNetwork/balancer-subgraph-v2",
+      "is_fork": true,
+      "parent": "balancer/balancer-subgraph-v2",
+      "source": "balancer/balancer-subgraph-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:04Z"
+    },
+    {
+      "full_name": "KyberNetwork/binance-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:06Z"
+    },
+    {
+      "full_name": "KyberNetwork/binance-sbe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:08Z"
+    },
+    {
+      "full_name": "KyberNetwork/binance_fix_api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:11Z"
+    },
+    {
+      "full_name": "KyberNetwork/blockchain-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:13Z"
+    },
+    {
+      "full_name": "KyberNetwork/blocks-subgraph",
+      "is_fork": true,
+      "parent": "blocklytics/ethereum-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:33:15Z"
+    },
+    {
+      "full_name": "KyberNetwork/bridge_eos_smart_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Shell",
+      "last_checked": "2026-03-09T15:33:17Z"
+    },
+    {
+      "full_name": "KyberNetwork/bridge_eth_smart_contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:33:19Z"
+    },
+    {
+      "full_name": "KyberNetwork/bsc",
+      "is_fork": true,
+      "parent": "bnb-chain/bsc",
+      "source": "bnb-chain/bsc",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:22Z"
+    },
+    {
+      "full_name": "KyberNetwork/cclog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:22Z"
+    },
+    {
+      "full_name": "KyberNetwork/comparison-blocknative-evmlistener",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:22Z"
+    },
+    {
+      "full_name": "KyberNetwork/configure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:23Z"
+    },
+    {
+      "full_name": "KyberNetwork/dao_sc",
+      "is_fork": true,
+      "parent": "aave/governance-v2",
+      "source": "aave/governance-v2",
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:33:25Z"
+    },
+    {
+      "full_name": "KyberNetwork/deribit-api",
+      "is_fork": true,
+      "parent": "f0cii/deribit-api",
+      "source": "f0cii/deribit-api",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:27Z"
+    },
+    {
+      "full_name": "KyberNetwork/developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "CSS",
+      "last_checked": "2026-03-09T15:33:30Z"
+    },
+    {
+      "full_name": "KyberNetwork/dex-swap-comparator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-09T15:33:33Z"
+    },
+    {
+      "full_name": "KyberNetwork/dgx-price-feeder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:35Z"
+    },
+    {
+      "full_name": "KyberNetwork/dmm-info",
+      "is_fork": true,
+      "parent": "Uniswap/info",
+      "source": "Uniswap/info",
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:33:37Z"
+    },
+    {
+      "full_name": "KyberNetwork/dmm-org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:40Z"
+    },
+    {
+      "full_name": "KyberNetwork/dmm-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:33:42Z"
+    },
+    {
+      "full_name": "KyberNetwork/dmm-solana-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:33:42Z"
+    },
+    {
+      "full_name": "KyberNetwork/dmm-subgraph",
+      "is_fork": true,
+      "parent": "Uniswap/v2-subgraph",
+      "source": "Uniswap/v2-subgraph",
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:33:45Z"
+    },
+    {
+      "full_name": "KyberNetwork/docker-slate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:33:50Z"
+    },
+    {
+      "full_name": "KyberNetwork/dutchx-market-maker",
+      "is_fork": true,
+      "parent": "amitkot/dutchx-market-maker",
+      "source": "amitkot/dutchx-market-maker",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:33:52Z"
+    },
+    {
+      "full_name": "KyberNetwork/elastic-go-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:33:54Z"
+    },
+    {
+      "full_name": "KyberNetwork/elastic-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:33:58Z"
+    },
+    {
+      "full_name": "KyberNetwork/eos_smart_contracts",
+      "is_fork": true,
+      "parent": "tranvictor/eos_smart_contracts",
+      "source": "tranvictor/eos_smart_contracts",
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:34:01Z"
+    },
+    {
+      "full_name": "KyberNetwork/etheremon-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:34:03Z"
+    },
+    {
+      "full_name": "KyberNetwork/ethrpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:05Z"
+    },
+    {
+      "full_name": "KyberNetwork/evmlistener",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/exchange-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:34:09Z"
+    },
+    {
+      "full_name": "KyberNetwork/external-adapters-js",
+      "is_fork": true,
+      "parent": "smartcontractkit/external-adapters-js",
+      "source": "smartcontractkit/external-adapters-js",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:34:11Z"
+    },
+    {
+      "full_name": "KyberNetwork/forge-zksync-std",
+      "is_fork": true,
+      "parent": "Moonsong-Labs/forge-zksync-std",
+      "source": "Moonsong-Labs/forge-zksync-std",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:34:13Z"
+    },
+    {
+      "full_name": "KyberNetwork/fosite",
+      "is_fork": true,
+      "parent": "ory/fosite",
+      "source": "ory/fosite",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:15Z"
+    },
+    {
+      "full_name": "KyberNetwork/foundry-toolchain",
+      "is_fork": true,
+      "parent": "foundry-rs/foundry-toolchain",
+      "source": "foundry-rs/foundry-toolchain",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:34:18Z"
+    },
+    {
+      "full_name": "KyberNetwork/foundry-zksync",
+      "is_fork": true,
+      "parent": "matter-labs/foundry-zksync",
+      "source": "matter-labs/foundry-zksync",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T15:34:20Z"
+    },
+    {
+      "full_name": "KyberNetwork/foundry-zksync-toolchain",
+      "is_fork": true,
+      "parent": "bgd-labs/foundry-zksync-toolchain",
+      "source": "foundry-rs/foundry-toolchain",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:34:22Z"
+    },
+    {
+      "full_name": "KyberNetwork/fpr-sdk.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:34:24Z"
+    },
+    {
+      "full_name": "KyberNetwork/ftx-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:26Z"
+    },
+    {
+      "full_name": "KyberNetwork/geth",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:29Z"
+    },
+    {
+      "full_name": "KyberNetwork/github-spawner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:29Z"
+    },
+    {
+      "full_name": "KyberNetwork/go-binance",
+      "is_fork": true,
+      "parent": "ccxt/go-binance",
+      "source": "ccxt/go-binance",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:31Z"
+    },
+    {
+      "full_name": "KyberNetwork/go-opera",
+      "is_fork": true,
+      "parent": "Fantom-foundation/go-opera",
+      "source": "Fantom-foundation/go-opera",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:34Z"
+    },
+    {
+      "full_name": "KyberNetwork/go-project-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:36Z"
+    },
+    {
+      "full_name": "KyberNetwork/go-promise",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:38Z"
+    },
+    {
+      "full_name": "KyberNetwork/governance-v2-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:38Z"
+    },
+    {
+      "full_name": "KyberNetwork/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T15:34:40Z"
+    },
+    {
+      "full_name": "KyberNetwork/graph-ts",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-ts",
+      "source": "graphprotocol/graph-ts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:43Z"
+    },
+    {
+      "full_name": "KyberNetwork/grpc-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:44Z"
+    },
+    {
+      "full_name": "KyberNetwork/hackathon-bounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": null,
+      "last_checked": "2026-03-09T15:34:47Z"
+    },
+    {
+      "full_name": "KyberNetwork/httpsign-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:49Z"
+    },
+    {
+      "full_name": "KyberNetwork/hydra",
+      "is_fork": true,
+      "parent": "ory/hydra",
+      "source": "ory/hydra",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:52Z"
+    },
+    {
+      "full_name": "KyberNetwork/iZiSwap-SDK-go",
+      "is_fork": true,
+      "parent": "izumiFinance/iZiSwap-SDK-go",
+      "source": "izumiFinance/iZiSwap-SDK-go",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:54Z"
+    },
+    {
+      "full_name": "KyberNetwork/iam-go-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:34:58Z"
+    },
+    {
+      "full_name": "KyberNetwork/ieo-smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:00Z"
+    },
+    {
+      "full_name": "KyberNetwork/int256",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:35:02Z"
+    },
+    {
+      "full_name": "KyberNetwork/jsonrpc2",
+      "is_fork": true,
+      "parent": "sourcegraph/jsonrpc2",
+      "source": "sourcegraph/jsonrpc2",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:35:04Z"
+    },
+    {
+      "full_name": "KyberNetwork/katalyst_dao_sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:06Z"
+    },
+    {
+      "full_name": "KyberNetwork/kitchen",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-aggregator-api-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:09Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:11Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-classic-sc",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 23,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:35:15Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-common-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:35:17Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-elastic-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:19Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-elastic-sc-legacy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:21Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-growth-utils-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:35:23Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-helper-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:24Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-limit-order-API-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:26Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-liquidity-mining-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:28Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-pool-farm-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:28Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-sdk-classic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:30Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-sdk-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:32Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-sdk-elastic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:34Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-sdk-elastic-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:36Z"
+    },
+    {
+      "full_name": "KyberNetwork/ks-utils-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:35:38Z"
+    },
+    {
+      "full_name": "KyberNetwork/kutils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:35:41Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber-career-ui",
+      "is_fork": true,
+      "parent": "transitive-bullshit/nextjs-notion-starter-kit",
+      "source": "transitive-bullshit/nextjs-notion-starter-kit",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:35:43Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber-exclusive-amm-sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:35:46Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber-pro",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:48Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber-trace-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:35:50Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:52Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber_protocol_sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:55Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber_reserves_sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:35:57Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyber_utils_sc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:36:01Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-aggregator-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:36:03Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-dex-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 58,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:05Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T15:36:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-error",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:10Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:36:13Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-widgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:36:15Z"
+    },
+    {
+      "full_name": "KyberNetwork/kyberswap-widgets-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:36:17Z"
+    },
+    {
+      "full_name": "KyberNetwork/logger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:19Z"
+    },
+    {
+      "full_name": "KyberNetwork/msgp",
+      "is_fork": true,
+      "parent": "tinylib/msgp",
+      "source": "tinylib/msgp",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:21Z"
+    },
+    {
+      "full_name": "KyberNetwork/msgpack",
+      "is_fork": true,
+      "parent": "vmihailenco/msgpack",
+      "source": "vmihailenco/msgpack",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:24Z"
+    },
+    {
+      "full_name": "KyberNetwork/openbook-spl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T15:36:26Z"
+    },
+    {
+      "full_name": "KyberNetwork/pancake-v3-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:28Z"
+    },
+    {
+      "full_name": "KyberNetwork/paraswap-dex-lib",
+      "is_fork": true,
+      "parent": "VeloraDEX/paraswap-dex-lib",
+      "source": "VeloraDEX/paraswap-dex-lib",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:36:30Z"
+    },
+    {
+      "full_name": "KyberNetwork/payment-widget-smart-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:36:32Z"
+    },
+    {
+      "full_name": "KyberNetwork/peace-relay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:36:34Z"
+    },
+    {
+      "full_name": "KyberNetwork/plonky2-private-tx",
+      "is_fork": true,
+      "parent": "namnc/plonky2-pg",
+      "source": "0xPolygonZero/plonky2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:36:36Z"
+    },
+    {
+      "full_name": "KyberNetwork/polygon-node-ansible",
+      "is_fork": true,
+      "parent": "0xPolygon/node-ansible",
+      "source": "0xPolygon/node-ansible",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T15:36:39Z"
+    },
+    {
+      "full_name": "KyberNetwork/pricesource",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:41Z"
+    },
+    {
+      "full_name": "KyberNetwork/prometheus_bot_bin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:36:43Z"
+    },
+    {
+      "full_name": "KyberNetwork/promise4g",
+      "is_fork": true,
+      "parent": "hoanguyenkh/promise4g",
+      "source": "hoanguyenkh/promise4g",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:36:45Z"
+    },
+    {
+      "full_name": "KyberNetwork/promm-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:36:48Z"
+    },
+    {
+      "full_name": "KyberNetwork/promm-sdk-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:50Z"
+    },
+    {
+      "full_name": "KyberNetwork/py-reserve-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:36:53Z"
+    },
+    {
+      "full_name": "KyberNetwork/quote-trade-analysis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:36:55Z"
+    },
+    {
+      "full_name": "KyberNetwork/redmine-roadmap-plugin",
+      "is_fork": true,
+      "parent": "vinhnd2010/roadmap",
+      "source": "vinhnd2010/roadmap",
+      "stars": 3,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:36:58Z"
+    },
+    {
+      "full_name": "KyberNetwork/reload",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:00Z"
+    },
+    {
+      "full_name": "KyberNetwork/reserve-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:00Z"
+    },
+    {
+      "full_name": "KyberNetwork/reserve-stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:02Z"
+    },
+    {
+      "full_name": "KyberNetwork/reward-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:03Z"
+    },
+    {
+      "full_name": "KyberNetwork/ropsten-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:05Z"
+    },
+    {
+      "full_name": "KyberNetwork/sanity-price-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:37:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/sc_integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/service-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:09Z"
+    },
+    {
+      "full_name": "KyberNetwork/service-proto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:10Z"
+    },
+    {
+      "full_name": "KyberNetwork/service-proto-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:12Z"
+    },
+    {
+      "full_name": "KyberNetwork/slackbot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:37:16Z"
+    },
+    {
+      "full_name": "KyberNetwork/smart-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 383,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:37:18Z"
+    },
+    {
+      "full_name": "KyberNetwork/socks5",
+      "is_fork": true,
+      "parent": "ezh0v/socks5",
+      "source": "ezh0v/socks5",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:20Z"
+    },
+    {
+      "full_name": "KyberNetwork/solana-go",
+      "is_fork": true,
+      "parent": "gagliardetto/solana-go",
+      "source": "gagliardetto/solana-go",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:23Z"
+    },
+    {
+      "full_name": "KyberNetwork/spellbook",
+      "is_fork": true,
+      "parent": "duneanalytics/spellbook",
+      "source": "duneanalytics/spellbook",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T15:37:25Z"
+    },
+    {
+      "full_name": "KyberNetwork/spot-perp-go-binance",
+      "is_fork": true,
+      "parent": "NNagato/go-binance",
+      "source": "ccxt/go-binance",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:27Z"
+    },
+    {
+      "full_name": "KyberNetwork/subgraphs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:27Z"
+    },
+    {
+      "full_name": "KyberNetwork/subsquids",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:37:30Z"
+    },
+    {
+      "full_name": "KyberNetwork/td",
+      "is_fork": true,
+      "parent": "tdlib/td",
+      "source": "tdlib/td",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:32Z"
+    },
+    {
+      "full_name": "KyberNetwork/telegram-query-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:37:34Z"
+    },
+    {
+      "full_name": "KyberNetwork/token-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:36Z"
+    },
+    {
+      "full_name": "KyberNetwork/tokenrate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:38Z"
+    },
+    {
+      "full_name": "KyberNetwork/toolkit-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:40Z"
+    },
+    {
+      "full_name": "KyberNetwork/tradelogs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:41Z"
+    },
+    {
+      "full_name": "KyberNetwork/trading-contest-reward-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:43Z"
+    },
+    {
+      "full_name": "KyberNetwork/tradinglib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:45Z"
+    },
+    {
+      "full_name": "KyberNetwork/tx-debugger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T15:37:47Z"
+    },
+    {
+      "full_name": "KyberNetwork/uint256",
+      "is_fork": true,
+      "parent": "holiman/uint256",
+      "source": "holiman/uint256",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:49Z"
+    },
+    {
+      "full_name": "KyberNetwork/unclaimed-rewards-elastic-lm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T15:37:51Z"
+    },
+    {
+      "full_name": "KyberNetwork/uniswap-sdk-core",
+      "is_fork": true,
+      "parent": "daoleno/uniswap-sdk-core",
+      "source": "daoleno/uniswap-sdk-core",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:54Z"
+    },
+    {
+      "full_name": "KyberNetwork/uniswapv3-sdk",
+      "is_fork": true,
+      "parent": "daoleno/uniswapv3-sdk",
+      "source": "daoleno/uniswapv3-sdk",
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:37:58Z"
+    },
+    {
+      "full_name": "KyberNetwork/uniswapv3-sdk-uint256",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:38:00Z"
+    },
+    {
+      "full_name": "KyberNetwork/vanpt-test-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:01Z"
+    },
+    {
+      "full_name": "KyberNetwork/volume-subgraphs",
+      "is_fork": true,
+      "parent": "curvefi/volume-subgraphs",
+      "source": "curvefi/volume-subgraphs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:05Z"
+    },
+    {
+      "full_name": "KyberNetwork/wallet-cache",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:38:07Z"
+    },
+    {
+      "full_name": "KyberNetwork/web-scraping-py",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:38:09Z"
+    },
+    {
+      "full_name": "KyberNetwork/web3-react",
+      "is_fork": true,
+      "parent": "Uniswap/web3-react",
+      "source": "Uniswap/web3-react",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T15:38:11Z"
+    },
+    {
+      "full_name": "KyberNetwork/webtail",
+      "is_fork": true,
+      "parent": "prateeknischal/webtail",
+      "source": "prateeknischal/webtail",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:14Z"
+    },
+    {
+      "full_name": "KyberNetwork/widget-monitor-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:16Z"
+    },
+    {
+      "full_name": "KyberNetwork/widget-monitor-php",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "PHP",
+      "last_checked": "2026-03-09T15:38:19Z"
+    },
+    {
+      "full_name": "KyberNetwork/widget-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "HTML",
+      "last_checked": "2026-03-09T15:38:21Z"
+    },
+    {
+      "full_name": "KyberNetwork/widget-woocommerce",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "PHP",
+      "last_checked": "2026-03-09T15:38:24Z"
+    },
+    {
+      "full_name": "KyberNetwork/workflows-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:24Z"
+    },
+    {
+      "full_name": "KyberNetwork/workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:38:27Z"
+    },
+    {
+      "full_name": "KyberNetwork/xyzswap-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T15:38:27Z"
+    },
+    {
+      "full_name": "KyberNetwork/zkevm-poc-l2-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T15:38:29Z"
+    },
+    {
+      "full_name": "KyberNetwork/zkyber-reward-distribution",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T15:38:31Z"
+    }
+  ]
+}

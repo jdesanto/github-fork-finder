@@ -1,0 +1,60 @@
+{
+  "owner": "open-cann",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Open-Cann/HackFS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:12:52Z"
+    },
+    {
+      "full_name": "Open-Cann/HackFS-2023",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T11:12:54Z"
+    },
+    {
+      "full_name": "Open-Cann/bos-linktree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:22:07Z"
+    },
+    {
+      "full_name": "Open-Cann/dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:12:56Z"
+    },
+    {
+      "full_name": "Open-Cann/gateway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T11:12:58Z"
+    },
+    {
+      "full_name": "Open-Cann/landing-page",
+      "is_fork": true,
+      "parent": "Open-Cann/bos-linktree",
+      "source": "Open-Cann/bos-linktree",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T11:13:00Z"
+    }
+  ]
+}

@@ -1,0 +1,4767 @@
+{
+  "owner": "metamask",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MetaMask/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": null,
+      "last_checked": "2026-03-10T01:46:43Z"
+    },
+    {
+      "full_name": "MetaMask/2023-hackathon-project",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:46:45Z"
+    },
+    {
+      "full_name": "MetaMask/7702-Readiness",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:46:47Z"
+    },
+    {
+      "full_name": "MetaMask/Add-Token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 149,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:46:49Z"
+    },
+    {
+      "full_name": "MetaMask/Appsec-Proving-Grounds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:46:50Z"
+    },
+    {
+      "full_name": "MetaMask/BitcoinCore.Swift",
+      "is_fork": true,
+      "parent": "horizontalsystems/BitcoinCore.Swift",
+      "source": "horizontalsystems/BitcoinCore.Swift",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:46:52Z"
+    },
+    {
+      "full_name": "MetaMask/BitcoinKit.Swift",
+      "is_fork": true,
+      "parent": "horizontalsystems/BitcoinKit.Swift",
+      "source": "horizontalsystems/BitcoinKit.Swift",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:46:55Z"
+    },
+    {
+      "full_name": "MetaMask/Code-of-Conduct",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:46:57Z"
+    },
+    {
+      "full_name": "MetaMask/CodeQL-Queries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CodeQL",
+      "last_checked": "2026-03-10T01:46:59Z"
+    },
+    {
+      "full_name": "MetaMask/CodeQL-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:01Z"
+    },
+    {
+      "full_name": "MetaMask/Design",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:03Z"
+    },
+    {
+      "full_name": "MetaMask/ERCs",
+      "is_fork": true,
+      "parent": "ethereum/ERCs",
+      "source": "ethereum/ERCs",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:05Z"
+    },
+    {
+      "full_name": "MetaMask/Eth-Token-Sender",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:08Z"
+    },
+    {
+      "full_name": "MetaMask/EthLoginController",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:11Z"
+    },
+    {
+      "full_name": "MetaMask/Ethereum-Wallet-SDK",
+      "is_fork": true,
+      "parent": "DappPocket/Ethereum-Wallet-SDK",
+      "source": "DappPocket/Ethereum-Wallet-SDK",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:15Z"
+    },
+    {
+      "full_name": "MetaMask/EventBus",
+      "is_fork": true,
+      "parent": "asaskevich/EventBus",
+      "source": "asaskevich/EventBus",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:47:17Z"
+    },
+    {
+      "full_name": "MetaMask/Hackathons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:19Z"
+    },
+    {
+      "full_name": "MetaMask/IPFS-Ethereum-Hackathon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:21Z"
+    },
+    {
+      "full_name": "MetaMask/KeyringController",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 228,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:47:25Z"
+    },
+    {
+      "full_name": "MetaMask/More-code-at-torusresearch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:27Z"
+    },
+    {
+      "full_name": "MetaMask/MpcProviderSwift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:47:30Z"
+    },
+    {
+      "full_name": "MetaMask/Nextjs-Starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:47:33Z"
+    },
+    {
+      "full_name": "MetaMask/OSSRH-94282",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:35Z"
+    },
+    {
+      "full_name": "MetaMask/React-MetaMask-Login-Button",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:37Z"
+    },
+    {
+      "full_name": "MetaMask/SIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:47:39Z"
+    },
+    {
+      "full_name": "MetaMask/Security-Code-Scanner",
+      "is_fork": true,
+      "parent": "MetaMask/action-security-code-scanner",
+      "source": "MetaMask/action-security-code-scanner",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:43Z"
+    },
+    {
+      "full_name": "MetaMask/TipButton",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:47:45Z"
+    },
+    {
+      "full_name": "MetaMask/Web3Auth-sign-in-with-starkware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:47:47Z"
+    },
+    {
+      "full_name": "MetaMask/Website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:49Z"
+    },
+    {
+      "full_name": "MetaMask/abi-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:47:51Z"
+    },
+    {
+      "full_name": "MetaMask/account-abstraction",
+      "is_fork": true,
+      "parent": "eth-infinitism/account-abstraction",
+      "source": "eth-infinitism/account-abstraction",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:47:54Z"
+    },
+    {
+      "full_name": "MetaMask/accounts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:47:56Z"
+    },
+    {
+      "full_name": "MetaMask/accounts-chain-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:47:58Z"
+    },
+    {
+      "full_name": "MetaMask/action-checkout-and-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:00Z"
+    },
+    {
+      "full_name": "MetaMask/action-create-release-pr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:02Z"
+    },
+    {
+      "full_name": "MetaMask/action-is-release",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:04Z"
+    },
+    {
+      "full_name": "MetaMask/action-monorepo-release-pr",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:06Z"
+    },
+    {
+      "full_name": "MetaMask/action-npm-publish",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:09Z"
+    },
+    {
+      "full_name": "MetaMask/action-publish-gh-pages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:11Z"
+    },
+    {
+      "full_name": "MetaMask/action-publish-release",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:13Z"
+    },
+    {
+      "full_name": "MetaMask/action-require-additional-reviewer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:15Z"
+    },
+    {
+      "full_name": "MetaMask/action-retry-command",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:17Z"
+    },
+    {
+      "full_name": "MetaMask/action-security-code-scanner",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:19Z"
+    },
+    {
+      "full_name": "MetaMask/action-sync-branch",
+      "is_fork": true,
+      "parent": "connor-baer/action-sync-branch",
+      "source": "connor-baer/action-sync-branch",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:21Z"
+    },
+    {
+      "full_name": "MetaMask/action-tech-challenge-setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:48:24Z"
+    },
+    {
+      "full_name": "MetaMask/action-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:26Z"
+    },
+    {
+      "full_name": "MetaMask/actions-gh-pages-test-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:28Z"
+    },
+    {
+      "full_name": "MetaMask/actions-test-repo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:31Z"
+    },
+    {
+      "full_name": "MetaMask/alchemy",
+      "is_fork": true,
+      "parent": "daostack/alchemy",
+      "source": "daostack/alchemy",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:48:33Z"
+    },
+    {
+      "full_name": "MetaMask/animation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:35Z"
+    },
+    {
+      "full_name": "MetaMask/anvil.js",
+      "is_fork": true,
+      "parent": "wevm/anvil.js",
+      "source": "wevm/anvil.js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:48:40Z"
+    },
+    {
+      "full_name": "MetaMask/api-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:42Z"
+    },
+    {
+      "full_name": "MetaMask/api-specs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:44Z"
+    },
+    {
+      "full_name": "MetaMask/audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:48:46Z"
+    },
+    {
+      "full_name": "MetaMask/audit-results",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:48:47Z"
+    },
+    {
+      "full_name": "MetaMask/auto-changelog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:48:49Z"
+    },
+    {
+      "full_name": "MetaMask/aws-actions-configure-aws-credentials",
+      "is_fork": true,
+      "parent": "aws-actions/configure-aws-credentials",
+      "source": "aws-actions/configure-aws-credentials",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:48:51Z"
+    },
+    {
+      "full_name": "MetaMask/backward-compatibility-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:53Z"
+    },
+    {
+      "full_name": "MetaMask/bdk-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "Rust",
+      "last_checked": "2026-03-10T01:48:55Z"
+    },
+    {
+      "full_name": "MetaMask/beaker",
+      "is_fork": true,
+      "parent": "beakerbrowser/beaker",
+      "source": "beakerbrowser/beaker",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:48:58Z"
+    },
+    {
+      "full_name": "MetaMask/biconomy-web3auth-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:49:00Z"
+    },
+    {
+      "full_name": "MetaMask/bify-module-groups",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:02Z"
+    },
+    {
+      "full_name": "MetaMask/bijson",
+      "is_fork": true,
+      "parent": "YZhenY/bijson",
+      "source": "YZhenY/bijson",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:49:04Z"
+    },
+    {
+      "full_name": "MetaMask/bip39",
+      "is_fork": true,
+      "parent": "bitcoinjs/bip39",
+      "source": "bitcoinjs/bip39",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:06Z"
+    },
+    {
+      "full_name": "MetaMask/bitrise_verification",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:07Z"
+    },
+    {
+      "full_name": "MetaMask/blockaid-false-positive-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:07Z"
+    },
+    {
+      "full_name": "MetaMask/blocusign",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-10T01:49:09Z"
+    },
+    {
+      "full_name": "MetaMask/brand-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 49,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:11Z"
+    },
+    {
+      "full_name": "MetaMask/broadcast-channel",
+      "is_fork": true,
+      "parent": "pubkey/broadcast-channel",
+      "source": "pubkey/broadcast-channel",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:13Z"
+    },
+    {
+      "full_name": "MetaMask/browser-passworder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:16Z"
+    },
+    {
+      "full_name": "MetaMask/browserify-streams3",
+      "is_fork": true,
+      "parent": "browserify/browserify",
+      "source": "browserify/browserify",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:18Z"
+    },
+    {
+      "full_name": "MetaMask/cancel-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:20Z"
+    },
+    {
+      "full_name": "MetaMask/casper-embed",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:22Z"
+    },
+    {
+      "full_name": "MetaMask/casper-js-sdk",
+      "is_fork": true,
+      "parent": "casper-ecosystem/casper-js-sdk",
+      "source": "casper-ecosystem/casper-js-sdk",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:24Z"
+    },
+    {
+      "full_name": "MetaMask/chain-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:27Z"
+    },
+    {
+      "full_name": "MetaMask/cicada-mpc",
+      "is_fork": true,
+      "parent": "cicada-mpc/cicada-mpc",
+      "source": "cicada-mpc/cicada-mpc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:29Z"
+    },
+    {
+      "full_name": "MetaMask/cla-signature-bot",
+      "is_fork": true,
+      "parent": "Roblox/cla-signature-bot",
+      "source": "Roblox/cla-signature-bot",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:32Z"
+    },
+    {
+      "full_name": "MetaMask/client_golang",
+      "is_fork": true,
+      "parent": "prometheus/client_golang",
+      "source": "prometheus/client_golang",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:49:35Z"
+    },
+    {
+      "full_name": "MetaMask/code-eval",
+      "is_fork": true,
+      "parent": "abacaj/code-eval",
+      "source": "abacaj/code-eval",
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-10T01:49:37Z"
+    },
+    {
+      "full_name": "MetaMask/contract-metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 549,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:39Z"
+    },
+    {
+      "full_name": "MetaMask/contracts-ui",
+      "is_fork": true,
+      "parent": "use-ink/contracts-ui",
+      "source": "use-ink/contracts-ui",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:43Z"
+    },
+    {
+      "full_name": "MetaMask/contributor-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 78,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:49:45Z"
+    },
+    {
+      "full_name": "MetaMask/core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 393,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:47Z"
+    },
+    {
+      "full_name": "MetaMask/core-1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:49Z"
+    },
+    {
+      "full_name": "MetaMask/create-gator-app-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:49Z"
+    },
+    {
+      "full_name": "MetaMask/create-release-branch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:51Z"
+    },
+    {
+      "full_name": "MetaMask/create-web3-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:49:53Z"
+    },
+    {
+      "full_name": "MetaMask/crowdin-github-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:54Z"
+    },
+    {
+      "full_name": "MetaMask/crowdin-sandbox",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:49:56Z"
+    },
+    {
+      "full_name": "MetaMask/cryptopp",
+      "is_fork": true,
+      "parent": "weidai11/cryptopp",
+      "source": "weidai11/cryptopp",
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:49:58Z"
+    },
+    {
+      "full_name": "MetaMask/curv",
+      "is_fork": true,
+      "parent": "ZenGo-X/curv",
+      "source": "ZenGo-X/curv",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:50:00Z"
+    },
+    {
+      "full_name": "MetaMask/curvelib.swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:50:02Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-android-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T01:50:05Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-android-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:50:07Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-azure-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:50:09Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-flutter-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Dart",
+      "last_checked": "2026-03-10T01:50:11Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-flutter-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:50:14Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-react-native-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:50:17Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-react-native-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:50:20Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-swift-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:50:22Z"
+    },
+    {
+      "full_name": "MetaMask/customauth-swift-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:50:31Z"
+    },
+    {
+      "full_name": "MetaMask/dapp-tutorial-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "CSS",
+      "last_checked": "2026-03-10T01:50:39Z"
+    },
+    {
+      "full_name": "MetaMask/dapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 146,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:50:41Z"
+    },
+    {
+      "full_name": "MetaMask/delegation-framework",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 187,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:50:46Z"
+    },
+    {
+      "full_name": "MetaMask/delegation-framework-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:50:49Z"
+    },
+    {
+      "full_name": "MetaMask/delegation-toolkit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:50:51Z"
+    },
+    {
+      "full_name": "MetaMask/delegator-safe-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:50:53Z"
+    },
+    {
+      "full_name": "MetaMask/design-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:50:56Z"
+    },
+    {
+      "full_name": "MetaMask/design-tokens-tailwind-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:50:59Z"
+    },
+    {
+      "full_name": "MetaMask/detect-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 243,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:01Z"
+    },
+    {
+      "full_name": "MetaMask/devcon1-talk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:03Z"
+    },
+    {
+      "full_name": "MetaMask/devrel-articles",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:05Z"
+    },
+    {
+      "full_name": "MetaMask/discourse-web3auth-theme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "SCSS",
+      "last_checked": "2026-03-10T01:51:07Z"
+    },
+    {
+      "full_name": "MetaMask/docker-prod",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:10Z"
+    },
+    {
+      "full_name": "MetaMask/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:12Z"
+    },
+    {
+      "full_name": "MetaMask/docusaurus-openrpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:14Z"
+    },
+    {
+      "full_name": "MetaMask/efficient-tss",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:16Z"
+    },
+    {
+      "full_name": "MetaMask/ens-resolver-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:19Z"
+    },
+    {
+      "full_name": "MetaMask/erc20-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:20Z"
+    },
+    {
+      "full_name": "MetaMask/eslint-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:23Z"
+    },
+    {
+      "full_name": "MetaMask/eslint-plugin-design-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:26Z"
+    },
+    {
+      "full_name": "MetaMask/eslint-plugin-metamask-design-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:28Z"
+    },
+    {
+      "full_name": "MetaMask/eth-block-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 133,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:30Z"
+    },
+    {
+      "full_name": "MetaMask/eth-brave-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:32Z"
+    },
+    {
+      "full_name": "MetaMask/eth-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 83,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:35Z"
+    },
+    {
+      "full_name": "MetaMask/eth-gas-price-suggestor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:37Z"
+    },
+    {
+      "full_name": "MetaMask/eth-gnosis-safe-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:39Z"
+    },
+    {
+      "full_name": "MetaMask/eth-hd-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:43Z"
+    },
+    {
+      "full_name": "MetaMask/eth-ipfs-browser-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:46Z"
+    },
+    {
+      "full_name": "MetaMask/eth-json-rpc-filters",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:48Z"
+    },
+    {
+      "full_name": "MetaMask/eth-json-rpc-infura",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:51Z"
+    },
+    {
+      "full_name": "MetaMask/eth-json-rpc-middleware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 181,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:51:53Z"
+    },
+    {
+      "full_name": "MetaMask/eth-json-rpc-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:51:55Z"
+    },
+    {
+      "full_name": "MetaMask/eth-key-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:51:57Z"
+    },
+    {
+      "full_name": "MetaMask/eth-lattice-keyring",
+      "is_fork": true,
+      "parent": "GridPlus/eth-lattice-keyring",
+      "source": "GridPlus/eth-lattice-keyring",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:51:59Z"
+    },
+    {
+      "full_name": "MetaMask/eth-ledger-bridge-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 84,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:01Z"
+    },
+    {
+      "full_name": "MetaMask/eth-method-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:04Z"
+    },
+    {
+      "full_name": "MetaMask/eth-passthrough-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:06Z"
+    },
+    {
+      "full_name": "MetaMask/eth-phishing-detect",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1263,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:08Z"
+    },
+    {
+      "full_name": "MetaMask/eth-query",
+      "is_fork": true,
+      "parent": "ethereumjs/eth-query",
+      "source": "ethereumjs/eth-query",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:13Z"
+    },
+    {
+      "full_name": "MetaMask/eth-rpc-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:15Z"
+    },
+    {
+      "full_name": "MetaMask/eth-rpc-errors",
+      "is_fork": true,
+      "parent": "MetaMask/rpc-errors",
+      "source": "MetaMask/rpc-errors",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:52:17Z"
+    },
+    {
+      "full_name": "MetaMask/eth-rpc-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:19Z"
+    },
+    {
+      "full_name": "MetaMask/eth-sig-util",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 581,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:25Z"
+    },
+    {
+      "full_name": "MetaMask/eth-simple-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 121,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:28Z"
+    },
+    {
+      "full_name": "MetaMask/eth-snap-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:31Z"
+    },
+    {
+      "full_name": "MetaMask/eth-token-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:33Z"
+    },
+    {
+      "full_name": "MetaMask/eth-trezor-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:35Z"
+    },
+    {
+      "full_name": "MetaMask/eth-tx-viz",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:38Z"
+    },
+    {
+      "full_name": "MetaMask/eth2sdi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:40Z"
+    },
+    {
+      "full_name": "MetaMask/ethbogota-tkey-game",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:52:46Z"
+    },
+    {
+      "full_name": "MetaMask/ethereum-provider-openrpc-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:52:48Z"
+    },
+    {
+      "full_name": "MetaMask/ethermint",
+      "is_fork": true,
+      "parent": "cosmos/ethermint",
+      "source": "cosmos/ethermint",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:52:51Z"
+    },
+    {
+      "full_name": "MetaMask/etherscan-link",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 42,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:52:55Z"
+    },
+    {
+      "full_name": "MetaMask/ethexporter",
+      "is_fork": true,
+      "parent": "hunterlong/ethexporter",
+      "source": "hunterlong/ethexporter",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:52:57Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs",
+      "is_fork": true,
+      "parent": "ethjs/ethjs",
+      "source": "ethjs/ethjs",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:00Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-abi",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-abi",
+      "source": "ethjs/ethjs-abi",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:53:03Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-account",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-account",
+      "source": "ethjs/ethjs-account",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:53:06Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-contract",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-contract",
+      "source": "ethjs/ethjs-contract",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:08Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-filter",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-filter",
+      "source": "ethjs/ethjs-filter",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:11Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-format",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-format",
+      "source": "ethjs/ethjs-format",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:13Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-provider-http",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-provider-http",
+      "source": "ethjs/ethjs-provider-http",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:15Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-query",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-query",
+      "source": "ethjs/ethjs-query",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:18Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-rpc",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-rpc",
+      "source": "ethjs/ethjs-rpc",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:21Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-schema",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-schema",
+      "source": "ethjs/ethjs-schema",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:53:23Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-unit",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-unit",
+      "source": "ethjs/ethjs-unit",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:25Z"
+    },
+    {
+      "full_name": "MetaMask/ethjs-util",
+      "is_fork": true,
+      "parent": "ethjs/ethjs-util",
+      "source": "ethjs/ethjs-util",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:29Z"
+    },
+    {
+      "full_name": "MetaMask/everglade-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:53:31Z"
+    },
+    {
+      "full_name": "MetaMask/examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:53:33Z"
+    },
+    {
+      "full_name": "MetaMask/extension-port-stream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:53:36Z"
+    },
+    {
+      "full_name": "MetaMask/extension-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 73,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:38Z"
+    },
+    {
+      "full_name": "MetaMask/extension_bundlesize_stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:53:41Z"
+    },
+    {
+      "full_name": "MetaMask/extensionizer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:43Z"
+    },
+    {
+      "full_name": "MetaMask/faq",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 546,
+      "language": null,
+      "last_checked": "2026-03-10T01:53:45Z"
+    },
+    {
+      "full_name": "MetaMask/fastrand",
+      "is_fork": true,
+      "parent": "cheran-senthil/fastrand",
+      "source": "cheran-senthil/fastrand",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:53:48Z"
+    },
+    {
+      "full_name": "MetaMask/feedback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:53:48Z"
+    },
+    {
+      "full_name": "MetaMask/fetch-node-details-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:53:50Z"
+    },
+    {
+      "full_name": "MetaMask/fetch-node-details-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:53:53Z"
+    },
+    {
+      "full_name": "MetaMask/ffjavascript",
+      "is_fork": true,
+      "parent": "iden3/ffjavascript",
+      "source": "iden3/ffjavascript",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:53:56Z"
+    },
+    {
+      "full_name": "MetaMask/filsnap",
+      "is_fork": true,
+      "parent": "ChainSafe/filsnap",
+      "source": "ChainSafe/filsnap",
+      "stars": 3,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:54:02Z"
+    },
+    {
+      "full_name": "MetaMask/forwarder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:54:17Z"
+    },
+    {
+      "full_name": "MetaMask/foundry-toolchain",
+      "is_fork": true,
+      "parent": "foundry-rs/foundry-toolchain",
+      "source": "foundry-rs/foundry-toolchain",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:54:20Z"
+    },
+    {
+      "full_name": "MetaMask/ganache-http-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:54:22Z"
+    },
+    {
+      "full_name": "MetaMask/gator-cursor-contracts-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T01:54:24Z"
+    },
+    {
+      "full_name": "MetaMask/gator-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:54:33Z"
+    },
+    {
+      "full_name": "MetaMask/gator-nextjs-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:54:36Z"
+    },
+    {
+      "full_name": "MetaMask/gepety-scan-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:54:38Z"
+    },
+    {
+      "full_name": "MetaMask/github-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:54:42Z"
+    },
+    {
+      "full_name": "MetaMask/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:54:45Z"
+    },
+    {
+      "full_name": "MetaMask/go-libp2p",
+      "is_fork": true,
+      "parent": "libp2p/go-libp2p",
+      "source": "libp2p/go-libp2p",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:54:47Z"
+    },
+    {
+      "full_name": "MetaMask/go-libp2p-yamux",
+      "is_fork": true,
+      "parent": "libp2p/go-libp2p-yamux",
+      "source": "libp2p/go-libp2p-yamux",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:54:49Z"
+    },
+    {
+      "full_name": "MetaMask/go-opera",
+      "is_fork": true,
+      "parent": "Fantom-foundation/go-opera",
+      "source": "Fantom-foundation/go-opera",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:54:52Z"
+    },
+    {
+      "full_name": "MetaMask/go-substrate-rpc-client",
+      "is_fork": true,
+      "parent": "centrifuge/go-substrate-rpc-client",
+      "source": "centrifuge/go-substrate-rpc-client",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:54:54Z"
+    },
+    {
+      "full_name": "MetaMask/gpt-txn-insights",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:54:56Z"
+    },
+    {
+      "full_name": "MetaMask/hackathon-bounties",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T01:54:59Z"
+    },
+    {
+      "full_name": "MetaMask/hd-seed-phrase-guesser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:01Z"
+    },
+    {
+      "full_name": "MetaMask/hello-gator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:03Z"
+    },
+    {
+      "full_name": "MetaMask/hermes",
+      "is_fork": true,
+      "parent": "facebook/hermes",
+      "source": "facebook/hermes",
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:55:06Z"
+    },
+    {
+      "full_name": "MetaMask/holaplex",
+      "is_fork": true,
+      "parent": "holaplex/holaplex",
+      "source": "holaplex/holaplex",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:15Z"
+    },
+    {
+      "full_name": "MetaMask/http-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:17Z"
+    },
+    {
+      "full_name": "MetaMask/iframe-ee-openrpc-inspector-transport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:19Z"
+    },
+    {
+      "full_name": "MetaMask/iframe-execution-environment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:22Z"
+    },
+    {
+      "full_name": "MetaMask/infura-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:24Z"
+    },
+    {
+      "full_name": "MetaMask/ios-branch-deep-linking-attribution",
+      "is_fork": true,
+      "parent": "BranchMetrics/ios-branch-deep-linking-attribution",
+      "source": "BranchMetrics/ios-branch-deep-linking-attribution",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:55:26Z"
+    },
+    {
+      "full_name": "MetaMask/isomorphic-style-loader",
+      "is_fork": true,
+      "parent": "kriasoft/isomorphic-style-loader",
+      "source": "kriasoft/isomorphic-style-loader",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:29Z"
+    },
+    {
+      "full_name": "MetaMask/jazzicon",
+      "is_fork": true,
+      "parent": "danfinlay/jazzicon",
+      "source": "danfinlay/jazzicon",
+      "stars": 90,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:32Z"
+    },
+    {
+      "full_name": "MetaMask/js-libp2p-multicast-conditional",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:34Z"
+    },
+    {
+      "full_name": "MetaMask/js-libp2p-rendezvous",
+      "is_fork": true,
+      "parent": "libp2p/js-libp2p-rendezvous",
+      "source": "libp2p/js-libp2p-rendezvous",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:55:38Z"
+    },
+    {
+      "full_name": "MetaMask/json-rpc-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 161,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:40Z"
+    },
+    {
+      "full_name": "MetaMask/json-rpc-middleware-stream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:43Z"
+    },
+    {
+      "full_name": "MetaMask/json-schema-viewer",
+      "is_fork": true,
+      "parent": "stoplightio/json-schema-viewer",
+      "source": "stoplightio/json-schema-viewer",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:45Z"
+    },
+    {
+      "full_name": "MetaMask/jsonrpc",
+      "is_fork": true,
+      "parent": "osamingo/jsonrpc",
+      "source": "osamingo/jsonrpc",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:55:48Z"
+    },
+    {
+      "full_name": "MetaMask/jwt-prover-cairo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T01:55:52Z"
+    },
+    {
+      "full_name": "MetaMask/key-tree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:55:58Z"
+    },
+    {
+      "full_name": "MetaMask/keyring-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:01Z"
+    },
+    {
+      "full_name": "MetaMask/keyring-snaps-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:56:03Z"
+    },
+    {
+      "full_name": "MetaMask/keystone-sdk-base",
+      "is_fork": true,
+      "parent": "KeystoneHQ/keystone-sdk-base",
+      "source": "KeystoneHQ/keystone-sdk-base",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:06Z"
+    },
+    {
+      "full_name": "MetaMask/kreme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:08Z"
+    },
+    {
+      "full_name": "MetaMask/kryptology",
+      "is_fork": true,
+      "parent": "coinbase/kryptology",
+      "source": "coinbase/kryptology",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:56:13Z"
+    },
+    {
+      "full_name": "MetaMask/lachesis-base",
+      "is_fork": true,
+      "parent": "Fantom-foundation/lachesis-base",
+      "source": "Fantom-foundation/lachesis-base",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:56:16Z"
+    },
+    {
+      "full_name": "MetaMask/lakey-tprf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T01:56:18Z"
+    },
+    {
+      "full_name": "MetaMask/lattice-oprf-fhe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T01:56:20Z"
+    },
+    {
+      "full_name": "MetaMask/lavamoat-webpack",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:56:20Z"
+    },
+    {
+      "full_name": "MetaMask/ledger-hardware-wallet-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:24Z"
+    },
+    {
+      "full_name": "MetaMask/ledger-iframe-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:26Z"
+    },
+    {
+      "full_name": "MetaMask/ledgerhq-metamask-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:30Z"
+    },
+    {
+      "full_name": "MetaMask/legacy-web3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:34Z"
+    },
+    {
+      "full_name": "MetaMask/legacy-web3-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 108,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:37Z"
+    },
+    {
+      "full_name": "MetaMask/license-checker",
+      "is_fork": true,
+      "parent": "davglass/license-checker",
+      "source": "davglass/license-checker",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:39Z"
+    },
+    {
+      "full_name": "MetaMask/logo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 233,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:41Z"
+    },
+    {
+      "full_name": "MetaMask/lottie-react-native",
+      "is_fork": true,
+      "parent": "brunobar79/lottie-react-native",
+      "source": "lottie-react-native/lottie-react-native",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:56:44Z"
+    },
+    {
+      "full_name": "MetaMask/mascara",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 172,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:46Z"
+    },
+    {
+      "full_name": "MetaMask/maskicon",
+      "is_fork": true,
+      "parent": "MetaMask/jazzicon",
+      "source": "danfinlay/jazzicon",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T01:56:48Z"
+    },
+    {
+      "full_name": "MetaMask/menpo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:50Z"
+    },
+    {
+      "full_name": "MetaMask/mesh-testing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:56:52Z"
+    },
+    {
+      "full_name": "MetaMask/message-signing-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:55Z"
+    },
+    {
+      "full_name": "MetaMask/metadata-helpers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:56:59Z"
+    },
+    {
+      "full_name": "MetaMask/metagource",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:57:01Z"
+    },
+    {
+      "full_name": "MetaMask/metamark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-10T01:57:04Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-android-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 55,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T01:57:06Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-deeplinks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:08Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-design-system",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:11Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-desktop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:13Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 822,
+      "language": "MDX",
+      "last_checked": "2026-03-10T01:57:15Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-docs-next",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:17Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-dynamic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:20Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-eth-abis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:22Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13099,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:24Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-extension-ts-migration-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:26Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-filecoin-developer-beta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:29Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-improvement-proposals",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": null,
+      "last_checked": "2026-03-10T01:57:31Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-ios-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 50,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:57:34Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-k8s-sys",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:57:37Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-mobile",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2863,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:39Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-mobile-build-version",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:41Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-mobile-prebuilds",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:43Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-mobile-test1",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-mobile",
+      "source": "MetaMask/metamask-mobile",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:47Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-module-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:49Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-monorepo-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:57:51Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-onboarding",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 149,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:53Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 315,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:55Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-sdk-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 88,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:57:57Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-snaps-beta",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 144,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:00Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-storybook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 34,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:03Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T01:58:07Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-vision",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T01:58:11Z"
+    },
+    {
+      "full_name": "MetaMask/metamask-yeoman-generators",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:58:12Z"
+    },
+    {
+      "full_name": "MetaMask/mixpanel-iphone",
+      "is_fork": true,
+      "parent": "mixpanel/mixpanel-iphone",
+      "source": "mixpanel/mixpanel-iphone",
+      "stars": 0,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T01:58:14Z"
+    },
+    {
+      "full_name": "MetaMask/mm-docs-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:16Z"
+    },
+    {
+      "full_name": "MetaMask/mm-sdk-wagmi-vite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:18Z"
+    },
+    {
+      "full_name": "MetaMask/mobile-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:20Z"
+    },
+    {
+      "full_name": "MetaMask/mobile_bundlesize_stats",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:23Z"
+    },
+    {
+      "full_name": "MetaMask/mocaverse-wagmi-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:25Z"
+    },
+    {
+      "full_name": "MetaMask/module-lint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:27Z"
+    },
+    {
+      "full_name": "MetaMask/module-lint-fork",
+      "is_fork": true,
+      "parent": "MetaMask/module-lint",
+      "source": "MetaMask/module-lint",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:29Z"
+    },
+    {
+      "full_name": "MetaMask/mpc-android-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:58:32Z"
+    },
+    {
+      "full_name": "MetaMask/mpc-core-kit-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:34Z"
+    },
+    {
+      "full_name": "MetaMask/mpc-core-kit-redirect-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:37Z"
+    },
+    {
+      "full_name": "MetaMask/mpc-core-kit-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:58:40Z"
+    },
+    {
+      "full_name": "MetaMask/mpc-ios-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T01:58:42Z"
+    },
+    {
+      "full_name": "MetaMask/msg-editor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T01:58:44Z"
+    },
+    {
+      "full_name": "MetaMask/multichain-api-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:58:47Z"
+    },
+    {
+      "full_name": "MetaMask/nft-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:49Z"
+    },
+    {
+      "full_name": "MetaMask/nft-tickets-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 25,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:51Z"
+    },
+    {
+      "full_name": "MetaMask/noble-secp256k1-compat-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:53Z"
+    },
+    {
+      "full_name": "MetaMask/node-libs-react-native",
+      "is_fork": true,
+      "parent": "parshap/node-libs-react-native",
+      "source": "parshap/node-libs-react-native",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:55Z"
+    },
+    {
+      "full_name": "MetaMask/nonce-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:58:57Z"
+    },
+    {
+      "full_name": "MetaMask/number-to-bn",
+      "is_fork": true,
+      "parent": "legobeat/number-to-bn",
+      "source": "SilentCicero/number-to-bn",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:00Z"
+    },
+    {
+      "full_name": "MetaMask/object-multiplex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:02Z"
+    },
+    {
+      "full_name": "MetaMask/obs-store",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:04Z"
+    },
+    {
+      "full_name": "MetaMask/ocap-kernel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:06Z"
+    },
+    {
+      "full_name": "MetaMask/octodns-sync",
+      "is_fork": true,
+      "parent": "solvaholic/octodns-sync",
+      "source": "solvaholic/octodns-sync",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:59:09Z"
+    },
+    {
+      "full_name": "MetaMask/old-landing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:11Z"
+    },
+    {
+      "full_name": "MetaMask/old-metamask-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:14Z"
+    },
+    {
+      "full_name": "MetaMask/onchain-permissions-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:18Z"
+    },
+    {
+      "full_name": "MetaMask/onchain-permissions-standard-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:22Z"
+    },
+    {
+      "full_name": "MetaMask/onchain-svg-nft-tickets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:25Z"
+    },
+    {
+      "full_name": "MetaMask/one-key-flow-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:27Z"
+    },
+    {
+      "full_name": "MetaMask/open-rpc-docs-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-10T01:59:29Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-arbitrum-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:32Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-avalanche-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:35Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-binance-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:37Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-chrome-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:39Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-ethereum-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:41Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-expo-bare-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:59:45Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-expo-sdk-bare-demo-2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T01:59:47Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-polygon-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:49Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T01:59:51Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-solana-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:53Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-terra-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:59:58Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-web3modal-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:01Z"
+    },
+    {
+      "full_name": "MetaMask/openlogin-zkSync-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:04Z"
+    },
+    {
+      "full_name": "MetaMask/openrpc-docs-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:00:07Z"
+    },
+    {
+      "full_name": "MetaMask/openrpc-inspector-transport",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:10Z"
+    },
+    {
+      "full_name": "MetaMask/openrpc-inspector-transport-multichain",
+      "is_fork": true,
+      "parent": "MetaMask/openrpc-inspector-transport",
+      "source": "MetaMask/openrpc-inspector-transport",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:13Z"
+    },
+    {
+      "full_name": "MetaMask/oss-attribution-generator",
+      "is_fork": true,
+      "parent": "mindbridge-ai/oss-attribution-generator",
+      "source": "zumwald/oss-attribution-generator",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:15Z"
+    },
+    {
+      "full_name": "MetaMask/paymaster-sdk-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:18Z"
+    },
+    {
+      "full_name": "MetaMask/pending-tx-tracker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:20Z"
+    },
+    {
+      "full_name": "MetaMask/permissionless-snaps-directory",
+      "is_fork": true,
+      "parent": "MetaMask/snaps-directory",
+      "source": "MetaMask/snaps-directory",
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:27Z"
+    },
+    {
+      "full_name": "MetaMask/permissionless-snaps-directory-page",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:00:31Z"
+    },
+    {
+      "full_name": "MetaMask/permissions-adventure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:00:33Z"
+    },
+    {
+      "full_name": "MetaMask/phishing-warning",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:37Z"
+    },
+    {
+      "full_name": "MetaMask/post-message-stream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:39Z"
+    },
+    {
+      "full_name": "MetaMask/ppom-validator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:41Z"
+    },
+    {
+      "full_name": "MetaMask/ppom-view",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:43Z"
+    },
+    {
+      "full_name": "MetaMask/propel-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:49Z"
+    },
+    {
+      "full_name": "MetaMask/providers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 259,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:00:52Z"
+    },
+    {
+      "full_name": "MetaMask/pvss",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:00:54Z"
+    },
+    {
+      "full_name": "MetaMask/rawtransaction",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:00:56Z"
+    },
+    {
+      "full_name": "MetaMask/rds_exporter",
+      "is_fork": true,
+      "parent": "percona/rds_exporter",
+      "source": "Technofy/cloudwatch_exporter",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:00:58Z"
+    },
+    {
+      "full_name": "MetaMask/react-dapp-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 31,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:01:01Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-acm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T02:01:03Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-actionsheet",
+      "is_fork": true,
+      "parent": "beefe/react-native-actionsheet",
+      "source": "beefe/react-native-actionsheet",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:05Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-aes",
+      "is_fork": true,
+      "parent": "rainbow-me/react-native-aes",
+      "source": "tectiv3/react-native-aes",
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:01:08Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-aes-crypto-forked",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:01:10Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-animated-fox",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-animated-fox",
+      "source": "brunobar79/react-native-animated-fox",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:13Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-branch-deep-linking-attribution",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-branch-deep-linking-attribution",
+      "source": "BranchMetrics/react-native-branch-deep-linking-attribution",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:17Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-button",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-button",
+      "source": "ide/react-native-button",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:19Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-fs",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-fs",
+      "source": "itinance/react-native-fs",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:21Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-gesture-handler",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-gesture-handler",
+      "source": "software-mansion/react-native-gesture-handler",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:24Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-google-acm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T02:01:26Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-keychain",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-keychain",
+      "source": "oblador/react-native-keychain",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:29Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-mpc-core-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:01:31Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-os",
+      "is_fork": true,
+      "parent": "aprock/react-native-os",
+      "source": "PeelTechnologies/react-native-os",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:33Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-payments",
+      "is_fork": true,
+      "parent": "ExodusForks/react-native-payments",
+      "source": "naoufal/react-native-payments",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:36Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-push-notification",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-push-notification",
+      "source": "zo0r/react-native-push-notification",
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:01:38Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-scrollable-tab-view",
+      "is_fork": true,
+      "parent": "ptomasroos/react-native-scrollable-tab-view",
+      "source": "ptomasroos/react-native-scrollable-tab-view",
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:41Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-search-api",
+      "is_fork": true,
+      "parent": "hassellof/react-native-search-api",
+      "source": "hassellof/react-native-search-api",
+      "stars": 2,
+      "language": "Objective-C",
+      "last_checked": "2026-03-10T02:01:43Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-self-host-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:01:46Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-share",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-share",
+      "source": "react-native-share/react-native-share",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:01:49Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-splash-screen",
+      "is_fork": true,
+      "parent": "crazycodeboy/react-native-splash-screen",
+      "source": "crazycodeboy/react-native-splash-screen",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:01:53Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-tcp",
+      "is_fork": true,
+      "parent": "PeelTechnologies/react-native-tcp",
+      "source": "PeelTechnologies/react-native-tcp",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:01:55Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-tss-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:01:57Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-view-shot",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-view-shot",
+      "source": "gre/react-native-view-shot",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:00Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-web-browser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:02Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-webview",
+      "is_fork": true,
+      "parent": "brunobar79/react-native-webview",
+      "source": "react-native-webview/react-native-webview",
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:02:04Z"
+    },
+    {
+      "full_name": "MetaMask/react-native-webview-mm",
+      "is_fork": true,
+      "parent": "react-native-webview/react-native-webview",
+      "source": "react-native-webview/react-native-webview",
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:06Z"
+    },
+    {
+      "full_name": "MetaMask/react-sdk-linea-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:07Z"
+    },
+    {
+      "full_name": "MetaMask/red-balloon-game",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:09Z"
+    },
+    {
+      "full_name": "MetaMask/references",
+      "is_fork": true,
+      "parent": "wevm/references",
+      "source": "wevm/references",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:12Z"
+    },
+    {
+      "full_name": "MetaMask/rpc-cap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:02:14Z"
+    },
+    {
+      "full_name": "MetaMask/rpc-errors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 173,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:16Z"
+    },
+    {
+      "full_name": "MetaMask/rss-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:18Z"
+    },
+    {
+      "full_name": "MetaMask/saber-common",
+      "is_fork": true,
+      "parent": "saber-hq/saber-common",
+      "source": "saber-hq/saber-common",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:20Z"
+    },
+    {
+      "full_name": "MetaMask/safe-event-emitter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:23Z"
+    },
+    {
+      "full_name": "MetaMask/scaffold-eth-modal-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:25Z"
+    },
+    {
+      "full_name": "MetaMask/scure-bip39",
+      "is_fork": true,
+      "parent": "paulmillr/scure-bip39",
+      "source": "paulmillr/scure-bip39",
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:28Z"
+    },
+    {
+      "full_name": "MetaMask/sdk-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:31Z"
+    },
+    {
+      "full_name": "MetaMask/semgrep-action",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:02:33Z"
+    },
+    {
+      "full_name": "MetaMask/sentry-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:02:36Z"
+    },
+    {
+      "full_name": "MetaMask/serviceworker-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:02:38Z"
+    },
+    {
+      "full_name": "MetaMask/sesify-tofu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:40Z"
+    },
+    {
+      "full_name": "MetaMask/session-manager-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T02:02:42Z"
+    },
+    {
+      "full_name": "MetaMask/session-manager-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:02:44Z"
+    },
+    {
+      "full_name": "MetaMask/shellcheck-action",
+      "is_fork": true,
+      "parent": "fearphage/shellcheck-action",
+      "source": "fearphage/shellcheck-action",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T02:02:48Z"
+    },
+    {
+      "full_name": "MetaMask/signature-inspection",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:02:50Z"
+    },
+    {
+      "full_name": "MetaMask/single-factor-auth-react-native",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:02:52Z"
+    },
+    {
+      "full_name": "MetaMask/single-factor-auth-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:02:54Z"
+    },
+    {
+      "full_name": "MetaMask/siws-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:02:56Z"
+    },
+    {
+      "full_name": "MetaMask/siww-quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:03:01Z"
+    },
+    {
+      "full_name": "MetaMask/skip-duplicate-actions",
+      "is_fork": true,
+      "parent": "fkirc/skip-duplicate-actions",
+      "source": "fkirc/skip-duplicate-actions",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:03:04Z"
+    },
+    {
+      "full_name": "MetaMask/slip44",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:03:06Z"
+    },
+    {
+      "full_name": "MetaMask/smart-accounts-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:08Z"
+    },
+    {
+      "full_name": "MetaMask/smart-transactions-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:13Z"
+    },
+    {
+      "full_name": "MetaMask/snap-account-abstraction-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:15Z"
+    },
+    {
+      "full_name": "MetaMask/snap-bitcoin-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:17Z"
+    },
+    {
+      "full_name": "MetaMask/snap-box",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:20Z"
+    },
+    {
+      "full_name": "MetaMask/snap-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:03:22Z"
+    },
+    {
+      "full_name": "MetaMask/snap-institutional-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:25Z"
+    },
+    {
+      "full_name": "MetaMask/snap-simple-keyring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:27Z"
+    },
+    {
+      "full_name": "MetaMask/snap-solana-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:30Z"
+    },
+    {
+      "full_name": "MetaMask/snap-watch-only",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:32Z"
+    },
+    {
+      "full_name": "MetaMask/snap-workers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:03:34Z"
+    },
+    {
+      "full_name": "MetaMask/snaps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 828,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:36Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:39Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-directory",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:41Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-directory-staging",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:03:43Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 828,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:47Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-registry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 45,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:49Z"
+    },
+    {
+      "full_name": "MetaMask/snaps-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:51Z"
+    },
+    {
+      "full_name": "MetaMask/sol-wallet-adapter",
+      "is_fork": true,
+      "parent": "project-serum/sol-wallet-adapter",
+      "source": "project-serum/sol-wallet-adapter",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:03:54Z"
+    },
+    {
+      "full_name": "MetaMask/solana-embed-react-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:56Z"
+    },
+    {
+      "full_name": "MetaMask/solana-react-native-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:03:58Z"
+    },
+    {
+      "full_name": "MetaMask/solana-redirect-react-native-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:00Z"
+    },
+    {
+      "full_name": "MetaMask/solana-rn-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:04:02Z"
+    },
+    {
+      "full_name": "MetaMask/solana-serialization-bug",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:04Z"
+    },
+    {
+      "full_name": "MetaMask/solana-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:07Z"
+    },
+    {
+      "full_name": "MetaMask/solana-wallet-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:09Z"
+    },
+    {
+      "full_name": "MetaMask/solana-web3.js",
+      "is_fork": true,
+      "parent": "solana-foundation/solana-web3.js",
+      "source": "solana-foundation/solana-web3.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:11Z"
+    },
+    {
+      "full_name": "MetaMask/solidity",
+      "is_fork": true,
+      "parent": "argotorg/solidity",
+      "source": "argotorg/solidity",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:04:13Z"
+    },
+    {
+      "full_name": "MetaMask/spdx-compare.js",
+      "is_fork": true,
+      "parent": "jslicense/spdx-compare.js",
+      "source": "jslicense/spdx-compare.js",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:16Z"
+    },
+    {
+      "full_name": "MetaMask/spdx-satisfies.js",
+      "is_fork": true,
+      "parent": "jslicense/spdx-satisfies.js",
+      "source": "jslicense/spdx-satisfies.js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:18Z"
+    },
+    {
+      "full_name": "MetaMask/specifications",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:21Z"
+    },
+    {
+      "full_name": "MetaMask/spl-token-wallet",
+      "is_fork": true,
+      "parent": "project-serum/spl-token-wallet",
+      "source": "project-serum/spl-token-wallet",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:24Z"
+    },
+    {
+      "full_name": "MetaMask/stablecoin-nft-ticket-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:04:24Z"
+    },
+    {
+      "full_name": "MetaMask/starkware-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:26Z"
+    },
+    {
+      "full_name": "MetaMask/state-log-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:29Z"
+    },
+    {
+      "full_name": "MetaMask/statping",
+      "is_fork": true,
+      "parent": "statping/statping",
+      "source": "statping/statping",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:04:31Z"
+    },
+    {
+      "full_name": "MetaMask/superstruct",
+      "is_fork": true,
+      "parent": "ianstormtaylor/superstruct",
+      "source": "ianstormtaylor/superstruct",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:33Z"
+    },
+    {
+      "full_name": "MetaMask/sw-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:35Z"
+    },
+    {
+      "full_name": "MetaMask/swappable-obj-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:37Z"
+    },
+    {
+      "full_name": "MetaMask/talk-devcon2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:40Z"
+    },
+    {
+      "full_name": "MetaMask/talk-devcon3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:44Z"
+    },
+    {
+      "full_name": "MetaMask/talk-devcon4",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:04:46Z"
+    },
+    {
+      "full_name": "MetaMask/talk-hongkong-2016",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:48Z"
+    },
+    {
+      "full_name": "MetaMask/template-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:04:51Z"
+    },
+    {
+      "full_name": "MetaMask/template-snap-monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 129,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:55Z"
+    },
+    {
+      "full_name": "MetaMask/template-sync",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:04:57Z"
+    },
+    {
+      "full_name": "MetaMask/template-typescript-snap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:04:59Z"
+    },
+    {
+      "full_name": "MetaMask/templated-gator-7715",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:01Z"
+    },
+    {
+      "full_name": "MetaMask/tendermint",
+      "is_fork": true,
+      "parent": "YZhenY/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:05:03Z"
+    },
+    {
+      "full_name": "MetaMask/test-bundler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:05Z"
+    },
+    {
+      "full_name": "MetaMask/test-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 635,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:05:08Z"
+    },
+    {
+      "full_name": "MetaMask/test-dapp-multichain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:18Z"
+    },
+    {
+      "full_name": "MetaMask/test-dapp-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:20Z"
+    },
+    {
+      "full_name": "MetaMask/test-snaps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:23Z"
+    },
+    {
+      "full_name": "MetaMask/thorchain-tss",
+      "is_fork": true,
+      "parent": "yangmiok/thorchain-tss",
+      "source": "yangmiok/thorchain-tss",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T02:05:25Z"
+    },
+    {
+      "full_name": "MetaMask/tkey",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 181,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:27Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:05:29Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:05:32Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-mpc",
+      "is_fork": true,
+      "parent": "MetaMask/tkey",
+      "source": "MetaMask/tkey",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:34Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-mpc-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:05:37Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-mpc-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:39Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-mpc-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:05:41Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-react-native-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:05:46Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-react-native-storage-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:05:48Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-rust-android-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:05:51Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-rust-ios-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:05:57Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-service-provider-sfa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:03Z"
+    },
+    {
+      "full_name": "MetaMask/tkey-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:05Z"
+    },
+    {
+      "full_name": "MetaMask/tm-db",
+      "is_fork": true,
+      "parent": "tendermint/tm-db",
+      "source": "tendermint/tm-db",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:06:10Z"
+    },
+    {
+      "full_name": "MetaMask/tmp-snap-keyrings",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:14Z"
+    },
+    {
+      "full_name": "MetaMask/torus-apple-nativelogin-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:17Z"
+    },
+    {
+      "full_name": "MetaMask/torus-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:06:19Z"
+    },
+    {
+      "full_name": "MetaMask/torus-direct-android-native-logins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T02:06:21Z"
+    },
+    {
+      "full_name": "MetaMask/torus-direct-swift-sdk-mock-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:23Z"
+    },
+    {
+      "full_name": "MetaMask/torus-direct-unity-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "C#",
+      "last_checked": "2026-03-10T02:06:25Z"
+    },
+    {
+      "full_name": "MetaMask/torus-documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:06:28Z"
+    },
+    {
+      "full_name": "MetaMask/torus-ed25519key-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:30Z"
+    },
+    {
+      "full_name": "MetaMask/torus-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:06:32Z"
+    },
+    {
+      "full_name": "MetaMask/torus-matic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-10T02:06:34Z"
+    },
+    {
+      "full_name": "MetaMask/torus-mpc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:36Z"
+    },
+    {
+      "full_name": "MetaMask/torus-node",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 233,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:06:39Z"
+    },
+    {
+      "full_name": "MetaMask/torus-solana-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:06:41Z"
+    },
+    {
+      "full_name": "MetaMask/torus-swift-direct-sdk-demo-application",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:44Z"
+    },
+    {
+      "full_name": "MetaMask/torus-timer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:06:46Z"
+    },
+    {
+      "full_name": "MetaMask/torus-utils-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:06:48Z"
+    },
+    {
+      "full_name": "MetaMask/torus-utils-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:06:50Z"
+    },
+    {
+      "full_name": "MetaMask/torus-wagmi-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:52Z"
+    },
+    {
+      "full_name": "MetaMask/torus.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:54Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-eth-sig-util",
+      "is_fork": true,
+      "parent": "MetaMask/eth-sig-util",
+      "source": "MetaMask/eth-sig-util",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:06:57Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-metamask-extension",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:00Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-post-message-stream",
+      "is_fork": true,
+      "parent": "MetaMask/post-message-stream",
+      "source": "MetaMask/post-message-stream",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:04Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-rpc-cap",
+      "is_fork": true,
+      "parent": "MetaMask/rpc-cap",
+      "source": "MetaMask/rpc-cap",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:07:06Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-rpc-errors",
+      "is_fork": true,
+      "parent": "MetaMask/rpc-errors",
+      "source": "MetaMask/rpc-errors",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:07:09Z"
+    },
+    {
+      "full_name": "MetaMask/torusresearch-wallet-adapter",
+      "is_fork": true,
+      "parent": "anza-xyz/wallet-adapter",
+      "source": "anza-xyz/wallet-adapter",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:13Z"
+    },
+    {
+      "full_name": "MetaMask/transaction-controller",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:15Z"
+    },
+    {
+      "full_name": "MetaMask/transaction-state-manager",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:17Z"
+    },
+    {
+      "full_name": "MetaMask/tss-client-android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:07:21Z"
+    },
+    {
+      "full_name": "MetaMask/tss-client-swift",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:07:23Z"
+    },
+    {
+      "full_name": "MetaMask/tss-lib-rn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:25Z"
+    },
+    {
+      "full_name": "MetaMask/tss-signing-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:27Z"
+    },
+    {
+      "full_name": "MetaMask/tweetnacl-js",
+      "is_fork": true,
+      "parent": "dchest/tweetnacl-js",
+      "source": "dchest/tweetnacl-js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:30Z"
+    },
+    {
+      "full_name": "MetaMask/tx-gas-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:32Z"
+    },
+    {
+      "full_name": "MetaMask/types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:34Z"
+    },
+    {
+      "full_name": "MetaMask/uglifyify",
+      "is_fork": true,
+      "parent": "hughsk/uglifyify",
+      "source": "hughsk/uglifyify",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:38Z"
+    },
+    {
+      "full_name": "MetaMask/unity-runner",
+      "is_fork": true,
+      "parent": "MirageNet/unity-runner",
+      "source": "game-ci/unity-test-runner",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T02:07:42Z"
+    },
+    {
+      "full_name": "MetaMask/unity-webgl-build",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T02:07:44Z"
+    },
+    {
+      "full_name": "MetaMask/utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:47Z"
+    },
+    {
+      "full_name": "MetaMask/vanilla-ts-eip-6963",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:07:48Z"
+    },
+    {
+      "full_name": "MetaMask/vault-decryptor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 230,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:07:50Z"
+    },
+    {
+      "full_name": "MetaMask/verenc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:07:52Z"
+    },
+    {
+      "full_name": "MetaMask/vite-react-global-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:54Z"
+    },
+    {
+      "full_name": "MetaMask/vite-react-local-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:07:57Z"
+    },
+    {
+      "full_name": "MetaMask/vite-react-ts-eip-6963",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 28,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:00Z"
+    },
+    {
+      "full_name": "MetaMask/vite-vanilla-ts-eip-6963",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:03Z"
+    },
+    {
+      "full_name": "MetaMask/w3a-mpc-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:05Z"
+    },
+    {
+      "full_name": "MetaMask/wagmi-mmsdk-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:07Z"
+    },
+    {
+      "full_name": "MetaMask/wallet-adapter",
+      "is_fork": true,
+      "parent": "anza-xyz/wallet-adapter",
+      "source": "anza-xyz/wallet-adapter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:08:09Z"
+    },
+    {
+      "full_name": "MetaMask/wallet-ecosystems-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:12Z"
+    },
+    {
+      "full_name": "MetaMask/wallet-permissions-spec",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-10T02:08:16Z"
+    },
+    {
+      "full_name": "MetaMask/walletconnect-test-wallet",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-test-wallet",
+      "source": "WalletConnect/walletconnect-test-wallet",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:19Z"
+    },
+    {
+      "full_name": "MetaMask/walletkit",
+      "is_fork": true,
+      "parent": "GokiProtocol/walletkit",
+      "source": "GokiProtocol/walletkit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:08:21Z"
+    },
+    {
+      "full_name": "MetaMask/watch-token",
+      "is_fork": true,
+      "parent": "vittominacori/watch-token",
+      "source": "vittominacori/watch-token",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T02:08:24Z"
+    },
+    {
+      "full_name": "MetaMask/web3-android-mpc-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Java",
+      "last_checked": "2026-03-10T02:08:27Z"
+    },
+    {
+      "full_name": "MetaMask/web3-dubai-mm-workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:08:27Z"
+    },
+    {
+      "full_name": "MetaMask/web3-provider-engine",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 604,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:08:29Z"
+    },
+    {
+      "full_name": "MetaMask/web3-stream-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:08:32Z"
+    },
+    {
+      "full_name": "MetaMask/web3-swift-mpc-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:08:34Z"
+    },
+    {
+      "full_name": "MetaMask/web3-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:08:38Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-android-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T02:08:42Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-discourse-search-banner",
+      "is_fork": true,
+      "parent": "discourse/discourse-search-banner",
+      "source": "discourse/discourse-search-banner",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:08:44Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-firebase-extension",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:46Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-solana-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:48Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-starkex-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:08:51Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-swift-sample",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Swift",
+      "last_checked": "2026-03-10T02:08:55Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-unreal-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T02:08:59Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-unreal-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "C++",
+      "last_checked": "2026-03-10T02:09:01Z"
+    },
+    {
+      "full_name": "MetaMask/web3auth-wagmi-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:09:03Z"
+    },
+    {
+      "full_name": "MetaMask/web3connect",
+      "is_fork": true,
+      "parent": "reown-com/appkit",
+      "source": "reown-com/appkit",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:09:05Z"
+    },
+    {
+      "full_name": "MetaMask/web3pay-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:09:07Z"
+    },
+    {
+      "full_name": "MetaMask/webapp-v2",
+      "is_fork": true,
+      "parent": "Monarch717/webapp-v2",
+      "source": "Monarch717/webapp-v2",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:09:09Z"
+    },
+    {
+      "full_name": "MetaMask/webauthn",
+      "is_fork": true,
+      "parent": "duo-labs/webauthn",
+      "source": "duo-labs/webauthn",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T02:09:13Z"
+    },
+    {
+      "full_name": "MetaMask/webauthn-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:09:15Z"
+    },
+    {
+      "full_name": "MetaMask/webextensions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:09:16Z"
+    },
+    {
+      "full_name": "MetaMask/website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T16:18:40Z"
+    },
+    {
+      "full_name": "MetaMask/website-staging",
+      "is_fork": true,
+      "parent": "MetaMask/website",
+      "source": "MetaMask/website",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T02:09:18Z"
+    },
+    {
+      "full_name": "MetaMask/zero-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:09:20Z"
+    },
+    {
+      "full_name": "MetaMask/zkp-utils",
+      "is_fork": true,
+      "parent": "rujevic/zkp-utils",
+      "source": "rujevic/zkp-utils",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:09:22Z"
+    }
+  ]
+}

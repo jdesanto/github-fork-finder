@@ -1,0 +1,78 @@
+{
+  "owner": "merocoin",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MeroCoin/Graphics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:35:10Z"
+    },
+    {
+      "full_name": "MeroCoin/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:35:12Z"
+    },
+    {
+      "full_name": "MeroCoin/gitian.sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:35:14Z"
+    },
+    {
+      "full_name": "MeroCoin/mero",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:35:16Z"
+    },
+    {
+      "full_name": "MeroCoin/mero-detached-sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T01:35:18Z"
+    },
+    {
+      "full_name": "MeroCoin/mero-install",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T01:35:20Z"
+    },
+    {
+      "full_name": "MeroCoin/merocoin-seeder",
+      "is_fork": true,
+      "parent": "sipa/bitcoin-seeder",
+      "source": "sipa/bitcoin-seeder",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T01:35:22Z"
+    },
+    {
+      "full_name": "MeroCoin/website",
+      "is_fork": true,
+      "parent": "MeroProject/site",
+      "source": "MeroProject/site",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T01:35:24Z"
+    }
+  ]
+}

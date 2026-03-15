@@ -1,0 +1,429 @@
+{
+  "owner": "galxe",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "Galxe/BAB-SBT-Subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:19Z"
+    },
+    {
+      "full_name": "Galxe/alpaca-vault-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:21Z"
+    },
+    {
+      "full_name": "Galxe/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "MDX",
+      "last_checked": "2026-03-09T13:45:23Z"
+    },
+    {
+      "full_name": "Galxe/drand-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:45:25Z"
+    },
+    {
+      "full_name": "Galxe/earndrop-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:45:27Z"
+    },
+    {
+      "full_name": "Galxe/erc20-g-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:27Z"
+    },
+    {
+      "full_name": "Galxe/erc20-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:29Z"
+    },
+    {
+      "full_name": "Galxe/ethdenver25",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:31Z"
+    },
+    {
+      "full_name": "Galxe/gal-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:33Z"
+    },
+    {
+      "full_name": "Galxe/galaxy-airdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:35Z"
+    },
+    {
+      "full_name": "Galxe/galxe-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 163,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:45:37Z"
+    },
+    {
+      "full_name": "Galxe/galxe-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:38Z"
+    },
+    {
+      "full_name": "Galxe/galxe-gravity-contract-addresses",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:39Z"
+    },
+    {
+      "full_name": "Galxe/galxe-loyalty-point-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:41Z"
+    },
+    {
+      "full_name": "Galxe/galxe-nft-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:43Z"
+    },
+    {
+      "full_name": "Galxe/galxe-passport-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:45:45Z"
+    },
+    {
+      "full_name": "Galxe/galxe-raffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:45:47Z"
+    },
+    {
+      "full_name": "Galxe/galxe-starknet-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Cairo",
+      "last_checked": "2026-03-09T13:45:49Z"
+    },
+    {
+      "full_name": "Galxe/galxe-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:51Z"
+    },
+    {
+      "full_name": "Galxe/gravity-aptos",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-core",
+      "source": "aptos-labs/aptos-core",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:45:53Z"
+    },
+    {
+      "full_name": "Galxe/gravity-bridge-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:45:55Z"
+    },
+    {
+      "full_name": "Galxe/gravity-devnet-rpc-lb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T13:45:57Z"
+    },
+    {
+      "full_name": "Galxe/gravity-genesis-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:45:58Z"
+    },
+    {
+      "full_name": "Galxe/gravity-intent-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:00Z"
+    },
+    {
+      "full_name": "Galxe/gravity-litepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:00Z"
+    },
+    {
+      "full_name": "Galxe/gravity-reth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:46:02Z"
+    },
+    {
+      "full_name": "Galxe/gravity-safe-wallet-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:02Z"
+    },
+    {
+      "full_name": "Galxe/gravity-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:46:04Z"
+    },
+    {
+      "full_name": "Galxe/gravity-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:06Z"
+    },
+    {
+      "full_name": "Galxe/grevm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:46:08Z"
+    },
+    {
+      "full_name": "Galxe/grevm-reth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:46:11Z"
+    },
+    {
+      "full_name": "Galxe/grevm-test-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:13Z"
+    },
+    {
+      "full_name": "Galxe/ibalpaca-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:15Z"
+    },
+    {
+      "full_name": "Galxe/identity-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Circom",
+      "last_checked": "2026-03-09T13:46:17Z"
+    },
+    {
+      "full_name": "Galxe/loyalty-point",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:46:19Z"
+    },
+    {
+      "full_name": "Galxe/loyalty-points",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:21Z"
+    },
+    {
+      "full_name": "Galxe/opensea-trader-polygon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:23Z"
+    },
+    {
+      "full_name": "Galxe/protocol-whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 123,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:25Z"
+    },
+    {
+      "full_name": "Galxe/react-indentity-protocol-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:27Z"
+    },
+    {
+      "full_name": "Galxe/revm",
+      "is_fork": true,
+      "parent": "bluealloy/revm",
+      "source": "bluealloy/revm",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:29Z"
+    },
+    {
+      "full_name": "Galxe/revm-inspectors",
+      "is_fork": true,
+      "parent": "paradigmxyz/revm-inspectors",
+      "source": "paradigmxyz/revm-inspectors",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:31Z"
+    },
+    {
+      "full_name": "Galxe/sp1-raffle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:46:33Z"
+    },
+    {
+      "full_name": "Galxe/spotted-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:46:35Z"
+    },
+    {
+      "full_name": "Galxe/spotted-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:46:37Z"
+    },
+    {
+      "full_name": "Galxe/staking-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:39Z"
+    },
+    {
+      "full_name": "Galxe/trie",
+      "is_fork": true,
+      "parent": "alloy-rs/trie",
+      "source": "alloy-rs/trie",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:46:41Z"
+    },
+    {
+      "full_name": "Galxe/vanilla-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:46:43Z"
+    }
+  ]
+}

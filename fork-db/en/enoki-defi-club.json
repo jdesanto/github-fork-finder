@@ -1,0 +1,42 @@
+{
+  "owner": "enoki-defi-club",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "Enoki-DeFi-Club/DAO",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:45:38Z"
+    },
+    {
+      "full_name": "Enoki-DeFi-Club/enoki-audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T08:45:40Z"
+    },
+    {
+      "full_name": "Enoki-DeFi-Club/enoki-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T08:45:42Z"
+    },
+    {
+      "full_name": "Enoki-DeFi-Club/marketplace",
+      "is_fork": true,
+      "parent": "chainlito/marketplace",
+      "source": "chainlito/marketplace",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T08:45:44Z"
+    }
+  ]
+}

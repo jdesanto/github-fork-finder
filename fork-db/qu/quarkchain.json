@@ -1,0 +1,555 @@
+{
+  "owner": "quarkchain",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "QuarkChain/DynamicMerkleTree",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:41:03Z"
+    },
+    {
+      "full_name": "QuarkChain/L2Bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:41:05Z"
+    },
+    {
+      "full_name": "QuarkChain/QCEPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T19:41:07Z"
+    },
+    {
+      "full_name": "QuarkChain/QKCMonitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:41:08Z"
+    },
+    {
+      "full_name": "QuarkChain/QPocket-Android",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-10T19:41:10Z"
+    },
+    {
+      "full_name": "QuarkChain/QPocket-iOS",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-10T19:41:12Z"
+    },
+    {
+      "full_name": "QuarkChain/Qkchash_CPU_Miner",
+      "is_fork": true,
+      "parent": "jyouyj/Qkchash_CPU_Miner",
+      "source": "jyouyj/Qkchash_CPU_Miner",
+      "stars": 3,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:41:14Z"
+    },
+    {
+      "full_name": "QuarkChain/awesome-zig",
+      "is_fork": true,
+      "parent": "zigcc/awesome-zig",
+      "source": "zigcc/awesome-zig",
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-10T19:41:16Z"
+    },
+    {
+      "full_name": "QuarkChain/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T19:41:18Z"
+    },
+    {
+      "full_name": "QuarkChain/coolwallet3-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:41:18Z"
+    },
+    {
+      "full_name": "QuarkChain/crowdsale-whitelist",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:41:21Z"
+    },
+    {
+      "full_name": "QuarkChain/dblog",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:41:23Z"
+    },
+    {
+      "full_name": "QuarkChain/dollar",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:41:23Z"
+    },
+    {
+      "full_name": "QuarkChain/ens-app",
+      "is_fork": true,
+      "parent": "ensdomains/ens-app",
+      "source": "ensdomains/ens-app",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:41:25Z"
+    },
+    {
+      "full_name": "QuarkChain/equalizer-info",
+      "is_fork": true,
+      "parent": "hanyunx/uniswap-info",
+      "source": "Uniswap/info",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:41:28Z"
+    },
+    {
+      "full_name": "QuarkChain/eth-storage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:41:30Z"
+    },
+    {
+      "full_name": "QuarkChain/ethfs-uploader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:41:32Z"
+    },
+    {
+      "full_name": "QuarkChain/ethminer",
+      "is_fork": true,
+      "parent": "jyouyj/ethminer",
+      "source": "ethereum-mining/ethminer",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:41:34Z"
+    },
+    {
+      "full_name": "QuarkChain/evm-large-storage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:41:36Z"
+    },
+    {
+      "full_name": "QuarkChain/faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T19:41:38Z"
+    },
+    {
+      "full_name": "QuarkChain/go-arweave",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:40Z"
+    },
+    {
+      "full_name": "QuarkChain/go-ethereum",
+      "is_fork": true,
+      "parent": "ethereum/go-ethereum",
+      "source": "ethereum/go-ethereum",
+      "stars": 6,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:42Z"
+    },
+    {
+      "full_name": "QuarkChain/go-minimal-pbft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:44Z"
+    },
+    {
+      "full_name": "QuarkChain/golang-lru",
+      "is_fork": true,
+      "parent": "hashicorp/golang-lru",
+      "source": "hashicorp/golang-lru",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:46Z"
+    },
+    {
+      "full_name": "QuarkChain/goqkcclient",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:48Z"
+    },
+    {
+      "full_name": "QuarkChain/goquarkchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:50Z"
+    },
+    {
+      "full_name": "QuarkChain/infra",
+      "is_fork": true,
+      "parent": "ethereum-optimism/infra",
+      "source": "ethereum-optimism/infra",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:52Z"
+    },
+    {
+      "full_name": "QuarkChain/ledger-qkc-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T19:41:54Z"
+    },
+    {
+      "full_name": "QuarkChain/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:56Z"
+    },
+    {
+      "full_name": "QuarkChain/open-cryptofate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:41:57Z"
+    },
+    {
+      "full_name": "QuarkChain/optimism",
+      "is_fork": true,
+      "parent": "ethstorage/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:41:59Z"
+    },
+    {
+      "full_name": "QuarkChain/optimism-package",
+      "is_fork": true,
+      "parent": "ethpandaops/optimism-package",
+      "source": "ethpandaops/optimism-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-10T19:42:01Z"
+    },
+    {
+      "full_name": "QuarkChain/pm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T19:42:03Z"
+    },
+    {
+      "full_name": "QuarkChain/pyquarkchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 223,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:42:05Z"
+    },
+    {
+      "full_name": "QuarkChain/qkcDataService",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:42:07Z"
+    },
+    {
+      "full_name": "QuarkChain/qrobot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:42:09Z"
+    },
+    {
+      "full_name": "QuarkChain/qswap-core",
+      "is_fork": true,
+      "parent": "Uniswap/v2-core",
+      "source": "Uniswap/v2-core",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:42:11Z"
+    },
+    {
+      "full_name": "QuarkChain/qswap-periphery",
+      "is_fork": true,
+      "parent": "Uniswap/v2-periphery",
+      "source": "Uniswap/v2-periphery",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:42:13Z"
+    },
+    {
+      "full_name": "QuarkChain/quarkchain-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:15Z"
+    },
+    {
+      "full_name": "QuarkChain/quarkchain-migrate-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:42:17Z"
+    },
+    {
+      "full_name": "QuarkChain/quarkchain-native-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:19Z"
+    },
+    {
+      "full_name": "QuarkChain/quarkchain-web3.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:21Z"
+    },
+    {
+      "full_name": "QuarkChain/quarkchain-web3j",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-10T19:42:23Z"
+    },
+    {
+      "full_name": "QuarkChain/rate-limiting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:25Z"
+    },
+    {
+      "full_name": "QuarkChain/relayer",
+      "is_fork": true,
+      "parent": "cosmos/relayer",
+      "source": "cosmos/relayer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:27Z"
+    },
+    {
+      "full_name": "QuarkChain/snapshot-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:29Z"
+    },
+    {
+      "full_name": "QuarkChain/staking-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:42:31Z"
+    },
+    {
+      "full_name": "QuarkChain/swc-doc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:33Z"
+    },
+    {
+      "full_name": "QuarkChain/tendermintx",
+      "is_fork": true,
+      "parent": "tendermint/tendermint",
+      "source": "tendermint/tendermint",
+      "stars": 5,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:42:35Z"
+    },
+    {
+      "full_name": "QuarkChain/tests",
+      "is_fork": true,
+      "parent": "ethereum/tests",
+      "source": "ethereum/tests",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:37Z"
+    },
+    {
+      "full_name": "QuarkChain/tqkc-bounty-lottery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:42:39Z"
+    },
+    {
+      "full_name": "QuarkChain/tron-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:40Z"
+    },
+    {
+      "full_name": "QuarkChain/tss-lib",
+      "is_fork": true,
+      "parent": "bnb-chain/tss-lib",
+      "source": "bnb-chain/tss-lib",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:42:42Z"
+    },
+    {
+      "full_name": "QuarkChain/uni-interface",
+      "is_fork": true,
+      "parent": "Uniswap/interface",
+      "source": "Uniswap/interface",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:42:44Z"
+    },
+    {
+      "full_name": "QuarkChain/uniswap-v2-sdk",
+      "is_fork": true,
+      "parent": "Uniswap/v2-sdk",
+      "source": "Uniswap/v2-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:46Z"
+    },
+    {
+      "full_name": "QuarkChain/uniswap-v3-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:42:46Z"
+    },
+    {
+      "full_name": "QuarkChain/w3box",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:42:48Z"
+    },
+    {
+      "full_name": "QuarkChain/w3drive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:42:50Z"
+    },
+    {
+      "full_name": "QuarkChain/w3mail",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Vue",
+      "last_checked": "2026-03-10T19:42:52Z"
+    },
+    {
+      "full_name": "QuarkChain/w3q-deployer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:42:54Z"
+    },
+    {
+      "full_name": "QuarkChain/xchain-dao",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:42:56Z"
+    }
+  ]
+}

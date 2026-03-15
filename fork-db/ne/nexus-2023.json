@@ -1,0 +1,375 @@
+{
+  "owner": "nexus-2023",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Nexus-2023/Backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:19Z"
+    },
+    {
+      "full_name": "Nexus-2023/Complere-Bridge",
+      "is_fork": true,
+      "parent": "umershaikh123/Complere-Bridge",
+      "source": "umershaikh123/Complere-Bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:21Z"
+    },
+    {
+      "full_name": "Nexus-2023/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:57:23Z"
+    },
+    {
+      "full_name": "Nexus-2023/DiscordTicketingBot",
+      "is_fork": true,
+      "parent": "umershaikh123/DiscordTicketingBot",
+      "source": "umershaikh123/DiscordTicketingBot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:25Z"
+    },
+    {
+      "full_name": "Nexus-2023/Nexus-Contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:57:27Z"
+    },
+    {
+      "full_name": "Nexus-2023/Nexus-Library",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:29Z"
+    },
+    {
+      "full_name": "Nexus-2023/Nexus-Website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:31Z"
+    },
+    {
+      "full_name": "Nexus-2023/NexusPackages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:33Z"
+    },
+    {
+      "full_name": "Nexus-2023/account-abstraction",
+      "is_fork": true,
+      "parent": "eth-infinitism/account-abstraction",
+      "source": "eth-infinitism/account-abstraction",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:35Z"
+    },
+    {
+      "full_name": "Nexus-2023/aptos-go-sdk",
+      "is_fork": true,
+      "parent": "aptos-labs/aptos-go-sdk",
+      "source": "aptos-labs/aptos-go-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:37Z"
+    },
+    {
+      "full_name": "Nexus-2023/arbitrum-orbit-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-chain-sdk",
+      "source": "OffchainLabs/arbitrum-chain-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:39Z"
+    },
+    {
+      "full_name": "Nexus-2023/arbitrum-sdk",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-sdk",
+      "source": "OffchainLabs/arbitrum-sdk",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:41Z"
+    },
+    {
+      "full_name": "Nexus-2023/arbitrum-token-bridge",
+      "is_fork": true,
+      "parent": "umershaikh123/arbitrum-token-bridge",
+      "source": "OffchainLabs/arbitrum-token-bridge",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:57:43Z"
+    },
+    {
+      "full_name": "Nexus-2023/arbitrum-tutorials",
+      "is_fork": true,
+      "parent": "OffchainLabs/arbitrum-tutorials",
+      "source": "OffchainLabs/arbitrum-tutorials",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:45Z"
+    },
+    {
+      "full_name": "Nexus-2023/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:47Z"
+    },
+    {
+      "full_name": "Nexus-2023/avail-nitro-adapter",
+      "is_fork": true,
+      "parent": "availproject/avail-nitro-adapter",
+      "source": "OffchainLabs/nitro",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:49Z"
+    },
+    {
+      "full_name": "Nexus-2023/berachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:51Z"
+    },
+    {
+      "full_name": "Nexus-2023/blockdcout-frontend",
+      "is_fork": true,
+      "parent": "blockscout/frontend",
+      "source": "blockscout/frontend",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:53Z"
+    },
+    {
+      "full_name": "Nexus-2023/blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:55Z"
+    },
+    {
+      "full_name": "Nexus-2023/bundler",
+      "is_fork": true,
+      "parent": "eth-infinitism/bundler",
+      "source": "eth-infinitism/bundler",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:57Z"
+    },
+    {
+      "full_name": "Nexus-2023/default-lists",
+      "is_fork": true,
+      "parent": "berachain/default-lists",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:57:59Z"
+    },
+    {
+      "full_name": "Nexus-2023/movebot",
+      "is_fork": true,
+      "parent": "elizaOS/eliza",
+      "source": "elizaOS/eliza",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:01Z"
+    },
+    {
+      "full_name": "Nexus-2023/neuxs-ssv-dkg",
+      "is_fork": true,
+      "parent": "ssvlabs/ssv-dkg",
+      "source": "ssvlabs/ssv-dkg",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:03Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-dai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:05Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:07Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-database-frontEnd",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:58:09Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-mantle",
+      "is_fork": true,
+      "parent": "mantlenetworkio/mantle",
+      "source": "mantlenetworkio/mantle",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:11Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:13Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-orbit-ui-admin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:15Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-orbit-ui-user",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:17Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus-telegram-bot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:58:19Z"
+    },
+    {
+      "full_name": "Nexus-2023/nexus_docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:21Z"
+    },
+    {
+      "full_name": "Nexus-2023/nitro",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:23Z"
+    },
+    {
+      "full_name": "Nexus-2023/nitro-contracts",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro-contracts",
+      "source": "OffchainLabs/nitro-contracts",
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T07:58:25Z"
+    },
+    {
+      "full_name": "Nexus-2023/octopus-orbit-setup-script",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:27Z"
+    },
+    {
+      "full_name": "Nexus-2023/orbit-setup-script",
+      "is_fork": true,
+      "parent": "OffchainLabs/orbit-setup-script",
+      "source": "OffchainLabs/orbit-setup-script",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:29Z"
+    },
+    {
+      "full_name": "Nexus-2023/scroll",
+      "is_fork": true,
+      "parent": "scroll-tech/scroll",
+      "source": "scroll-tech/scroll",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:31Z"
+    },
+    {
+      "full_name": "Nexus-2023/ssv-dkg",
+      "is_fork": true,
+      "parent": "RockX-SG/ssv-dkg",
+      "source": "RockX-SG/ssv-dkg",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:33Z"
+    },
+    {
+      "full_name": "Nexus-2023/subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:35Z"
+    },
+    {
+      "full_name": "Nexus-2023/zkevm-contracts",
+      "is_fork": true,
+      "parent": "agglayer/agglayer-contracts",
+      "source": "agglayer/agglayer-contracts",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:58:37Z"
+    },
+    {
+      "full_name": "Nexus-2023/zkevm-sequencer",
+      "is_fork": true,
+      "parent": "0xPolygon/zkevm-sequencer",
+      "source": "0xPolygon/zkevm-sequencer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:58:39Z"
+    }
+  ]
+}

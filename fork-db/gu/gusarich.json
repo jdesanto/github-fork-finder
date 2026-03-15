@@ -1,6 +1,6 @@
 {
   "owner": "gusarich",
-  "updated_at": "2026-03-11T15:55:00Z",
+  "updated_at": "2026-03-12T02:55:22Z",
   "repos": [
     {
       "full_name": "Gusarich/Footsteps-notifier",
@@ -94,12 +94,12 @@
     },
     {
       "full_name": "Gusarich/ecosytem-map",
-      "is_fork": false,
-      "parent": null,
-      "source": null,
-      "stars": 0,
+      "is_fork": true,
+      "parent": "ton-society/ecosystem-map",
+      "source": "ton-society/ecosystem-map",
+      "stars": 1,
       "language": null,
-      "last_checked": "2026-03-09T14:50:59Z"
+      "last_checked": "2026-03-11T16:01:12Z"
     },
     {
       "full_name": "Gusarich/external-scheduler",

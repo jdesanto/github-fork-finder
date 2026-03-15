@@ -1,0 +1,42 @@
+{
+  "owner": "sollock",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "SOLLock/SOLLock-Landing-Page",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T01:04:06Z"
+    },
+    {
+      "full_name": "SOLLock/raydium-ui",
+      "is_fork": true,
+      "parent": "raydium-io/raydium-ui",
+      "source": "raydium-io/raydium-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T01:04:08Z"
+    },
+    {
+      "full_name": "SOLLock/sollock-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T01:04:10Z"
+    },
+    {
+      "full_name": "SOLLock/token-list",
+      "is_fork": true,
+      "parent": "solana-labs/token-list",
+      "source": "solana-labs/token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T01:04:12Z"
+    }
+  ]
+}

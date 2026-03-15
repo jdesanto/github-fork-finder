@@ -1,0 +1,456 @@
+{
+  "owner": "pufferfinance",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PufferFinance/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:26Z"
+    },
+    {
+      "full_name": "PufferFinance/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:04:28Z"
+    },
+    {
+      "full_name": "PufferFinance/Deployments-and-ACL",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:30Z"
+    },
+    {
+      "full_name": "PufferFinance/EL-Operator-Metadata",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:32Z"
+    },
+    {
+      "full_name": "PufferFinance/PortalAI",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:34Z"
+    },
+    {
+      "full_name": "PufferFinance/Puffer-Preconf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:04:36Z"
+    },
+    {
+      "full_name": "PufferFinance/Puffer-Resource",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:38Z"
+    },
+    {
+      "full_name": "PufferFinance/PufferPool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:04:40Z"
+    },
+    {
+      "full_name": "PufferFinance/UniFi",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:04:42Z"
+    },
+    {
+      "full_name": "PufferFinance/assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:45Z"
+    },
+    {
+      "full_name": "PufferFinance/blsttc",
+      "is_fork": true,
+      "parent": "maidsafe/blsttc",
+      "source": "maidsafe/blsttc",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:04:47Z"
+    },
+    {
+      "full_name": "PufferFinance/chaindata",
+      "is_fork": true,
+      "parent": "connext/chaindata",
+      "source": "connext/chaindata",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:49Z"
+    },
+    {
+      "full_name": "PufferFinance/coral",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:04:51Z"
+    },
+    {
+      "full_name": "PufferFinance/curve-assets",
+      "is_fork": true,
+      "parent": "curvefi/curve-assets",
+      "source": "curvefi/curve-assets",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T19:04:53Z"
+    },
+    {
+      "full_name": "PufferFinance/default-token-list",
+      "is_fork": true,
+      "parent": "CamelotLabs/default-token-list",
+      "source": "CamelotLabs/default-token-list",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:04:55Z"
+    },
+    {
+      "full_name": "PufferFinance/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:04:57Z"
+    },
+    {
+      "full_name": "PufferFinance/eth-keystore-rs",
+      "is_fork": true,
+      "parent": "roynalnaruto/eth-keystore-rs",
+      "source": "roynalnaruto/eth-keystore-rs",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:05:00Z"
+    },
+    {
+      "full_name": "PufferFinance/ethereum-package",
+      "is_fork": true,
+      "parent": "ethpandaops/ethereum-package",
+      "source": "ethpandaops/ethereum-package",
+      "stars": 0,
+      "language": "Starlark",
+      "last_checked": "2026-03-10T19:05:02Z"
+    },
+    {
+      "full_name": "PufferFinance/lighthouse",
+      "is_fork": true,
+      "parent": "sigp/lighthouse",
+      "source": "sigp/lighthouse",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:05:04Z"
+    },
+    {
+      "full_name": "PufferFinance/merkl-puffer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:05:06Z"
+    },
+    {
+      "full_name": "PufferFinance/modeling",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T19:05:07Z"
+    },
+    {
+      "full_name": "PufferFinance/monorepo",
+      "is_fork": true,
+      "parent": "connext/monorepo",
+      "source": "connext/monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:10Z"
+    },
+    {
+      "full_name": "PufferFinance/operator-calldata-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:12Z"
+    },
+    {
+      "full_name": "PufferFinance/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:14Z"
+    },
+    {
+      "full_name": "PufferFinance/preconfs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:16Z"
+    },
+    {
+      "full_name": "PufferFinance/pufETH",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 103,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:17Z"
+    },
+    {
+      "full_name": "PufferFinance/puffer-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:19Z"
+    },
+    {
+      "full_name": "PufferFinance/puffer-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:21Z"
+    },
+    {
+      "full_name": "PufferFinance/puffer-locker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:23Z"
+    },
+    {
+      "full_name": "PufferFinance/puffer-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:05:25Z"
+    },
+    {
+      "full_name": "PufferFinance/raiko",
+      "is_fork": true,
+      "parent": "taikoxyz/raiko",
+      "source": "taikoxyz/raiko",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:05:27Z"
+    },
+    {
+      "full_name": "PufferFinance/rave",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:30Z"
+    },
+    {
+      "full_name": "PufferFinance/scripts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T19:05:32Z"
+    },
+    {
+      "full_name": "PufferFinance/scroll-deployments",
+      "is_fork": true,
+      "parent": "scroll-tech/scroll",
+      "source": "scroll-tech/scroll",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:34Z"
+    },
+    {
+      "full_name": "PufferFinance/secure-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 76,
+      "language": "HTML",
+      "last_checked": "2026-03-10T19:05:36Z"
+    },
+    {
+      "full_name": "PufferFinance/secure-signer-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:05:38Z"
+    },
+    {
+      "full_name": "PufferFinance/sgxEVM",
+      "is_fork": true,
+      "parent": "PufferFinance/secure-signer",
+      "source": "PufferFinance/secure-signer",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:40Z"
+    },
+    {
+      "full_name": "PufferFinance/simple-taiko-node",
+      "is_fork": true,
+      "parent": "taikoxyz/simple-taiko-node",
+      "source": "taikoxyz/simple-taiko-node",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:42Z"
+    },
+    {
+      "full_name": "PufferFinance/ssz_types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:05:44Z"
+    },
+    {
+      "full_name": "PufferFinance/stereum-ethereum-node",
+      "is_fork": true,
+      "parent": "stereum-dev/ethereum-node",
+      "source": "stereum-dev/ethereum-node",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:46Z"
+    },
+    {
+      "full_name": "PufferFinance/taiko-geth",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-geth",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:05:48Z"
+    },
+    {
+      "full_name": "PufferFinance/taiko-mono",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-mono",
+      "source": "taikoxyz/taiko-mono",
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T19:05:51Z"
+    },
+    {
+      "full_name": "PufferFinance/taiko-reth",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-reth",
+      "source": "paradigmxyz/reth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:53Z"
+    },
+    {
+      "full_name": "PufferFinance/token-logos",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:05:55Z"
+    },
+    {
+      "full_name": "PufferFinance/tree_hash",
+      "is_fork": true,
+      "parent": "sigp/tree_hash",
+      "source": "sigp/tree_hash",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:05:57Z"
+    },
+    {
+      "full_name": "PufferFinance/unifi-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:05:59Z"
+    },
+    {
+      "full_name": "PufferFinance/unifi-geth",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-geth",
+      "source": "ethereum/go-ethereum",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:06:01Z"
+    },
+    {
+      "full_name": "PufferFinance/unifi-mono",
+      "is_fork": true,
+      "parent": "taikoxyz/taiko-mono",
+      "source": "taikoxyz/taiko-mono",
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T19:06:03Z"
+    },
+    {
+      "full_name": "PufferFinance/website-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:06:05Z"
+    },
+    {
+      "full_name": "PufferFinance/x509-forest-of-trust",
+      "is_fork": true,
+      "parent": "JonahGroendal/x509-forest-of-trust",
+      "source": "JonahGroendal/x509-forest-of-trust",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T19:06:07Z"
+    }
+  ]
+}

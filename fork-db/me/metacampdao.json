@@ -1,0 +1,699 @@
+{
+  "owner": "metacampdao",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MetacampDAO/Pay2Earn",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:18Z"
+    },
+    {
+      "full_name": "MetacampDAO/Solana-assignment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:20Z"
+    },
+    {
+      "full_name": "MetacampDAO/anchor-counter-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:22Z"
+    },
+    {
+      "full_name": "MetacampDAO/anchor-nft-staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:10:23Z"
+    },
+    {
+      "full_name": "MetacampDAO/anchor-nft-staking-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:10:25Z"
+    },
+    {
+      "full_name": "MetacampDAO/basic_cpi_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:10:27Z"
+    },
+    {
+      "full_name": "MetacampDAO/capstone-assignment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:10:29Z"
+    },
+    {
+      "full_name": "MetacampDAO/customer-rewards-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:32Z"
+    },
+    {
+      "full_name": "MetacampDAO/demo-react-frontend-fnb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:10:34Z"
+    },
+    {
+      "full_name": "MetacampDAO/demo-solana-pay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:36Z"
+    },
+    {
+      "full_name": "MetacampDAO/demo-web3-solana",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:38Z"
+    },
+    {
+      "full_name": "MetacampDAO/drink-menu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:10:40Z"
+    },
+    {
+      "full_name": "MetacampDAO/dummy-signing-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:42Z"
+    },
+    {
+      "full_name": "MetacampDAO/elearn-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:44Z"
+    },
+    {
+      "full_name": "MetacampDAO/elearn-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:46Z"
+    },
+    {
+      "full_name": "MetacampDAO/escrow-anchor-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:10:48Z"
+    },
+    {
+      "full_name": "MetacampDAO/escrow-marketplace-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:50Z"
+    },
+    {
+      "full_name": "MetacampDAO/escrow-marketplace-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:52Z"
+    },
+    {
+      "full_name": "MetacampDAO/farmhaus",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:10:55Z"
+    },
+    {
+      "full_name": "MetacampDAO/fungible-token-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:10:57Z"
+    },
+    {
+      "full_name": "MetacampDAO/gm-anchor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T02:11:01Z"
+    },
+    {
+      "full_name": "MetacampDAO/gm-anchor-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:03Z"
+    },
+    {
+      "full_name": "MetacampDAO/heist_program_clone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:05Z"
+    },
+    {
+      "full_name": "MetacampDAO/in-class-module-01",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:07Z"
+    },
+    {
+      "full_name": "MetacampDAO/in-class-module-02",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:11Z"
+    },
+    {
+      "full_name": "MetacampDAO/in-class-module-03",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:14Z"
+    },
+    {
+      "full_name": "MetacampDAO/in-class-module-04",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:17Z"
+    },
+    {
+      "full_name": "MetacampDAO/last-to-ten",
+      "is_fork": true,
+      "parent": "metacamp-so/last-to-ten",
+      "source": "metacamp-so/last-to-ten",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:11:20Z"
+    },
+    {
+      "full_name": "MetacampDAO/lesson-core-1-mint-a-collections",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:22Z"
+    },
+    {
+      "full_name": "MetacampDAO/lesson-core-1-solana-airdrops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:24Z"
+    },
+    {
+      "full_name": "MetacampDAO/lesson-core-1-solana-balance-fetcher",
+      "is_fork": true,
+      "parent": "buildspace/solana-intro-frontend",
+      "source": "Unboxed-Software/solana-intro-frontend",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:26Z"
+    },
+    {
+      "full_name": "MetacampDAO/lesson-core-1-token-mint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:28Z"
+    },
+    {
+      "full_name": "MetacampDAO/metacamp-anchor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:31Z"
+    },
+    {
+      "full_name": "MetacampDAO/metacamp-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:33Z"
+    },
+    {
+      "full_name": "MetacampDAO/metacamp-rust-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:35Z"
+    },
+    {
+      "full_name": "MetacampDAO/metacamp-solang",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T02:11:38Z"
+    },
+    {
+      "full_name": "MetacampDAO/metacamp-token-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:40Z"
+    },
+    {
+      "full_name": "MetacampDAO/movie-anchor-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:42Z"
+    },
+    {
+      "full_name": "MetacampDAO/next_cm3_ui_template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:44Z"
+    },
+    {
+      "full_name": "MetacampDAO/next_web3_starter_code",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:46Z"
+    },
+    {
+      "full_name": "MetacampDAO/next_web3_template_13.5",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:48Z"
+    },
+    {
+      "full_name": "MetacampDAO/nft-collection-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:50Z"
+    },
+    {
+      "full_name": "MetacampDAO/nft_staking_frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:52Z"
+    },
+    {
+      "full_name": "MetacampDAO/openhaus-donation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:11:54Z"
+    },
+    {
+      "full_name": "MetacampDAO/practice_bonk_voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:11:56Z"
+    },
+    {
+      "full_name": "MetacampDAO/react_web3_template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:11:58Z"
+    },
+    {
+      "full_name": "MetacampDAO/rust-counter-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:00Z"
+    },
+    {
+      "full_name": "MetacampDAO/rust-example-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:02Z"
+    },
+    {
+      "full_name": "MetacampDAO/sbl-fauceet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:04Z"
+    },
+    {
+      "full_name": "MetacampDAO/sbl-my-first-dapp-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T02:12:06Z"
+    },
+    {
+      "full_name": "MetacampDAO/sbl-nft-frontend-template",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:08Z"
+    },
+    {
+      "full_name": "MetacampDAO/sdk_token_minting_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:10Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-data-analytics",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:13Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-installfest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:12:15Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-movie-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:17Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-movie-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:19Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-pay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T02:12:21Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-pay-signing-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:23Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-summer-camp-2022",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T02:12:25Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-sveltekit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T02:12:27Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana-sveltekit-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Svelte",
+      "last_checked": "2026-03-10T02:12:29Z"
+    },
+    {
+      "full_name": "MetacampDAO/solana_websocket",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:31Z"
+    },
+    {
+      "full_name": "MetacampDAO/staking-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:33Z"
+    },
+    {
+      "full_name": "MetacampDAO/stripe-nft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:35Z"
+    },
+    {
+      "full_name": "MetacampDAO/sugar-cli-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T02:12:37Z"
+    },
+    {
+      "full_name": "MetacampDAO/switchboard-counter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:39Z"
+    },
+    {
+      "full_name": "MetacampDAO/take-home-module-01",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:41Z"
+    },
+    {
+      "full_name": "MetacampDAO/take-home-module-02",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:43Z"
+    },
+    {
+      "full_name": "MetacampDAO/take-home-module-03",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:45Z"
+    },
+    {
+      "full_name": "MetacampDAO/token-operations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:47Z"
+    },
+    {
+      "full_name": "MetacampDAO/token_vesting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:49Z"
+    },
+    {
+      "full_name": "MetacampDAO/token_vesting_client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:51Z"
+    },
+    {
+      "full_name": "MetacampDAO/token_vesting_client_v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:54Z"
+    },
+    {
+      "full_name": "MetacampDAO/token_vesting_v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T02:12:56Z"
+    },
+    {
+      "full_name": "MetacampDAO/tradehaus-fe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:12:58Z"
+    },
+    {
+      "full_name": "MetacampDAO/tradehaus-program",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:13:00Z"
+    },
+    {
+      "full_name": "MetacampDAO/website-react-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T02:13:02Z"
+    }
+  ]
+}

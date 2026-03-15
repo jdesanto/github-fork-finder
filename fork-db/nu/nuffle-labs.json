@@ -1,0 +1,150 @@
+{
+  "owner": "nuffle-labs",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Nuffle-Labs/curve25519-dalek",
+      "is_fork": true,
+      "parent": "risc0/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:36:46Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/data-availability",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 54,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:36:48Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:36:50Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/fenix",
+      "is_fork": true,
+      "parent": "nix-community/fenix",
+      "source": "nix-community/fenix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:36:52Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/foundry-template",
+      "is_fork": true,
+      "parent": "carrion256/foundry-template",
+      "source": "PaulRBerg/foundry-template",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:36:54Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-da-arbitrum-nitro",
+      "is_fork": true,
+      "parent": "carrion256/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:36:57Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-da-op",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:36:59Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-da-op-plasma",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:36:59Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-da-optimism",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:37:01Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-da-polygon-cdk",
+      "is_fork": true,
+      "parent": "0xPolygon/cdk-validium-node",
+      "source": "0xPolygon/zkevm-node",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:37:03Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-sdk-rs",
+      "is_fork": true,
+      "parent": "near/near-sdk-rs",
+      "source": "near/near-sdk-rs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:37:05Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/near-zk-light-client-jolt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T09:37:07Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/next-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:37:08Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/nffl",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:37:10Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/nffl-ping-pong",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:37:10Z"
+    },
+    {
+      "full_name": "Nuffle-Labs/nitro-near-da",
+      "is_fork": true,
+      "parent": "OffchainLabs/nitro",
+      "source": "OffchainLabs/nitro",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:37:12Z"
+    }
+  ]
+}

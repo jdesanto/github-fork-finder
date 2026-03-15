@@ -1,0 +1,438 @@
+{
+  "owner": "meld-labs",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MELD-labs/MELD-Stake-Pools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:32Z"
+    },
+    {
+      "full_name": "MELD-labs/amazon-ecr-login",
+      "is_fork": true,
+      "parent": "aws-actions/amazon-ecr-login",
+      "source": "aws-actions/amazon-ecr-login",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:56:34Z"
+    },
+    {
+      "full_name": "MELD-labs/beam",
+      "is_fork": true,
+      "parent": "haskell-beam/beam",
+      "source": "haskell-beam/beam",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:37Z"
+    },
+    {
+      "full_name": "MELD-labs/bitrise-step-download-from-lokalise",
+      "is_fork": true,
+      "parent": "onin-engineering/bitrise-step-download-from-lokalise",
+      "source": "onin-engineering/bitrise-step-download-from-lokalise",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T20:56:39Z"
+    },
+    {
+      "full_name": "MELD-labs/bitrise-step-upload-to-lokalise",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T20:56:42Z"
+    },
+    {
+      "full_name": "MELD-labs/blockfrost-go",
+      "is_fork": true,
+      "parent": "blockfrost/blockfrost-go",
+      "source": "blockfrost/blockfrost-go",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:45Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-addresses",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-addresses",
+      "source": "IntersectMBO/cardano-addresses",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:47Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-api",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-api",
+      "source": "IntersectMBO/cardano-api",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:56:49Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-base",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-base",
+      "source": "IntersectMBO/cardano-base",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:51Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-db-sync",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-db-sync",
+      "source": "IntersectMBO/cardano-db-sync",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:56:54Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-defi-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 40,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:56:58Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-ledger",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-ledger",
+      "source": "IntersectMBO/cardano-ledger",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:00Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-node",
+      "is_fork": true,
+      "parent": "IntersectMBO/cardano-node",
+      "source": "IntersectMBO/cardano-node",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:57:03Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-serialization-lib",
+      "is_fork": true,
+      "parent": "Emurgo/cardano-serialization-lib",
+      "source": "Emurgo/cardano-serialization-lib",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:57:06Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-sl-x509",
+      "is_fork": true,
+      "parent": "input-output-hk/cardano-sl-x509",
+      "source": "input-output-hk/cardano-sl-x509",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:09Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-token-registry",
+      "is_fork": true,
+      "parent": "cardano-foundation/cardano-token-registry",
+      "source": "cardano-foundation/cardano-token-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:11Z"
+    },
+    {
+      "full_name": "MELD-labs/cardano-wallet",
+      "is_fork": true,
+      "parent": "cardano-foundation/cardano-wallet",
+      "source": "cardano-foundation/cardano-wallet",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:57:13Z"
+    },
+    {
+      "full_name": "MELD-labs/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 2,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T20:57:15Z"
+    },
+    {
+      "full_name": "MELD-labs/configure-aws-credentials",
+      "is_fork": true,
+      "parent": "aws-actions/configure-aws-credentials",
+      "source": "aws-actions/configure-aws-credentials",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:57:19Z"
+    },
+    {
+      "full_name": "MELD-labs/ekg-forward",
+      "is_fork": true,
+      "parent": "input-output-hk/ekg-forward",
+      "source": "input-output-hk/ekg-forward",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:21Z"
+    },
+    {
+      "full_name": "MELD-labs/evm-defi-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:57:23Z"
+    },
+    {
+      "full_name": "MELD-labs/evm-token-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:57:27Z"
+    },
+    {
+      "full_name": "MELD-labs/fourmolu-binaries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:29Z"
+    },
+    {
+      "full_name": "MELD-labs/github-artifacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T20:57:32Z"
+    },
+    {
+      "full_name": "MELD-labs/graph-node",
+      "is_fork": true,
+      "parent": "graphprotocol/graph-node",
+      "source": "graphprotocol/graph-node",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:39Z"
+    },
+    {
+      "full_name": "MELD-labs/hardhat.nix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Nix",
+      "last_checked": "2026-03-09T20:57:42Z"
+    },
+    {
+      "full_name": "MELD-labs/hlint",
+      "is_fork": true,
+      "parent": "ndmitchell/hlint",
+      "source": "ndmitchell/hlint",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:57:45Z"
+    },
+    {
+      "full_name": "MELD-labs/hs-web3",
+      "is_fork": true,
+      "parent": "airalab/hs-web3",
+      "source": "airalab/hs-web3",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:57:47Z"
+    },
+    {
+      "full_name": "MELD-labs/hydra-poc",
+      "is_fork": true,
+      "parent": "cardano-scaling/hydra",
+      "source": "cardano-scaling/hydra",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:49Z"
+    },
+    {
+      "full_name": "MELD-labs/iohk-nix",
+      "is_fork": true,
+      "parent": "input-output-hk/iohk-nix",
+      "source": "input-output-hk/iohk-nix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:51Z"
+    },
+    {
+      "full_name": "MELD-labs/ledger-app",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-boilerplate",
+      "source": "LedgerHQ/app-boilerplate",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:57:53Z"
+    },
+    {
+      "full_name": "MELD-labs/ledger-live",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledger-live",
+      "source": "LedgerHQ/ledger-live",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:57:56Z"
+    },
+    {
+      "full_name": "MELD-labs/lucid",
+      "is_fork": true,
+      "parent": "spacebudz/lucid",
+      "source": "spacebudz/lucid",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:57:58Z"
+    },
+    {
+      "full_name": "MELD-labs/lucid-vite",
+      "is_fork": true,
+      "parent": "MELD-labs/lucid",
+      "source": "spacebudz/lucid",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:00Z"
+    },
+    {
+      "full_name": "MELD-labs/marlowe-cardano",
+      "is_fork": true,
+      "parent": "marlowe-lang/marlowe-cardano",
+      "source": "marlowe-lang/marlowe-cardano",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:02Z"
+    },
+    {
+      "full_name": "MELD-labs/meld-flashloan-liquidation-bot-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T20:58:04Z"
+    },
+    {
+      "full_name": "MELD-labs/meld-staking-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:58:06Z"
+    },
+    {
+      "full_name": "MELD-labs/meld-supported-config",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-09T20:58:08Z"
+    },
+    {
+      "full_name": "MELD-labs/metadata-registry-testnet",
+      "is_fork": true,
+      "parent": "input-output-hk/metadata-registry-testnet",
+      "source": "input-output-hk/metadata-registry-testnet",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:11Z"
+    },
+    {
+      "full_name": "MELD-labs/ouroboros-network",
+      "is_fork": true,
+      "parent": "IntersectMBO/ouroboros-network",
+      "source": "IntersectMBO/ouroboros-network",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:58:13Z"
+    },
+    {
+      "full_name": "MELD-labs/plutonomy",
+      "is_fork": true,
+      "parent": "well-typed/plutonomy",
+      "source": "well-typed/plutonomy",
+      "stars": 0,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:58:15Z"
+    },
+    {
+      "full_name": "MELD-labs/plutus",
+      "is_fork": true,
+      "parent": "IntersectMBO/plutus",
+      "source": "IntersectMBO/plutus",
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:58:17Z"
+    },
+    {
+      "full_name": "MELD-labs/plutus-apps",
+      "is_fork": true,
+      "parent": "IntersectMBO/plutus-apps",
+      "source": "IntersectMBO/plutus-apps",
+      "stars": 2,
+      "language": "Haskell",
+      "last_checked": "2026-03-09T20:58:20Z"
+    },
+    {
+      "full_name": "MELD-labs/plutus-starter",
+      "is_fork": true,
+      "parent": "input-output-hk/plutus-starter",
+      "source": "input-output-hk/plutus-starter",
+      "stars": 1,
+      "language": "Nix",
+      "last_checked": "2026-03-09T20:58:22Z"
+    },
+    {
+      "full_name": "MELD-labs/ply",
+      "is_fork": true,
+      "parent": "mlabs-haskell/ply",
+      "source": "mlabs-haskell/ply",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:25Z"
+    },
+    {
+      "full_name": "MELD-labs/stack",
+      "is_fork": true,
+      "parent": "commercialhaskell/stack",
+      "source": "commercialhaskell/stack",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:27Z"
+    },
+    {
+      "full_name": "MELD-labs/tribute-dao-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:58:27Z"
+    },
+    {
+      "full_name": "MELD-labs/truffle.nix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Nix",
+      "last_checked": "2026-03-09T20:58:30Z"
+    }
+  ]
+}

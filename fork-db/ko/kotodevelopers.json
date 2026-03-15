@@ -1,0 +1,87 @@
+{
+  "owner": "kotodevelopers",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "KotoDevelopers/cpuminer-yescrypt",
+      "is_fork": true,
+      "parent": "koto-dev/cpuminer-yescrypt.old",
+      "source": "pooler/cpuminer",
+      "stars": 12,
+      "language": "C",
+      "last_checked": "2026-03-09T14:53:59Z"
+    },
+    {
+      "full_name": "KotoDevelopers/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": null,
+      "last_checked": "2026-03-09T14:54:01Z"
+    },
+    {
+      "full_name": "KotoDevelopers/gitian.sigs",
+      "is_fork": true,
+      "parent": "zcash/gitian.sigs",
+      "source": "zcash/gitian.sigs",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T14:54:03Z"
+    },
+    {
+      "full_name": "KotoDevelopers/koto",
+      "is_fork": true,
+      "parent": "koto-dev/koto.old",
+      "source": "koto-dev/koto.old",
+      "stars": 27,
+      "language": "C++",
+      "last_checked": "2026-03-09T14:54:06Z"
+    },
+    {
+      "full_name": "KotoDevelopers/koto-detached-sigs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T14:54:09Z"
+    },
+    {
+      "full_name": "KotoDevelopers/koto-gitian",
+      "is_fork": true,
+      "parent": "zcash/zcash-gitian",
+      "source": "zcash/zcash-gitian",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T14:54:11Z"
+    },
+    {
+      "full_name": "KotoDevelopers/koto-swing-wallet-ui",
+      "is_fork": true,
+      "parent": "koto-dev/zcash-swing-wallet-ui.old",
+      "source": "privatenode/zcash-swing-wallet-ui",
+      "stars": 3,
+      "language": "Java",
+      "last_checked": "2026-03-09T14:54:14Z"
+    },
+    {
+      "full_name": "KotoDevelopers/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T14:54:19Z"
+    },
+    {
+      "full_name": "KotoDevelopers/web",
+      "is_fork": true,
+      "parent": "koto-dev/web",
+      "source": "koto-dev/web",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T14:54:21Z"
+    }
+  ]
+}

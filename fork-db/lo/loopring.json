@@ -1,0 +1,690 @@
+{
+  "owner": "loopring",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "Loopring/DEX-API",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T19:18:56Z"
+    },
+    {
+      "full_name": "Loopring/DEX-API-V3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:18:58Z"
+    },
+    {
+      "full_name": "Loopring/DeFi-Pulse-Adapters",
+      "is_fork": true,
+      "parent": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "source": "ConcourseOpen/DeFi-Pulse-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:19:01Z"
+    },
+    {
+      "full_name": "Loopring/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:19:03Z"
+    },
+    {
+      "full_name": "Loopring/Gitbook-Documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:06Z"
+    },
+    {
+      "full_name": "Loopring/KSChart",
+      "is_fork": true,
+      "parent": "sevtin/KSChart",
+      "source": "sevtin/KSChart",
+      "stars": 2,
+      "language": "Swift",
+      "last_checked": "2026-03-09T19:19:10Z"
+    },
+    {
+      "full_name": "Loopring/Loopring-Audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:10Z"
+    },
+    {
+      "full_name": "Loopring/Toaster",
+      "is_fork": true,
+      "parent": "devxoul/Toaster",
+      "source": "devxoul/Toaster",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-09T19:19:12Z"
+    },
+    {
+      "full_name": "Loopring/WalletConnectKotlinV2",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectKotlinV2",
+      "source": "WalletConnect/WalletConnectKotlinV2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:14Z"
+    },
+    {
+      "full_name": "Loopring/WalletConnectSwiftV2",
+      "is_fork": true,
+      "parent": "WalletConnect/WalletConnectSwiftV2",
+      "source": "WalletConnect/WalletConnectSwiftV2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:17Z"
+    },
+    {
+      "full_name": "Loopring/Web3.swift",
+      "is_fork": true,
+      "parent": "chainnodesorg/Web3.swift",
+      "source": "chainnodesorg/Web3.swift",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-09T19:19:19Z"
+    },
+    {
+      "full_name": "Loopring/aave-stake-v2",
+      "is_fork": true,
+      "parent": "aave/aave-stake-v2",
+      "source": "aave/aave-stake-v2",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:23Z"
+    },
+    {
+      "full_name": "Loopring/awesome-loopring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 60,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:25Z"
+    },
+    {
+      "full_name": "Loopring/bundler",
+      "is_fork": true,
+      "parent": "eth-infinitism/bundler",
+      "source": "eth-infinitism/bundler",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:19:28Z"
+    },
+    {
+      "full_name": "Loopring/connectkit-middleware",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:19:30Z"
+    },
+    {
+      "full_name": "Loopring/crawler",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:30Z"
+    },
+    {
+      "full_name": "Loopring/dexbrowser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:31Z"
+    },
+    {
+      "full_name": "Loopring/dexwebapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:19:33Z"
+    },
+    {
+      "full_name": "Loopring/documentation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:33Z"
+    },
+    {
+      "full_name": "Loopring/documents",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:33Z"
+    },
+    {
+      "full_name": "Loopring/download_apks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:35Z"
+    },
+    {
+      "full_name": "Loopring/downloads",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:36Z"
+    },
+    {
+      "full_name": "Loopring/dx-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:36Z"
+    },
+    {
+      "full_name": "Loopring/eddsa-metamask-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:19:38Z"
+    },
+    {
+      "full_name": "Loopring/ethereum-optimism.github.io",
+      "is_fork": true,
+      "parent": "ethereum-optimism/ethereum-optimism.github.io",
+      "source": "ethereum-optimism/ethereum-optimism.github.io",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:19:41Z"
+    },
+    {
+      "full_name": "Loopring/ethsnarks",
+      "is_fork": true,
+      "parent": "HarryR/ethsnarks",
+      "source": "barryWhiteHat/semaphore",
+      "stars": 9,
+      "language": "C++",
+      "last_checked": "2026-03-09T19:19:43Z"
+    },
+    {
+      "full_name": "Loopring/extractor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:43Z"
+    },
+    {
+      "full_name": "Loopring/go-ethereum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:44Z"
+    },
+    {
+      "full_name": "Loopring/go-iden3-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-09T19:19:46Z"
+    },
+    {
+      "full_name": "Loopring/go-loopring-sig",
+      "is_fork": true,
+      "parent": "loopexchange-labs/go-loopring-sig",
+      "source": "loopexchange-labs/go-loopring-sig",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T19:19:48Z"
+    },
+    {
+      "full_name": "Loopring/hello_loopring",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:19:50Z"
+    },
+    {
+      "full_name": "Loopring/hummingbot",
+      "is_fork": true,
+      "parent": "hummingbot/hummingbot",
+      "source": "hummingbot/hummingbot",
+      "stars": 36,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:19:52Z"
+    },
+    {
+      "full_name": "Loopring/hummingbot-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:19:54Z"
+    },
+    {
+      "full_name": "Loopring/i18n",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:19:56Z"
+    },
+    {
+      "full_name": "Loopring/libff",
+      "is_fork": true,
+      "parent": "scipr-lab/libff",
+      "source": "scipr-lab/libff",
+      "stars": 2,
+      "language": "C++",
+      "last_checked": "2026-03-09T19:19:58Z"
+    },
+    {
+      "full_name": "Loopring/libfqfft",
+      "is_fork": true,
+      "parent": "Ethsnarks/libfqfft",
+      "source": "scipr-lab/libfqfft",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:00Z"
+    },
+    {
+      "full_name": "Loopring/libsnark",
+      "is_fork": true,
+      "parent": "Ethsnarks/libsnark",
+      "source": "scipr-lab/libsnark",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:06Z"
+    },
+    {
+      "full_name": "Loopring/lightcone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:07Z"
+    },
+    {
+      "full_name": "Loopring/loopr-android-jade",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:08Z"
+    },
+    {
+      "full_name": "Loopring/loopr-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:08Z"
+    },
+    {
+      "full_name": "Loopring/loopring-explorer",
+      "is_fork": true,
+      "parent": "shad-k/loopring-explorer",
+      "source": "shad-k/loopring-explorer",
+      "stars": 13,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:20:11Z"
+    },
+    {
+      "full_name": "Loopring/loopring-subgraph-v2",
+      "is_fork": true,
+      "parent": "juanmardefago/loopring-subgraph-v2",
+      "source": "juanmardefago/loopring-subgraph-v2",
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:20:13Z"
+    },
+    {
+      "full_name": "Loopring/loopring-swap",
+      "is_fork": true,
+      "parent": "luzzif/loopring-swap",
+      "source": "luzzif/loopring-swap",
+      "stars": 17,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:20:15Z"
+    },
+    {
+      "full_name": "Loopring/loopring-wallet-feedback",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:17Z"
+    },
+    {
+      "full_name": "Loopring/loopring-web-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:20:19Z"
+    },
+    {
+      "full_name": "Loopring/loopring.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:20Z"
+    },
+    {
+      "full_name": "Loopring/loopring36_block_parser",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:20:23Z"
+    },
+    {
+      "full_name": "Loopring/loopring_sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 148,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:20:25Z"
+    },
+    {
+      "full_name": "Loopring/loopringv3-withdraw-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:20:27Z"
+    },
+    {
+      "full_name": "Loopring/loopringv3.1_staking",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:27Z"
+    },
+    {
+      "full_name": "Loopring/loopringv3.6-subgraph",
+      "is_fork": true,
+      "parent": "protofire/loopringv3.6-subgraph",
+      "source": "protofire/loopringv3.6-subgraph",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:29Z"
+    },
+    {
+      "full_name": "Loopring/lrc-staking-dapp",
+      "is_fork": true,
+      "parent": "vanmoortel/lrc-staking-dapp",
+      "source": "vanmoortel/lrc-staking-dapp",
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-09T19:20:32Z"
+    },
+    {
+      "full_name": "Loopring/moody-brains",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:32Z"
+    },
+    {
+      "full_name": "Loopring/poseidon-java",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-09T19:20:34Z"
+    },
+    {
+      "full_name": "Loopring/protocol3-circuits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "C++",
+      "last_checked": "2026-03-09T19:20:36Z"
+    },
+    {
+      "full_name": "Loopring/protocols",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 335,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T19:20:38Z"
+    },
+    {
+      "full_name": "Loopring/react-native-ui-lib",
+      "is_fork": true,
+      "parent": "wix/react-native-ui-lib",
+      "source": "wix/react-native-ui-lib",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:40Z"
+    },
+    {
+      "full_name": "Loopring/recharts",
+      "is_fork": true,
+      "parent": "recharts/recharts",
+      "source": "recharts/recharts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:43Z"
+    },
+    {
+      "full_name": "Loopring/relay-eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:45Z"
+    },
+    {
+      "full_name": "Loopring/relay-neo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:45Z"
+    },
+    {
+      "full_name": "Loopring/relay-qtum",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:45Z"
+    },
+    {
+      "full_name": "Loopring/relay_api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:46Z"
+    },
+    {
+      "full_name": "Loopring/solidity-flattener",
+      "is_fork": true,
+      "parent": "poanetwork/solidity-flattener",
+      "source": "poanetwork/solidity-flattener",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:20:49Z"
+    },
+    {
+      "full_name": "Loopring/techDoc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:51Z"
+    },
+    {
+      "full_name": "Loopring/trailblazer-adapters",
+      "is_fork": true,
+      "parent": "taikoxyz/trailblazer-adapters",
+      "source": "taikoxyz/trailblazer-adapters",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T19:20:53Z"
+    },
+    {
+      "full_name": "Loopring/trust-web3-provider",
+      "is_fork": true,
+      "parent": "trustwallet/trust-web3-provider",
+      "source": "trustwallet/trust-web3-provider",
+      "stars": 0,
+      "language": "Swift",
+      "last_checked": "2026-03-09T19:20:56Z"
+    },
+    {
+      "full_name": "Loopring/trusted_setup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T19:20:58Z"
+    },
+    {
+      "full_name": "Loopring/uniswap-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:21:00Z"
+    },
+    {
+      "full_name": "Loopring/vnpy",
+      "is_fork": true,
+      "parent": "vnpy/vnpy",
+      "source": "vnpy/vnpy",
+      "stars": 21,
+      "language": "Python",
+      "last_checked": "2026-03-09T19:21:02Z"
+    },
+    {
+      "full_name": "Loopring/walletconnect-monorepo",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-monorepo",
+      "source": "WalletConnect/walletconnect-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:21:04Z"
+    },
+    {
+      "full_name": "Loopring/walletconnect-v2-monorepo",
+      "is_fork": true,
+      "parent": "symfoni/walletconnect-v2-monorepo",
+      "source": "symfoni/walletconnect-v2-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:21:06Z"
+    },
+    {
+      "full_name": "Loopring/wcdb",
+      "is_fork": true,
+      "parent": "Tencent/wcdb",
+      "source": "Tencent/wcdb",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:21:09Z"
+    },
+    {
+      "full_name": "Loopring/web-widget",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T19:21:10Z"
+    },
+    {
+      "full_name": "Loopring/web3-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T19:21:12Z"
+    },
+    {
+      "full_name": "Loopring/website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T19:21:14Z"
+    },
+    {
+      "full_name": "Loopring/whitepaper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 67,
+      "language": "TeX",
+      "last_checked": "2026-03-09T19:21:16Z"
+    }
+  ]
+}

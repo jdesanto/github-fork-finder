@@ -1,0 +1,213 @@
+{
+  "owner": "polynomial-protocol",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "Polynomial-Protocol/asynqmon",
+      "is_fork": true,
+      "parent": "hibiken/asynqmon",
+      "source": "hibiken/asynqmon",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:33Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T17:26:35Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/event-registration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:37Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/funding-rate-arb",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:26:39Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/fx-connectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:26:41Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/fx-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:43Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/fx-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:26:45Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/fx-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:26:47Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/generate-uo-alchemy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:26:49Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/magicscan-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:26:51Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/meta-deposit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:26:53Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/monorepo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:55Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/op-geth",
+      "is_fork": true,
+      "parent": "ethereum-optimism/op-geth",
+      "source": "ethereum-optimism/op-geth",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:57Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/optimism",
+      "is_fork": true,
+      "parent": "ethereum-optimism/optimism",
+      "source": "ethereum-optimism/optimism",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:26:59Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/optimistic-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:27:01Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/polynomial-earn-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:27:03Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/safe-wallet-web",
+      "is_fork": true,
+      "parent": "safe-global/safe-wallet-monorepo",
+      "source": "safe-global/safe-wallet-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:27:05Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/stackup-paymaster",
+      "is_fork": true,
+      "parent": "WarutereIan/stackup-paymaster",
+      "source": "WarutereIan/stackup-paymaster",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T17:27:07Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/superbridge-app",
+      "is_fork": true,
+      "parent": "samaeleth/superbridge-app",
+      "source": "samaeleth/superbridge-app",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:27:09Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/superchain-registry",
+      "is_fork": true,
+      "parent": "ethereum-optimism/superchain-registry",
+      "source": "ethereum-optimism/superchain-registry",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T17:27:11Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/that-broken-pipe",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:27:13Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/tracking-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:27:14Z"
+    },
+    {
+      "full_name": "Polynomial-Protocol/utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:27:16Z"
+    }
+  ]
+}

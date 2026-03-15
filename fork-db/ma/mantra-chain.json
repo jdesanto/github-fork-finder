@@ -1,0 +1,339 @@
+{
+  "owner": "mantra-chain",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "MANTRA-Chain/DefiLlama-Adapters",
+      "is_fork": true,
+      "parent": "DefiLlama/DefiLlama-Adapters",
+      "source": "DefiLlama/DefiLlama-Adapters",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:45:55Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/assetlists",
+      "is_fork": true,
+      "parent": "osmosis-labs/assetlists",
+      "source": "osmosis-labs/assetlists",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:45:57Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/chain-registry",
+      "is_fork": true,
+      "parent": "cosmos/chain-registry",
+      "source": "cosmos/chain-registry",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T20:46:00Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/chains",
+      "is_fork": true,
+      "parent": "ethereum-lists/chains",
+      "source": "ethereum-lists/chains",
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T20:46:02Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/connect",
+      "is_fork": true,
+      "parent": "skip-mev/connect",
+      "source": "skip-mev/connect",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:46:04Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-balance-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:06Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-ibc-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:08Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-operator",
+      "is_fork": true,
+      "parent": "strangelove-ventures/cosmos-operator",
+      "source": "strangelove-ventures/cosmos-operator",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:46:11Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-proposal-watcher",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:13Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-sdk",
+      "is_fork": true,
+      "parent": "cosmos/cosmos-sdk",
+      "source": "cosmos/cosmos-sdk",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:46:15Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/cosmos-upgrade-watcher",
+      "is_fork": true,
+      "parent": "allthatjazzleo/cosmos-upgrade-watcher",
+      "source": "allthatjazzleo/cosmos-upgrade-watcher",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:46:18Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/defillama-server",
+      "is_fork": true,
+      "parent": "DefiLlama/defillama-server",
+      "source": "DefiLlama/defillama-server",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:46:22Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/expedition",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:46:23Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/explorer",
+      "is_fork": true,
+      "parent": "ping-pub/explorer",
+      "source": "ping-pub/explorer",
+      "stars": 1,
+      "language": "Vue",
+      "last_checked": "2026-03-09T20:46:25Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/explorer-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:46:26Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/explorer-evm-blockscout",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:46:26Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/generic-helm-chart",
+      "is_fork": true,
+      "parent": "AaronForce1/generic-helm-chart",
+      "source": "hextrust/generic-helm-chart",
+      "stars": 0,
+      "language": "Smarty",
+      "last_checked": "2026-03-09T20:46:29Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/heighliner",
+      "is_fork": true,
+      "parent": "strangelove-ventures/heighliner",
+      "source": "strangelove-ventures/heighliner",
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-09T20:46:31Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/ibc-go",
+      "is_fork": true,
+      "parent": "cosmos/ibc-go",
+      "source": "cosmos/ibc-go",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:46:33Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/infra-utils-node-keygen",
+      "is_fork": true,
+      "parent": "allthatjazzleo/genkey",
+      "source": "allthatjazzleo/genkey",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:36Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/keplr-chain-registry",
+      "is_fork": true,
+      "parent": "chainapsis/keplr-chain-registry",
+      "source": "chainapsis/keplr-chain-registry",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:46:38Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantra-claimdrop-contract-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:40Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantra-contracts-claimdrop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:42Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantra-dex",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:45Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantra-explorer-evm-blockscout",
+      "is_fork": true,
+      "parent": "blockscout/blockscout",
+      "source": "blockscout/blockscout",
+      "stars": 0,
+      "language": "Elixir",
+      "last_checked": "2026-03-09T20:46:47Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantrachain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:46:49Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantrachain-faucet-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-09T20:46:51Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantrachain-legacy-public-hongbai",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-09T20:46:53Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/mantrachain-rust",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T20:46:55Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/net",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T20:46:58Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/omstead-hardhat-deployment-tutorial",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T20:47:00Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/ping.pub",
+      "is_fork": true,
+      "parent": "ping-pub/ping.pub",
+      "source": "ping-pub/ping.pub",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:47:03Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T20:47:05Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/pystarport",
+      "is_fork": true,
+      "parent": "crypto-com/pystarport",
+      "source": "crypto-com/pystarport",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T20:47:07Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/resolute",
+      "is_fork": true,
+      "parent": "vitwit/resolute",
+      "source": "vitwit/resolute",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T20:47:12Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/slips",
+      "is_fork": true,
+      "parent": "satoshilabs/slips",
+      "source": "satoshilabs/slips",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T20:47:14Z"
+    },
+    {
+      "full_name": "MANTRA-Chain/wasmd",
+      "is_fork": true,
+      "parent": "CosmWasm/wasmd",
+      "source": "CosmWasm/wasmd",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T20:47:17Z"
+    }
+  ]
+}

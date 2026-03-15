@@ -1,0 +1,528 @@
+{
+  "owner": "minaprotocol",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MinaProtocol/Flockenzeit",
+      "is_fork": true,
+      "parent": "balsoft/Flockenzeit",
+      "source": "balsoft/Flockenzeit",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:05:41Z"
+    },
+    {
+      "full_name": "MinaProtocol/MIPs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": null,
+      "last_checked": "2026-03-10T03:05:43Z"
+    },
+    {
+      "full_name": "MinaProtocol/app-mina",
+      "is_fork": true,
+      "parent": "LedgerHQ/app-mina",
+      "source": "jspada/ledger-app-mina",
+      "stars": 1,
+      "language": "C",
+      "last_checked": "2026-03-10T03:05:45Z"
+    },
+    {
+      "full_name": "MinaProtocol/async_kernel",
+      "is_fork": true,
+      "parent": "janestreet/async_kernel",
+      "source": "janestreet/async_kernel",
+      "stars": 2,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:05:47Z"
+    },
+    {
+      "full_name": "MinaProtocol/c-reference-signer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 33,
+      "language": "C",
+      "last_checked": "2026-03-10T03:05:49Z"
+    },
+    {
+      "full_name": "MinaProtocol/coda-automation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:05:49Z"
+    },
+    {
+      "full_name": "MinaProtocol/coda-devops-interview",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:05:52Z"
+    },
+    {
+      "full_name": "MinaProtocol/coda-python-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-10T03:05:54Z"
+    },
+    {
+      "full_name": "MinaProtocol/comdex",
+      "is_fork": true,
+      "parent": "Comdex/mina-zkapps-e2e-testing",
+      "source": "Comdex/mina-zkapps-e2e-testing",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T03:05:56Z"
+    },
+    {
+      "full_name": "MinaProtocol/cuda-fixnum",
+      "is_fork": true,
+      "parent": "es92/cuda-fixnum",
+      "source": "data61/cuda-fixnum",
+      "stars": 8,
+      "language": "Cuda",
+      "last_checked": "2026-03-10T03:05:58Z"
+    },
+    {
+      "full_name": "MinaProtocol/deb-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:06:03Z"
+    },
+    {
+      "full_name": "MinaProtocol/deb-s3",
+      "is_fork": true,
+      "parent": "tweag/deb-s3",
+      "source": "deb-s3/deb-s3",
+      "stars": 0,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T03:06:05Z"
+    },
+    {
+      "full_name": "MinaProtocol/dhall-base",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dhall",
+      "last_checked": "2026-03-10T03:06:08Z"
+    },
+    {
+      "full_name": "MinaProtocol/dhall-buildkite",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Dhall",
+      "last_checked": "2026-03-10T03:06:10Z"
+    },
+    {
+      "full_name": "MinaProtocol/digestif",
+      "is_fork": true,
+      "parent": "mirage/digestif",
+      "source": "mirage/digestif",
+      "stars": 0,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:06:13Z"
+    },
+    {
+      "full_name": "MinaProtocol/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Reason",
+      "last_checked": "2026-03-10T03:06:15Z"
+    },
+    {
+      "full_name": "MinaProtocol/docs2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 102,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T03:06:17Z"
+    },
+    {
+      "full_name": "MinaProtocol/flake-buildkite-pipeline",
+      "is_fork": true,
+      "parent": "tweag/flake-buildkite-pipeline",
+      "source": "tweag/flake-buildkite-pipeline",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:19Z"
+    },
+    {
+      "full_name": "MinaProtocol/flake-compat",
+      "is_fork": true,
+      "parent": "NixOS/flake-compat",
+      "source": "NixOS/flake-compat",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:21Z"
+    },
+    {
+      "full_name": "MinaProtocol/flake-utils-plus",
+      "is_fork": true,
+      "parent": "gytis-ivaskevicius/flake-utils-plus",
+      "source": "gytis-ivaskevicius/flake-utils-plus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:24Z"
+    },
+    {
+      "full_name": "MinaProtocol/gitignore.nix",
+      "is_fork": true,
+      "parent": "hercules-ci/gitignore.nix",
+      "source": "hercules-ci/gitignore.nix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:26Z"
+    },
+    {
+      "full_name": "MinaProtocol/gpu-groth16-prover-3x",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "C++",
+      "last_checked": "2026-03-10T03:06:28Z"
+    },
+    {
+      "full_name": "MinaProtocol/graphiql-with-extensions",
+      "is_fork": true,
+      "parent": "OneGraph/graphiql-with-extensions",
+      "source": "OneGraph/graphiql-with-extensions",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T03:06:30Z"
+    },
+    {
+      "full_name": "MinaProtocol/homebrew-mina",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Ruby",
+      "last_checked": "2026-03-10T03:06:32Z"
+    },
+    {
+      "full_name": "MinaProtocol/issues-experiment",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:34Z"
+    },
+    {
+      "full_name": "MinaProtocol/kademlia",
+      "is_fork": true,
+      "parent": "enolan/kademlia",
+      "source": "froozen/kademlia",
+      "stars": 1,
+      "language": "Haskell",
+      "last_checked": "2026-03-10T03:06:36Z"
+    },
+    {
+      "full_name": "MinaProtocol/kimchi-stubs-vendors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:06:38Z"
+    },
+    {
+      "full_name": "MinaProtocol/ledger-coda-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "C",
+      "last_checked": "2026-03-10T03:06:40Z"
+    },
+    {
+      "full_name": "MinaProtocol/load-generator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:41Z"
+    },
+    {
+      "full_name": "MinaProtocol/mina",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2099,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:06:43Z"
+    },
+    {
+      "full_name": "MinaProtocol/mina-grants",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:45Z"
+    },
+    {
+      "full_name": "MinaProtocol/mina-resources",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:47Z"
+    },
+    {
+      "full_name": "MinaProtocol/mina-rs",
+      "is_fork": true,
+      "parent": "ChainSafe/mina-rs",
+      "source": "ChainSafe/mina-rs",
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:49Z"
+    },
+    {
+      "full_name": "MinaProtocol/mix-to-nix",
+      "is_fork": true,
+      "parent": "serokell/mix-to-nix",
+      "source": "serokell/mix-to-nix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:51Z"
+    },
+    {
+      "full_name": "MinaProtocol/nix-filter",
+      "is_fork": true,
+      "parent": "numtide/nix-filter",
+      "source": "numtide/nix-filter",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:53Z"
+    },
+    {
+      "full_name": "MinaProtocol/nix-npm-buildpackage",
+      "is_fork": true,
+      "parent": "serokell/nix-npm-buildpackage",
+      "source": "serokell/nix-npm-buildpackage",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:55Z"
+    },
+    {
+      "full_name": "MinaProtocol/nix-utils",
+      "is_fork": true,
+      "parent": "juliosueiras-nix/nix-utils",
+      "source": "juliosueiras-nix/nix-utils",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:06:57Z"
+    },
+    {
+      "full_name": "MinaProtocol/ocaml-extlib",
+      "is_fork": true,
+      "parent": "ygrek/ocaml-extlib",
+      "source": "ygrek/ocaml-extlib",
+      "stars": 0,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:00Z"
+    },
+    {
+      "full_name": "MinaProtocol/opam-nix",
+      "is_fork": true,
+      "parent": "tweag/opam-nix",
+      "source": "tweag/opam-nix",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:02Z"
+    },
+    {
+      "full_name": "MinaProtocol/orocksdb",
+      "is_fork": true,
+      "parent": "domsj/orocksdb",
+      "source": "domsj/orocksdb",
+      "stars": 0,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:04Z"
+    },
+    {
+      "full_name": "MinaProtocol/pairing",
+      "is_fork": true,
+      "parent": "zkcrypto/pairing",
+      "source": "zkcrypto/pairing",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T03:07:06Z"
+    },
+    {
+      "full_name": "MinaProtocol/ppx_deriving",
+      "is_fork": true,
+      "parent": "ocaml-ppx/ppx_deriving",
+      "source": "ocaml-ppx/ppx_deriving",
+      "stars": 0,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:08Z"
+    },
+    {
+      "full_name": "MinaProtocol/ppx_deriving_yojson",
+      "is_fork": true,
+      "parent": "ocaml-ppx/ppx_deriving_yojson",
+      "source": "ocaml-ppx/ppx_deriving_yojson",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:11Z"
+    },
+    {
+      "full_name": "MinaProtocol/ppx_optcomp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:14Z"
+    },
+    {
+      "full_name": "MinaProtocol/progress",
+      "is_fork": true,
+      "parent": "craigfe/progress",
+      "source": "craigfe/progress",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:16Z"
+    },
+    {
+      "full_name": "MinaProtocol/prometheus",
+      "is_fork": true,
+      "parent": "mirage/prometheus",
+      "source": "mirage/prometheus",
+      "stars": 2,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:19Z"
+    },
+    {
+      "full_name": "MinaProtocol/rosetta-cli",
+      "is_fork": true,
+      "parent": "coinbase/mesh-cli",
+      "source": "coinbase/mesh-cli",
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T03:07:21Z"
+    },
+    {
+      "full_name": "MinaProtocol/rosetta-integration-test-zkapps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T03:07:24Z"
+    },
+    {
+      "full_name": "MinaProtocol/rosetta-sdk-go",
+      "is_fork": true,
+      "parent": "coinbase/mesh-sdk-go",
+      "source": "coinbase/mesh-sdk-go",
+      "stars": 4,
+      "language": "Go",
+      "last_checked": "2026-03-10T03:07:26Z"
+    },
+    {
+      "full_name": "MinaProtocol/rosetta-specifications",
+      "is_fork": true,
+      "parent": "coinbase/mesh-specifications",
+      "source": "coinbase/mesh-specifications",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T03:07:28Z"
+    },
+    {
+      "full_name": "MinaProtocol/rpanic",
+      "is_fork": true,
+      "parent": "rpanic/mina-e2e-testing",
+      "source": "rpanic/mina-e2e-testing",
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:30Z"
+    },
+    {
+      "full_name": "MinaProtocol/rpc_parallel",
+      "is_fork": true,
+      "parent": "janestreet/rpc_parallel",
+      "source": "janestreet/rpc_parallel",
+      "stars": 2,
+      "language": "OCaml",
+      "last_checked": "2026-03-10T03:07:32Z"
+    },
+    {
+      "full_name": "MinaProtocol/signer-reference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Standard ML",
+      "last_checked": "2026-03-10T03:07:34Z"
+    },
+    {
+      "full_name": "MinaProtocol/snark-challenge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "C++",
+      "last_checked": "2026-03-10T03:07:36Z"
+    },
+    {
+      "full_name": "MinaProtocol/snark-challenge-cuda-starter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Cuda",
+      "last_checked": "2026-03-10T03:07:38Z"
+    },
+    {
+      "full_name": "MinaProtocol/snark-challenge-prover-reference",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 22,
+      "language": "C++",
+      "last_checked": "2026-03-10T03:07:40Z"
+    },
+    {
+      "full_name": "MinaProtocol/testnetc2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:42Z"
+    },
+    {
+      "full_name": "MinaProtocol/website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T03:07:43Z"
+    }
+  ]
+}

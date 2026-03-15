@@ -1,0 +1,1815 @@
+{
+  "owner": "fuellabs",
+  "updated_at": "2026-03-12T02:55:21Z",
+  "repos": [
+    {
+      "full_name": "FuelLabs/.github",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:06Z"
+    },
+    {
+      "full_name": "FuelLabs/ETHDubai-2022-Workshop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:57:08Z"
+    },
+    {
+      "full_name": "FuelLabs/EVM-Wallet-Connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:10Z"
+    },
+    {
+      "full_name": "FuelLabs/Pyth-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Sway",
+      "last_checked": "2026-03-09T12:57:12Z"
+    },
+    {
+      "full_name": "FuelLabs/Solana-Wallet-Connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:14Z"
+    },
+    {
+      "full_name": "FuelLabs/account-notifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:16Z"
+    },
+    {
+      "full_name": "FuelLabs/action-forc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:18Z"
+    },
+    {
+      "full_name": "FuelLabs/action-fuel-toolchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:20Z"
+    },
+    {
+      "full_name": "FuelLabs/applications-on-fuel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:22Z"
+    },
+    {
+      "full_name": "FuelLabs/audits",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:24Z"
+    },
+    {
+      "full_name": "FuelLabs/authn-sign",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:57:26Z"
+    },
+    {
+      "full_name": "FuelLabs/autocomplete",
+      "is_fork": true,
+      "parent": "withfig/autocomplete",
+      "source": "withfig/autocomplete",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:28Z"
+    },
+    {
+      "full_name": "FuelLabs/awesome-fuel",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 237,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:30Z"
+    },
+    {
+      "full_name": "FuelLabs/aws-sso-cli",
+      "is_fork": true,
+      "parent": "synfinatic/aws-sso-cli",
+      "source": "synfinatic/aws-sso-cli",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T12:57:32Z"
+    },
+    {
+      "full_name": "FuelLabs/beta2-quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:35Z"
+    },
+    {
+      "full_name": "FuelLabs/block-explorer-backend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:35Z"
+    },
+    {
+      "full_name": "FuelLabs/block-explorer-v2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:37Z"
+    },
+    {
+      "full_name": "FuelLabs/breaking-change-log",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:57:39Z"
+    },
+    {
+      "full_name": "FuelLabs/bridge-fungible-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:57:41Z"
+    },
+    {
+      "full_name": "FuelLabs/bridge-integration-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:43Z"
+    },
+    {
+      "full_name": "FuelLabs/bridge-message-executor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:57:46Z"
+    },
+    {
+      "full_name": "FuelLabs/bridge-message-predicates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 44,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:57:47Z"
+    },
+    {
+      "full_name": "FuelLabs/cargo-toml-lint",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:57:49Z"
+    },
+    {
+      "full_name": "FuelLabs/chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:52Z"
+    },
+    {
+      "full_name": "FuelLabs/chain-configuration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:54Z"
+    },
+    {
+      "full_name": "FuelLabs/changesets-action",
+      "is_fork": true,
+      "parent": "luizstacio/changesets-action",
+      "source": "changesets/action",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:57:56Z"
+    },
+    {
+      "full_name": "FuelLabs/ci-dummy-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:57:58Z"
+    },
+    {
+      "full_name": "FuelLabs/compiler-explorer",
+      "is_fork": true,
+      "parent": "compiler-explorer/compiler-explorer",
+      "source": "compiler-explorer/compiler-explorer",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:00Z"
+    },
+    {
+      "full_name": "FuelLabs/compiler-explorer-infra",
+      "is_fork": true,
+      "parent": "compiler-explorer/infra",
+      "source": "compiler-explorer/infra",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T12:58:02Z"
+    },
+    {
+      "full_name": "FuelLabs/coredns",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:03Z"
+    },
+    {
+      "full_name": "FuelLabs/crate-reservations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:03Z"
+    },
+    {
+      "full_name": "FuelLabs/create-fuels-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:05Z"
+    },
+    {
+      "full_name": "FuelLabs/curve25519-dalek",
+      "is_fork": true,
+      "parent": "sp1-patches/curve25519-dalek",
+      "source": "dalek-cryptography/curve25519-dalek",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:07Z"
+    },
+    {
+      "full_name": "FuelLabs/data-systems",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:09Z"
+    },
+    {
+      "full_name": "FuelLabs/demo-block-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:11Z"
+    },
+    {
+      "full_name": "FuelLabs/devcontainer-features",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-09T12:58:13Z"
+    },
+    {
+      "full_name": "FuelLabs/developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:14Z"
+    },
+    {
+      "full_name": "FuelLabs/developer-quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:16Z"
+    },
+    {
+      "full_name": "FuelLabs/devrel-playbook",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:18Z"
+    },
+    {
+      "full_name": "FuelLabs/doc-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:18Z"
+    },
+    {
+      "full_name": "FuelLabs/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "CSS",
+      "last_checked": "2026-03-09T12:58:20Z"
+    },
+    {
+      "full_name": "FuelLabs/docs-hub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 123,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:22Z"
+    },
+    {
+      "full_name": "FuelLabs/docs-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:23Z"
+    },
+    {
+      "full_name": "FuelLabs/dr-cla",
+      "is_fork": true,
+      "parent": "salesforce/dr-cla",
+      "source": "salesforce/dr-cla",
+      "stars": 0,
+      "language": "Scala",
+      "last_checked": "2026-03-09T12:58:25Z"
+    },
+    {
+      "full_name": "FuelLabs/ethabi",
+      "is_fork": true,
+      "parent": "rust-ethereum/ethabi",
+      "source": "rust-ethereum/ethabi",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:27Z"
+    },
+    {
+      "full_name": "FuelLabs/etk",
+      "is_fork": true,
+      "parent": "quilt/etk",
+      "source": "quilt/etk",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:29Z"
+    },
+    {
+      "full_name": "FuelLabs/example-forc-plugins",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:31Z"
+    },
+    {
+      "full_name": "FuelLabs/execution-trace",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:33Z"
+    },
+    {
+      "full_name": "FuelLabs/external-bako-safe",
+      "is_fork": true,
+      "parent": "Bako-Labs/bako-safe",
+      "source": "Bako-Labs/bako-safe",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:35Z"
+    },
+    {
+      "full_name": "FuelLabs/external-bako-safe-api",
+      "is_fork": true,
+      "parent": "infinitybase/bako-safe-api",
+      "source": "infinitybase/bako-safe-api",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:37Z"
+    },
+    {
+      "full_name": "FuelLabs/external-bako-safe-ui",
+      "is_fork": true,
+      "parent": "infinitybase/bako-safe-ui",
+      "source": "infinitybase/bako-safe-ui",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:40Z"
+    },
+    {
+      "full_name": "FuelLabs/external-mira-amm-web",
+      "is_fork": true,
+      "parent": "mira-amm/mira-amm-web",
+      "source": "mira-amm/mira-amm-web",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:42Z"
+    },
+    {
+      "full_name": "FuelLabs/external-mira-v1-core",
+      "is_fork": true,
+      "parent": "mira-amm/mira-v1-core",
+      "source": "mira-amm/mira-v1-core",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:44Z"
+    },
+    {
+      "full_name": "FuelLabs/external-mira-v1-ts",
+      "is_fork": true,
+      "parent": "mira-amm/mira-v1-ts",
+      "source": "mira-amm/mira-v1-ts",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:46Z"
+    },
+    {
+      "full_name": "FuelLabs/external-pyth-crosschain",
+      "is_fork": true,
+      "parent": "pyth-network/pyth-crosschain",
+      "source": "pyth-network/pyth-crosschain",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:49Z"
+    },
+    {
+      "full_name": "FuelLabs/external-swaylend-monorepo",
+      "is_fork": true,
+      "parent": "Swaylend/swaylend-monorepo",
+      "source": "Swaylend/swaylend-monorepo",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:51Z"
+    },
+    {
+      "full_name": "FuelLabs/fasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:58:53Z"
+    },
+    {
+      "full_name": "FuelLabs/faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 75,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:55Z"
+    },
+    {
+      "full_name": "FuelLabs/forc-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:57Z"
+    },
+    {
+      "full_name": "FuelLabs/forc-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:58:59Z"
+    },
+    {
+      "full_name": "FuelLabs/forc-telemetry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:58:59Z"
+    },
+    {
+      "full_name": "FuelLabs/forc-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 101,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:01Z"
+    },
+    {
+      "full_name": "FuelLabs/forc.pub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:04Z"
+    },
+    {
+      "full_name": "FuelLabs/forc.pub-index",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:06Z"
+    },
+    {
+      "full_name": "FuelLabs/forum-notifier",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:59:08Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-abi-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:10Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-agent-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:59:12Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-agent-official-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:59:14Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-asm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:16Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:18Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-bft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:20Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-block-committer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 60,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:22Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-book",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:24Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-bridge",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 172,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:59:26Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-bridge-packages",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:28Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-burner-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T12:59:30Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-burner-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "HTML",
+      "last_checked": "2026-03-09T12:59:32Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-canary-watchtower",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:33Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-connectors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 95,
+      "language": "HTML",
+      "last_checked": "2026-03-09T12:59:35Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-contributors",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:37Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 57324,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:39Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-core-backup-cli",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:41Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-core-client-ext",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:43Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-crypto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:45Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:47Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-debugger",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:49Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-design-tokens",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:59:51Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-dev-env",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Shell",
+      "last_checked": "2026-03-09T12:59:53Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T12:59:55Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-e2e-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T12:59:57Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-ecosystem",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T12:59:59Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-email-login",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:01Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-eth-keystore",
+      "is_fork": true,
+      "parent": "roynalnaruto/eth-keystore-rs",
+      "source": "roynalnaruto/eth-keystore-rs",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:03Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-explorer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 94,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:05Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-graphql-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:07Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-guides-template",
+      "is_fork": true,
+      "parent": "cold-briu/fuel-guides-template",
+      "source": "FuelLabs/fuel-graphql-docs",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:00:10Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-hyperlane",
+      "is_fork": true,
+      "parent": "FuelLabs/hyperlane-monorepo",
+      "source": "hyperlane-xyz/hyperlane-monorepo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:12Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-hyperlane-integration",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:14Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 142,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:16Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 82,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:00:18Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-low-level",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:00:19Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-lst-queries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:00:21Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-mcp-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:23Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-merkle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:25Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-merkle-sol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:00:27Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-pest",
+      "is_fork": true,
+      "parent": "canndrew/pest",
+      "source": "pest-parser/pest",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:29Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-risc0",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:31Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-sequencer-deployments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T13:00:33Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-sp1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:36Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-specs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1790,
+      "language": null,
+      "last_checked": "2026-03-09T13:00:38Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-station",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:40Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-storage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:42Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-streams-js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:44Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 46,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:46Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-telemetry",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:48Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-token-overview",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:00:50Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-tx",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:52Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-types",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:54Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 86,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:00:56Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-utils",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:00:58Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-v1-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 88,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:01:00Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-v2-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:02Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-v2-license-params",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:04Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-vm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 373,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:06Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel-wasm-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:08Z"
+    },
+    {
+      "full_name": "FuelLabs/fuel.nix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 103,
+      "language": "Nix",
+      "last_checked": "2026-03-09T13:01:10Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:14Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-npm-packs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 47,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:16Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:18Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43391,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:20Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-ts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 43342,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:22Z"
+    },
+    {
+      "full_name": "FuelLabs/fuels-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 944,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:24Z"
+    },
+    {
+      "full_name": "FuelLabs/fuelshot",
+      "is_fork": true,
+      "parent": "rishabhkeshan/fuelshot",
+      "source": "rishabhkeshan/fuelshot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:26Z"
+    },
+    {
+      "full_name": "FuelLabs/fuelup",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 279,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:29Z"
+    },
+    {
+      "full_name": "FuelLabs/ghaction-container-scan",
+      "is_fork": true,
+      "parent": "crazy-max/ghaction-container-scan",
+      "source": "crazy-max/ghaction-container-scan",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:31Z"
+    },
+    {
+      "full_name": "FuelLabs/github-actions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:01:33Z"
+    },
+    {
+      "full_name": "FuelLabs/graphql-parser",
+      "is_fork": true,
+      "parent": "graphql-rust/graphql-parser",
+      "source": "graphql-rust/graphql-parser",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:35Z"
+    },
+    {
+      "full_name": "FuelLabs/hackathon-1-issues",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:37Z"
+    },
+    {
+      "full_name": "FuelLabs/hacker-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:39Z"
+    },
+    {
+      "full_name": "FuelLabs/hyperlane-monorepo",
+      "is_fork": true,
+      "parent": "GalaxyNode/abacus-monorepo",
+      "source": "hyperlane-xyz/hyperlane-monorepo",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:42Z"
+    },
+    {
+      "full_name": "FuelLabs/hyperlane-monorepo-old",
+      "is_fork": true,
+      "parent": "GalaxyNode/abacus-monorepo",
+      "source": "hyperlane-xyz/hyperlane-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:44Z"
+    },
+    {
+      "full_name": "FuelLabs/indexer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:46Z"
+    },
+    {
+      "full_name": "FuelLabs/infrastructure",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 16,
+      "language": "HCL",
+      "last_checked": "2026-03-09T13:01:48Z"
+    },
+    {
+      "full_name": "FuelLabs/integration-docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:50Z"
+    },
+    {
+      "full_name": "FuelLabs/integrations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:01:52Z"
+    },
+    {
+      "full_name": "FuelLabs/intro-to-predicates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:01:55Z"
+    },
+    {
+      "full_name": "FuelLabs/intro-to-sway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:57Z"
+    },
+    {
+      "full_name": "FuelLabs/learnsway-marketplace",
+      "is_fork": true,
+      "parent": "FuelLabs/intro-to-sway",
+      "source": "FuelLabs/intro-to-sway",
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:01:59Z"
+    },
+    {
+      "full_name": "FuelLabs/learnsway-web3rsvp",
+      "is_fork": true,
+      "parent": "camiinthisthang/learnsway-web3rsvp",
+      "source": "camiinthisthang/learnsway-web3rsvp",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:01Z"
+    },
+    {
+      "full_name": "FuelLabs/markdown",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:03Z"
+    },
+    {
+      "full_name": "FuelLabs/migrations-and-disclosures",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:02:05Z"
+    },
+    {
+      "full_name": "FuelLabs/network-watchtower",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:07Z"
+    },
+    {
+      "full_name": "FuelLabs/node-operator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:09Z"
+    },
+    {
+      "full_name": "FuelLabs/prometheus-exporter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:02:11Z"
+    },
+    {
+      "full_name": "FuelLabs/prover-poc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:13Z"
+    },
+    {
+      "full_name": "FuelLabs/proxy-chunks-minimal-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:02:16Z"
+    },
+    {
+      "full_name": "FuelLabs/publish-crates",
+      "is_fork": true,
+      "parent": "xgreenx/publish-crates",
+      "source": "katyo/publish-crates",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:18Z"
+    },
+    {
+      "full_name": "FuelLabs/quickstart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 30,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:20Z"
+    },
+    {
+      "full_name": "FuelLabs/reddit-cash",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:22Z"
+    },
+    {
+      "full_name": "FuelLabs/releasy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:24Z"
+    },
+    {
+      "full_name": "FuelLabs/rfcs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "Shell",
+      "last_checked": "2026-03-09T13:02:26Z"
+    },
+    {
+      "full_name": "FuelLabs/rust-rocksdb",
+      "is_fork": true,
+      "parent": "rust-rocksdb/rust-rocksdb",
+      "source": "rust-rocksdb/rust-rocksdb",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:28Z"
+    },
+    {
+      "full_name": "FuelLabs/security-best-practices",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:30Z"
+    },
+    {
+      "full_name": "FuelLabs/sequencer-rs-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:32Z"
+    },
+    {
+      "full_name": "FuelLabs/smt-test-generation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Go",
+      "last_checked": "2026-03-09T13:02:34Z"
+    },
+    {
+      "full_name": "FuelLabs/sway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 61904,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:36Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-applications",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1577,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:38Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-by-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:02:40Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-by-example-archive",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:42Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-by-example-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:44Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-dyno-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T13:02:46Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:48Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-examples-commons",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:50Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-farm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1583,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:02:52Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-lib-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:54Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-lib-std",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:02:56Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-libs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 145,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:02:58Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-nightly-binaries",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 27,
+      "language": null,
+      "last_checked": "2026-03-09T13:03:00Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-performance-dashboard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:03:02Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-performance-data",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": null,
+      "last_checked": "2026-03-09T13:03:04Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-playground",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 68,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:03:06Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-rfcs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:03:08Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-standard-implementations",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:03:10Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-standards",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 166,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:03:12Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-std",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:03:14Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-test-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:03:16Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-verified-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Sway",
+      "last_checked": "2026-03-09T13:03:18Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-vs-solidity",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T13:03:20Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-vscode-plugin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 51,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:03:22Z"
+    },
+    {
+      "full_name": "FuelLabs/sway-workshops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": null,
+      "last_checked": "2026-03-09T13:03:24Z"
+    },
+    {
+      "full_name": "FuelLabs/sway.vim",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "Vim Script",
+      "last_checked": "2026-03-09T13:03:26Z"
+    },
+    {
+      "full_name": "FuelLabs/swayswap",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1081,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:03:28Z"
+    },
+    {
+      "full_name": "FuelLabs/tree-sitter-sway",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 15,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:03:30Z"
+    },
+    {
+      "full_name": "FuelLabs/typedoc-just-the-docs-theme",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:03:32Z"
+    },
+    {
+      "full_name": "FuelLabs/verified-addresses",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T13:03:34Z"
+    },
+    {
+      "full_name": "FuelLabs/verified-assets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-09T13:03:36Z"
+    },
+    {
+      "full_name": "FuelLabs/version-control",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T13:03:38Z"
+    },
+    {
+      "full_name": "FuelLabs/wgpu-sigops",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:03:40Z"
+    },
+    {
+      "full_name": "FuelLabs/yulp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 170,
+      "language": "Nearley",
+      "last_checked": "2026-03-09T13:03:42Z"
+    },
+    {
+      "full_name": "FuelLabs/zkvm-perf",
+      "is_fork": true,
+      "parent": "succinctlabs/zkvm-perf",
+      "source": "succinctlabs/zkvm-perf",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:03:45Z"
+    },
+    {
+      "full_name": "FuelLabs/zkvm-primitives",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T13:03:47Z"
+    }
+  ]
+}

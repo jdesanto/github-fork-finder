@@ -1,0 +1,213 @@
+{
+  "owner": "realisnetwork",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "RealisNetwork/CryptoSoulSmartContract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:23Z"
+    },
+    {
+      "full_name": "RealisNetwork/Open-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/Grants-Program",
+      "source": "w3f/Grants-Program",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:25Z"
+    },
+    {
+      "full_name": "RealisNetwork/Realis.Network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:26Z"
+    },
+    {
+      "full_name": "RealisNetwork/apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T22:23:28Z"
+    },
+    {
+      "full_name": "RealisNetwork/battle-pass-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:31Z"
+    },
+    {
+      "full_name": "RealisNetwork/bridge-realis",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:32Z"
+    },
+    {
+      "full_name": "RealisNetwork/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:34Z"
+    },
+    {
+      "full_name": "RealisNetwork/eth-contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T22:23:36Z"
+    },
+    {
+      "full_name": "RealisNetwork/ethereum-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:37Z"
+    },
+    {
+      "full_name": "RealisNetwork/game-network",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:39Z"
+    },
+    {
+      "full_name": "RealisNetwork/grandpa-bridge-gadget",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:41Z"
+    },
+    {
+      "full_name": "RealisNetwork/lis_eth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T22:23:43Z"
+    },
+    {
+      "full_name": "RealisNetwork/near-lake-framework-js",
+      "is_fork": true,
+      "parent": "near/near-lake-framework-js",
+      "source": "near/near-lake-framework-js",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:45Z"
+    },
+    {
+      "full_name": "RealisNetwork/near-listener",
+      "is_fork": true,
+      "parent": "canersevince/flux-capacitor",
+      "source": "canersevince/flux-capacitor",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:47Z"
+    },
+    {
+      "full_name": "RealisNetwork/polkadot",
+      "is_fork": true,
+      "parent": "paritytech/polkadot",
+      "source": "paritytech/polkadot",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:23:49Z"
+    },
+    {
+      "full_name": "RealisNetwork/ratsio",
+      "is_fork": true,
+      "parent": "mnetship/ratsio",
+      "source": "mnetship/ratsio",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:51Z"
+    },
+    {
+      "full_name": "RealisNetwork/rmrk-substrate",
+      "is_fork": true,
+      "parent": "rmrk-team/rmrk-substrate",
+      "source": "rmrk-team/rmrk-substrate",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:53Z"
+    },
+    {
+      "full_name": "RealisNetwork/rust-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:55Z"
+    },
+    {
+      "full_name": "RealisNetwork/rust-nats-wrapper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:57Z"
+    },
+    {
+      "full_name": "RealisNetwork/substrate",
+      "is_fork": true,
+      "parent": "paritytech/substrate",
+      "source": "paritytech/substrate",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:23:59Z"
+    },
+    {
+      "full_name": "RealisNetwork/substrate-api-client",
+      "is_fork": true,
+      "parent": "scs/substrate-api-client",
+      "source": "scs/substrate-api-client",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:24:01Z"
+    },
+    {
+      "full_name": "RealisNetwork/substrate-debug-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T22:24:03Z"
+    },
+    {
+      "full_name": "RealisNetwork/substrate-parachain-template",
+      "is_fork": true,
+      "parent": "tolak/phala-parachain",
+      "source": "tolak/phala-parachain",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T22:24:05Z"
+    }
+  ]
+}

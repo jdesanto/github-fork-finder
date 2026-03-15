@@ -1,0 +1,33 @@
+{
+  "owner": "lmax-exchange",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LMAX-Exchange/disruptor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 18256,
+      "language": "Java",
+      "last_checked": "2026-03-11T16:15:39Z"
+    },
+    {
+      "full_name": "LMAX-Exchange/multisig",
+      "is_fork": true,
+      "parent": "coral-xyz/multisig",
+      "source": "coral-xyz/multisig",
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:15:41Z"
+    },
+    {
+      "full_name": "LMAX-Exchange/solana4j",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "Java",
+      "last_checked": "2026-03-09T16:10:37Z"
+    }
+  ]
+}

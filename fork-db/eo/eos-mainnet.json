@@ -1,0 +1,159 @@
+{
+  "owner": "eos-mainnet",
+  "updated_at": "2026-03-12T02:55:20Z",
+  "repos": [
+    {
+      "full_name": "EOS-Mainnet/Community-Launch-Docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": null,
+      "last_checked": "2026-03-09T06:54:22Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/Documentation",
+      "is_fork": true,
+      "parent": "EOSIO/Documentation",
+      "source": "EOSIO/Documentation",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T06:54:24Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/appbase",
+      "is_fork": true,
+      "parent": "EOSIO/appbase",
+      "source": "Unhackables/appbase",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-09T06:54:26Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eos",
+      "is_fork": true,
+      "parent": "EOSIO/eos",
+      "source": "EOSIO/eos",
+      "stars": 174,
+      "language": "C++",
+      "last_checked": "2026-03-09T06:54:28Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosio.contracts",
+      "is_fork": true,
+      "parent": "EOSIO/eosio.contracts",
+      "source": "EOSIO/eosio.contracts",
+      "stars": 4,
+      "language": "WebAssembly",
+      "last_checked": "2026-03-09T06:54:30Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosio.forum",
+      "is_fork": true,
+      "parent": "eoscanada/eosio.forum",
+      "source": "EOSIO/eosio.forum",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-09T06:54:32Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosio.wasmsdk",
+      "is_fork": true,
+      "parent": "EOSIO/eosio.cdt",
+      "source": "EOSIO/eosio.cdt",
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-09T06:54:34Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs",
+      "source": "EOSIO/eosjs",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:36Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs-api",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs-api",
+      "source": "EOSIO/eosjs-api",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:38Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs-ecc",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs-ecc",
+      "source": "EOSIO/eosjs-ecc",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:40Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs-fcbuffer",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs-fcbuffer",
+      "source": "jcalfee/fcbuffer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:43Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs-json",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs-json",
+      "source": "EOSIO/eosjs-json",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:45Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/eosjs-keygen",
+      "is_fork": true,
+      "parent": "EOSIO/eosjs-keygen",
+      "source": "EOSIO/eosjs-keygen",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:47Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/genesis",
+      "is_fork": true,
+      "parent": "waxmihs2902/genesis",
+      "source": "waxmihs2902/genesis",
+      "stars": 22,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T06:54:49Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 65,
+      "language": "Python",
+      "last_checked": "2026-03-09T06:54:51Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/launch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T06:54:52Z"
+    },
+    {
+      "full_name": "EOS-Mainnet/patroneos",
+      "is_fork": true,
+      "parent": "EOSIO/patroneos",
+      "source": "EOSIO/patroneos",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T06:54:55Z"
+    }
+  ]
+}

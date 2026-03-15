@@ -1,0 +1,564 @@
+{
+  "owner": "layerxcom",
+  "updated_at": "2026-03-12T02:55:24Z",
+  "repos": [
+    {
+      "full_name": "LayerXcom/Web3-collaboration",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:03Z"
+    },
+    {
+      "full_name": "LayerXcom/aws-vpc-with-terraform",
+      "is_fork": true,
+      "parent": "aibou/aws-vpc-with-terraform",
+      "source": "aibou/aws-vpc-with-terraform",
+      "stars": 1,
+      "language": "HCL",
+      "last_checked": "2026-03-09T16:53:06Z"
+    },
+    {
+      "full_name": "LayerXcom/bellman-substrate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 29,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:53:08Z"
+    },
+    {
+      "full_name": "LayerXcom/cbc-beacon-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:53:10Z"
+    },
+    {
+      "full_name": "LayerXcom/cbc-casper-js",
+      "is_fork": true,
+      "parent": "sigp/cbc-casper-js",
+      "source": "sigp/cbc-casper-js",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:53:13Z"
+    },
+    {
+      "full_name": "LayerXcom/cbc-casper-paper",
+      "is_fork": true,
+      "parent": "cbc-casper/cbc-casper-paper",
+      "source": "cbc-casper/cbc-casper-paper",
+      "stars": 0,
+      "language": "TeX",
+      "last_checked": "2026-03-09T16:53:16Z"
+    },
+    {
+      "full_name": "LayerXcom/cbc-casper-proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "TeX",
+      "last_checked": "2026-03-09T16:53:20Z"
+    },
+    {
+      "full_name": "LayerXcom/cbc-casper-simulator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:53:22Z"
+    },
+    {
+      "full_name": "LayerXcom/ccm-book",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:24Z"
+    },
+    {
+      "full_name": "LayerXcom/ccm-book-en",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:27Z"
+    },
+    {
+      "full_name": "LayerXcom/ccm-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:53:29Z"
+    },
+    {
+      "full_name": "LayerXcom/confidential-computing-modules",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 93,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:53:31Z"
+    },
+    {
+      "full_name": "LayerXcom/cordage",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 53,
+      "language": "Kotlin",
+      "last_checked": "2026-03-09T16:53:33Z"
+    },
+    {
+      "full_name": "LayerXcom/cryst",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:35Z"
+    },
+    {
+      "full_name": "LayerXcom/dbmate",
+      "is_fork": true,
+      "parent": "amacneil/dbmate",
+      "source": "amacneil/dbmate",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:53:37Z"
+    },
+    {
+      "full_name": "LayerXcom/dify",
+      "is_fork": true,
+      "parent": "langgenius/dify",
+      "source": "langgenius/dify",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:40Z"
+    },
+    {
+      "full_name": "LayerXcom/ethsnarks-examples",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "C++",
+      "last_checked": "2026-03-09T16:53:42Z"
+    },
+    {
+      "full_name": "LayerXcom/evm-semantics",
+      "is_fork": true,
+      "parent": "runtimeverification/evm-semantics",
+      "source": "runtimeverification/evm-semantics",
+      "stars": 1,
+      "language": "Makefile",
+      "last_checked": "2026-03-09T16:53:44Z"
+    },
+    {
+      "full_name": "LayerXcom/fc-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:46Z"
+    },
+    {
+      "full_name": "LayerXcom/fc-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:53:48Z"
+    },
+    {
+      "full_name": "LayerXcom/fc-web",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:53:50Z"
+    },
+    {
+      "full_name": "LayerXcom/freee-go",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 41,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:53:52Z"
+    },
+    {
+      "full_name": "LayerXcom/go-mysql",
+      "is_fork": true,
+      "parent": "go-mysql-org/go-mysql",
+      "source": "go-mysql-org/go-mysql",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:53:55Z"
+    },
+    {
+      "full_name": "LayerXcom/gorm",
+      "is_fork": true,
+      "parent": "go-gorm/gorm",
+      "source": "go-gorm/gorm",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:53:57Z"
+    },
+    {
+      "full_name": "LayerXcom/gram",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:53:59Z"
+    },
+    {
+      "full_name": "LayerXcom/hyperledger-fabric-security-dvp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 24,
+      "language": "Shell",
+      "last_checked": "2026-03-09T16:54:01Z"
+    },
+    {
+      "full_name": "LayerXcom/icon-score-dev",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:54:03Z"
+    },
+    {
+      "full_name": "LayerXcom/incubator-teaclave-sgx-sdk",
+      "is_fork": true,
+      "parent": "apache/teaclave-sgx-sdk",
+      "source": "apache/teaclave-sgx-sdk",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:05Z"
+    },
+    {
+      "full_name": "LayerXcom/java-tron",
+      "is_fork": true,
+      "parent": "tronprotocol/java-tron",
+      "source": "tronprotocol/java-tron",
+      "stars": 2,
+      "language": "Java",
+      "last_checked": "2026-03-09T16:54:08Z"
+    },
+    {
+      "full_name": "LayerXcom/libSTARK",
+      "is_fork": true,
+      "parent": "elibensasson/libSTARK",
+      "source": "elibensasson/libSTARK",
+      "stars": 7,
+      "language": "C++",
+      "last_checked": "2026-03-09T16:54:10Z"
+    },
+    {
+      "full_name": "LayerXcom/librustzcash",
+      "is_fork": true,
+      "parent": "zcash/librustzcash",
+      "source": "zcash/librustzcash",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:54:13Z"
+    },
+    {
+      "full_name": "LayerXcom/libsgx-rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:54:15Z"
+    },
+    {
+      "full_name": "LayerXcom/lighthouse",
+      "is_fork": true,
+      "parent": "sigp/lighthouse",
+      "source": "sigp/lighthouse",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:54:18Z"
+    },
+    {
+      "full_name": "LayerXcom/lmd-ghost-simulation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-09T16:54:20Z"
+    },
+    {
+      "full_name": "LayerXcom/load-balancing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:22Z"
+    },
+    {
+      "full_name": "LayerXcom/lx-sonic",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:54:24Z"
+    },
+    {
+      "full_name": "LayerXcom/n8n",
+      "is_fork": true,
+      "parent": "n8n-io/n8n",
+      "source": "n8n-io/n8n",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:27Z"
+    },
+    {
+      "full_name": "LayerXcom/next-navigation-guard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 570,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:54:29Z"
+    },
+    {
+      "full_name": "LayerXcom/oo7",
+      "is_fork": true,
+      "parent": "paritytech/oo7",
+      "source": "paritytech/oo7",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:54:31Z"
+    },
+    {
+      "full_name": "LayerXcom/perigord",
+      "is_fork": true,
+      "parent": "polyswarm/perigord",
+      "source": "polyswarm/perigord",
+      "stars": 0,
+      "language": "Smarty",
+      "last_checked": "2026-03-09T16:54:33Z"
+    },
+    {
+      "full_name": "LayerXcom/plasma-mvp-vyper",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 52,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:54:35Z"
+    },
+    {
+      "full_name": "LayerXcom/polkadot.rs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:54:37Z"
+    },
+    {
+      "full_name": "LayerXcom/pr-agent",
+      "is_fork": true,
+      "parent": "qodo-ai/pr-agent",
+      "source": "qodo-ai/pr-agent",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:40Z"
+    },
+    {
+      "full_name": "LayerXcom/prysm",
+      "is_fork": true,
+      "parent": "OffchainLabs/prysm",
+      "source": "OffchainLabs/prysm",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-09T16:54:42Z"
+    },
+    {
+      "full_name": "LayerXcom/qldb-evaluation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C#",
+      "last_checked": "2026-03-09T16:54:44Z"
+    },
+    {
+      "full_name": "LayerXcom/research-hunt-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:54:46Z"
+    },
+    {
+      "full_name": "LayerXcom/safety-oracle",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:48Z"
+    },
+    {
+      "full_name": "LayerXcom/scim-examples",
+      "is_fork": true,
+      "parent": "1Password/scim-examples",
+      "source": "1Password/scim-examples",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:50Z"
+    },
+    {
+      "full_name": "LayerXcom/snarks-voting",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:54:52Z"
+    },
+    {
+      "full_name": "LayerXcom/stark-sol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-09T16:54:55Z"
+    },
+    {
+      "full_name": "LayerXcom/terraform-provider-azuread",
+      "is_fork": true,
+      "parent": "hashicorp/terraform-provider-azuread",
+      "source": "hashicorp/terraform-provider-azuread",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-09T16:54:57Z"
+    },
+    {
+      "full_name": "LayerXcom/verified-plasma-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 6,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:54:59Z"
+    },
+    {
+      "full_name": "LayerXcom/verified-plasma-mvp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "GCC Machine Description",
+      "last_checked": "2026-03-09T16:55:01Z"
+    },
+    {
+      "full_name": "LayerXcom/verified-smart-contracts",
+      "is_fork": true,
+      "parent": "runtimeverification/verified-smart-contracts",
+      "source": "runtimeverification/verified-smart-contracts",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:55:04Z"
+    },
+    {
+      "full_name": "LayerXcom/verified-vyper-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 57,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:55:06Z"
+    },
+    {
+      "full_name": "LayerXcom/vyper",
+      "is_fork": true,
+      "parent": "vyperlang/vyper",
+      "source": "vyperlang/vyper",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-09T16:55:08Z"
+    },
+    {
+      "full_name": "LayerXcom/vyper-remix",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 19,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:55:11Z"
+    },
+    {
+      "full_name": "LayerXcom/zero-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 262,
+      "language": "Rust",
+      "last_checked": "2026-03-09T16:55:13Z"
+    },
+    {
+      "full_name": "LayerXcom/zero-chain-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "JavaScript",
+      "last_checked": "2026-03-09T16:55:15Z"
+    },
+    {
+      "full_name": "LayerXcom/zero-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:17Z"
+    },
+    {
+      "full_name": "LayerXcom/zerochain-book",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": null,
+      "last_checked": "2026-03-09T16:55:19Z"
+    },
+    {
+      "full_name": "LayerXcom/zerochain-wallet-desktop",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-09T16:55:21Z"
+    }
+  ]
+}

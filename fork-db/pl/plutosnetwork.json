@@ -1,0 +1,78 @@
+{
+  "owner": "plutosnetwork",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PlutosNetwork/General-Grants-Program",
+      "is_fork": true,
+      "parent": "w3f/General-Grants-Program",
+      "source": "w3f/General-Grants-Program",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:02:19Z"
+    },
+    {
+      "full_name": "PlutosNetwork/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:02:21Z"
+    },
+    {
+      "full_name": "PlutosNetwork/bsc",
+      "is_fork": true,
+      "parent": "bnb-chain/bsc",
+      "source": "bnb-chain/bsc",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:02:23Z"
+    },
+    {
+      "full_name": "PlutosNetwork/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:02:25Z"
+    },
+    {
+      "full_name": "PlutosNetwork/cumulus",
+      "is_fork": true,
+      "parent": "paritytech/cumulus",
+      "source": "paritytech/cumulus",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:02:27Z"
+    },
+    {
+      "full_name": "PlutosNetwork/plutos-abstract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T17:02:29Z"
+    },
+    {
+      "full_name": "PlutosNetwork/solana",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 2,
+      "language": null,
+      "last_checked": "2026-03-10T17:02:31Z"
+    },
+    {
+      "full_name": "PlutosNetwork/solana-program-library",
+      "is_fork": true,
+      "parent": "solana-labs/solana-program-library",
+      "source": "solana-labs/solana-program-library",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:02:33Z"
+    }
+  ]
+}

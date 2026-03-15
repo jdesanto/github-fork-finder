@@ -1,0 +1,24 @@
+{
+  "owner": "nifty-island",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Nifty-Island/oft",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:17:49Z"
+    },
+    {
+      "full_name": "Nifty-Island/wallet-adapter",
+      "is_fork": true,
+      "parent": "anza-xyz/wallet-adapter",
+      "source": "anza-xyz/wallet-adapter",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T08:17:51Z"
+    }
+  ]
+}

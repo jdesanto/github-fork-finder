@@ -1,0 +1,744 @@
+{
+  "owner": "polymathnetwork",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "PolymathNetwork/Polymath-API",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:04Z"
+    },
+    {
+      "full_name": "PolymathNetwork/Polymath-Tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:06Z"
+    },
+    {
+      "full_name": "PolymathNetwork/SignNowNodeSDK",
+      "is_fork": true,
+      "parent": "signnow/SignNowNodeSDK",
+      "source": "signnow/SignNowNodeSDK",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:08Z"
+    },
+    {
+      "full_name": "PolymathNetwork/auth-jwks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:10Z"
+    },
+    {
+      "full_name": "PolymathNetwork/common",
+      "is_fork": true,
+      "parent": "polkadot-js/common",
+      "source": "polkadot-js/common",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:12Z"
+    },
+    {
+      "full_name": "PolymathNetwork/compliance-templates",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:14Z"
+    },
+    {
+      "full_name": "PolymathNetwork/dapp-boilerplate",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:16Z"
+    },
+    {
+      "full_name": "PolymathNetwork/devcon",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:21:18Z"
+    },
+    {
+      "full_name": "PolymathNetwork/developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:20Z"
+    },
+    {
+      "full_name": "PolymathNetwork/eslint-plugin-polymath",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:22Z"
+    },
+    {
+      "full_name": "PolymathNetwork/eslint-plugin-polymath-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:24Z"
+    },
+    {
+      "full_name": "PolymathNetwork/eth-contract-metadata",
+      "is_fork": true,
+      "parent": "MetaMask/contract-metadata",
+      "source": "MetaMask/contract-metadata",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:26Z"
+    },
+    {
+      "full_name": "PolymathNetwork/example-app-polymathjs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:28Z"
+    },
+    {
+      "full_name": "PolymathNetwork/extension",
+      "is_fork": true,
+      "parent": "polkadot-js/extension",
+      "source": "polkadot-js/extension",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:30Z"
+    },
+    {
+      "full_name": "PolymathNetwork/grafana-statuspage",
+      "is_fork": true,
+      "parent": "getconversio/grafana-statuspage",
+      "source": "getconversio/grafana-statuspage",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:32Z"
+    },
+    {
+      "full_name": "PolymathNetwork/graphql2rest",
+      "is_fork": true,
+      "parent": "sisense/graphql2rest",
+      "source": "sisense/graphql2rest",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:35Z"
+    },
+    {
+      "full_name": "PolymathNetwork/js-ipfs-api",
+      "is_fork": true,
+      "parent": "ipfs-inactive/js-ipfs-http-client",
+      "source": "ipfs-inactive/js-ipfs-http-client",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:37Z"
+    },
+    {
+      "full_name": "PolymathNetwork/knex-data-api-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:37Z"
+    },
+    {
+      "full_name": "PolymathNetwork/launchpad-chain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:37Z"
+    },
+    {
+      "full_name": "PolymathNetwork/ledger-polymesh",
+      "is_fork": true,
+      "parent": "Zondax/ledger-polymesh",
+      "source": "Zondax/ledger-polymesh",
+      "stars": 0,
+      "language": "C",
+      "last_checked": "2026-03-10T17:21:40Z"
+    },
+    {
+      "full_name": "PolymathNetwork/matador-landing",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T17:21:41Z"
+    },
+    {
+      "full_name": "PolymathNetwork/matador-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:21:43Z"
+    },
+    {
+      "full_name": "PolymathNetwork/minting-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:45Z"
+    },
+    {
+      "full_name": "PolymathNetwork/mock-uid-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:47Z"
+    },
+    {
+      "full_name": "PolymathNetwork/new-matador",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "CSS",
+      "last_checked": "2026-03-10T17:21:49Z"
+    },
+    {
+      "full_name": "PolymathNetwork/pcp-signing-managers",
+      "is_fork": true,
+      "parent": "PolymeshAssociation/signing-managers",
+      "source": "PolymeshAssociation/signing-managers",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:51Z"
+    },
+    {
+      "full_name": "PolymathNetwork/permissions",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:54Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkadot-apps",
+      "is_fork": true,
+      "parent": "polkadot-js/apps",
+      "source": "polkadot-js/apps",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:21:56Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkadot-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:21:58Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkascan-explorer-gui",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-explorer-gui",
+      "source": "polkascan/polkascan-explorer-gui",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T17:22:00Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkascan-os",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-os",
+      "source": "polkascan/polkascan-os",
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T17:22:02Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkascan-pre-explorer-api",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-explorer-api",
+      "source": "polkascan/polkascan-pre-explorer-api",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:22:04Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkascan-pre-explorer-gui",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-explorer-gui",
+      "source": "polkascan/polkascan-pre-explorer-gui",
+      "stars": 1,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-10T17:22:06Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polkascan-pre-harvester",
+      "is_fork": true,
+      "parent": "polkascan/polkascan-pre-harvester",
+      "source": "polkascan/polkascan-pre-harvester",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:22:09Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-abi-wrappers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:11Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-ads",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:22:13Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-allocator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:15Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-apps",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:17Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-audit-report-2019-04",
+      "is_fork": true,
+      "parent": "ConsenSysDiligence/polymath-audit-report-2019-04",
+      "source": "ConsenSysDiligence/polymath-audit-report-2019-04",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T17:22:19Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-auth",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:21Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-contract-artifacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:23Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-contract-wrappers",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:25Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 336,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:27Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-core-artifacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:29Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-core-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 64,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:31Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-developer-portal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:33Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-founders",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:22:33Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-investor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:35Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-investorportal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:37Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-issuer",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 20,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:39Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-offchain",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:41Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:43Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-reserve",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:45Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:47Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-token",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 98,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:49Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:22:51Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-ui-archived",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:53Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath-website",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:22:55Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath.js",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:57Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymath.js-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 26,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:22:59Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymesh-polkadot",
+      "is_fork": true,
+      "parent": "polkadot-js/api",
+      "source": "polkadot-js/api",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:23:01Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymesh-settlement-module",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:23:03Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymesh-test-compose",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T17:23:05Z"
+    },
+    {
+      "full_name": "PolymathNetwork/polymesh_docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:07Z"
+    },
+    {
+      "full_name": "PolymathNetwork/py-scale-codec",
+      "is_fork": true,
+      "parent": "JAMdotTech/py-scale-codec",
+      "source": "JAMdotTech/py-scale-codec",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:23:09Z"
+    },
+    {
+      "full_name": "PolymathNetwork/py-substrate-interface",
+      "is_fork": true,
+      "parent": "JAMdotTech/py-polkadot-sdk",
+      "source": "JAMdotTech/py-polkadot-sdk",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T17:23:11Z"
+    },
+    {
+      "full_name": "PolymathNetwork/sdk-test",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:23:13Z"
+    },
+    {
+      "full_name": "PolymathNetwork/simple-web-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T17:23:15Z"
+    },
+    {
+      "full_name": "PolymathNetwork/solidity-docgen",
+      "is_fork": true,
+      "parent": "OpenZeppelin/solidity-docgen",
+      "source": "OpenZeppelin/solidity-docgen",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:23:17Z"
+    },
+    {
+      "full_name": "PolymathNetwork/solidoc",
+      "is_fork": true,
+      "parent": "ross-rosario/solidoc",
+      "source": "CYBRToken/solidoc",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:19Z"
+    },
+    {
+      "full_name": "PolymathNetwork/ss58-registry",
+      "is_fork": true,
+      "parent": "paritytech/ss58-registry",
+      "source": "paritytech/ss58-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:23:21Z"
+    },
+    {
+      "full_name": "PolymathNetwork/stroundtable",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "HTML",
+      "last_checked": "2026-03-10T17:23:24Z"
+    },
+    {
+      "full_name": "PolymathNetwork/subql",
+      "is_fork": true,
+      "parent": "subquery/subql",
+      "source": "subquery/subql",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:23:26Z"
+    },
+    {
+      "full_name": "PolymathNetwork/substrate-wasm-builder",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T17:23:28Z"
+    },
+    {
+      "full_name": "PolymathNetwork/tieredsto-app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:30Z"
+    },
+    {
+      "full_name": "PolymathNetwork/token-creator",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:32Z"
+    },
+    {
+      "full_name": "PolymathNetwork/token-faucet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 10,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:34Z"
+    },
+    {
+      "full_name": "PolymathNetwork/token-info",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:36Z"
+    },
+    {
+      "full_name": "PolymathNetwork/toronto-tech-scene",
+      "is_fork": true,
+      "parent": "toriagibbs-zz/toronto-tech-scene",
+      "source": "toriagibbs-zz/toronto-tech-scene",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T17:23:38Z"
+    },
+    {
+      "full_name": "PolymathNetwork/ui",
+      "is_fork": true,
+      "parent": "polkadot-js/ui",
+      "source": "polkadot-js/ui",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:23:40Z"
+    },
+    {
+      "full_name": "PolymathNetwork/ui-blocks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T17:23:42Z"
+    },
+    {
+      "full_name": "PolymathNetwork/whitelist-standalone",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T17:23:44Z"
+    }
+  ]
+}

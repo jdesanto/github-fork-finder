@@ -1,0 +1,42 @@
+{
+  "owner": "sakeswap",
+  "updated_at": "2026-03-12T02:55:28Z",
+  "repos": [
+    {
+      "full_name": "Sakeswap/bsc-testnet-blocks",
+      "is_fork": true,
+      "parent": "DynamicSwap/bsc-blocks",
+      "source": "blocklytics/ethereum-blocks",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-11T01:41:18Z"
+    },
+    {
+      "full_name": "Sakeswap/sakeperp-arbitrageur",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 12,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T01:41:20Z"
+    },
+    {
+      "full_name": "Sakeswap/sakeperp-protocol",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-11T01:41:22Z"
+    },
+    {
+      "full_name": "Sakeswap/sakeswap-protocol",
+      "is_fork": true,
+      "parent": "sushi-labs/sushiswap",
+      "source": "sushi-labs/sushiswap",
+      "stars": 32,
+      "language": "Solidity",
+      "last_checked": "2026-03-11T01:41:24Z"
+    }
+  ]
+}

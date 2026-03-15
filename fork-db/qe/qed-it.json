@@ -1,0 +1,474 @@
+{
+  "owner": "qed-it",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "QED-it/SCALE-MAMBA",
+      "is_fork": true,
+      "parent": "KULeuven-COSIC/SCALE-MAMBA",
+      "source": "KULeuven-COSIC/SCALE-MAMBA",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:25:01Z"
+    },
+    {
+      "full_name": "QED-it/ZoKrates",
+      "is_fork": true,
+      "parent": "Zokrates/ZoKrates",
+      "source": "Zokrates/ZoKrates",
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:03Z"
+    },
+    {
+      "full_name": "QED-it/asset_transfers_dev_guide",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:25:05Z"
+    },
+    {
+      "full_name": "QED-it/at_jupyter_demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Jupyter Notebook",
+      "last_checked": "2026-03-10T19:25:07Z"
+    },
+    {
+      "full_name": "QED-it/bitbox-wallet-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:25:09Z"
+    },
+    {
+      "full_name": "QED-it/bulletproofs",
+      "is_fork": true,
+      "parent": "dalek-cryptography/bulletproofs",
+      "source": "dalek-cryptography/bulletproofs",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:11Z"
+    },
+    {
+      "full_name": "QED-it/ethrpc",
+      "is_fork": true,
+      "parent": "onrik/ethrpc",
+      "source": "onrik/ethrpc",
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:25:13Z"
+    },
+    {
+      "full_name": "QED-it/go-jubjub",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:25:15Z"
+    },
+    {
+      "full_name": "QED-it/gofe",
+      "is_fork": true,
+      "parent": "fentec-project/gofe",
+      "source": "fentec-project/gofe",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T19:25:17Z"
+    },
+    {
+      "full_name": "QED-it/goqedit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:25:19Z"
+    },
+    {
+      "full_name": "QED-it/halo2",
+      "is_fork": true,
+      "parent": "zcash/halo2",
+      "source": "zcash/halo2",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:21Z"
+    },
+    {
+      "full_name": "QED-it/halo2_verifiable_encryption",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:23Z"
+    },
+    {
+      "full_name": "QED-it/juby",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:25:25Z"
+    },
+    {
+      "full_name": "QED-it/kotqedit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Kotlin",
+      "last_checked": "2026-03-10T19:25:28Z"
+    },
+    {
+      "full_name": "QED-it/libff",
+      "is_fork": true,
+      "parent": "scipr-lab/libff",
+      "source": "scipr-lab/libff",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:25:30Z"
+    },
+    {
+      "full_name": "QED-it/librustzcash",
+      "is_fork": true,
+      "parent": "zcash/librustzcash",
+      "source": "zcash/librustzcash",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:32Z"
+    },
+    {
+      "full_name": "QED-it/libsnark",
+      "is_fork": true,
+      "parent": "scipr-lab/libsnark",
+      "source": "scipr-lab/libsnark",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:25:34Z"
+    },
+    {
+      "full_name": "QED-it/libsnark-tutorial_forge_proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 17,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:25:36Z"
+    },
+    {
+      "full_name": "QED-it/libsnark_forge_proof",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:25:38Z"
+    },
+    {
+      "full_name": "QED-it/metamask-extension",
+      "is_fork": true,
+      "parent": "MetaMask/metamask-extension",
+      "source": "MetaMask/metamask-extension",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:25:40Z"
+    },
+    {
+      "full_name": "QED-it/mpc",
+      "is_fork": true,
+      "parent": "zcash/mpc",
+      "source": "zcash/mpc",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:42Z"
+    },
+    {
+      "full_name": "QED-it/orchard",
+      "is_fork": true,
+      "parent": "zcash/orchard",
+      "source": "zcash/orchard",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:44Z"
+    },
+    {
+      "full_name": "QED-it/perpetualpowersoftau",
+      "is_fork": true,
+      "parent": "arielgabizon/perpetualpowersoftau",
+      "source": "weijiekoh/perpetualpowersoftau",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:25:46Z"
+    },
+    {
+      "full_name": "QED-it/pyqedit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:25:48Z"
+    },
+    {
+      "full_name": "QED-it/qed_test_cc",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:25:50Z"
+    },
+    {
+      "full_name": "QED-it/r1cs_proto",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T19:25:52Z"
+    },
+    {
+      "full_name": "QED-it/sapling-audit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-10T19:25:54Z"
+    },
+    {
+      "full_name": "QED-it/sapling-crypto",
+      "is_fork": true,
+      "parent": "zcash/sapling-crypto",
+      "source": "zcash/sapling-crypto",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:56Z"
+    },
+    {
+      "full_name": "QED-it/sapling-crypto-internal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:25:58Z"
+    },
+    {
+      "full_name": "QED-it/securities-hackathon",
+      "is_fork": true,
+      "parent": "MLH/mlh-hackathon-boilerplate",
+      "source": "MLH/mlh-hackathon-boilerplate",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T19:26:00Z"
+    },
+    {
+      "full_name": "QED-it/sinsemilla",
+      "is_fork": true,
+      "parent": "zcash/sinsemilla",
+      "source": "zcash/sinsemilla",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:02Z"
+    },
+    {
+      "full_name": "QED-it/telepot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:26:03Z"
+    },
+    {
+      "full_name": "QED-it/tfhe",
+      "is_fork": true,
+      "parent": "tfhe/tfhe",
+      "source": "tfhe/tfhe",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:26:05Z"
+    },
+    {
+      "full_name": "QED-it/wallet-component",
+      "is_fork": true,
+      "parent": "claudio-silva/claude-artifact-runner",
+      "source": "claudio-silva/claude-artifact-runner",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:26:07Z"
+    },
+    {
+      "full_name": "QED-it/web-prover-component",
+      "is_fork": true,
+      "parent": "claudio-silva/claude-artifact-runner",
+      "source": "claudio-silva/claude-artifact-runner",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:26:09Z"
+    },
+    {
+      "full_name": "QED-it/wg-plonkish",
+      "is_fork": true,
+      "parent": "zkpstandard/wg-plonkish",
+      "source": "zkpstandard/wg-plonkish",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T19:26:11Z"
+    },
+    {
+      "full_name": "QED-it/whatsapp-like-component",
+      "is_fork": true,
+      "parent": "claudio-silva/claude-artifact-runner",
+      "source": "claudio-silva/claude-artifact-runner",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:26:13Z"
+    },
+    {
+      "full_name": "QED-it/zcash",
+      "is_fork": true,
+      "parent": "zcash/zcash",
+      "source": "zcash/zcash",
+      "stars": 0,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:26:15Z"
+    },
+    {
+      "full_name": "QED-it/zcash-test-vectors",
+      "is_fork": true,
+      "parent": "zcash/zcash-test-vectors",
+      "source": "zcash/zcash-test-vectors",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:18Z"
+    },
+    {
+      "full_name": "QED-it/zcash-test-vectors-internal",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T19:26:19Z"
+    },
+    {
+      "full_name": "QED-it/zcash_note_encryption",
+      "is_fork": true,
+      "parent": "zcash/zcash_note_encryption",
+      "source": "zcash/zcash_note_encryption",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:22Z"
+    },
+    {
+      "full_name": "QED-it/zcash_tx_tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:24Z"
+    },
+    {
+      "full_name": "QED-it/zebra",
+      "is_fork": true,
+      "parent": "ZcashFoundation/zebra",
+      "source": "ZcashFoundation/zebra",
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:26Z"
+    },
+    {
+      "full_name": "QED-it/zips",
+      "is_fork": true,
+      "parent": "zcash/zips",
+      "source": "zcash/zips",
+      "stars": 1,
+      "language": "TeX",
+      "last_checked": "2026-03-10T19:26:28Z"
+    },
+    {
+      "full_name": "QED-it/zk",
+      "is_fork": true,
+      "parent": "str4d/zk",
+      "source": "str4d/zk",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:30Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 128,
+      "language": "C++",
+      "last_checked": "2026-03-10T19:26:32Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface-bellman",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:34Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface-http",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:36Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface-ir",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:38Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface-wasm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 13,
+      "language": "Rust",
+      "last_checked": "2026-03-10T19:26:40Z"
+    },
+    {
+      "full_name": "QED-it/zkinterface-wasm-demo",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T19:26:42Z"
+    },
+    {
+      "full_name": "QED-it/zkp_backend_interfaces",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:26:44Z"
+    }
+  ]
+}

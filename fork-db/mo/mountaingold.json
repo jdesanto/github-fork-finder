@@ -1,0 +1,42 @@
+{
+  "owner": "mountaingold",
+  "updated_at": "2026-03-12T02:55:25Z",
+  "repos": [
+    {
+      "full_name": "MountainGold/SAMM-Sui-Evaluation",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Move",
+      "last_checked": "2026-03-10T04:31:45Z"
+    },
+    {
+      "full_name": "MountainGold/solana-samm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T04:31:47Z"
+    },
+    {
+      "full_name": "MountainGold/spl-samm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Rust",
+      "last_checked": "2026-03-10T04:31:49Z"
+    },
+    {
+      "full_name": "MountainGold/sui-samm",
+      "is_fork": true,
+      "parent": "MystenLabs/sui",
+      "source": "MystenLabs/sui",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-10T04:31:51Z"
+    }
+  ]
+}

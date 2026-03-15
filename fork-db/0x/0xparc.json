@@ -1,6 +1,6 @@
 {
   "owner": "0xparc",
-  "updated_at": "2026-03-04T03:37:26Z",
+  "updated_at": "2026-03-12T02:55:15Z",
   "repos": [
     {
       "full_name": "0xPARC/blob-e2e-poc",
@@ -19,6 +19,15 @@
       "stars": 14,
       "language": "TypeScript",
       "last_checked": "2025-12-30T06:45:08.833671Z"
+    },
+    {
+      "full_name": "0xPARC/circom-ecdsa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 338,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:02:37Z"
     },
     {
       "full_name": "0xPARC/circom-starter",

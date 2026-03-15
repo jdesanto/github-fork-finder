@@ -1,0 +1,600 @@
+{
+  "owner": "neufund",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Neufund/Delayed-proxy-wallet",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:44:51Z"
+    },
+    {
+      "full_name": "Neufund/EIPs",
+      "is_fork": true,
+      "parent": "ethereum/EIPs",
+      "source": "ethereum/EIPs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:44:53Z"
+    },
+    {
+      "full_name": "Neufund/ESOP",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:44:55Z"
+    },
+    {
+      "full_name": "Neufund/ESOP-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:44:57Z"
+    },
+    {
+      "full_name": "Neufund/Solium",
+      "is_fork": true,
+      "parent": "duaraghav8/Ethlint",
+      "source": "duaraghav8/Ethlint",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:44:59Z"
+    },
+    {
+      "full_name": "Neufund/authentication-client",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:01Z"
+    },
+    {
+      "full_name": "Neufund/authentication-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:03Z"
+    },
+    {
+      "full_name": "Neufund/connexion",
+      "is_fork": true,
+      "parent": "spec-first/connexion",
+      "source": "spec-first/connexion",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:45:05Z"
+    },
+    {
+      "full_name": "Neufund/contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 21,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:07Z"
+    },
+    {
+      "full_name": "Neufund/contracts-private",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:09Z"
+    },
+    {
+      "full_name": "Neufund/cryptotaxtool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 14,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:45:11Z"
+    },
+    {
+      "full_name": "Neufund/dapp-starter-kit",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:13Z"
+    },
+    {
+      "full_name": "Neufund/dapp-starter-kit-old",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:15Z"
+    },
+    {
+      "full_name": "Neufund/devjobs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:45:17Z"
+    },
+    {
+      "full_name": "Neufund/docker-lets-encrypt-proxy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T07:45:19Z"
+    },
+    {
+      "full_name": "Neufund/document-rendering-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:45:21Z"
+    },
+    {
+      "full_name": "Neufund/erc725alliance.github.io",
+      "is_fork": true,
+      "parent": "ERC725Alliance/erc725alliance.github.io",
+      "source": "ERC725Alliance/erc725alliance.github.io",
+      "stars": 0,
+      "language": "HTML",
+      "last_checked": "2026-03-10T07:45:23Z"
+    },
+    {
+      "full_name": "Neufund/esop-ui",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:24Z"
+    },
+    {
+      "full_name": "Neufund/eth-lightwallet",
+      "is_fork": true,
+      "parent": "Consensys/eth-lightwallet",
+      "source": "Consensys/eth-lightwallet",
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:27Z"
+    },
+    {
+      "full_name": "Neufund/generic-ico",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:29Z"
+    },
+    {
+      "full_name": "Neufund/hackathon-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:45:31Z"
+    },
+    {
+      "full_name": "Neufund/ico-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 38,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:33Z"
+    },
+    {
+      "full_name": "Neufund/ico-transparency-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 56,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:35Z"
+    },
+    {
+      "full_name": "Neufund/js-ipfs-api",
+      "is_fork": true,
+      "parent": "ipfs-inactive/js-ipfs-http-client",
+      "source": "ipfs-inactive/js-ipfs-http-client",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:37Z"
+    },
+    {
+      "full_name": "Neufund/jsrp-server-fast",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "CoffeeScript",
+      "last_checked": "2026-03-10T07:45:39Z"
+    },
+    {
+      "full_name": "Neufund/kyc-service",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:45:41Z"
+    },
+    {
+      "full_name": "Neufund/ledger-experiments",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:43Z"
+    },
+    {
+      "full_name": "Neufund/ledger-node-js-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:45:43Z"
+    },
+    {
+      "full_name": "Neufund/ledger-wallet-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 72,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:45Z"
+    },
+    {
+      "full_name": "Neufund/ledgerjs",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledgerjs",
+      "source": "LedgerHQ/ledgerjs",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:47Z"
+    },
+    {
+      "full_name": "Neufund/make-tools",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Makefile",
+      "last_checked": "2026-03-10T07:45:49Z"
+    },
+    {
+      "full_name": "Neufund/mock-eth-trader",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:45:52Z"
+    },
+    {
+      "full_name": "Neufund/mock-neubank",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:54Z"
+    },
+    {
+      "full_name": "Neufund/ms2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:45:56Z"
+    },
+    {
+      "full_name": "Neufund/nano-app-entropy",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:45:58Z"
+    },
+    {
+      "full_name": "Neufund/neufund.github.io",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:00Z"
+    },
+    {
+      "full_name": "Neufund/notary-dapp",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:02Z"
+    },
+    {
+      "full_name": "Neufund/parity",
+      "is_fork": true,
+      "parent": "openethereum/parity-ethereum",
+      "source": "openethereum/parity-ethereum",
+      "stars": 3,
+      "language": "Rust",
+      "last_checked": "2026-03-10T07:46:04Z"
+    },
+    {
+      "full_name": "Neufund/parity-foundation-fork",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-10T07:46:06Z"
+    },
+    {
+      "full_name": "Neufund/parity-instant-seal-byzantium-enabled",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 7,
+      "language": "Dockerfile",
+      "last_checked": "2026-03-10T07:46:08Z"
+    },
+    {
+      "full_name": "Neufund/platform-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 36,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:10Z"
+    },
+    {
+      "full_name": "Neufund/platform-contracts-artifacts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": null,
+      "last_checked": "2026-03-10T07:46:12Z"
+    },
+    {
+      "full_name": "Neufund/platform-frontend",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T07:46:12Z"
+    },
+    {
+      "full_name": "Neufund/private-key-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:46:14Z"
+    },
+    {
+      "full_name": "Neufund/provider-engine",
+      "is_fork": true,
+      "parent": "MetaMask/web3-provider-engine",
+      "source": "MetaMask/web3-provider-engine",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:16Z"
+    },
+    {
+      "full_name": "Neufund/redundant-rpc-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:18Z"
+    },
+    {
+      "full_name": "Neufund/salesforce-connector",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:46:20Z"
+    },
+    {
+      "full_name": "Neufund/server-wallet-provider",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:22Z"
+    },
+    {
+      "full_name": "Neufund/signature-authentication-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:46:24Z"
+    },
+    {
+      "full_name": "Neufund/smart-contract-watch",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 329,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:26Z"
+    },
+    {
+      "full_name": "Neufund/snapshottoken",
+      "is_fork": true,
+      "parent": "Giveth/minime",
+      "source": "Giveth/minime",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:28Z"
+    },
+    {
+      "full_name": "Neufund/solidity-coverage",
+      "is_fork": true,
+      "parent": "sc-forks/solidity-coverage",
+      "source": "sc-forks/solidity-coverage",
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:30Z"
+    },
+    {
+      "full_name": "Neufund/subkey-authentication-server",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:46:32Z"
+    },
+    {
+      "full_name": "Neufund/testrpc",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/ganache-cli-archive",
+      "source": "ConsenSys-archive/ganache-cli-archive",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:34Z"
+    },
+    {
+      "full_name": "Neufund/token-state-relational-mapper",
+      "is_fork": true,
+      "parent": "Exef/token-state-relational-mapper",
+      "source": "Exef/token-state-relational-mapper",
+      "stars": 1,
+      "language": "Python",
+      "last_checked": "2026-03-10T07:46:36Z"
+    },
+    {
+      "full_name": "Neufund/truffle",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle",
+      "source": "ConsenSys-archive/truffle",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:38Z"
+    },
+    {
+      "full_name": "Neufund/truffle-artifactor",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle-artifactor",
+      "source": "ConsenSys-archive/truffle-artifactor",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:40Z"
+    },
+    {
+      "full_name": "Neufund/truffle-contract",
+      "is_fork": true,
+      "parent": "oladotunr/truffle-contract",
+      "source": "oladotunr/truffle-contract",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:42Z"
+    },
+    {
+      "full_name": "Neufund/truffle-core",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle-core",
+      "source": "ConsenSys-archive/truffle-core",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:44Z"
+    },
+    {
+      "full_name": "Neufund/truffle-deployer",
+      "is_fork": true,
+      "parent": "ConsenSys-archive/truffle-deployer",
+      "source": "ConsenSys-archive/truffle-deployer",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:46Z"
+    },
+    {
+      "full_name": "Neufund/truffle-flattener",
+      "is_fork": true,
+      "parent": "NomicFoundation/truffle-flattener",
+      "source": "NomicFoundation/truffle-flattener",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:48Z"
+    },
+    {
+      "full_name": "Neufund/walletconnect-example-dapp",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-example-dapp",
+      "source": "WalletConnect/walletconnect-example-dapp",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:46:50Z"
+    },
+    {
+      "full_name": "Neufund/walletconnect-monorepo",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-monorepo",
+      "source": "WalletConnect/walletconnect-monorepo",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:46:52Z"
+    },
+    {
+      "full_name": "Neufund/walletconnect-test-wallet",
+      "is_fork": true,
+      "parent": "WalletConnect/walletconnect-test-wallet",
+      "source": "WalletConnect/walletconnect-test-wallet",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:46:54Z"
+    },
+    {
+      "full_name": "Neufund/web3-polyfill",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T07:46:56Z"
+    },
+    {
+      "full_name": "Neufund/website-icbm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 8,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T07:46:58Z"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "owner": "pulse-market",
+  "updated_at": "2026-03-12T02:55:27Z",
+  "repos": [
+    {
+      "full_name": "Pulse-Market/app",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T19:09:13Z"
+    },
+    {
+      "full_name": "Pulse-Market/beta",
+      "is_fork": true,
+      "parent": "pedropilla/beta",
+      "source": "pedropilla/beta",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T19:09:15Z"
+    }
+  ]
+}

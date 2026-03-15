@@ -1,0 +1,294 @@
+{
+  "owner": "nodeguardians",
+  "updated_at": "2026-03-12T02:55:26Z",
+  "repos": [
+    {
+      "full_name": "Nodeguardians/berachain-default-lists",
+      "is_fork": true,
+      "parent": "berachain/default-lists",
+      "source": "Uniswap/default-token-list",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:16Z"
+    },
+    {
+      "full_name": "Nodeguardians/celestia-docs",
+      "is_fork": true,
+      "parent": "celestiaorg/docs",
+      "source": "celestiaorg/docs",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:18Z"
+    },
+    {
+      "full_name": "Nodeguardians/celestia-helm-chart",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:03:20Z"
+    },
+    {
+      "full_name": "Nodeguardians/celestia-networks",
+      "is_fork": true,
+      "parent": "celestiaorg/networks",
+      "source": "celestiaorg/networks",
+      "stars": 1,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:03:22Z"
+    },
+    {
+      "full_name": "Nodeguardians/celestia-networks-2",
+      "is_fork": true,
+      "parent": "celestiaorg/networks",
+      "source": "celestiaorg/networks",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:03:24Z"
+    },
+    {
+      "full_name": "Nodeguardians/chainlist",
+      "is_fork": true,
+      "parent": "cosmostation/chainlist",
+      "source": "cosmostation/chainlist",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:03:26Z"
+    },
+    {
+      "full_name": "Nodeguardians/chainlist-2",
+      "is_fork": true,
+      "parent": "cosmostation/chainlist",
+      "source": "cosmostation/chainlist",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:28Z"
+    },
+    {
+      "full_name": "Nodeguardians/dydx-networks",
+      "is_fork": true,
+      "parent": "dydxopsdao/networks",
+      "source": "dydxprotocol/v4-testnets",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:03:30Z"
+    },
+    {
+      "full_name": "Nodeguardians/eigen-da-metada",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:32Z"
+    },
+    {
+      "full_name": "Nodeguardians/eigenda-operator-setup",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigenda-operator-setup",
+      "source": "Layr-Labs/eigenda-operator-setup",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:34Z"
+    },
+    {
+      "full_name": "Nodeguardians/eigendata",
+      "is_fork": true,
+      "parent": "Layr-Labs/eigendata",
+      "source": "Layr-Labs/eigendata",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:36Z"
+    },
+    {
+      "full_name": "Nodeguardians/eth-validator-watcher",
+      "is_fork": true,
+      "parent": "kilnfi/eth-validator-watcher",
+      "source": "kilnfi/eth-validator-watcher",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:39Z"
+    },
+    {
+      "full_name": "Nodeguardians/mainnet-assets",
+      "is_fork": true,
+      "parent": "neutron-org/mainnet-assets",
+      "source": "neutron-org/mainnet-assets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:41Z"
+    },
+    {
+      "full_name": "Nodeguardians/namada-mainnet-genesis",
+      "is_fork": true,
+      "parent": "namada-net/namada-mainnet-genesis",
+      "source": "namada-net/namada-mainnet-genesis",
+      "stars": 0,
+      "language": "Python",
+      "last_checked": "2026-03-10T09:03:43Z"
+    },
+    {
+      "full_name": "Nodeguardians/namada-shielded-expedition",
+      "is_fork": true,
+      "parent": "anoma/namada-shielded-expedition",
+      "source": "anoma/namada-shielded-expedition",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:45Z"
+    },
+    {
+      "full_name": "Nodeguardians/namada-shielded-expedition-2",
+      "is_fork": true,
+      "parent": "anoma/namada-shielded-expedition",
+      "source": "anoma/namada-shielded-expedition",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:47Z"
+    },
+    {
+      "full_name": "Nodeguardians/namada-testnets",
+      "is_fork": true,
+      "parent": "anoma/namada-testnets",
+      "source": "anoma/namada-testnets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:49Z"
+    },
+    {
+      "full_name": "Nodeguardians/namada-testnets-2",
+      "is_fork": true,
+      "parent": "anoma/namada-testnets",
+      "source": "anoma/namada-testnets",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:03:51Z"
+    },
+    {
+      "full_name": "Nodeguardians/networks-kyve",
+      "is_fork": true,
+      "parent": "KYVENetwork/networks",
+      "source": "KYVENetwork/networks",
+      "stars": 1,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:03:53Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-cairo-ctf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T09:03:55Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-cairo-quests-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "Cairo",
+      "last_checked": "2026-03-10T09:03:57Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-frontend-application",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2,
+      "language": "TypeScript",
+      "last_checked": "2026-03-10T09:03:59Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-huff-quests-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:04:01Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-noir-quests-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:04:03Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-questplay",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 66,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:04:05Z"
+    },
+    {
+      "full_name": "Nodeguardians/ng-quests-public",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 11,
+      "language": "Solidity",
+      "last_checked": "2026-03-10T09:04:07Z"
+    },
+    {
+      "full_name": "Nodeguardians/optimism",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-10T09:04:08Z"
+    },
+    {
+      "full_name": "Nodeguardians/rs-signing-tool",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:04:10Z"
+    },
+    {
+      "full_name": "Nodeguardians/summoning-blobstream",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Go",
+      "last_checked": "2026-03-10T09:04:12Z"
+    },
+    {
+      "full_name": "Nodeguardians/super-rotary-phone",
+      "is_fork": true,
+      "parent": "binary-comb/super-rotary-phone",
+      "source": "binary-comb/super-rotary-phone",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:04:14Z"
+    },
+    {
+      "full_name": "Nodeguardians/v4-testnets",
+      "is_fork": true,
+      "parent": "dydxprotocol/v4-testnets",
+      "source": "dydxprotocol/v4-testnets",
+      "stars": 0,
+      "language": "Shell",
+      "last_checked": "2026-03-10T09:04:17Z"
+    },
+    {
+      "full_name": "Nodeguardians/validator-registry",
+      "is_fork": true,
+      "parent": "eco-stake/validator-registry",
+      "source": "eco-stake/validator-registry",
+      "stars": 0,
+      "language": null,
+      "last_checked": "2026-03-10T09:04:19Z"
+    }
+  ]
+}
