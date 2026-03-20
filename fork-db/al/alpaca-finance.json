@@ -1,0 +1,33 @@
+{
+  "owner": "alpaca-finance",
+  "updated_at": "2026-03-12T02:55:16Z",
+  "repos": [
+    {
+      "full_name": "alpaca-finance/alpaca-stablecoin",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 39,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:48:07Z"
+    },
+    {
+      "full_name": "alpaca-finance/bsc-alpaca-contract",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 199,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:48:09Z"
+    },
+    {
+      "full_name": "alpaca-finance/pancakeswap-sdk",
+      "is_fork": true,
+      "parent": "piecesofeightcoin/pancakeswap-sdk",
+      "source": "piecesofeightcoin/pancakeswap-sdk",
+      "stars": 3,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:48:11Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "owner": "viewblock",
+  "updated_at": "2026-03-12T02:55:29Z",
+  "repos": [
+    {
+      "full_name": "ViewBlock/cryptometa",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 315,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:30:34Z"
+    },
+    {
+      "full_name": "ViewBlock/ledger-live",
+      "is_fork": true,
+      "parent": "LedgerHQ/ledger-live",
+      "source": "LedgerHQ/ledger-live",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-12T02:30:36Z"
+    },
+    {
+      "full_name": "ViewBlock/zilliqa-js-viewblock",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:30:38Z"
+    },
+    {
+      "full_name": "ViewBlock/zilswap-webapp",
+      "is_fork": true,
+      "parent": "Switcheo/zilswap-webapp",
+      "source": "Switcheo/zilswap-webapp",
+      "stars": 1,
+      "language": null,
+      "last_checked": "2026-03-12T02:30:40Z"
+    }
+  ]
+}

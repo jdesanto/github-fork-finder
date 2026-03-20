@@ -1,0 +1,51 @@
+{
+  "owner": "anza-xyz",
+  "updated_at": "2026-03-12T02:55:17Z",
+  "repos": [
+    {
+      "full_name": "anza-xyz/agave",
+      "is_fork": true,
+      "parent": "solana-labs/solana",
+      "source": "solana-labs/solana",
+      "stars": 1708,
+      "language": "Rust",
+      "last_checked": "2026-03-12T02:51:52Z"
+    },
+    {
+      "full_name": "anza-xyz/llvm-project",
+      "is_fork": true,
+      "parent": "rust-lang/llvm-project",
+      "source": "llvm/llvm-project",
+      "stars": 34,
+      "language": "LLVM",
+      "last_checked": "2026-03-12T02:51:54Z"
+    },
+    {
+      "full_name": "anza-xyz/octane",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 266,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:51:56Z"
+    },
+    {
+      "full_name": "anza-xyz/wallet-adapter",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1991,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:51:58Z"
+    },
+    {
+      "full_name": "anza-xyz/wallet-standard",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 131,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:52:00Z"
+    }
+  ]
+}

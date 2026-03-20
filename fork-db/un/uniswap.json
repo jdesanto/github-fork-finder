@@ -1,0 +1,402 @@
+{
+  "owner": "uniswap",
+  "updated_at": "2026-03-12T02:55:29Z",
+  "repos": [
+    {
+      "full_name": "Uniswap/api-deprecated",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 91,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:01Z"
+    },
+    {
+      "full_name": "Uniswap/assets",
+      "is_fork": true,
+      "parent": "trustwallet/assets",
+      "source": "trustwallet/assets",
+      "stars": 62,
+      "language": "Go",
+      "last_checked": "2026-03-12T02:28:03Z"
+    },
+    {
+      "full_name": "Uniswap/cloudflare-update-web3-gateway",
+      "is_fork": true,
+      "parent": "textileio/cloudflare-update-dnslink",
+      "source": "textileio/cloudflare-update-dnslink",
+      "stars": 4,
+      "language": "Shell",
+      "last_checked": "2026-03-12T02:28:05Z"
+    },
+    {
+      "full_name": "Uniswap/default-token-list",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 401,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:28:08Z"
+    },
+    {
+      "full_name": "Uniswap/deploy-v3",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 132,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:10Z"
+    },
+    {
+      "full_name": "Uniswap/docs",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 375,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:11Z"
+    },
+    {
+      "full_name": "Uniswap/governance",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 97,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:28:14Z"
+    },
+    {
+      "full_name": "Uniswap/governance-seatbelt",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 123,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:16Z"
+    },
+    {
+      "full_name": "Uniswap/info",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 328,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:28:18Z"
+    },
+    {
+      "full_name": "Uniswap/interface",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5482,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:20Z"
+    },
+    {
+      "full_name": "Uniswap/liquidity-staker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 70,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:22Z"
+    },
+    {
+      "full_name": "Uniswap/merkle-distributor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 623,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:24Z"
+    },
+    {
+      "full_name": "Uniswap/mrkl-drop-data-chunks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:26Z"
+    },
+    {
+      "full_name": "Uniswap/org-v1",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 144,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:28:27Z"
+    },
+    {
+      "full_name": "Uniswap/permit2",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 918,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:28:29Z"
+    },
+    {
+      "full_name": "Uniswap/redux-multicall",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 92,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:31Z"
+    },
+    {
+      "full_name": "Uniswap/router-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:33Z"
+    },
+    {
+      "full_name": "Uniswap/routing-api",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 197,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:35Z"
+    },
+    {
+      "full_name": "Uniswap/sdk-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 135,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:37Z"
+    },
+    {
+      "full_name": "Uniswap/sdks",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 124,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:39Z"
+    },
+    {
+      "full_name": "Uniswap/smart-order-router",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 507,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:41Z"
+    },
+    {
+      "full_name": "Uniswap/solidity-lib",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 160,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:43Z"
+    },
+    {
+      "full_name": "Uniswap/swap-router-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 145,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:46Z"
+    },
+    {
+      "full_name": "Uniswap/token-lists",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1674,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:48Z"
+    },
+    {
+      "full_name": "Uniswap/tokenlists-org",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 278,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:28:50Z"
+    },
+    {
+      "full_name": "Uniswap/uniswap-first-contract-example",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 37,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:28:52Z"
+    },
+    {
+      "full_name": "Uniswap/universal-router",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 497,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:53Z"
+    },
+    {
+      "full_name": "Uniswap/universal-router-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 80,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:55Z"
+    },
+    {
+      "full_name": "Uniswap/v1-contracts",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 529,
+      "language": "Python",
+      "last_checked": "2026-03-12T02:28:57Z"
+    },
+    {
+      "full_name": "Uniswap/v2-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 3312,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:28:59Z"
+    },
+    {
+      "full_name": "Uniswap/v2-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1254,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:29:01Z"
+    },
+    {
+      "full_name": "Uniswap/v2-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 436,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:03Z"
+    },
+    {
+      "full_name": "Uniswap/v2-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 438,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:05Z"
+    },
+    {
+      "full_name": "Uniswap/v3-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 4964,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:07Z"
+    },
+    {
+      "full_name": "Uniswap/v3-info",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 386,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:09Z"
+    },
+    {
+      "full_name": "Uniswap/v3-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 1309,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:11Z"
+    },
+    {
+      "full_name": "Uniswap/v3-sdk",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 571,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:13Z"
+    },
+    {
+      "full_name": "Uniswap/v3-staker",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 379,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:15Z"
+    },
+    {
+      "full_name": "Uniswap/v3-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 375,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:17Z"
+    },
+    {
+      "full_name": "Uniswap/v4-core",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 2462,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:29:19Z"
+    },
+    {
+      "full_name": "Uniswap/v4-periphery",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 872,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:29:21Z"
+    },
+    {
+      "full_name": "Uniswap/v4-subgraph",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 35,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:23Z"
+    },
+    {
+      "full_name": "Uniswap/web3-react",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 5692,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:25Z"
+    },
+    {
+      "full_name": "Uniswap/widgets",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 140,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:29:27Z"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "owner": "zelcore-io",
+  "updated_at": "2026-03-12T02:55:29Z",
+  "repos": [
+    {
+      "full_name": "ZelCore-io/Zelcore",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 32,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:36:21Z"
+    },
+    {
+      "full_name": "ZelCore-io/bitcoinjs-message",
+      "is_fork": true,
+      "parent": "bitcoinjs/bitcoinjs-message",
+      "source": "bitcoinjs/bitcoinjs-message",
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:36:23Z"
+    },
+    {
+      "full_name": "ZelCore-io/bitgo-utxo-lib",
+      "is_fork": true,
+      "parent": "TheTrunk/bitgo-utxo-lib",
+      "source": "BitGo/bitgo-utxo-lib",
+      "stars": 3,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:36:25Z"
+    },
+    {
+      "full_name": "ZelCore-io/holder-snapshot",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:36:27Z"
+    },
+    {
+      "full_name": "ZelCore-io/rates-api",
+      "is_fork": true,
+      "parent": "TheTrunk/rates-api",
+      "source": "TheTrunk/rates-api",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:36:30Z"
+    },
+    {
+      "full_name": "ZelCore-io/service-monitor",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "JavaScript",
+      "last_checked": "2026-03-12T02:36:31Z"
+    }
+  ]
+}

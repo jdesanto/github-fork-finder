@@ -1,0 +1,51 @@
+{
+  "owner": "amdese",
+  "updated_at": "2026-03-12T02:55:16Z",
+  "repos": [
+    {
+      "full_name": "AMDESE/AMDSEV",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 362,
+      "language": "Shell",
+      "last_checked": "2026-03-11T16:03:38Z"
+    },
+    {
+      "full_name": "AMDESE/linux",
+      "is_fork": true,
+      "parent": "torvalds/linux",
+      "source": "torvalds/linux",
+      "stars": 32,
+      "language": "C",
+      "last_checked": "2026-03-11T16:03:40Z"
+    },
+    {
+      "full_name": "AMDESE/ovmf",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 9,
+      "language": "C",
+      "last_checked": "2026-03-11T16:03:42Z"
+    },
+    {
+      "full_name": "AMDESE/qemu",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 23,
+      "language": "C",
+      "last_checked": "2026-03-11T16:03:44Z"
+    },
+    {
+      "full_name": "AMDESE/sev-guest",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 58,
+      "language": "C",
+      "last_checked": "2026-03-11T16:03:46Z"
+    }
+  ]
+}

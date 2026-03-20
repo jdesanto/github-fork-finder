@@ -1,0 +1,33 @@
+{
+  "owner": "araviel-io",
+  "updated_at": "2026-03-12T02:55:17Z",
+  "repos": [
+    {
+      "full_name": "araviel-io/oyster-swap",
+      "is_fork": true,
+      "parent": "project-serum/oyster-swap",
+      "source": "solana-labs/oyster-swap",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:54:41Z"
+    },
+    {
+      "full_name": "araviel-io/safe-wallet-adapter",
+      "is_fork": true,
+      "parent": "project-serum/sol-wallet-adapter",
+      "source": "project-serum/sol-wallet-adapter",
+      "stars": 1,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:54:43Z"
+    },
+    {
+      "full_name": "araviel-io/safestake",
+      "is_fork": true,
+      "parent": "rooware-io/solstake",
+      "source": "rooware-io/solstake",
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-12T02:54:45Z"
+    }
+  ]
+}

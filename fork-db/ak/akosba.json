@@ -1,0 +1,33 @@
+{
+  "owner": "akosba",
+  "updated_at": "2026-03-12T02:55:16Z",
+  "repos": [
+    {
+      "full_name": "akosba/jsnark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 215,
+      "language": "Java",
+      "last_checked": "2026-03-12T02:44:43Z"
+    },
+    {
+      "full_name": "akosba/libsnark",
+      "is_fork": true,
+      "parent": "scipr-lab/libsnark",
+      "source": "scipr-lab/libsnark",
+      "stars": 11,
+      "language": "C++",
+      "last_checked": "2026-03-12T02:44:45Z"
+    },
+    {
+      "full_name": "akosba/xjsnark",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 193,
+      "language": "JetBrains MPS",
+      "last_checked": "2026-03-12T02:44:47Z"
+    }
+  ]
+}

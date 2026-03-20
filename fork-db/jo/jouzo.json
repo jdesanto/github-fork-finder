@@ -1,0 +1,24 @@
+{
+  "owner": "jouzo",
+  "updated_at": "2026-03-12T02:55:23Z",
+  "repos": [
+    {
+      "full_name": "Jouzo/metachain-ts-tests",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "TypeScript",
+      "last_checked": "2026-03-11T16:14:12Z"
+    },
+    {
+      "full_name": "Jouzo/vsdb",
+      "is_fork": true,
+      "parent": "rust-util-collections/vsdb",
+      "source": "rust-util-collections/vsdb",
+      "stars": 0,
+      "language": "Rust",
+      "last_checked": "2026-03-11T16:14:14Z"
+    }
+  ]
+}

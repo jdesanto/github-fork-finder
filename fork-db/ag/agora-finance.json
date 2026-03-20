@@ -1,0 +1,24 @@
+{
+  "owner": "agora-finance",
+  "updated_at": "2026-03-12T02:55:16Z",
+  "repos": [
+    {
+      "full_name": "agora-finance/agora-dollar-access-control-evm",
+      "is_fork": false,
+      "parent": null,
+      "source": null,
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:42:44Z"
+    },
+    {
+      "full_name": "agora-finance/agora-dollar-evm-rc",
+      "is_fork": true,
+      "parent": "agora-finance/agora-dollar-evm",
+      "source": "agora-finance/agora-dollar-evm",
+      "stars": 0,
+      "language": "Solidity",
+      "last_checked": "2026-03-12T02:42:46Z"
+    }
+  ]
+}
